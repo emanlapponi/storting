@@ -1,0 +1,1 @@
+wget -r --refer=http://google.com --user-agent="Mozilla/5.0 Firefox/4.0.1" --no-parent --wait=$1 --random-wait --limit-rate=512k $2 
