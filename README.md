@@ -49,3 +49,9 @@ Most importantly: each speaker starts with this comment / name / party string:
     </p><p class="ref-uinnrykk"><a id="a3.2" class="ref-innlegg-navn"><!-- TALERINITIALER="TROH", TALETIDSPUNKT="10:56:33" -->Trond Helleland (H) [10:56:33]:</a> Jeg brukte ganske store deler av mitt innlegg på å forklare nettopp det, men jeg kan godt gjenta det.
 
 a non-deterministic number of paragraphs follows, until the next speaker comes in with the same string.
+
+## Current test call:
+
+    python scripts/cleanup.py stortinget data/www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2007-2008/080616/2/ > test.log
+
+    
