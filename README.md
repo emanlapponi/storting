@@ -11,7 +11,8 @@ accessible data on www.stortinget.no.
 
 [2016:03:22]
 The cleanup script is looking good now! See example output for the current test call under
-    data/processed
+    
+    data/processed/
 
 [2016:03:17] 
 I've done some initial testing with possibly bonkers extraction 
