@@ -3,7 +3,15 @@
 This is a repo for work-in-progress pre-processing of the freely 
 accessible data on www.stortinget.no.
 
+## Current test call:
+
+    rm -rf data/processed/ ; python scripts/cleanup.py stortinget data/www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2007-2008/080616/2/
+
 ## Status
+
+[2016:03:22]
+The cleanup script is looking good now! See example output for the current test call under
+    data/processed
 
 [2016:03:17] 
 I've done some initial testing with possibly bonkers extraction 
@@ -50,8 +58,5 @@ Most importantly: each speaker starts with this comment / name / party string:
 
 a non-deterministic number of paragraphs follows, until the next speaker comes in with the same string.
 
-## Current test call:
-
-    python scripts/cleanup.py stortinget data/www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2007-2008/080616/2/ > test.log
 
     
