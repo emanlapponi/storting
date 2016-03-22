@@ -14,7 +14,7 @@ MINISTER_RE = re.compile("Statsr.d .+ \[.+\]", re.UNICODE)
 def ensure_dir(d):
     if not os.path.exists(d):
         os.makedirs(d)
-        print "[ WRITE ] created directory %s" % (d.encode('utf8'))
+        print "[ WRITING ] created directory %s" % (d.encode('utf8'))
 
 def safewrite(d, f, data):
     aw = 'w'
@@ -24,9 +24,9 @@ def safewrite(d, f, data):
         with codecs.open(os.path.join(d, "%s.txt" % (f)), aw, 'utf8') as out:
             out.write(data + '\n\n')
         log_str = 'updated' if aw == 'a' else 'created'
-        print "[ WRITE ] %s file:" % (log_str), d.encode('utf8'), f
+        print "[ WRITING ] %s file:" % (log_str), d.encode('utf8'), f + '.txt'
     except IOError as e:
-        print "[ WRITE ] Got IOError: %s" % (e)
+        print "[ WRITING ] Got IOError: %s" % (e)
 
 def parse_stortinget_speaker(s):
     name, party, timestamp = ('', '', '')
@@ -101,7 +101,7 @@ def stortinget(top_level_dir):
         for f in filenames:
             parser = StortingetParser(top_level_dir.split('/')[8])
             file_path =  os.path.join(root, f)
-            print "file absolute path: ", file_path
+            print "[ STARTING ] file path: ", file_path
             parser.feed(codecs.open(file_path, 'r', 'utf8').read())
 
 if __name__ == '__main__':
