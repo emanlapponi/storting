@@ -71,7 +71,7 @@ class StortingetParser(HTMLParser):
 
     def handle_data(self, data):
         if self.collecting_flag:
-            print "[ PARSING ]\tWORDS:", data.encode('utf8')
+            print "[ PARSING ]\tTEXT:", data.encode('utf8')
             ensure_dir("data/processed/%s" % (self.party))
             ensure_dir("data/processed/%s/%s" % (self.party, 
                                                  self.speaker))
@@ -109,9 +109,6 @@ if __name__ == '__main__':
     if len(sys.argv) < 3:
         print man
         sys.exit()
-    if sys.argv[1] != 'stortinget' or sys.argv[1] != 'horinger':
-        print man
-        sys.exit
     if sys.argv[1] == 'stortinget':
         stortinget(sys.argv[2])
     else:
