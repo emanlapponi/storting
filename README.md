@@ -5,7 +5,7 @@ accessible data on www.stortinget.no.
 
 ## Current test call:
 
-    rm -rf data/processed/ ; python scripts/cleanup.py stortinget data/www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2007-2008/080616/2/
+    rm -rf data/processed/ ; python scripts/cleanup.py stortinget data/stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2007-2008/080616/2/
 
 ## Status
 

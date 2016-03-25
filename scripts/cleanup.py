@@ -8,8 +8,10 @@ from HTMLParser import HTMLParser
 
 
 RUBBISH = ['script', 'meta']
-NAME_PARTY_RE = re.compile(".+\(.+\) \[.+\]", re.UNICODE)
-MINISTER_RE = re.compile("Statsr.d .+ \[.+\]", re.UNICODE)
+NAME_PARTY_RE_TS = re.compile(".+\(.+\) \[.+\]", re.UNICODE)
+MINISTER_RE_TS = re.compile("Statsr.d .+ \[.+\]", re.UNICODE)
+NAME_PARTY_RE = re.compile(".+\(.+\)", re.UNICODE)
+MINISTER_RE = re.compile("Statsr.d .+", re.UNICODE)
 
 def ensure_dir(d):
     if not os.path.exists(d):
@@ -29,7 +31,7 @@ def safewrite(d, f, data):
         print "[ WRITING ] Got IOError: %s" % (e)
 
 def parse_stortinget_speaker(s):
-    name, party, timestamp = ('', '', '')
+    name, party, timestamp = ('', '', '99_99_99')
     try:
         if re.search(NAME_PARTY_RE, s):
             name = '_'.join(s.split('(')[0].split()).lower().strip()
@@ -37,7 +39,8 @@ def parse_stortinget_speaker(s):
         if re.search(MINISTER_RE, s):
             name = '_'.join(s.split()[1:-1]).lower().strip()
             party = 'statsrad'
-        timestamp = '_'.join(s.split('[')[1].split(']')[0].split(':'))
+        if re.search(MINISTER_RE_TS, s) or re.search(NAME_PARTY_RE_TS, s):
+            timestamp = '_'.join(s.split('[')[1].split(']')[0].split(':'))
         return (name, party, timestamp)
     except Exception as e:
         print '[ PARSING ] Error:', e
@@ -72,9 +75,9 @@ class StortingetParser(HTMLParser):
     def handle_data(self, data):
         if self.collecting_flag:
             print "[ PARSING ]\tTEXT:", data.encode('utf8')
-            ensure_dir("data/processed/%s" % (self.party))
-            ensure_dir("data/processed/%s/%s" % (self.party, 
-                                                 self.speaker))
+            #ensure_dir("data/processed/%s" % (self.party))
+            #ensure_dir("data/processed/%s/%s" % (self.party, 
+            #                                     self.speaker))
             ensure_dir("data/processed/%s/%s/%s" % (self.party, 
                                                     self.speaker, 
                                                     self.day))
