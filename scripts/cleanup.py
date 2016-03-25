@@ -9,9 +9,12 @@ from HTMLParser import HTMLParser
 
 RUBBISH = ['script', 'meta']
 NAME_PARTY_RE_TS = re.compile(".+\(.+\) \[.+\]", re.UNICODE)
-MINISTER_RE_TS = re.compile("Statsr.d .+ \[.+\]", re.UNICODE)
+STATSRAD_RE_TS = re.compile("Statsr.d .+ \[.+\]", re.UNICODE)
+MINISTER_RE_TS = re.compile(".+inister .+ \[.+\]", re.UNICODE)
 NAME_PARTY_RE = re.compile(".+\(.+\)", re.UNICODE)
-MINISTER_RE = re.compile("Statsr.d .+", re.UNICODE)
+STATSRAD_RE = re.compile("Statsr.d .+", re.UNICODE)
+MINISTER_RE = re.compile(".+inister .+", re.UNICODE)
+
 
 def ensure_dir(d):
     if not os.path.exists(d):
@@ -31,15 +34,18 @@ def safewrite(d, f, data):
         print "[ WRITING ] Got IOError: %s" % (e)
 
 def parse_stortinget_speaker(s):
-    name, party, timestamp = ('', '', '99_99_99')
+    name, party, timestamp = ('unknown', 'unknown', '99_99_99')
     try:
         if re.search(NAME_PARTY_RE, s):
             name = '_'.join(s.split('(')[0].split()).lower().strip()
             party = s.split('(')[1].split(')')[0].lower().strip()
-        if re.search(MINISTER_RE, s):
+        if re.search(STATSRAD_RE, s):
             name = '_'.join(s.split()[1:-1]).lower().strip()
             party = 'statsrad'
-        if re.search(MINISTER_RE_TS, s) or re.search(NAME_PARTY_RE_TS, s):
+        if re.search(MINISTER_RE, s):
+            name = '_'.join(s.split()[1:-1]).lower().strip()
+            party = s.split()[0].lower().strip()
+        if re.search(STATSRAD_RE_TS, s) or re.search(NAME_PARTY_RE_TS, s):
             timestamp = '_'.join(s.split('[')[1].split(']')[0].split(':'))
         return (name, party, timestamp)
     except Exception as e:
@@ -50,6 +56,7 @@ def parse_stortinget_speaker(s):
 class StortingetParser(HTMLParser):
     def __init__(self, day):
         HTMLParser.__init__(self)
+        self.work = False
         self.day = day
         self.speaker_flag = False
         self.collecting_flag = False
@@ -72,29 +79,33 @@ class StortingetParser(HTMLParser):
         else:
             self.speaker_flag = False
 
+    def handle_comment(self, data):
+        if data.strip() == 'INNHOLD':
+            self.work = True
+        elif data.strip() == '/INNHOLD':
+            self.work = False
+
     def handle_data(self, data):
-        if self.collecting_flag:
-            print "[ PARSING ]\tTEXT:", data.encode('utf8')
-            #ensure_dir("data/processed/%s" % (self.party))
-            #ensure_dir("data/processed/%s/%s" % (self.party, 
-            #                                     self.speaker))
-            ensure_dir("data/processed/%s/%s/%s" % (self.party, 
-                                                    self.speaker, 
-                                                    self.day))
-            safewrite("data/processed/%s/%s/%s" % (self.party,
-                                                   self.speaker,
-                                                   self.day),
-                      self.timestamp,
-                      data)
-        if self.speaker_flag:
-            self.collecting_flag = True
-            if self.speaker != 'presidenten':
-                print "[ PARSING ] SPEAKER DATA:", data.encode('utf8')
-                self.speaker_flag = False
-                self.speaker, self.party, self.timestamp = parse_stortinget_speaker(data)
-                print '[ PARSING ] SPEAKER:', self.speaker.encode('utf8')
-                print '[ PARSING ] PARTY:', self.party.encode('utf8')
-                print '[ PARSING ] TIMESTAMP', self.timestamp.encode('utf8')
+        if self.work:
+            if self.collecting_flag:
+                print "[ PARSING ]\tTEXT:", data.encode('utf8')
+                ensure_dir("data/processed/%s/%s/%s" % (self.party, 
+                                                        self.speaker, 
+                                                        self.day))
+                safewrite("data/processed/%s/%s/%s" % (self.party,
+                                                       self.speaker,
+                                                       self.day),
+                          self.timestamp,
+                          data)
+            if self.speaker_flag:
+                self.collecting_flag = True
+                if self.speaker != 'presidenten':
+                    print "[ PARSING ] SPEAKER DATA:", data.encode('utf8')
+                    self.speaker_flag = False
+                    self.speaker, self.party, self.timestamp = parse_stortinget_speaker(data)
+                    print '[ PARSING ] SPEAKER:', self.speaker.encode('utf8')
+                    print '[ PARSING ] PARTY:', self.party.encode('utf8')
+                    print '[ PARSING ] TIMESTAMP', self.timestamp.encode('utf8')
 
 def horinger(top_level_dir):
     raise NotImplementedError()
