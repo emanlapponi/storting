@@ -1,0 +1,7010 @@
+  Det blir noen endringer i den oppsatte spørsmålslisten,
+
+og presidenten viser i den sammenheng til den oversikt som er omdelt
+
+på representantenes plasser i salen.
+
+De foreslåtte endringer i dagens spørretime
+
+foreslås godkjent. – Det anses bifalt.
+
+Endringene var som følger:
+
+Spørsmål 1, fra representanten
+
+Unn Aarrestad til kulturministeren, vil bli tatt opp av representanten
+
+Marit Tingelstad.
+
+Spørsmål 3, fra representanten
+
+Grete Knudsen til nærings- og handelsministeren, må utsettes
+
+til neste spørretime, da statsråden er bortreist.
+
+Spørsmål 4, fra representanten
+
+Signe Øye til nærings- og handelsministeren, vil bli besvart
+
+av justisministeren på vegne av nærings- og handelsministeren,
+
+som er bortreist.
+
+Spørsmål 27, fra representanten
+
+Jan Johnsen til miljøvernministeren, vil bli besvart av
+
+kommunal- og regionalministeren som rette vedkommende.
+
+
+
+
+
+                    
+                    
+
+
+
+
+
+
+
+
+        
+
+Spørsmål 1 
+
+
+    
+        
+
+Spørsmål 2
+
+
+    
+        
+
+Spørsmål 3
+
+
+    
+        
+
+Spørsmål 4
+
+
+    
+        
+
+Spørsmål 5
+
+
+    
+        
+
+Spørsmål 6 
+
+
+    
+        
+
+Spørsmål 7 
+
+
+    
+        
+
+Spørsmål 8
+
+
+    
+        
+
+Spørsmål 9
+
+
+    
+        
+
+Spørsmål 10
+
+
+    
+        
+
+Spørsmål 11
+
+
+    
+        
+
+Spørsmål 12
+
+
+    
+        
+
+Spørsmål 13
+
+
+    
+        
+
+Spørsmål 14
+
+
+    
+        
+
+Spørsmål 15
+
+
+    
+        
+
+Spørsmål 16
+
+
+    
+        
+
+Spørsmål 17
+
+
+    
+        
+
+Spørsmål 18
+
+
+    
+        
+
+Spørsmål 19
+
+
+    
+        
+
+Spørsmål 20
+
+
+    
+        
+
+Spørsmål 21
+
+
+    
+        
+
+Spørsmål 22
+
+
+    
+        
+
+Spørsmål 23 
+
+
+    
+        
+
+Spørsmål 24
+
+
+    
+        
+
+Spørsmål 25
+
+
+    
+        
+
+Spørsmål 26
+
+
+    
+        
+
+Spørsmål 27
+
+
+    
+        
+
+Spørsmål 28
+
+
+    
+        
+
+Spørsmål 29 
+
+
+    
+        
+
+Spørsmål 30
+
+
+    
+
+
+
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Dette spørsmålet,
+
+fra representanten Signe Øye til nærings- og handelsministeren,
+
+vil bli besvart av justisministeren på vegne av nærings-
+
+og handelsministeren.
+
+  Jeg vil tillate meg å stille følgende spørsmål
+
+til justisministeren:
+
+«Etter at Askim Gummitekniske Industri
+
+AS gikk konkurs i mars 1999 har det vært jobbet for å redde
+
+gummiblanderiet, som har vært en lønnsom del av
+
+bedriften. Lokale investorer har bydd 2 mill. kroner for maskinene
+
+slik at gummiblanderiet kan drives videre. SND, som har pant i maskinene,
+
+har ikke villet selge for under 2,5 mill. kroner. Vil statsråden
+
+foreta seg noe for at gummiblanderiet i    Askim med 12-15 arbeidsplasser
+
+kan drives videre?»
+
+  Som panthaver i et konkursbo skal SND søke å oppnå best
+
+mulige nærings- og distriktsmessige løsninger,
+
+samtidig som de skal sikre de verdiene som ligger i pantet. 
+
+SNDs panterett i Askim Gummitekniske Industris konkursbo
+
+omfatter bl.a. et gummiblanderi. Dette blanderiet ble etter verdivurdering
+
+av takstmann budt ut for salg for 3,5 mill. kr.
+
+Et Askim-basert selskap, Investor Finans AS, la inn to bud på blanderiet,
+
+hvorav det høyeste budet var på 2 mill. kr. 
+
+Ut fra et ønske om å få til
+
+en løsning med fortsatt drift av blanderiet i Askim senket
+
+SND sitt priskrav til 2,25 mill. kr. Dette tilbudet
+
+ble ikke akseptert av Investor Finans AS. Investor Finans AS trakk
+
+deretter begge sine bud på blanderiet. SND sendte den 26.
+
+mars 1999 Investor Finans AS et nytt bud på blanderiet.
+
+Priskravet var nå 2 mill. kr under forutsetning
+
+om kontant oppgjør. Heller ikke dette tilbudet ble akseptert
+
+av Investor Finans AS.
+
+SND arbeider for tiden med å finne
+
+nye interessenter til blanderiet. SND ser helst at det skal være
+
+mulig å få til en løsning med en interessent
+
+som har planer om videre drift i Askim.
+
+Når det gjelder næringsministerens
+
+rolle i saker av denne art, har det helt siden opprettelsen av SND
+
+vært lagt til grunn at SND-styrets myndighet ikke skal
+
+begrenses ved at departementet eller Regjeringen påvirker
+
+eller treffer avgjørelser i enkeltsaker.
+
+Jeg har tillit til at SND i denne saken vil
+
+finne en løsning som best mulig ivaretar de ulike interessene.
+
+  Jeg takker statsråden for svaret.
+
+Det er gode nyheter at SND fortsatt jobber
+
+med å finne nye interessenter. Da Askim Gummitekniske Industri gikk
+
+konkurs i mars, var det viktig å redde den lønnsomme
+
+delen, og de har jobbet ganske intenst med dette i tiden etter mars,
+
+fordi stans i produksjonen medfører tap av kunder. SNDs
+
+representant har uttalt at det som teller for SND, er å få en
+
+høyest mulig pris for maskinene. Dermed virker det som
+
+om det ikke betyr noe om kjøperen har til hensikt å drive
+
+gummiblanderiet videre, eller om bl.a. maskinene selges til utlandet.
+
+Jeg synes at SNDs rolle i denne saken har vært ganske passiv,
+
+for det dreier seg om små summer for å få til
+
+en løsning. Synes justisministeren at SND har levd opp
+
+til navnet Statens nærings- og distriktsutviklingsfond
+
+i denne saken?
+
+  Jeg er ikke næringsminister, men
+
+jeg får bruke mine allmennkunnskaper og si som følger:
+
+Når noe er verdt 3,5 mill. kr, og en
+
+mottar et bud på 2 mill. kr, og en er
+
+villig til å komme det budet i møte mot kontant
+
+oppgjør, synes jeg at en både har vært praktisk
+
+og økonomisk ganske fornuftig. Jeg kan ikke oppfatte det
+
+som har vært gjort i denne saken, annerledes enn at SND,
+
+i skjæringspunktet mellom å få mest mulig igjen
+
+for verdiene og samtidig finne en løsning, har strukket
+
+seg langt. Når det da viser seg at det at man tar folk
+
+på ordet på et bud på 2 mill. kr,
+
+ikke holder, og en fortsetter å jobbe, må jeg
+
+si at en ikke bare er praktisk. Da er en også utholdende,
+
+og det bekrefter at den tillit som næringsministeren har
+
+til SND, er en tillit som de er verdig.
+
+  Det er klart at det ikke er så enkelt
+
+for justisministeren å være i næringsministerens
+
+sted. 
+
+Men jeg har et tilleggsspørsmål
+
+som gjelder beredskapslageret for gummi her i landet. Askim Gummitekniske
+
+har vært beredskapslager tidligere. Dersom det er slik
+
+at denne bedriften ikke kan fortsette, vil vi ikke ha noe slikt
+
+beredskapslager. Da drister jeg meg likevel til å spørre:
+
+Mener Regjeringen nå at det ikke lenger er nødvendig å ha
+
+et slikt beredskapslager for gummi her i landet?
+
+  Jeg antar at de som har ansvar for beredskap,
+
+alltid vurderer det. Til syvende og sist ligger også noe
+
+av det ansvaret hos meg, men ikke alt. Jeg skal selvfølgelig
+
+ta med meg spørsmålet om beredskapslageret, som
+
+jeg ikke kan svare på på stående fot,
+
+og jeg skal også sørge for at en oversikt over
+
+situasjonen for beredskapslageret blir sendt representanten. 
+
+Men jeg må få lov til å gjenta
+
+at det framkommer i mitt svar at det faktisk er gitt et bedre bud
+
+fra SND enn det spørreren har tatt med seg. Det framkommer
+
+at når man gir et bud overfor interessenter som er på linje
+
+med det interessentene tilbyr, er det ikke godt nok. Jeg må si at
+
+da er det bra at SND faktisk ikke gir opp, men fortsetter å jobbe
+
+for å finne en praktisk løsning. 
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ Dette spørsmålet,
+
+fra representanten Unn Aarrestad til kulturministeren, vil bli tatt
+
+opp av representanten Marit Tingelstad.
+
+ Jeg skal få stille følgende spørsmål
+
+til kulturministeren:
+
+«I Aftenposten 23. februar 1999 står
+
+det at idretts- og ungdomsleiarar må bruka mykje tid og
+
+energi på byråkrati i tilknyting til lag og organisasjonar. Mange
+
+foreldre ynskjer også å engasjera seg, men ikkje
+
+med å fylla ut skjema.
+
+Kva vil statsråden gjera for å redusera
+
+skjemaveldet som frivillige organisasjonar nå opplever?»
+
+  Representanten Tingelstad retter i sitt spørsmål
+
+søkelyset mot frivillig virksomhet på grasrotnivå.
+
+Det er slik at statlige støtteordninger i liten utstrekning
+
+er innrettet mot lokalnivået, og at staten tradisjonelt
+
+har forholdt seg til sentrale paraplyorganisasjoner. Lokale lag
+
+og foreninger mottar i første rekke tilskudd gjennom egne
+
+overordnede ledd, kommuner og fylkeskommuner.
+
+Representanten Tingelstad viser til en artikkel
+
+i Aftenposten 23. februar 1999. I artikkelen refereres det til en uttalelse
+
+fra en av ildsjelene i Telemark Alpin. I artikkelen heter det:
+
+«I dag
+
+må trenere og ledere omtrent være advokater for å håndtere
+
+papirmøllen. Idretten vil tape hvis ikke det byråkratiske
+
+systemet forenkles. Mange foreldre ønsker å engasjere
+
+seg, men ikke ved å fylle ut skjemaer.»
+
+Kulturdepartementet stiller ikke spesifikke
+
+krav om rapportering fra, og kontroll av, lagsnivået i
+
+norsk idrett gjennom overføringene av rammetilskudd til
+
+Norges Idrettsforbund og Olympiske komite. Departementet forutsetter
+
+at rammetilskuddet blir brukt til å realisere offentlige
+
+idrettsmål og bidra til at «Idrett for alle» blir
+
+en realitet.
+
+Den frivillige organiserte idretten fremstår
+
+ikke like enhetlig som tidligere. Det er en kjensgjerning at noen lag
+
+og foreninger driver næringsvirksomhet, og at forretningsbaserte
+
+eier- og driftsformer er etablert innen idretten. Det er heller
+
+ikke uvanlig at idrettslag har egne ansatte og årlig omsetter
+
+for store beløp. Når lokale lag og foreninger
+
+velger en slik innretning, vil dette nødvendigvis medføre
+
+et utvidet og annet ansvar enn tidligere. I slike tilfeller vil
+
+lokale lag og foreninger måtte forholde seg til de krav
+
+som offentlige myndigheter stiller andre arbeidsgivere, samt lover
+
+og retningslinjer som bl.a. regulerer skatte- og avgiftsforhold.
+
+Det er innenfor ovennevnte områder
+
+vedtatt spesielle lettelser for frivillige sammenslutninger. Blant
+
+annet er grensen for registreringsplikt satt til 140 000
+
+kr i omsetning og uttak, mot 30 000 kr for næringsdrivende.
+
+Etter bestemte regler er det anledning til å splitte opp
+
+en organisasjon i selvstendige undergrupper med virkning for merverdiavgiften.
+
+Det er også gitt spesielle regler for næringsdrivende
+
+som yter tjenester vederlagsfritt til ideelle organisasjoner. Et
+
+annet eksempel er at frivillige sammenslutninger ikke skal beregne
+
+merverdiavgift av billettinntekter, vanlige medlems- og startkontingenter,
+
+offentlige tilskudd, lotteriinntekter, bingoinntekter, gaver osv.
+
+Staten har derfor gjort flere grep med sikte på å redusere
+
+skjemaveldet for lag og foreninger på lokalt nivå.
+
+Avslutningsvis vil jeg få benytte
+
+anledningen til å peke på at Regjeringen gjennom
+
+St.meld. nr. 44 for 1997-1998 har fremmet forslag for å bedre
+
+rammebetingelsene for frivillige organisasjoners medlemsbaserte virke.
+
+Det er dette arbeidet som er fundamentet i organisasjonenes lokalforeninger.
+
+Regjeringens forslag vil komme lokale lag og foreninger til gode.
+
+Det er i den forbindelse gjort til et selvstendig poeng at det ikke
+
+bør etableres kontrollordninger som kan føre til
+
+at frivillige organisasjoner tvinges til å endre sin struktur
+
+eller sin grunnleggende tenkemåte.
+
+  Jeg takker statsråden for det fyldige
+
+svaret, som bl.a. viser til norsk idrettsbevegelses flerfoldighet – fra
+
+de små klubbene til de store, mer forretningsmessig drevne.
+
+Det må naturligvis være noe ulike regler for disse,
+
+det skjønner jeg. Jeg merker meg at det er gjort en del
+
+viktige endringer, og at departementet ikke stiller spesifikke krav
+
+til rammetilskuddene til hovedorganisasjonene, men forutsetter at
+
+midlene blir brukt til idrett for alle.
+
+Mener statsråden at det omtalte skjemaveldet,
+
+som foreldre og andre frivillige misliker sterkt, i hovedsak skyldes
+
+hovedorganisasjonenes egne rutiner og regelverk? Hvis så er
+
+tilfellet, vil idrettsministeren ta initiativ overfor de ansvarlige
+
+aktørene med sikte på å minimalisere
+
+skjemaveldet, slik at det verdifulle arbeidet som de frivillige
+
+aktørene utfører, kan ivaretas? 
+
+Som kjent representerer dette egenverdier som
+
+går langt utover aktiviteten i seg selv, som f.eks. evnen
+
+til å skape tilhørighet i lokalsamfunnet.
+
+  Jeg har ikke her og nå grunnlag for å si
+
+at det er hovedorganisasjonene eller paraplyorganisasjonene som
+
+medfører dette byråkratiet. Dette er et tema som
+
+vi vil komme tilbake til i forbindelse med at Stortinget skal diskutere
+
+tilleggsmeldingen til frivillighetsmeldingen, og for så vidt
+
+også frivillighetsmeldingen, senere i vår, og
+
+hvor det har kommet fram at det er noe uenighet i Stortinget om
+
+hvordan tilskuddsordningen til de frivillige organisasjonenes lokale
+
+virke skal praktiseres. 
+
+I tillegg kan jeg meddele at vi har satt i
+
+gang arbeidet med en melding om idrett som vil komme til Stortinget
+
+i løpet av høsten. Der vil vi selvfølgelig
+
+også gå inn på hvordan dette skal organiseres,
+
+nettopp med tanke på å styrke det lokale arbeidet
+
+blant medlemmene i, i dette tilfellet, idrettslagene, og slik se
+
+til at den verdifulle innsats som gjøres, gir det resultatet
+
+vi ønsker, og at den ikke går til papirarbeid
+
+og den slags.
+
+  Jeg takker statsråden for dette svaret
+
+også.
+
+Jeg føler at det er en del positive
+
+ting som er på gang, og at det også kan komme
+
+andre endringsforslag i forhold til den meldingen som nå ble
+
+varslet.
+
+Det er utrolig viktig at vi ikke dreper initiativlysten
+
+til den enkelte forelder og andre frivillige som vil gjøre
+
+en innsats for det viktige ungdomsarbeidet rundt om i by og bygd.
+
+Derfor setter jeg pris på statsrådens svar denne gangen,
+
+og håper at dette er et ledd i Regjeringens filosofi om å bidra
+
+til et enklere Norge.
+
+  Jeg vil bare si meg enig med representanten
+
+i at vi på dette området selvfølgelig
+
+ser behovet for forenklinger, og vil prøve å bidra
+
+til det. 
+
+Ellers skylder jeg kanskje å gjøre
+
+oppmerksom på at en rekke av barne- og ungdomsorganisasjonene
+
+er underlagt Barne- og familiedepartementet og har spesielle regler,
+
+bl.a. som et resultat av den saken vi hadde med tilskudd til politiske
+
+ungdomsorganisasjoner.
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+   
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Rita Tveiten er ikke til stede i
+
+salen. Da går vi videre til neste spørsmål.
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Dette spørsmålet
+
+er stilt til miljøvernministeren, men vil bli besvart av
+
+kommunal- og regionalministeren som rette vedkommende.
+
+  Jeg har da følgende spørsmål
+
+til kommunal- og regionalministeren:
+
+«Overvåkningsmyndighetene
+
+i EFTA, ESA i Brussel, sier at Norge ikke har rett til å nekte
+
+en bedrift i Stavanger å importere og selge franske vedovner
+
+uten at de er testet etter norske forskrifter. Hver test koster
+
+ca. 80 000 kroner. ESA mener Norge driver konkurransevridning i
+
+denne saken.
+
+Vil statsråden sørge for
+
+at ESA sin beslutning nå blir etterfulgt?»
+
+  I åpningsbrev fra  EFTAs overvåkingsorgan,
+
+ESA, om klagesak som gjelder norske krav til vedovner, ber ESA om
+
+ytterligere opplysninger knyttet til de norske kravene med hensyn
+
+til beskyttelse av helse og miljø. Bakgrunnen er en klage
+
+fra en fransk ovnsprodusent på de norske kravene til partikkelutslipp
+
+fra og testing av vedovner.
+
+De norske kravene som regulerer utslipp fra
+
+vedovner, er fastsatt ut fra hensynet til helse og miljø basert på en
+
+faglig vurdering gjort av miljøvernmyndighetene.
+
+Flere tidligere undersøkelser viser
+
+at utslipp fra vedovner utgjør 30 – 60 pst.
+
+av det totale utslippet til luft i Norge. Beregninger fra Oslo i
+
+1995 viste at utslipp fra vedovner utgjorde 66 pst. av
+
+det totale partikkelutslippet. En undersøkelse fra Oslo
+
+i 1999 viser at vedfyring utgjør 80 – 90 pst.
+
+av det totale utslippet av partikler.
+
+Utslipp av fyringspartikler utgjør
+
+en betydelig helsefare. Beregninger viser at en utskiftning av gamle
+
+vedovner på 40 pst. vil kunne redusere
+
+dødeligheten med 25 liv årlig i Oslo. Tilsvarende
+
+reduksjon i dødelighet kan påregnes for resten
+
+av landet. Utslippene medfører også økt
+
+sykelighet.
+
+På denne bakgrunn har Norge innført
+
+krav til testing når det gjelder partikkelutslipp. De franske
+
+ovnene er ikke testet for partikkelutslipp, og produsenten har klaget over
+
+de ekstra kostnadene testingen medfører. Flere andre land
+
+i Europa har imidlertid særskilte nasjonale krav til vedovner
+
+som medfører særskilt testing.
+
+I EU er det lagt fram forslag til et nytt direktiv
+
+med strenge grenser for partikkelinnhold, som skal oppnås innen år
+
+2005. Fra EU og EFTAs side er det gitt mandat til et europeisk standardiseringsarbeid
+
+for å harmonisere kravene til bl.a. vedovner. Norge vil
+
+delta aktivt i dette arbeidet med sikte på at partikkelutslipp
+
+blir tatt med i standarden.
+
+Norske myndigheter har sendt den utdypende
+
+faglige begrunnelsen for kravene til ESA. Kravene om begrensning
+
+av partikkelutslipp er fastholdt ut fra hensynet til helse og miljø.
+
+  Jeg takker for svaret, som jeg selvfølgelig
+
+ikke er helt fornøyd med.
+
+Denne saken ble slått opp i Stavanger
+
+Aftenblad den 27. februar 1999. Der står det: 
+
+«Den
+
+lille mann vant i Brussel»…«En liten
+
+importør i Stavanger har angrepet diskriminerende tiltak
+
+fra norske myndigheter» … «For norske
+
+importører er dette en ny «Bosman-dom»,
+
+og den kan få vidtrekkende følger.»
+
+ESA sier klart fra om at det drives konkurransevridning.
+
+Overvåkingsmyndighetene i EFTA, ESA i Brussel, sier nemlig
+
+at Norge ikke har rett til å nekte importøren å selge
+
+de franske vedovnene, og at Norge driver konkurransevridning. ESA «krever
+
+at Utenriksdepartementet leverer vitenskapelig bevis for at det
+
+er nødvendig å legge restriksjoner på import
+
+av utenlandske peiser.»
+
+Mener kommunalministeren at disse konkurransevridende
+
+kravene skal fastholdes uten at det blir levert tilstrekkelig «vitenskapelig
+
+bevis», som det er bedt om?
+
+  Jeg henviser til mitt første svar,
+
+hvor jeg sa at ESA har bedt om ytterligere opplysninger knyttet
+
+til de norske kravene. Man har altså ikke fattet noen beslutning,
+
+men bedt om ytterligere opplysninger. 
+
+Jeg viser også til det som jeg videre
+
+sa i mitt svar, at de norske bestemmelsene er knyttet til krav om
+
+hensyn til helse og miljø. Disse kravene skal vi ta på alvor.
+
+En stor andel av partikkelutslippene er, som jeg sa i mitt første
+
+svar, knyttet til utslipp fra nettopp vedovner, og det å ha
+
+strenge krav på dette området gjør at
+
+man i den grad det er mulig, kan unngå dødelighet
+
+og sykelighet som følge av denne typen utslipp. Det burde
+
+være i alles interesse at vi har strenge krav på dette
+
+området. 
+
+  Jeg takker igjen for svaret. Men ville det
+
+ikke vært riktig av Norge å vente med denne standardiseringen
+
+som er nevnt i brevet, til 2005? 
+
+Ministeren sa rett nok i sitt første
+
+innlegg at de har sendt en redegjørelse. Det ESA har bedt
+
+om, er en vitenskapelig begrunnelse for hvorfor dette er gjort.
+
+Jeg ser ingen grunn til at Norge skal sette foten ned i forhold
+
+til en klar bestemmelse i de internasjonale handelsoppleggene som
+
+vi har med europeiske land. 
+
+Jeg bare nevner igjen at i den foreliggende
+
+saken synes grunnprinsippet å være at et produkt
+
+som er lovlig produsert og markedsført i ett EØS-land,
+
+må kunne selges i et annet EØS-land, selv om det ikke kan
+
+garanteres at produktet bokstavelig talt vil oppfylle de tekniske standardene
+
+og spesifikasjonene man har i det landet det selges i. 
+
+Jeg vil be kommunalministeren om å se
+
+på saken på nytt og la denne enkeltimportøren
+
+få anledning til å fortsette å selge
+
+franske vedovner.
+
+  Det er faktisk slik at det er ingen selvfølge
+
+at produkter som framstilles, skal kunne omsettes i et marked uten
+
+at det stilles krav til kvalitetsgodkjenning og til standarder som
+
+skal følges. På dette området synes jeg
+
+det er viktig at man har et føre var-prinsipp, og at norske
+
+myndigheter stiller krav nettopp knyttet til hensynet til helse
+
+og miljø, på samme måte som en rekke
+
+andre europeiske land har gjort. 
+
+Dersom ingen går foran og setter strenge
+
+krav som fører til miljøforbedringer, viser erfaringene
+
+at da blir det heller ingen forbedringer. Så jeg tror at
+
+det løp som   Norge har lagt – å stille
+
+krav til testing, og å stille krav til standarder, for
+
+så å følge opp for å få dette
+
+inn i EUs forskrifter – er et riktig løp.
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Dette spørsmålet
+
+er utsatt til neste spørretime.
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Stortinget mottok mandag meddelelse fra
+
+Statsministerens kontor om at følgende regjeringsmedlemmer
+
+vil møte til muntlig spørretime:
+
+statsminister Kjell Magne Bondevik
+
+statsråd Odd Einar Dørum
+
+statsråd Hilde Frafjord Johnson
+
+De annonserte regjeringsmedlemmene er til stede,
+
+og vi er klare til å starte den muntlige spørretimen.
+
+De representantene som i tillegg til de forhåndsanmeldte ønsker å stille
+
+hovedspørsmål, bes reise seg. –
+
+Vi starter da med første hovedspørsmål,
+
+fra representanten Thorbjørn Jagland.
+
+  Arbeiderpartiet gir sin fulle støtte
+
+til Regjeringens politikk og håndtering når det
+
+gjelder Kosovo-konflikten. Det er nødvendig å holde
+
+fast ved at flyktningene må få rett til å vende
+
+tilbake under internasjonal beskyttelse. Hvis vi tillater at en
+
+million mennesker kan bli omplassert i dette området, vil
+
+det sannsynligvis destabilisere flere land og kanskje sette hele
+
+Balkan i brann. 
+
+Det kan nå tyde på at denne
+
+dobbelte strategi med militært press og diplomatisk arbeid
+
+kan gi resultater. Møtet i Oslo i går var positivt.
+
+Jeg vil spørre statsministeren hvilke tanker han nå gjør
+
+seg om hva slags type internasjonal styrke som kan settes inn i
+
+tilfelle det skulle være mulig å få til
+
+en våpenstillstand.
+
+  Utviklingen i og rundt Kosovo er jo en dyp
+
+tragedie. Det som er viktig å understreke, er at flyktningstrømmen
+
+og krigshandlingene oppstod ikke da NATO satte inn sine bombeaksjoner.
+
+Allerede før det var det ca. 200 000 flyktninger, krigshandlinger
+
+var i gang og overgrep mot kosovoalbanerne var i gang, så den
+
+fremstillingen en har sett i en del medier om at dette startet da
+
+NATO startet sine aksjoner, er det viktig å drive tilbake. 
+
+Jeg vil også benytte denne anledningen
+
+til å uttrykke glede over at Regjeringen kjenner solid
+
+ryggdekning fra partiene på Stortinget i denne sak, og
+
+jeg setter også pris på det som opposisjonsleder
+
+Thorbjørn Jagland nå sa i starten, nemlig at han
+
+gir Regjeringen full støtte. Det gir Regjeringen en trygghet
+
+i det videre arbeid. 
+
+Denne saken kan grovt sett sies å ha
+
+tre elementer: det militære, det politiske og det humanitære.
+
+Jeg tror det er riktig som Jagland sa, at vi nå for det
+
+første må jobbe for å hjelpe flyktningene
+
+i en akutt nødsituasjon – det gjør vi primært
+
+i nærområdene – og vi har foreslått
+
+bevilgninger til det formålet. Så må vi
+
+parallelt med de militære aksjonene også jobbe
+
+politisk og diplomatisk. I så måte var møtet
+
+i Oslo i går et positivt steg fremover, selv om en så langt
+
+ikke har funnet en løsning. Og det vanskeligste punktet
+
+er nettopp det Jagland spurte om, nærværet i 
+
+ Kosovo etter en eventuell våpenstillstand. 
+
+Mitt syn, og Regjeringens syn, er at dette
+
+må være et så robust nærvær
+
+at det gir beskyttelse til befolkningen i Kosovo – da tror
+
+vi det bør ha en militær komponent. Men dette
+
+er det foreløpig ikke tilstrekkelig enighet om. Og en må også ha
+
+en løsning som Serbia kan leve med.
+
+  Jeg er glad for det statsministeren sa, og
+
+jeg deler helt den analysen han hadde av årsaken til konflikten
+
+og flyktningstrømmen. 
+
+Når det gjelder denne internasjonale
+
+styrken, vil jeg bare spørre om Regjeringens vurdering
+
+er at det er en fordel at man nå får brakt inn
+
+andre enn NATO-land,      f. eks. Russland – at man får
+
+satt opp en styrke som kan innebære at Russland også trekkes
+
+med i denne internasjonale beskyttelsen som må finne sted
+
+hvis flyktningene skal kunne vende tilbake.
+
+Et annet spørsmål er selvfølgelig
+
+når det gjelder FN-mandat: Ville det ikke nå vært
+
+en stor fordel å få etablert et FN-mandat for
+
+det som skal skje i et slikt tilfelle?
+
+  Regjeringen er åpen for å drøfte
+
+ulike måter å organisere dette på. Jeg tror
+
+at FN bør komme sterkere inn. I dag møter FNs
+
+generalsekretær EUs regjeringssjefer og utenriksministre, også for å drøfte
+
+dette. 
+
+Vi er også åpne for og ser
+
+det som en klar fordel om Russland kunne bli med. Det er positivt
+
+at Russland nå er kommet med i det politiske og diplomatiske
+
+arbeidet for å finne en løsning. Jeg drøftet
+
+dette med utenriksminister Ivanov her i Oslo i går, og
+
+han uttrykte at dersom det blir en internasjonal enighet som også det
+
+serbiske regimet kan leve med, for en internasjonal styrke i Kosovo
+
+etter en fredsslutning, så er Russland positivt til å delta
+
+i den. Jeg for min del ser helt klare fordeler om så kan
+
+skje.
+
+ Det blir oppfølgingsspørsmål
+
+fra Kristin Halvorsen.
+
+  Vi er nå inne på kjernepunktet
+
+i forhold til hva som skal til for å få til en
+
+politisk løsning, og hva som skal til for faktisk å trygge
+
+kosovoalbanerne etter at man har fått til en politisk løsning.
+
+ Det er kommet et interessant initiativ fra
+
+Tyskland på dette punktet, som jeg gjerne skulle hatt statsministerens synspunkter
+
+på. Det dreier seg om hvorvidt man kan klare å få inn
+
+en styrke med et FN-mandat, for nettopp å få i gang
+
+forhandlingene i det politiske sporet, men også om den
+
+konkrete sikkerheten på bakken etter endt tilbaketrekking.
+
+I tillegg lurer jeg på om Regjeringen har tatt noe initiativ
+
+overfor FN i den situasjonen vi har nå – både
+
+som norsk regjering og ikke minst fordi vi har formannskapet i OSSE
+
+kunne Norge bidra spesielt for å få FN inn i forhold
+
+til de framtidige løsningene. 
+
+  For å ta det siste først:
+
+Ja, Norge har tatt initiativ i forhold til FN, og vår utenriksminister
+
+skal – blant alle sine andre aktiviteter – i dag
+
+ha en telefonkonferanse med FNs generalsekretær
+
+om dette spørsmålet. Og som jeg nevnte i mitt forrige
+
+svar, møter også FNs generalsekretær
+
+i dag EUs stats- og utenriksministre.
+
+Vi ser en klar fordel om FN kan trekkes inn,
+
+og vi har også registrert det tyske initiativet i så måte.
+
+Vi ser helt klare fordeler hvis også FN som verdensorganisasjon
+
+kan trekkes inn. Men jeg må legge til her at en internasjonal styrke
+
+må være så robust og effektiv at den
+
+virkelig kan beskytte befolkningen i Kosovo, enten det er kosovoalbanere
+
+eller andre. Da tror jeg ikke man kommer utenom et militært
+
+element, hvor vi vet at NATO er det mest effektive. At dette kan
+
+få en paraply og en organisering som ivaretar verdenssamfunnets
+
+interesser, ser jeg som en fordel. 
+
+  Vi går da videre til neste
+
+hovedspørsmål.
+
+  Jeg har også et spørsmål
+
+til statsministeren vedrørende Kosovo-konflikten. Fremskrittspartiet
+
+deler mange av Regjeringens synspunkter på denne konflikten,
+
+men på ett område skiller vi lag med Regjeringen,
+
+og det er når det gjelder spørsmålet
+
+om å ta flyktninger til Norge. Der er Fremskrittspartiet
+
+på linje med FNs høykommissær for flyktninger
+
+og de fleste andre land, som nettopp hevder at man ville bistå Milosevic ved å flytte
+
+flyktningene ut av området, man ville assistere i den etniske
+
+rensingen.
+
+Over hele forsiden på Verdens Gang
+
+i går – det har vel også statsministeren
+
+sett – var det en anmodning til   Norge om å stoppe
+
+mottaket av flyktninger. Dersom alle NATO-land tok like mange flyktninger
+
+til sine land som Regjeringen har varslet, ville det bety omtrent
+
+en million flyktninger – cirka halvparten av den totale
+
+kosovoalbanske befolkning.
+
+ Er det virkelig Regjeringens mening at det
+
+ikke ville hjelpe Milosevic, dersom NATO-landene tok halvparten av
+
+befolkningen til sine land? 
+
+  For det første har det aldri vært
+
+aktuelt å ta halvparten av Kosovos befolkning inn i andre
+
+land, for det andre har jeg ikke registrert at FN sier at en bistår
+
+Milosevics etniske rensing ved å ta imot flyktninger i
+
+andre land. Jeg synes det er å snu saken på hodet.
+
+ Situasjonen var at den etniske rensingen allerede
+
+var kommet uhyre langt, og det var i ferd med å oppstå en
+
+totalt uholdbar situasjon, spesielt i Makedonia, som var i ferd
+
+med å bli destabilisert. Makedonia stengte faktisk sin
+
+grense for flyktninger fra Kosovo, og det var i ferd med å oppstå en
+
+helt uholdbar situasjon. I den situasjonen meldte Norge inn at vi
+
+kunne ta imot inntil 6 000 flyktninger. Andre land fulgte opp med å melde
+
+inn tall, og dette var faktisk medvirkende til at Makedonia igjen åpnet
+
+sin grense, og at den uholdbare situasjonen ble   bedret.
+
+ Jeg står fast ved at det var riktig
+
+og klokt av Norge å gjøre dette. Vi har fått
+
+anerkjennelse for det vi gjorde, også fra FNs høykommissær,
+
+som ringte til Norge og takket for det vi gjorde. Situasjonen har
+
+nå utviklet seg videre. Vi har fått en henvendelse
+
+fra FNs høykommissær – som jeg ikke bare
+
+har lest om i VG, men som jeg faktisk har lest in extenso – og
+
+den vurderer vi nøye. Vi vurderer om vi skal foreta en
+
+midlertidig stans i mottaket, men vi vil, slik som FNs høykommissær
+
+også har anmodet om, holde en høy beredskap for
+
+ytterligere mottak hvis situasjonen igjen krever det. Vi vil ta
+
+endelig stilling til den praktiske håndtering av denne
+
+saken i løpet av dagen. Vi tillegger høykommissærens
+
+tilråding betydelig vekt, men konsulterer også norske
+
+frivillige organisasjoner, noe vi allerede har gjort på morgenkvisten
+
+i dag. Under alle omstendigheter vil vi ta imot de planlagte transportene
+
+av flyktninger nå de aller nærmeste dagene, for de
+
+har forventninger om å komme til Norge. Så vurderer vi
+
+en midlertidig stopp deretter.
+
+  Det er også hevdet at grunnen til
+
+at Makedonia åpnet grensen igjen, var at det begynte å komme
+
+inn massiv støtte og hjelp i form av mat, medisiner og
+
+telt, for å ta imot flyktningene der. Det er altså andre
+
+forklaringer enn Regjeringens.
+
+Det er også et faktisk forhold at
+
+hvis alle NATO-land hadde varslet det samme som Norge i forhold
+
+til folketall, ville man ha påtatt seg omtrent en million
+
+flyktninger, og det er halvparten av befolkningen. Regjeringen ønsket
+
+jo å få i gang at andre land skulle følge
+
+i Norges fotspor, og da hadde man nettopp assistert Milosevic.
+
+Imidlertid er vel nå det aller viktigste å hjelpe
+
+de mest nødstilte flyktninger – ikke bruke 600-1 000 mill. kr
+
+på å ta flyktninger til Norge, men heller sette
+
+inn midlene for å bidra til å sørge for
+
+forsyninger der nede. Og særlig er det nå viktig å få organisert
+
+forsyninger inn i Kosovo. Hadde Norge brukt de pengene som man har
+
+tenkt å ta noen få flyktninger til Norge for,
+
+til heller å finansiere helikoptertransport og mattransport
+
+under militæreskorte inn i Kosovo, måtte vel det
+
+vært en langt bedre nytte av disse midler.
+
+  Det er ikke så enkelt at en bare
+
+kan bringe forsyninger inn i Kosovo, for i Kosovo foretar det serbiske
+
+regimet en grotesk etnisk rensing, og derfor flykter de jo ut av
+
+Kosovo. Nabolandene Makedonia, Montenegro og Albania har fått
+
+en kolossal påkjenning på grunn av dette. Jeg
+
+fastholder at Norges beslutning ble positivt mottatt og var medvirkende
+
+til at en fikk løst opp en akutt og fastlåst situasjon,
+
+når        Makedonia stengte sin grense.
+
+Men så er jeg enig med Carl I. Hagen
+
+i at hovedtyngden av hjelp må – og kan også mest
+
+kostnadseffektivt – foretas i nærområdene.
+
+Det er også Regjeringens oppfatning. Derfor har jeg altså presisert
+
+at vi nå tar denne henvendelsen under alvorlig overveielse – vi
+
+vil senere i dag treffe en beslutning – der vi vurderer
+
+en midlertidig stopp, men med en beredskap i fall situasjonen igjen
+
+måtte kreve mottak.
+
+  Det blir oppfølgingsspørsmål – Øystein Hedstrøm.
+
+  Mediene kan i dag meddele at statsministeren
+
+har mottatt både muntlige og skriftlige drapstrusler, som
+
+ifølge politiet kommer fra serbiske miljøer i
+
+Norge. I fjor tok Norge imot tusenvis av serbiske kroater. Vi har
+
+en stor kontingent av kosovoalbanere i Norge fra før, og
+
+nå planlegger Regjeringen å ta imot inntil 6 000
+
+flere. Frykter ikke statsministeren at vi kan få alvorlige
+
+kriminelle handlinger i Norge, og også innslag av krigshandlinger,
+
+på bakgrunn av disse betydelige mottakene i landet?
+
+  Jeg må ta avstand fra denne koblingen
+
+av min situasjon i forhold til flyktningmottak. Når det
+
+gjelder de spørsmålene som er omtalt i mediene
+
+omkring min egen situasjon, kommer jeg ikke til å kommentere
+
+det. Det henviser jeg til politiet.
+
+Så til kriminelle handlinger. Det
+
+foregår en gigantisk etnisk rensing i Kosovo. Er det noe
+
+som er kriminelt, så er det det kosovoalbanerne utsettes
+
+for. Derfor vil Regjeringen stille opp for å hjelpe – først
+
+og fremst der nede og i nærområdene, men jeg fastholder
+
+at vi om nødvendig også må være
+
+villige til å ta imot noen i Norge. Og Norges beslutning
+
+om dette var med og løste opp en fastlåst og prekær
+
+situasjon. Men vi er enig i at hovedtyngden av hjelpen skal foregå der
+
+nede, og derfor vurderer vi en midlertidig stopp i inntaket hit
+
+når de transportene har kommet med dem som har forventninger
+
+om å komme til Norge – og de familiemedlemmer
+
+som bør få følge etter.
+
+  Det blir oppfølgingsspørsmål – Dag
+
+ Danielsen.
+
+  Jeg hører statsministeren sier at
+
+det at Norge tok inn 6 000 flyktninger var det som gav støtet
+
+til en løsning på problemene der nede. En like
+
+rimelig påstand etter min mening er at det at NATO tok tak
+
+i saken og begynte å bygge leirer, og at man gav internasjonale
+
+garantier, var det som løste opp saken. 
+
+Hadde det ikke vært rimeligere om
+
+man på et tidligere tidspunkt hadde sagt at vi kunne ta
+
+50 000-100 000 flyktninger der nede og garantere
+
+for dem? Da kunne vi ha løst dette mye raskere og fått
+
+en bedre humanitær løsning. I tillegg kunne vi
+
+da ha vært med på å opprettholde presset
+
+mot Milosevic for å få en løsning på konflikten der
+
+nede ved at vi hadde leirene i nærområdet, slik
+
+at det ville være et konstant press fra verdenssamfunnet
+
+for å få en permanent politisk løsning
+
+på dette problemet.
+
+  Når det gjelder Norges beslutning,
+
+sa jeg vel – og det er det jeg mener – at den
+
+trolig bidrog til å løse opp en fastlåst
+
+situasjon. Det var selvsagt flere faktorer som til sammen virket
+
+inn, men vi har fått nokså klare tegn på at
+
+den var klart medvirkende. Og vi har i tillegg til takk fra FNs høykommissær
+
+bl.a. fått uttrykt en takk fra amerikansk side, fra USA,
+
+for at vi gjorde dette. Og vi er enig i at flest mulig må hjelpes
+
+der nede, men det ene utelukker ikke det andre. Når en
+
+nå vurderer situasjonen slik at vi kanskje fremover ikke
+
+trenger å ta inn flere fortløpende, så vurderer
+
+vi å foreta en midlertidig stopp.
+
+Men en må være klar over
+
+Makedonias situasjon. Makedonia var kommet i en desperat situasjon
+
+da de gav klart uttrykk for at andre land måtte avhjelpe
+
+og ta ut flyktninger fra landet. Det hadde ikke hjulpet om vi hadde
+
+sagt at vi garanterte for x antall tusen i Makedonia, når Makedonia
+
+sa at disse måtte videre, ut av Makedonia.
+
+  Siste oppfølgingsspørsmål – Vidar Bjørnstad.
+
+  Jeg har et oppfølgingsspørsmål,
+
+men jeg må først få lov til å si
+
+at jeg tar sterk avstand fra den analysen som Fremskrittspartiets
+
+representanter her legger fram i forhold til situasjonen i Kosovo. Med
+
+deres håndtering kunne man ha risikert at ikke alle flyktninger
+
+som i dag er i sikkerhet i nabolandene, hadde sluppet ut. Sånn
+
+sett mener vi det var et riktig signal fra norske politiske myndigheter å åpne
+
+for mottak av kosovoalbanske flyktninger i Norge, ut fra at man
+
+i den akutte situasjonen lettet trykket og fremdeles lot nabolandene
+
+ha åpne grenser, for å beskytte kosovoalbanske flyktninger.
+
+Nå registrerer jeg at en skal ha en
+
+midlertidig stans i mottak. Bakgrunnen for signalet om å ta
+
+imot kosovoalbanske flyktninger var ikke bare humanitær,
+
+men også politisk. Har Regjeringen forsikringer om at dette
+
+ikke betyr stans i mottak av kosovoalbanske flyktninger andre steder,
+
+slik at det f.eks. kan resultere i at nabolandene faktisk også vil
+
+si nei til å ta imot Kosovo-flyktninger direkte fra Kosovo?
+
+  Jeg er enig med representanten Bjørnstad
+
+i at dette er et viktig anliggende, og det er av de ting vi nå tar
+
+med i vår vurdering før vi treffer en endelig
+
+beslutning. Vi vurderer altså nå henvendelsen
+
+fra FNs høykommissær, og vil komme fram til en
+
+konklusjon på det senere i dag. Men det er helt klart viktig
+
+at en norsk beslutning her ikke forverrer situasjonen der nede.
+
+Det vil vi så langt som mulig skaffe oss forsikringer om.
+
+  Før vi går videre,
+
+vil presidenten understreke at man ikke skal bruke denne spørretimen
+
+til å drive polemikk mot tidligere spørrere, som
+
+ikke har anledning til å svare på polemikken,
+
+men at spørsmål skal rettes til statsråden.
+
+Vi går videre til neste hovedspørsmål.
+
+  Også mitt spørsmål
+
+går til statsministeren.
+
+Etter mitt skjønn er det helt overordnede
+
+nå at vi konsentrerer oss om hvordan vi skal bringe NATOs
+
+aksjon til en vellykket avslutning, og jeg vil derfor slå an
+
+den samme tonen som Thorbjørn Jagland gjorde. Jeg tror
+
+det er viktig å understreke at situasjonen kaller på enighet,
+
+fasthet og lederskap. Høyre har derfor stilt seg bak den
+
+linjen som Regjeringen har lagt seg på. Det er imidlertid
+
+ikke til å skjule at dette er en vanskelig operasjon. NATOs
+
+vellykkede operasjon i Bosnia kan jo ha fått mange til å tro at
+
+dette ville være over i løpet av ganske kort tid.
+
+Nå har NATO valgt luftstyrker, mens det har kommet opp
+
+en debatt om NATO også bør følge opp
+
+med eventuelle bakkestykker. Det er jo lite Norge kan bidra med
+
+i denne sammenheng, men jeg vil gjerne spørre hvordan statsministeren
+
+ser på det, om de store NATO-land skulle finne ut at det
+
+er nødvendig å gå den veien.
+
+  La meg først igjen og også overfor
+
+Jan Petersen få uttrykke tilfredshet med den måte
+
+som partiene, også Høyre, har opptrådt
+
+på i denne situasjonen. Regjeringen er innstilt på å ta
+
+det ansvar og det lederskap som påhviler den, men det gir
+
+oss en ekstra trygghet og styrke i dette arbeidet at partiene på Stortinget
+
+stiller så godt bak som tilfellet er i denne situasjonen.
+
+Når det gjelder spørsmålet
+
+om bakkestyrker – da tenker jeg ikke på en eventuell
+
+styrke for å gå inn og sikre en fredsslutning
+
+etterpå, men bakkestyrker i en krigssituasjon – har
+
+Regjeringen vært skeptisk og tilbakeholden til det av flere
+
+grunner: Det vil ta tid å sette den opp, det vil kunne
+
+være en eskalering av krigshandlingene som det er vanskelig
+
+i dag å få oversikten over, og det kan vanskeliggjøre
+
+en fredsslutning. Men skulle dette spørsmålet
+
+for alvor melde seg, må Regjeringen håndtere det
+
+og forholde seg til det, og det vil vi i tilfelle gjøre
+
+i nær konsultasjon med partiene på Stortinget.
+
+Det som er linjen nå, er å fortsette de militære
+
+bombetokt kombinert med politisk diplomatisk arbeid, og nå med økende
+
+vekt på politisk dialog for å forsøke
+
+så raskt som mulig å finne fram til en fredelig
+
+løsning. For hver dag som går, utvikles
+
+denne tragedien, ja, hver eneste dag med krig er i seg selv en tragedie.
+
+  Jeg er tilfreds med dette svaret. Jeg tror
+
+det er viktig å ha den nødvendige åpenhet
+
+på dette området. Milosevic er en formidabel motstander,
+
+og det kan jo reises spørsmål om hvor klokt det
+
+har vært å gjøre det klart overfor ham
+
+hva man i hvert fall 
+
+ikke 
+
+har tenkt å gjøre.
+
+Jeg tror det er svært viktig nettopp av hensyn til sivilbefolkningen
+
+at NATO gjør det som er nødvendig for å nå frem
+
+i denne konflikten. Men det er vel også slik at dette er
+
+en konflikt vi må være beredt på kommer
+
+til å ta tid, og det kaller på et lederskap. 
+
+Mitt spørsmål er derfor om
+
+statsministeren nå er enig med meg i at dette er en konflikt
+
+som vi må påregne kan komme til å ta
+
+en god tid før vi har nådd frem til løsninger.
+
+  Ja, dessverre har nok Jan Petersen rett i
+
+at det kan skje. Men vi setter alle krefter inn – også med
+
+de bidrag vi fra norsk side kan gi – for å prøve å komme
+
+fram til en løsning så snart som mulig, for jeg
+
+tror alle selvsagt er enig i at dess før denne konflikten
+
+kan opphøre, dess bedre, av hensyn til befolkningen i regionen
+
+og også av hensyn til faren for en destabilisering av sikkerhetssituasjonen.
+
+Og det er helt riktig, som Jan Petersen sier, at enhver ansvarlig
+
+regjering må sammen med våre allierte fortløpende
+
+vurdere situasjonen og utviklingen i krigshandlingene, og må selvsagt også derfor
+
+være beredt til å vurdere et spørsmål
+
+om bakkestyrker hvis og når det måtte komme.
+
+  Det blir oppfølgingsspørsmål – Carl
+
+I. Hagen.
+
+  Jeg er glad for det svaret statsministeren
+
+nå gav. Jeg vil gjerne følge opp med å si
+
+at det vel er viktig at de politiske organer i NATO tar seg av de politiske
+
+spørsmål, mens det rent militære om hvorledes de
+
+politiske målsettinger skal oppnås, i større
+
+grad gjennomføres av de fagmilitære, og at politikere
+
+lar være å ha bastante meninger om hvilke typer
+
+våpen og styrker som bør benyttes for å nå en
+
+politisk målsetting. Det har kanskje vært litt
+
+for stor innblanding fra de politiske organer i hvilken bro som
+
+skal bombes, og hvilken som ikke skal bombes.
+
+Jeg vil spørre statsministeren om
+
+han er enig i denne arbeidsfordelingen, og om Norges regjering vil
+
+arbeide innad i NATOs politiske organer med noe klarere mandat og
+
+målsetting for militære aksjoner. Er målsettingen å bringe
+
+Milosovic-regimet ned? Er målsettingen å avvæpne
+
+Serbia? Er målsettingen å ødelegge slagkraften
+
+til den serbiske hær? Er statsministeren enig i at det
+
+kanskje er behov for noe klarere målsettinger for hvilket
+
+oppdrag de militære styrker har?
+
+  Jeg er enig med Carl I. Hagen i at det er
+
+en arbeidsdeling, og skal være det, mellom de fagmilitære
+
+og de politiske organer i NATO. Det er klart at spørsmålet
+
+om å sette inn en eventuell bakkestyrke i en krigssituasjon,
+
+er av et så stort format at det også vil måtte
+
+forelegges de politiske organer, inklusive den norske regjering,
+
+som da vil foreta de nødvendige konsultasjoner. 
+
+Når det gjelder målsettingen
+
+for de NATO-aksjonene som nå pågår, er
+
+den å redusere slagkraften i den serbiske krigsmaskinen,
+
+slik at den ikke lenger på samme måten som nå kan
+
+foreta sine overgrep mot den kosovoalbanske befolkning, og for øvrig
+
+true stabiliteten i hele regionen. Det er målsettingen
+
+med aksjonene, og det målet er det de militære
+
+nå forfølger. Det er ulike faser for gjennomføringen
+
+av de militære aksjonene med dette som mål.
+
+  Vi går til neste hovedspørsmål.
+
+  Jeg vil gjerne stille dette spørsmålet
+
+til statsministeren:
+
+I forbindelse med forslag til løsninger
+
+når det gjelder situasjonen i Kosovo – på hvilken
+
+måte man skal kunne klare å sikre både
+
+at bombingen stopper og at overgrepene i forhold til kosovoalbanerne
+
+stoppes – er det noen som har begynt å lufte forslag
+
+om en framtidig deling av Kosovo. Jeg vil gjerne vite om Regjeringen
+
+anser at dette overhodet kunne være noen løsning,
+
+og hva slags vurderinger statsministeren gjør i forhold
+
+til hvilke signaler et slikt utfall vil gi både i forhold
+
+til regionen og i forhold til andre etniske konflikter verden over.
+
+  Etter mitt syn vil det være en dårlig
+
+løsning, for det vil vel i realiteten bety en deling langs
+
+etniske grenser, og det kan ha uante negative konsekvenser også i
+
+andre land hvor en har konflikter mellom etniske grupper. 
+
+Jeg tror ikke at vi i dag verken kan forespeile
+
+eller utelukke bestemte løsninger. Nå er det viktig å prøve å få stans
+
+i krigshandlingene og få bygd opp igjen Kosovo og øvrige
+
+deler av Jugoslavia som er herjet av krigen. Derfor skal vi i dag
+
+være forsiktige med å være helt bastante på 
+
+hvilken 
+
+løsning – men
+
+etter mitt skjønn er løsninger som trekker grenser
+
+etter etniske grenser, dårlige løsninger. Målet
+
+bør være et multietnisk Kosovo.
+
+  Jeg takker statsministeren for svaret. Jeg
+
+er glad for at han er enig i SVs vurderinger på dette spørsmålet,
+
+selv om jeg kanskje ville uttrykt meg enda sterkere enn det statsministeren
+
+gjør. 
+
+Jeg tror at hvis man i det hele tatt kunne
+
+se for seg at utgangen av denne krigen skulle være et delt
+
+Kosovo hvor Milosevic belønnes ved å kunne beholde
+
+de delene av Kosovo som er mest attraktive for ham, vil man ikke bare
+
+sende et signal til Balkan, men også et signal til alle andre – og
+
+det er hundrevis av etniske konflikter rundt omkring i verden – i
+
+forhold til hvordan man da faktisk kan klare å sette i
+
+gang en helt ny tegning av verdenskartet ut fra etniske grenser,
+
+da aner vi ikke hva slags kriger som faktisk kan settes i gang som
+
+et resultat av en sånn type signal.
+
+  Jeg er enig med Kristin Halvorsen i det. Derfor
+
+mener jeg også at en slik løsning vil være
+
+en dårlig løsning som vi bør unngå, og
+
+at vi av hensyn til befolkningen i både Kosovo og    Jugoslavia,
+
+men også av hensyn til signalet til andre land må satse
+
+på et multietnisk Kosovo og et multietnisk       Jugoslavia.
+
+  Vi går til neste hovedspørsmål.
+
+  Spørsmålet mitt går
+
+også til statsministeren, men eg går frå krigen
+
+i Jugoslavia til noko som kan bli dramatisk her heime. 
+
+Kværner offentleggjorde i går
+
+at verksemda tek sikte på å selje eller avvikle
+
+alle sine skipsverft. Mange av desse ligg i sårbare miljø langs
+
+norskekysten. Det er vanskeleg no å seie kor dramatisk
+
+dette er for det enkelte verft og for arbeidsplassane, men dramatisk
+
+kan det bli. Det er difor god grunn til at det politiske miljøet
+
+med Regjeringa i spissen no tek tak i saka. Arbeidarpartiet har
+
+ved fleire høve åtvara mot ei alvorleg utvikling
+
+innan verfts- og offshorenæringa og ikkje minst innan leverandørindustrien,
+
+og partiet har fremja fleire forslag om tiltak i denne samanhengen. 
+
+Spørsmålet mitt blir: Vil
+
+Regjeringa i revidert nasjonalbudsjett fremje tiltak som lettar
+
+situasjonen i næringa?
+
+ Jeg er enig med representanten Opseth i at
+
+Kværners beslutning som ble offentliggjort i går,
+
+i og for seg er dramatisk, fordi det er en så kraftig nedbygging
+
+av et stort norsk selskap. Men hvor dramatisk det blir for arbeidstakerne,
+
+er det for tidlig å si. Det kommer an på om det
+
+melder seg interessante kjøpere som er innstilt på å drive
+
+skipsverftene videre, og jeg har registrert at slike allerede er
+
+på banen. Så det er ikke med dette sagt at disse
+
+verftene blir nedlagt.
+
+ Men det er åpenbart en betydelig
+
+omstrukturering på gang også i norsk verftsindustri,
+
+og det henger sammen med hele den internasjonale situasjonen med
+
+sviktende marked, stor overkapasitet og en økende konkurranse
+
+spesielt fra asiatiske verft. Dette tar Regjeringen alvorlig, og vi
+
+har jo allerede som et første virkemiddel økt
+
+verftsstøtten fra 7 pst. til 9 pst. Vi kommer til å følge
+
+dette videre. 
+
+Ansvaret for hvordan aktivitetene organiseres,
+
+utvikles og drives, må ligge hos bedriftene selv.
+
+Når Kværner fant å ville gå ut
+
+av skipsbygging, var det en forretningsmessig beslutning som bare
+
+selskapet selv kunne treffe, og den kan selvsagt ikke Regjeringen
+
+legge seg opp i. Men vi er klar over situasjonen for verftsindustrien
+
+generelt og for oljeindustrien spesielt, og har derfor varslet at vi
+
+vil komme tilbake til en analyse og virkemidler for å avbøte
+
+situasjonen, i forbindelse med revidert nasjonalbudsjett.
+
+  Eg takkar statsministeren for svaret. Eg vil
+
+minne statsministeren om at Arbeidarpartiet lenge har sett i kva
+
+retning aktiviteten i næringa har gått. Forslag
+
+om å halde oppe verftsstøtta på EU-nivå,
+
+forsere bygging av nye ferjer, nye fiskebåtar og nytt forskingsskip,
+
+er mellom forslaga som er fremja.
+
+Spørsmålet blir: Vil Regjeringa
+
+følgje opp nokon av desse forslaga i revidert nasjonalbudsjett?
+
+Men framfor alt: Vil Regjeringa delta aktivt i å skaffe
+
+nye eigarar til dei mange verfta langs norskekysten? Kan statsministeren
+
+tenkje seg å nytte SND sin eigenkapitaldivisjon og Folketrygdfondet
+
+i arbeidet med å hindre at Noreg blir kraftig redusert
+
+som skipsbyggingsnasjon?
+
+ Når det gjelder de forslag som Arbeiderpartiet
+
+har omtalt, vurderer vi dem nå i forbindelse med arbeidet
+
+med revidert nasjonalbudsjett. Vi er ikke ferdig med behandlingen
+
+av revidert nasjonalbudsjett ennå, så jeg kan
+
+derfor ikke konkret si hva vi går inn for og ikke. Men
+
+vi følger denne situasjonen, vi har hatt møte
+
+med oljebransjen om situasjonen og vil ta dette på alvor. 
+
+Når det gjelder skipsverft, skal vi
+
+selvsagt vurdere de virkemidlene som representanten Opseth nevnte.
+
+Det beste vil jo etter mitt skjønn være at vi
+
+får private interessenter som vil overta de skipsverft
+
+som Kværner ønsker å selge, og som vi
+
+registrerer i mediene i dag, er det allerede interessante interessenter
+
+som har meldt seg på banen. Jeg tror det er en bedre løsning
+
+enn at det offentlige skal begynne å engasjere seg direkte
+
+i skipsverft. 
+
+  Vi går videre til neste
+
+hovedspørsmål. 
+
+ Jeg vil gjerne stille et spørsmål til
+
+landets nye justisminister.
+
+Jeg vil tilbake til situasjonen i Kosovo. Regjeringen har
+
+nå besluttet å ta imot 6 000 flyktninger.
+
+Det vil koste rundt 1 milliard kr, når man velger å ta
+
+flyktninger hit til landet i stedet for å hjelpe i nærområdene.
+
+En konsekvens blir å etablere flere flyktningmottak i kommunene, med
+
+utbetaling av integreringsstøtte. Når det gjelder hvordan
+
+man skal dekke ekstrakostnader som flytransport, er det ikke avklart
+
+hvem som skal betale. 
+
+Så mitt spørsmål
+
+blir: Har statsråden og Regjeringen hatt i tankene å vente
+
+med integreringen i Norge inntil man ser konsekvensene av konflikten
+
+på Balkan – og ville ikke det ha vært
+
+mest naturlig?
+
+ Statsministeren har tidligere gjort rede for
+
+Regjeringens hovedlinje i saken, nemlig å hjelpe flest
+
+mulig i nærområdene, men også å ta den
+
+delen av ansvaret som ligger utenfor, og som jeg personlig mottok
+
+takk for både fra FNs høykommissær, 
+
+ Ogata, og USAs representant Julia Taft i Genève sist tirsdag. 
+
+Når det så gjelder dem som
+
+kommer hit, vil alle sider ved det kostnadsmessig bli framlagt for
+
+Stortinget i en egen sak. Når det gjelder de praktiske
+
+forhold, tenker vi slik om mennesker som kommer til Norge og får
+
+beskyttelse her, at det er viktig at de ikke blir gjort til klienter. Klienter
+
+blir dårlig i stand til å hjelpe seg selv, enten
+
+de skal være i Norge eller vende tilbake til sitt eget
+
+land. Det er myndighetenes hovedlinje. Det er bra for dem som kommer,
+
+det er bra for dem som bor i Norge, det er til og med kostnadseffektiv
+
+bruk av pengene og rett bruk av skatteborgernes innsats å sørge
+
+for at vi ikke gjør mennesker til klienter. 
+
+  Da forstår jeg justisministeren slik
+
+at han ønsker å iverksette integreringsprosessen
+
+så raskt som mulig i kommunene. Vi vet fra tidligere erfaringer
+
+at kommunene får en overgangsstønad. Etter noen år
+
+blir stønaden tatt vekk og kommunene må finansiere dette
+
+selv – det være seg sosiale utgifter til flyktninger
+
+eller andre utgifter. Vi vet også at kommunene av og til kommer
+
+i en situasjon hvor de har lite penger, som igjen fører
+
+til at avgiftstrykket i den enkelte kommune blir økt i
+
+takt med utgiftene. Synes statsråden det er moralsk forsvarlig å pådytte
+
+enkelte kommuner og deres innbyggere ekstra kostander ved å ta
+
+imot flest mulig flyktninger til landet?
+
+  Rent konstitusjonelt kan jeg nekte å svare,
+
+for jeg får nå et spørsmål som
+
+retter seg til kommunal- og regionalministerens ansvarsområde,
+
+men fordi jeg sitter i en regjering som tenker helhetlig, skal jeg
+
+svare. 
+
+Svaret er som følger: Vi har møtt
+
+en enestående holdning i norske kommuner – en
+
+enestående holdning. Senest i dag fikk jeg beskjed om at
+
+i Trøndelag kunne de tatt imot alle 6 000, så åpne
+
+er hjertene. Og jeg har møtt lokalpolitikere og ordførere – og
+
+jeg kjenner dem gjennom et langt politisk liv – som sier
+
+at nå er situasjonen så spesiell at vi må stille
+
+opp og bidra. Jeg kan forsikre representanten at det har vært
+
+en tett dialog med Kommunenes Sentralforbund. Jeg har selv vært
+
+nærværende i denne dialogen så vel som
+
+andre, bl.a. med humanitære organisasjoner, som sier at
+
+de vil stille opp for å sørge for at hjertelaget
+
+blir utnyttet på en praktisk, god måte. Jeg har
+
+aldri i mitt voksne politiske liv opplevd en holdning som likner
+
+på dette – bortsett fra den gangen jeg var 13 år og
+
+så ungarske flyktninger komme til Norge. 
+
+  Det blir oppfølgingsspørsmål – Øystein Hedstrøm.
+
+ Uavhengig av hva statsråden svarte
+
+Jørn Stang, er det dokumentert at det skapes store problemer
+
+i Kommune-Norge med det høye antallet asylanter. Norsk
+
+institutt for by- og regionforskning har sett på dette,
+
+og de sier rett ut at Regjeringens politikk med å spre
+
+asylantene utover det ganske land er mislykket. Relativt kort tid
+
+etter at mange kommuner har gått inn og startet en helhjertet
+
+integreringsprosess, flytter mange av asylantene til sentrale strøk
+
+av Norge, som såkalte sekundærflyktninger, og
+
+skaper store problemer i de kommunene de flytter til. Samtidig er
+
+store deler av integreringstilskuddet oppbrukt. Hva vil Regjeringen
+
+bidra med for at disse kommunene bedre skal lykkes med sin integreringsprosess,
+
+som de må overta?
+
+  Det gjelder samme konstitusjonelle betraktning,
+
+men det gjelder samme praktiske konklusjon. Regjeringen taler med én
+
+stemme, og når vi møter her, skal vi også svare. 
+
+Situasjonen er den at rundt omkring i Kommune-Norge
+
+stiller folk opp, og de yter en fabelaktig innsats. I integreringspolitikken
+
+som representanten berører, er det om å gjøre å være
+
+praktisk, effektiv og nøktern, og det er ingen ting som
+
+er bedre enn å behandle folk som borgere. En borger er
+
+en borger uansett hudfarge og bakgrunn, og en kriminell er en kriminell
+
+uansett hudfarge og bakgrunn. Så enkelt er det. Og borgere
+
+er mennesker som det skinner av, og når en borger møter
+
+en annen borger, løfter de hverandre i fellesskap. Det
+
+er den måten vi skal tenke på, det er da vi unngår å gjøre
+
+noen til klienter. Og har vi ved feilgrep gjort noen til klienter
+
+i vår integreringspolitikk, kan jeg love at Regjeringen
+
+vil gå inn i det og sørge for at vi viser folk
+
+respekt som borgere, enten de kommer fra Kosovo eller de kommer
+
+fra Grünerløkka eller fra Toten. Det er den filosofien
+
+vi styrer etter. 
+
+  Vi går til neste hovedspørsmål.
+
+  Jeg har et spørsmål til
+
+justisministeren, og vil ikke helt forlate Kosovo.
+
+Statsministeren gav tidligere en overordnet
+
+vurdering fra Regjeringen i forhold til bistand overfor flyktninger.
+
+I helhet støtter vi de initiativ som Regjeringen har tatt.
+
+Det var et riktig signal å gi at man skulle motta kosovoalbanere
+
+også i Norge. Det førte til at andre land mottok
+
+kosovoalbanere, og det bidrog også til at nabolandene fortsatt
+
+opprettholdt åpne grenser, slik at kosovoalbanerne faktisk
+
+kunne flykte fra Kosovo.
+
+Men jeg har et spørsmål knyttet
+
+til den humanitære biten. I går kom det fram råd
+
+fra FNs høykommissær for flyktninger om at det
+
+ikke var behov for hjelp lenger. I dag ser vi at hjelpeorganisasjoner
+
+relativt sterkt tar avstand fra denne vurdering. Kan justisministeren
+
+her bidra til å gi et lite innblikk i – på bakgrunn
+
+av et møte som jeg fikk forståelsen av ble holdt
+
+på morgenkvisten i dag – hvordan dette faktisk
+
+er, med noe som kan synes som to diametralt motsatte oppfatninger?
+
+  Jeg vet ikke hvordan det ser ut utenfra, men
+
+det ser sikkert slik ut som representanten ser det. Sett innenfra
+
+ser det ut som at vi hele tiden har hatt en meningsfylt og tett
+
+dialog med norske humanitære organisasjoner, på samme
+
+måte som det har vært med partiene på Stortinget
+
+når det har vært nødvendig, og på samme
+
+måte som det har vært med Kommunenes Sentralforbund. 
+
+Den praktiske situasjonen i området
+
+har statsministeren gjort rede for. Han har sagt at vi har en løpende
+
+dialog med FNs høykommissær. Vi legger vekt på det.
+
+Men vi var også viktige i det samspillet som utløste
+
+det som skjedde i Makedonia. Vi vil selvfølgelig vurdere
+
+dette, og vi vil – for å gjenta det statsministeren
+
+sa – være sikre på at vi ved våre
+
+handlinger ikke opptrer på en slik måte at vi
+
+forverrer situasjonen i Makedonia. Og om så skulle skje
+
+at vi stopper den direkte flytransporten til Norge midlertidig,
+
+så er det ikke slik at vi stopper å ta imot flyktninger.
+
+Det er slik at folk som har nær familie her, vil ha rett
+
+til å komme hit. De nærmere regler om dette – som
+
+det er praktisk viktig å få avklart, enten du
+
+bor i et utbombet Beograd, eller du er i Kosovo, eller du er andre steder – kommer
+
+vi til å avklare i løpet av de nærmeste dagene.
+
+Men representantens anliggende kan jeg forsikre ligger tungt inne
+
+i de vurderinger som Regjeringen gjør. Vår hovedlinje
+
+er slik: Vi er tjent med at UNHCR har sin styrke som institusjon,
+
+men i denne konflikten er vi også tjent med å ta
+
+med alle supplerende informasjoner, for det er når de humanitære
+
+drar i lag, slik jeg opplevde det i Genève – UNHCR
+
+og Røde Kors sammen – at det blir humanitær
+
+dynamitt, hvis man vil forstå meg rett. Og når Norge
+
+til og med fikk ros fra USA, følte jeg at vi var på rett
+
+vei.
+
+  Jeg takker justisministeren for svaret. Mitt
+
+tilleggsspørsmål blir mer en oppfordring om at
+
+en i vurderingene rundt en midlertidig stans også har med
+
+seg den politiske delen, som var en viktig del knyttet til det opprinnelige
+
+forslaget om at vi skulle motta en del kosovoalbanere også i
+
+Norge.
+
+  Jeg skal bare komme tilbake til det representanten
+
+var inne på i sitt forrige spørsmål,
+
+som jeg kanskje i mitt engasjement ikke svarte godt nok på.
+
+Det er helt rett at vi har hatt møte med de frivillige
+
+organisasjonene også i dag. Det har vi har hatt løpende.
+
+De synspunktene som har kommet fram der, vil vi ta med. Vi har valgt å ha
+
+denne dialogen oss imellom. De har også sin frihet til å ytre
+
+seg, slik de f.eks. gjør i avisene. Så jeg vil
+
+bare si at vi har hatt en god dialog, senest før jeg måtte
+
+springe for å nå denne spontanspørretimen.
+
+Og de synspunkter representanten fremmer, kan jeg bekrefte nok en
+
+gang er viktige for oss når vi foretar våre praktiske
+
+vurderinger.
+
+  Vi går til neste hovedspørsmål.
+
+  Jeg har et spørsmål til
+
+ministeren for utviklingshjelp. Det går på bruk
+
+av u-hjelpsmidler og har litt sammenheng med spørsmål
+
+nr. 5, som jeg har senere i dag.
+
+Vi bruker store summer i u-hjelp til såkalte
+
+MUL-land. Kan statsråden fortelle meg om penger som går
+
+til disse MUL-landene, brukes til oppbygging av en storstilt kjøttindustri
+
+i disse landene?
+
+  Etter at Stortinget i 1995 behandlet regelverket
+
+for GSP – preferanseordningen i forbindelse med handelspolitikken,
+
+som er en ordning for å bedre de fattigste utviklingslandenes
+
+mulighet til eksport til Norge, der vi gir dem tollfrihet – bad også Stortingets
+
+flertall om at regjeringen, den daværende arbeiderpartiregjering,
+
+skulle arbeide for å etablere importlinjer for spesielle
+
+varer som utviklingslandene kunne eksportere til Norge, og bruke
+
+bistand i så henseende. Det har de to ulike regjeringer
+
+etter dette gjort, og det støtter den nåværende
+
+regjering fullt opp om. Det man bl.a. har bidratt til, er oppbygging
+
+av produksjon av roser, som siden har blitt eksportert, og således
+
+importert til Norge. Det har vært en meget vellykket etablering, hvor
+
+mange arbeidsplasser nå bidrar til at familier kommer ut
+
+av fattigdom i flere av de fattige utviklingslandene. 
+
+Til dels har vi også bidratt på kjøttområdet,
+
+men ikke i det omfang som har vært tilfellet for roser,
+
+også fordi f.eks. Botswana, som er det landet som eksporterer
+
+mest til Norge, står på egne ben i sin kjøttindustri
+
+og har et meget godt utbygd apparat til både produksjon,
+
+videreforedling og eksport, hvor man til dels har søkt
+
+assistanse utenfra når det gjelder de hygieniske forhold,
+
+og når det gjelder ivaretakelse av retningslinjer på veterinærområdet.
+
+Der har vi hatt noe kontakt, men ikke i det omfang som støtten
+
+på roseområdet har vært.
+
+  Jeg takker statsråden for svaret,
+
+og har for så vidt fått bekreftet at det går
+
+u-hjelpsmidler til regjeringene i hvert enkelt land, og at midlene
+
+også brukes til å bygge opp en kjøttindustri
+
+med ekspertise fra Sentral-Europa. Er dette fornuftig bruk av u-hjelpspenger?
+
+  Stortingets flertall har presisert veldig
+
+tydelig at det beste er å bidra til inntektsbringende virksomhet
+
+i utviklingslandene, slik at de blir mindre avhengig av utviklingshjelp.
+
+Intensjonen med dette er å la utviklingslandene stå på egne
+
+bein. At man da i en overgangsperiode bruker utviklingshjelp til dette,
+
+er helt klart en god bruk av utviklingsmidlene, fordi vi senere
+
+kan slippe å bruke penger på store overføringer
+
+til de samme landene, som da vil kunne stå på egne bein.
+
+Intensjonen med dette er selvfølgelig å gjøre
+
+verdiskaping til et hovedsatsingsområde for norsk utviklingshjelp.
+
+Det ligger i intensjonene bak Regjeringens nye strategi for næringsutvikling. 
+
+Men jeg vil igjen presisere at på kjøttområdet
+
+er ikke Norge noen tung aktør. Det er heller ikke mange
+
+andre industriland, fordi Botswana på dette område
+
+stort sett klarer seg godt alene.
+
+  Vi går videre til neste
+
+hovedspørsmål.
+
+  Jeg har et spørsmål til
+
+justisministeren.
+
+For to dager siden ble en kvinne voldtatt i
+
+Slottsparken i Oslo midt på dagen. Det ville
+
+ikke ha skjedd dersom det hadde vært tilstrekkelig med
+
+politiressurser i Oslo til å plassere ut politifolk i samtlige
+
+av byens parker. Men så mye ressurser har vi ikke i Norge.
+
+Norge har den dårligste politibemanningen i Skandinavia.
+
+Ressursutvalget for politiet har konkludert med at det trengs 1 900
+
+nye årsverk for å holde tritt med kriminalitetsutviklingen.
+
+I et intervju med Aftenposten i 1995, et par
+
+uker før et valg, uttalte Odd Einar Dørum:
+
+«Hvis
+
+Killengreen mener hun trenger 500 stillinger, lover Venstre å følge
+
+opp dette. Hun vet hvor skoen trykker.»
+
+Mitt naturlige spørsmål blir
+
+selvfølgelig da: Når vil disse stillingene være
+
+på plass? Og kan vi i det minste forvente at pengene er
+
+på plass før sommerferien?
+
+  Hva som kunne skjedd eller ikke skjedd i forhold
+
+til den kriminelle handlingen som ble kommentert, vet jeg ikke.
+
+Jeg vet bare at jeg ved mitt besøk hos Oslo-politiet natt
+
+til sist lørdag fikk politimesterens oppfatning: Hun syns
+
+hun nå hadde et godt budsjett å jobbe etter. Jeg
+
+fikk se hvordan politiet ved sitt arbeid i Oslo har fått
+
+den åpne vold og antall vinningsforbrytelser til å bli
+
+redusert. Det innebærer selvfølgelig ikke at den
+
+type overgrep som her finner sted, skal finne sted. Det er alltid
+
+noe man kan lære av slikt, som jeg vet politiet kontinuerlig
+
+jobber med. Jeg har den største tillit til den måten
+
+som både politiet i Oslo og andre nå organiserer
+
+sin innsats på.
+
+Den andre del av representantens spørsmål
+
+berører Ressursutvalgets innstilling 4, som handler om
+
+behovet for politistillinger fram til 2005, altså seks år
+
+fra nå av, og som er stipulert til 1 900. Det
+
+er en innstilling som selvfølgelig vil bli ordinært
+
+behandlet i Justisdepartementet.
+
+Når det gjelder opposisjonspolitiker
+
+Dørums friske uttalelser, husker jeg det veldig godt. Men
+
+som statsråd har jeg en enkel filosofi: Jeg deler ikke
+
+ut penger før jeg har dem, og det skjer som kjent i forbindelse
+
+med de budsjetter som Stortinget behandler. Da vet man hvilke penger som
+
+er til rådighet, og de ulike partier kan også påvirke tildelingen. 
+
+Noe mer har jeg ikke å si om den saken,
+
+bortsett fra ett forhold. Politiet har med rette fått mange
+
+stillinger de senere årene, og politifolk har fått
+
+bedre lønn. Det er bra. Men jeg er glad for at det er mange
+
+i politietaten som nå også stiller spørsmålet
+
+som i en årrekke er stilt f.eks. til helsearbeidere: Hva
+
+får du ut av skatteborgernes penger når du først
+
+har fått dem? Mange politifolk – både
+
+på ledelsesplanet og ellers – viser nå ved
+
+kreativ innsats hvordan de kan få mye ut av dem. Jeg er
+
+også opptatt av den siden ved saken, selv om kampen om
+
+kronene er et viktig spørsmål, som representanten
+
+har reist i sitt spørsmål til meg.
+
+  Jeg har registrert at det ikke er så veldig
+
+vanskelig for Regjeringen å finne midler til ekstrabevilgninger
+
+når det er krise i andre land, eksempelvis i Kosovo. Det
+
+er for så vidt greit nok. Men da burde det faktisk også være
+
+mulig å finne ekstrabevilgninger når det er krise
+
+i Norge og folk blir voldtatt og ranet fordi det ikke er tilstrekkelig
+
+ressurser i politiet.
+
+Det som har skjedd i det siste, er at det er
+
+gitt 75 nye stillinger til Oslo politikammer, men ingen til andre
+
+deler av landet foreløpig. Derimot har disse andre politidistriktene
+
+fått redusert sine driftsbudsjett, og har mindre penger
+
+i år enn de hadde i fjor. Det har bl.a. ført til
+
+at politimesteren i Sunnmøre har sendt ut et rundskriv
+
+til sine lensmenn, hvor han bl.a. skriver: Utrykning som vil medføre
+
+overtidsbruk, skal innskrenkes til liv og helse-tilfeller. Politiet
+
+skal altså ikke kunne rykke ut dersom det skjer innbrudd.
+
+Mener justisministeren at dette er en holdbar situasjon, eller vil
+
+han vise litt handlekraft og gjøre noe for å rette
+
+opp denne situasjonen snarest mulig?
+
+  La meg starte med å si at – hvordan
+
+skal jeg si dette? Voldtekt er et overgrep som ikke kan forsvares.
+
+Men jeg blir litt opprørt når det trekkes linjer
+
+til Kosovo, hvor voldtekt faktisk brukes som et krigsvåpen
+
+i betydelig omfang. Jeg skulle ønske at representanten
+
+hadde unnlatt å trekke den sammenligningen, for saken hans
+
+stod sterkt nok uten å bringe det inn.
+
+Når det så gjelder politiets
+
+situasjon, setter jeg meg nøye inn i den ved å reise
+
+landet rundt og se på situasjonen i de forskjellige politidistrikter.
+
+Jeg kommer til å fortsette med den virksomheten. Men det
+
+er slik at alle har plikt til å følge de budsjettrammer
+
+som er til rådighet, og jeg har lært meg fra veisektoren,
+
+som jeg tidligere hadde ansvaret for, å møte frittalende
+
+veisjefer. Jeg er derfor ikke uforberedt på å møte
+
+frittalende politimestere. Jeg regner med at de snakker med sann
+
+styrke om det de syns er viktig. Men det er slik at budsjetter er
+
+det man styrer etter – det er de penger man har. Den vurdering
+
+jeg gjør, vil komme til uttrykk når budsjettene
+
+kommer til behandling her i Stortinget. Det er slik representanten kan
+
+regne med at jeg kommer til å opptre i disse sammenhengene.
+
+  Vi går videre til siste
+
+hovedspørsmål. 
+
+  Jeg vil gjerne tilbake til Kosovo, og det
+
+er et spørsmål til statsministeren.
+
+Jeg er helt enig i statsministerens beskrivelse
+
+av situasjonen i Kosovo, også at det allerede før
+
+NATO gikk inn med bombing, var et begynnende folkemord i gang, og
+
+at det var klare planer for etnisk rensing. Det har vi sett klare
+
+eksempler på også i Bosnia, hvor tusener på tusener
+
+av mennesker har måttet bøte med livet på grunn
+
+av en brutal diktator ved navn Slobodan Milosevic.
+
+Mitt spørsmål til statsministeren
+
+er da om statsministeren og Regjeringen vil arbeide for i internasjonale
+
+fora at Milosevic blir stilt for krigsforbryterdomstolen i Haag, slik
+
+at han behandles som en krigsforbryter, som han etter min mening
+
+er.
+
+  Det jeg kan si om det spørsmålet,
+
+er at det innhentes fortløpende opplysninger og materiale
+
+i forbindelse med krigsdomstolen for Jugoslavia med sikte på at
+
+ansvarlige kan bli stilt for retten når den tid kommer.
+
+Jeg vil ikke utover det gå inn på navngitte personer,
+
+men generelt innhentes det nå opplysninger og informasjon
+
+med sikte på slik mulig rettergang overfor dem som personlig
+
+er ansvarlig for ugjerninger som en slik domstol skal behandle.
+
+  Jeg takker statsministeren for svaret og er
+
+glad for at man tar et initiativ i denne saken, for det som er noe
+
+av det mest tragiske ved en slik situasjon, her hvor Norge er med
+
+på en krig mot et brutalt regime, er at det ikke i første
+
+rekke er regimet selv som blir rammet – det er den uskyldige
+
+delen av befolkningen. Det mange synes er meget urettferdig og et
+
+stort paradoks, er at de som står ansvarlig for ugjerningene,
+
+er de som slipper unna. Så jeg spør om statsministeren
+
+er enig i min vurdering og veldig mange menneskers oppfatning av
+
+denne saken.
+
+  Den hovedvurderingen er jeg enig i. Det er
+
+det som er tragedien både i dette og i andre tilsvarende
+
+tilfeller, at det er uskyldige, sivile, som i stor grad får
+
+lide for andres ugjerninger. Det er bl.a. derfor en har krigsdomstoler,
+
+for å trekke til ansvar de som har begått ugjerninger
+
+mot folkeretten.
+
+  Erik Solheim – til oppfølgingsspørsmål.
+
+  Jeg vil stille et tilleggsspørsmål som
+
+muligens ligger i ytterkanten av hva spørreren spurte om,
+
+men som dog har en sammenheng. 
+
+Det første store offer for Milosevic-regimets
+
+ugjerninger var jo Bosnia. Det neste er Kosovo. Et mulig tredje
+
+er Montenegro, og situasjonen der, slik jeg ser det nå,
+
+er meget alvorlig. Det står en utrolig respekt av Djukanovics
+
+mot i den situasjonen, trengt som han er, hvor alle forstår
+
+at NATOs bombeaksjoner, som også rammer Montenegro, åpenbart – isolert
+
+sett i Montenegro – spilles i hendene på de mest
+
+hardbarkede serbiske nasjonalistene. Så mitt spørsmål
+
+er om det er noe vi fra norsk side, OSSEs side eller fra NATOs side
+
+kan gjøre for å beskytte det montenegrinske regime,
+
+for å styrke det, for å støtte det, eller
+
+for på en eller annen måte å bidra til å hindre
+
+at Montenegro blir neste brikke i Milosevics spill på Balkan.
+
+  Presidenten er enig med Erik Solheim
+
+i at dette kanskje lå i ytterkant av hovedspørsmålet,
+
+men det er opp til statsministeren å vurdere om han vil
+
+svare på det.
+
+  Jeg har satt så stor pris på Erik
+
+Solheims klare holdninger og engasjement i denne saken at jeg mer
+
+enn gjerne svarer, også fordi jeg deler hans analyse av
+
+situasjonen. Jeg er veldig nervøs for utviklingen i Montenegro.
+
+Regimet står det respekt av, men det er under hardt press,
+
+og derfor er Regjeringen opptatt av hva vi kan gjøre for å støtte
+
+opp om det, slik at ikke det blir det neste offer for Milosevics ugjerninger.
+
+Dette vet jeg at vår utenriksminister, som er formann i
+
+OSSE for tiden, arbeider med og er opptatt av, og vi vil vurdere
+
+om det er noe vi derigjennom kan gjøre, eventuelt også i
+
+NATO, for å stabilisere situasjonen i Montenegro.
+
+  Da var det ikke flere hovedspørsmål,
+
+og tiden for den muntlige spørretimen er dessuten omme.
+
+Vi går over til den ordinære spørretimen.
+
+
+
+
+
+                    
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Det foreligger ikke noe referat.
+
+
+
+
+
+                    
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Fra Arbeiderpartiets stortingsgruppe foreligger
+
+søknad om permisjon for representanten Thorbjørn 
+
+Jagland
+
+ i tiden fra og med 20. april til
+
+og med 26. april for etter invitasjon å delta i møter
+
+i regi av Chinese People"s Institution of Foreign Affairs
+
+i Beijing i Kina.
+
+Etter forslag fra presidenten ble enstemmig
+
+besluttet:
+
+1.	Søknaden behandles straks
+
+og innvilges.
+
+2.	Vararepresentanten, Frank Willy 
+
+Larsen
+
+,
+
+innkalles for å møte i permisjonstiden.
+
+
+
+
+
+                    
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+

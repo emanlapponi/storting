@@ -1,0 +1,505 @@
+  Jeg har ved flere anledninger besvart spørsmål
+i Stortingets spørretime om teksting og tolking av fjernsynsprogram
+for døve og hørselshemmede. Tilbudet av tekstede
+program ble også omtalt i stortingsmeldingen om kringkasting
+og dagspresse for 1997.
+
+Jeg har innhentet en redegjørelse
+fra Norsk rikskringkasting om status for de prosjekter som er i
+gang for å forbedre tilbudet til døve og hørselshemmede.
+
+Det ene prosjektet retter seg mot døve,
+med digital formidling av tolketjeneste. Om dette sier NRK:
+
+«NRK
+planlegger neste år å omsette erfaringene fra tolkeprosjektet
+til permanent drift ved å tolke inntil 3 timer av sendingene
+på hverdagene i NRK1 og legge tolkningen ut via digital
+satellitt. Denne tolketjenesten vil omfatte program for barn og
+sendinger med aktuelt innhold.»
+
+Det andre prosjektet gjelder et system som
+skal kunne tekste på direkten. NRK opplyser at en ferdig
+utviklet prototyp trolig foreligger neste år. En slik prototyp
+kan gi grunnlag for prøvedrift og deretter normal drift.
+NRK er innstilt på å ta i bruk teknologien så snart
+den er ferdig utviklet.
+
+Dersom dette systemet ikke er i drift i løpet
+av neste år, vil jeg starte et lovgivningsarbeid som skal
+sikre døve og tunghørte et mer omfattende tilbud
+av tekstede fjernsynsprogram i våre allmennkringkastingskanaler,
+dvs. NRK og TV 2. Jeg anser imidlertid at å lovfeste
+teksting av fjernsynsprogram må være siste utvei
+dersom allmennkringkasterne ikke klarer å oppfylle kravet
+om et tilfredsstillende tilbud av tekstede program for døve
+og hørselhemmede. 
+
+  Jeg vil gjerne gi uttrykk for at når
+det gjelder spørsmålet Gjedrem tar opp, og som
+han også har tatt opp tidligere, er jeg er helt enig i
+den utålmodighet som har kommet til uttrykk, og at det er
+en urett begått mot hørselshemmede og døve
+ved at vi ikke har kommet lenger i arbeidet. Så der er
+vi helt på linje. Jeg skal love å følge
+opp de gode intensjonene som jeg her har gitt uttrykk for igjen.
+Jeg vil også understreke at hvis allmennkringkasterne ikke
+tar dette på alvor, er det mulighet for å bruke
+både lovverket, som jeg antydet i mitt første
+svar, og også konsesjonsbetingelser. 
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+   
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+

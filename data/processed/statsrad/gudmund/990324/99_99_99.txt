@@ -1,0 +1,1536 @@
+ Dette spørsmålet krever at
+jeg kort redegjør for regelverket knyttet til gebyr for
+tollforretninger.
+
+I henhold til tolloven § 7 kan Tollvesenet
+tillate at tollforretninger også kan utføres utenfor åpnings-
+og ekspedisjonstiden eller utenfor tollstedet.  For slike tollforretninger
+kan det kreves særskilt godtgjørelse til statskassen
+etter nærmere forskrift fastsatt av Kongen.
+
+Av tollovforskriftens punkt 2.3.1. og 2.4.1.
+framgår det at det skal betales et gebyr til statskassen
+for tollekspedisjoner og klarerings- og oppsynsforretninger
+som utføres utenfor tollsted, eller når tollstedet
+ikke er betjent.  Gebyret skal betales på grunnlag av gjeldende
+timesatser og skal ikke overstige kostnader Tollvesenet
+har til levering av tjenesteytelsene.
+
+Timesatsene for rekvirert overtid ble fastsatt
+av Stortinget i forbindelse med Stortingets behandling av St.prp. nr. 1
+for 1998-99 for Finans- og tolldepartementet og er nå 205
+kr pr. time for 50 pst. overtid og 275 kr pr. time for 100 pst.
+overtid.  For timesatser for kost- og skyssgodtgjørelse
+vises til den sentrale særavtalen «Regulativ for
+reiser innenlands for statens regning», som ble gjort gjeldende
+fra 1. mars 1998.
+
+Kristiansand distriktstollsted opplyser at
+praksis vedrørende ileggelse av gebyrer ble skjerpet høsten
+1998.  Endringen innebærer ikke noen forskjellsbehandling,
+men medfører tvert imot at distriktstollstedet nå har
+samme praksis som andre distriktstollsteder i landet, og at tollloven
+og tollforskriftens intensjoner dermed blir oppfylt.
+
+  Det jeg har skjønt ut fra opplysninger
+fra Kristiansand distriktstollsted, er at man nå har skjerpet
+håndhevelsen av det gjeldende regelverk noe, slik at i
+forhold til tidligere praksis er noen av nabokommunene rundt Kristiansand
+kommet dårligere ut. Men hvis man ser hele landet under
+ett, er dette en likebehandling. Det er ikke bare i Kristiansands-området man
+har den ulempen at det vil påløpe gebyrer ved
+en tjenesteytelse hvis man bor i en annen kommune eller noe ifra
+distriktstollstedet.
+
+Hvorvidt dette kan oppfattes som urimelig,
+vil jeg ikke ta standpunkt til. For meg er det i hvert fall et viktig poeng
+at man praktiserer regelverket likt over hele landet.
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Ligningsloven § 3-13 nr. 2 bokstav
+f bestemmer at ligningsmyndighetenes taushetsplikt ikke er til hinder
+for at opplysninger om overtredelse av bestemmelser innenfor skatteetatens
+forvaltningsområde gis til politiet eller påtalemyndigheten til
+bruk i en straffesak. Hvilke forhold som skal anmeldes, beror på ligningsmyndighetenes
+skjønn. Skattedirektoratet utarbeider retningslinjer for
+skjønnsutøvelsen.
+
+Hvorvidt en lovovertredelse skal anmeldes eller
+ikke, beror på dens omfang og på ligningsmyndighetenes
+vurdering av hvor klanderverdig den skattepliktige har opptrådt.
+I vurderingen vil en altså legge vekt på vedkommendes
+subjektive forhold. Her vil f.eks. profesjonalitet kunne få betydning.
+Det er imidlertid grunn til å understreke at det er personens
+opptreden i forhold til regelverket på ligningsmyndighetenes
+forvaltningsområde som er til vurdering, og ikke personens
+posisjon i samfunnet for øvrig. I denne sammenheng er det
+grunn til å understreke at hensynet til likebehandling
+må veie tungt.
+
+Påtalemyndighetens behandling av anmeldelsene
+og hvor langt avgjorte saker blir gjort offentlig kjent, kan jeg
+ikke gå inn på. Justisministeren har det politiske
+ansvaret for påtalemyndigheten, men bare Kongen i statsråd
+kan gi instruks til påtalemyndigheten. Som politikere bør
+vi generelt avholde oss fra å gripe inn i påtalemyndighetens
+arbeid.
+
+  Som jeg understreket i mitt første
+svar, må det være en førende holdning
+at man skal ha likhet for loven – likebehandling må veie
+tungt også i slike spørsmål.
+
+Som jeg ellers sa, bør ikke vi som
+politikere blande oss inn i påtalemyndighetens behandling
+av anmeldelsene. Jeg er enig i at man på det aktuelle området
+har andre reaksjonsmidler, som Monsen var inne på i sitt
+tilleggsspørsmål, men jeg føler ikke
+at det skal utelukke at enkelte saker likevel blir vurdert som så alvorlige
+at de bør anmeldes og behandles også som ordinære
+straffesaker.
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  I forbindelse med behandlingen av St.prp.
+nr. 1 for 1998-99 om skatte-, avgifts- og tollvedtak for 1999 ble
+det vedtatt et fritak for engangsavgift for ikke salgbare kjøretøy
+til undervisningsformål. Fritaket er en kodifisering av
+departementets mangeårige praksis med å gi avgiftsfritak
+for slike kjøretøy som stilles til disposisjon
+for undervisningsformål.
+
+Jeg viser for øvrig til svar på spørsmål
+om samme tema fra representanten Erik Dalheim, stilt i spørretimen den
+3. februar 1999. Det er i dag ikke regler om fritak for avgift ved
+gaver. Et generelt avgiftsfritak for kjøretøy som
+gis i gave til undervisningsformål, vil medføre
+et press i retning av å innføre fritak også for
+andre typer avgifter og til andre formål enn undervisning.
+De provenymessige konsekvenser av slike fritak vil da kunne bli
+store. Avgiftsfritak for gaver, men ikke for kjøp, vil
+dessuten kunne motivere til avgiftsspekulasjoner. På denne bakgrunn
+anser jeg et fritak for gaver å ha uheldige sider.
+
+Problemstillingen vil kunne opphøre
+ved en omlegging av engangsavgiften fra en innførselsavgift
+til en registreringsavgift. Toll- og avgiftsdirektoratet arbeider med
+en teknisk tilretteleggelse for en slik omlegging. Det kreves omfattende
+utredninger før en slik omlegging kan foretas, slik at
+det er vanskelig å tidfeste når ordningen vil
+kunne gjennomføres. Arbeidet er imidlertid prioritert.
+
+  Jeg er enig i at det er viktig at undervisningen
+på det aktuelle området er så realistisk
+som mulig. Jeg er også enig i at den teknologiske utviklingen
+gjør det nødvendig at bilene ikke er altfor gamle,
+hvis det skal bli en realistisk undervisning. Jeg mener nok allikevel
+at det er for betenkelig å gå inn på det
+som ligger i representantens spørsmål, her og
+nå – særlig når det kan være
+forhåpninger om at om ikke altfor lang tid løses
+dette problemet av seg selv, ved at det blir en registreringsavgift
+istedenfor som nå en innførselsavgift. Jeg kan,
+som jeg sa i mitt opprinnelige svar, ikke tidfeste når
+det vil komme. Men saken er prioritert, så det vil ikke
+brukes lengre tid på dette spørsmålet
+enn høyst nødvendig før en eventuell
+omlegging kan skje. 
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+

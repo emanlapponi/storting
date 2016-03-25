@@ -1,0 +1,489 @@
+Norge har gjennom eksisterende EØS-avtale godtatt direktivene om avl på dyr. Disse direktiver omhandler ikke innførsel som sådan. Innførsel av dyr til Norge reguleres gjennom forskrifter om dyrehelsemessige betingelser for handel med og innførsel av levende dyr. Disse forskrifter bygger på direktiver som også ligger inne i eksisterende EØS-avtale. Norge kan med hjemmel i disse forskriftene ikke stoppe innførsel av dyr som oppfyller de helsemessige/smittemessige krav til handel.
+
+
+
+
+Når det er sagt, vil jeg vise til den norske dyrevernloven § 5 første, andre og tredje ledd, hvor det sies at det er forbudt å endre dyrs arveanlegg på en slik måte at dyret blir uskikket til å utøve normal adferd eller får sine fysiologiske funksjoner påvirket i uheldig retning, at dyret blir påført unødig lidelse, eller at endringen vekker allmenne etiske reaksjoner. Det er videre forbudt å avle på dyr som er blitt slik. Forbudet i dyrevernloven er av helt generell karakter, omfatter alle dyrearter og rammer all avl og alle avlsprogrammer som kan sies å være i strid med bestemmelsen. Så langt jeg kjenner rasen Belgisk blå, vil dyr som har det såkalte hypertrofigenet, rammes av forbudet. Dyr som innføres, vil derfor ikke kunne brukes i avl, dersom avlen kommer i strid med forbudet i dyrevernloven. 
+
+
+
+
+Med forbehold om Stortingets samtykke, vil dyrevern fra 1. januar 1999 bli en del av EØS-avtalen gjennom revidert veterinærvedlegg til avtalen. Herunder vil også EUs nye direktiv 98/58 om beskyttelse av produksjonsdyr bli tatt inn. I dette direktivet angis bl.a. at det ikke skal være tillatt å drive med avl eller avlsprogrammer som vil medføre lidelse for de dyr det gjelder. Etter min mening kan direktivet tolkes på samme måte som § 5 i vår dyrevernlov og slik gi Norge grunnlag for å forby avl på Belgisk blå også i fremtiden. Denne fortolkningen kan bli reist overfor domstolen, noe vi eventuelt ikke kan forhindre.
+
+
+
+
+ Jeg er ikke overrasket over at spørsmålet stilles, i og med at vi har vært vitne til den debatten som har pågått i media i den senere tiden. I mitt svar forsøkte jeg å gi klart uttrykk for at når det gjelder vår situasjon gjennom den lovgivningen vi har i dag og den vi skal forholde oss til etter at Stortinget eventuelt har vedtatt EØS-avtalens nye vedlegg I, veterinæravtalen, vil vi i hvert fall ikke vil stå dårligere i forhold til å håndtere dette spørsmålet enn vi gjør i dag. 
+
+
+
+
+Det jeg imidlertid fant grunn til å ta med i mitt svar, er at denne saken naturligvis kan, som ellers innenfor det EØS-systemet vi har etter avtalen med EU, påklages til domstolen. Det kan ikke Norge forhindre. Men sett fra norske myndigheters ståsted mener vi at vi med det lovverket vi har i dag gjennom dyrevernloven, og det som vil ligge til grunn i den nye avtalen, vil stå sterkt når det gjelder å håndtere den saken ut fra bl.a. etiske synspunkter, som representanten viste til.
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+

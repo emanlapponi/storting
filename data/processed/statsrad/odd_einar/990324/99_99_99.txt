@@ -1,0 +1,2119 @@
+ I henhold til utlendingsforskriftens § 87
+skal det ved innreise foretas passkontroll av utlendinger på grenseovergangssted
+ved nordisk yttergrense. Sandefjord politidistrikt har siden Sandefjord
+Lufthavn Torp ble åpnet for utenlandstrafikk hatt denne
+oppgaven.
+
+Trafikkøkningen over Sandefjord Lufthavn
+Torp har medført et økt krav om politinærvær
+i lufthavnen. Justisdepartementet har i den forbindelse bedt Sandefjord
+politidistrikt om å framlegge en plan innen utgangen av
+mars for hvordan politidistriktet skal kunne løse sine
+oppgaver på lufthavnen. 
+
+Justisdepartementet vil deretter, i samarbeid
+med Sandefjord politidistrikt, vurdere behovet for tilførsel
+av ressurser. 
+
+ Etter de opplysninger jeg har om en Schengen-implementering,
+så vil mye av passkontrollen bortfalle under forutsetning
+av at det foretas flygninger til de samme destinasjoner som i dag. 
+
+Det er likevel et poeng at det er behov for
+en passkontroll og derfor ble Sandefjord politidistrikt tilført
+200 000   kr ekstra i 1998,
+som er videreført i 1999. En forutsetning for å få disse
+ekstra midlene var at man skulle ha en 100 pst. passkontroll, slik
+var det ikke i 1998.
+
+Det er rett som representanten Monsen sier,
+at det har vært en formidabel trafikkøkning – som
+en tidligere samferdselsminister gjerne gleder seg over – men
+trafikkøkningen har også ført til slik
+utfordringer for politiet som er nevnt. Vi har derfor bedt om en
+plan, og vi vil på bakgrunn av den foreta en vurdering
+sammen med politidistriktet med hensyn til hvordan jobben kan gjøres,
+slik som det er stilt spørsmål om fra representanten
+Monsen. Det ligger i sakens natur at politiet ofte har mange ting
+de må prioritere, og vi vil drøfte dette sammen
+med Sandefjord politidistrikt. 
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ Justisdepartementet opprettet 30.
+mai 1996 en arbeidsgruppe som skulle utrede etableringen av et voldsofferfond
+som kan yte direkte eller indirekte støtte til
+voldsofre. Arbeidsgruppen skulle også utrede ulike modeller
+for organisering av tiltaket.
+
+Bakgrunnen var et Dokument nr. 8-forslag av
+5. oktober 1995 fra representanten Jan Simonsen om å be
+Regjeringen etablere et slikt fond. Etter forslaget skulle alle personer
+som blir dømt for et lovbrudd som kan medføre fengselsstraff,
+pålegges en engangsavgift. Justiskomiteen uttalte i Innst.
+S. nr. 96 for 1995-96 at innføring av et voldsofferfond
+kan være et virkemiddel for å bedre voldsofrenes
+stilling. Stortinget vedtok 14. desember 1995 å be Regjeringen
+utrede etablering og finansiering av et slikt voldsofferfond.
+
+Det fremgår av arbeidsgruppens innstilling
+side 33 at man fortolket mandatet slik at det forutsatte at et eventuelt
+voldsofferfond skulle finansieres ved hjelp av en avgift som skulle
+pålegges personer som blir ilagt en strafferettslig reaksjon.
+
+Arbeidsgruppen avgav 7. februar 1997 sin innstilling til
+Justisdepartementet, utgitt som NOU 1997: 11. I innstillingen foreslås
+opprettet et kriminalitetsofferfond som bl.a. skal finansiere dagens
+statlige voldsoffererstatningsordning og andre tiltak for å reparere
+skader etter kriminalitet, samt forskning rundt kriminalitet, ofre
+og skadevirkninger. Fondet foreslås finansiert ved at alle som
+blir ilagt en straffereaksjon – med unntak av påtaleunnlatelse
+etter straffeloven § 69 – skal betale
+en avgift tilsvarende ett rettsgebyr, pr. 1. januar 1999 på 530
+kr. Avgiften skal ikke følge antall lovovertredelser, men
+antall strafferettslige reaksjoner. Videre legges det opp til at avgiften
+til fondet ikke er å anse som straff. Forslaget innebærer
+at fondet anslagsvis vil få tilført midler på ca. 100 mill. kr
+pr. år.
+
+Forslaget ble sendt på høring
+ved brev 10. juni 1997, med svarfrist til 10. september 1997. En
+hovedinnvending fra høringsinstansene er at avgiftsplikten
+ut fra rettferdsbetraktninger ikke bør ramme alle typer lovovertredelser
+likt. Det er ikke riktig å pålegge dem som blir
+ilagt forenklet forelegg for mindre forseelser, en avgift til et
+kriminalitetsfond. Videre er forholdet til Grunnlovens § 96
+av noen ansett problematisk, idet en avgift som foreslått
+i utredningen vil ligge tett opp til en strafferettslig reaksjon,
+ettersom det dreier seg om en avgift utløst av en straffbar
+handling. Det er vist til at en eventuell ileggelse av avgiften
+derfor må skje ved dom.
+
+Jeg beklager at behandlingen av saken har trukket
+ut i tid. Saken har imidlertid reist flere vanskelige og prinsipielle
+spørsmål, som nevnt ovenfor. Jeg vil imidlertid
+på grunn av sakens bakgrunn og alvor komme tilbake til
+saken overfor Stortinget i løpet av kort tid.
+
+  Representanten og jeg deler faktisk forundringen
+over at mange mennesker som har vært utsatt for kriminelle
+overgrep, ofte står i den situasjon at de blir etterlatt.
+De opplever det ofte som om – og stiller spørsmål
+om – det egentlig var deres skyld.  Det er en total uvirkelig
+situasjon, og jeg går ut fra at det også var bakgrunnen
+for at Stortinget i sin tid drøftet det.  
+
+Jeg har et engasjement rundt dette.  Jeg har
+truffet mennesker som har vært i den livssituasjonen som
+representanten reiser spørsmål om.  Derfor har
+jeg også valgt å svare som jeg gjorde, at jeg
+vil gjøre det jeg kan for å komme tilbake med
+saken så fort som mulig.
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ Justisdepartementet har ansvaret for å se
+ressurstildelingen til politidistriktene i sammenheng, og må derved
+forsøke å få til en mer lik polititjeneste
+for alle innbyggerne her i landet.
+
+Ressurstildelingen til politiet i Halden har
+vært tema for flere spørretimespørsmål
+denne sesjonen, og i mitt svar må jeg derfor komme inn
+på forhold som har vært nevnt ved disse anledningene.
+
+Selv om Halden politidistrikt har mistet to
+stillingshjemler for 1999, har distriktet en bemanning som ligger godt
+over gjennomsnittet for norske politidistrikt. Halden har, etter
+at disse stillingshjemlene er trukket fra, fremdeles 2,0 polititjenestemenn
+pr. 1000 innbyggere, mens landsgjennomsnittet er 1,8. Det betyr
+i praksis at Halden politidistrikt har ni politistillinger over
+landsgjennomsnittet.
+
+I tillegg får politidistriktet på inneværende års
+budsjett 500 000 kr til sin grensekrimgruppe og
+1 450 000 kr fra Utlendingsdirektoratet
+i ekstraordinære midler til grensekontroll. På denne
+bakgrunn mener jeg Halden politidistrikt er tilfredsstillende utrustet
+til å etterforske de sakene som oppstår gjennom
+grensekontroll, enten kontrollen foretas av Tollvesenet eller av
+politiet selv.
+
+Det er meget viktig at politimesteren i Halden
+har et løpende internt arbeid for å bedre distriktets
+ressursutnyttelse.
+
+  Representanten reiser en serie viktige spørsmål
+i sin kommentar. For det første om det er en viktig oppgave å slå til
+mot organisert kriminalitet, og svaret på det er ja. Vi
+jobber med å få i gang metodeinnsats så raskt
+som mulig. Dernest stiller man spørsmålet om hvordan
+man jobber effektivt. Jeg foretar for tiden reiser til de ulike
+politidistriktene for å se på det, og jeg ser
+mange steder at man er svært dyktig og effektiv. Situasjonen
+er at politiet i Halden på mange måter er svært
+dyktig, og de ligger også, som jeg sa, bemanningsmessig
+over det som er situasjonen i Østfold for øvrig. Dessuten
+viser det seg, ut fra det jeg nå har sett, at Halden ligger
+godt an når det gjelder oppklaringsprosent, saksbehandlingstid
+og restanser. Med andre ord: Det er det all mulig grunn til å rose
+politidistriktet for. 
+
+Den generelle utfordring som representanten
+tok opp med organisert kriminalitet, tar jeg med meg, for den er så alvorlig
+at den kan aldri bagatelliseres.
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Ordningen med voldsalarm til personer som
+blir utsatt for voldsovergrep og trusler, ble satt i verk fra 1.
+september 1997 som et prøveprosjekt. En tilsvarende
+ordning var tidligere utprøvd i Sverige. Målgrupper
+for tildeling av alarm er først og fremst kvinner som trues
+av nåværende eller tidligere ektefeller og samboere,
+bl.a. når de sistnevnte er anmeldt for voldsbruk eller
+trusler, eller når disse har permisjon fra eller har endt
+soning i fengsel. I tillegg er eldre personer som utsettes for vold
+eller trusler, en viktig målgruppe. Også menn
+som utsettes for tilsvarende vold og trusler, vil kunne søke
+om å få tildelt alarm, selv om det antas at dette
+er relativt få.
+
+Voldsalarmen er en alarmtelefon som er knyttet
+til hjemmet. Alarmen utløses ved hjelp av en fjernutløser som
+vedkommende bærer på seg, og som aktiviseres ved trykk.
+Alle lyder og samtaler i huset eller leiligheten vil da bli hørt
+av alarmsentralen, som kan føre en toveissamtale, om det
+er ønskelig. Voldsalarmen er av denne grunn uhensiktsmessig å bruke
+andre steder langt fra hjemmet, fordi man er avhengig av å vite
+hvor eventuelle trusler og overgrep finner sted. Politiet vil også ha
+opplysninger om hvem det er som anses å stå bak
+eventuelle trusler eller voldsbruk.
+
+Det er den lokale politimyndigheten som vurderer
+om tildeling skal finne sted innenfor de retningslinjer som er lagt
+til grunn for bruk av slik alarm. Politiet skal vurdere det konkrete
+tilfellet, og om det er hensiktsmessig med alarm. Politiet skal
+alltid rykke ut til alarmstedet ved alarm.
+
+Ordningen med alarm skal evalueres i løpet
+av 1999, som er siste året i prøveperioden. Imidlertid
+synes foreløpige erfaringer å tyde på at
+ordningen har virket meget tilfredsstillende. Hittil har 386 klienter
+fått tildelt voldsalarm, Det er pr. 22. mars i år
+i bruk 186 alarmer, hvilket betyr at en del alarmer er levert tilbake
+til politiet. Politiet anbefales å informere den potensielle
+voldsutøveren om at den volds- og trusselutsatte har fått
+tildelt alarm. Slik informasjon skal imidlertid alltid godkjennes
+av og gjøres etter samtykke fra den volds- og trusselutsatte.
+Men det antas at slik informasjon i de fleste tilfeller vil ha en forebyggende
+effekt. Hittil tyder dessuten mye på at antall trusler
+går radikalt ned etter at voldsalarm er tildelt. Etter
+min oppfatning fungerer ordningen med voldsalarm meget godt, og
+jeg ser ingen grunn til å foreta meg noe i denne forbindelse
+under prøveperioden.
+
+Voldsalarmen kan ikke brukes overalt av den
+volds- og trusselutsatte av tekniske årsaker,  men den
+er etter min mening til stor hjelp for en del mennesker som har muligheter
+til å bruke den. Spørsmålet fra representanten Danielsen
+inneholder for få opplysninger til å kunne si noe
+konkret om en tildeling i det refererte tilfellet ville kunne være
+til beskyttelse. Det framgår ikke av spørsmålet
+om overfallet kom etter vedvarende trusler mot familien. Det er
+en forutsetning for tildeling at man vet om det er slik form for
+trusler, og hvem som står bak truslene. Imidlertid er det
+politiet som tar avgjørelsen om personer skal tildeles
+voldsalarm. Fra departementets side er det ikke lagt begrensninger
+for tildeling utover det som tekniske forutsetninger medfører,
+og det som anses formålstjenlig.
+
+  Det må være en misforståelse
+hvis man tror at politiet ikke tar hensyn til ofrene for kriminalitet.
+Det gjør jo politiet åpenbart. Det er deres plikt,
+og det er mitt inntrykk at det er det de også gjør.
+
+Når jeg ikke kan kommentere en enkeltsak,
+er det fordi at det sjelden skjer fra Stortingets talerstol. Det
+ville ikke være prinsipielt riktig. Men jeg skjønner
+alvoret i spørsmålet. På generelt grunnlag
+sa jeg at ordningen er vellykket. Det er ingen begrensninger fra
+departementets side når det gjelder å bruke dette,
+altså er det til stede en politioperativ vurdering, og
+den politioperative vurderingen stoler jeg på at politiet
+foretar. Og hvis det skulle vise seg at det ikke skjer, er vi i
+en annen situasjon. Da er vi i en mer allmenn situasjon. 
+
+Men mitt utgangspunkt er at politiet foretar
+en slik politioperativ vurdering, og at man da reagerer, dersom man
+finner det nødvendig, ved å tildele alarm. Og
+det er også slik, som jeg sa, at det da også skal
+utarbeides en spesifisert og prioritert varslingsliste over hvem
+som skal kontaktes ved en eventuell alarm. Det er svært
+viktig at det brukes, og jeg forstår den utrygghetsfølelsen
+som mennesker opplever når de blir utsatt for slike begivenheter
+som jeg skjønner var bakgrunnen for at representanten stilte
+sitt spørsmål til meg.
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4312 @@
+ Ingen har bedt om ordet.
+
+(Votering, se side 2771)
+
+
+
+
+
+                    
+
+ Til sakene nr. 2, 3 og 4 foreligger
+
+det ikke noe voteringstema.
+
+
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+        
+
+
+            
+
+
+                
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Tilhører sak
+
+
+
+            
+
+
+	
+                        
+
+
+                            
+
+Suppleringsvalg til delegasjonen for forbindelse med Europaparlamentet
+
+
+                        
+
+
+                
+                    
+
+
+                        
+
+Gå til saker
+
+
+                    
+
+
+                
+
+
+
+            
+        
+
+
+    
+
+
+
+
+
+
+    
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Alt om
+
+
+
+            
+
+
+	
+                    
+
+
+                
+                    
+
+
+                        
+
+ Efta/eu
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Stortinget
+
+
+                    
+
+
+                
+                    
+
+
+                
+
+
+
+            
+
+
+            
+
+
+                
+
+ Gå til alle temaer
+
+
+            
+
+
+
+        
+
+
+    
+
+
+
+
+
+
+
+
+            
+
+
+        
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ Da er vi klare for votering.
+
+
+
+
+
+                
+                
+                
+
+Voteringen i en sak finnes i slutten av referatet for hver enkelt sak.
+
+
+            
+
+
+            
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+   
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+       var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ Ingen har bedt om ordet.
+
+(Votering, se side 2772)
+
+
+
+
+
+                    
+
+ Det voteres over forslag fra representanten
+
+Trond Helleland på vegne av Høyre oversendt fra Odelstingets
+
+møte 23. mars 1999.
+
+Trond Helleland – til stemmeforklaring.
+
+ Da vi i løpet av dagen er blitt gjort
+
+kjent med at det ligger et lignende forslag til behandling i justiskomiteen,
+
+ber jeg om at forslaget blir oversendt.  
+
+ Da er også dette forslaget
+
+gjort om til et oversendelsesforslag.  Forslaget får da
+
+følgende ordlyd:
+
+«Det henstilles til Regjeringen å opprette
+
+et hurtigarbeidende barnekriminalitetsutvalg, der målet
+
+er å lage en tiltaksliste som kan forebygge og møte
+
+barne- og ungdomskriminalitet.»
+
+Presidenten foreslår at forslaget
+
+oversendes Regjeringen uten realitetsvotering. – Det anses
+
+vedtatt.
+
+
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+        
+
+
+            
+
+
+                
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Tilhører sak
+
+
+
+            
+
+
+	
+                        
+
+
+                            
+
+Forslag fra stortingsrepresentant Trond Helleland på vegne av Høyre oversendt fra Odelstingets møte 23. mars 1999:
+(Jf. Innst. O. nr. 49)
+
+"Stortinget ber Regjeringen opprette et hurtigarbeidende barnekriminalitetsutvalg, der målet er å lage en tiltaksliste som kan forebygge og møte barne- og ungdomskriminalitet."
+
+
+                        
+
+
+                
+                    
+
+
+                        
+
+Gå til saker
+
+
+                    
+
+
+                
+
+
+
+            
+        
+
+
+    
+
+
+
+
+
+
+    
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Alt om
+
+
+
+            
+
+
+	
+                    
+
+
+                
+                    
+
+
+                        
+
+ Barnevern
+
+
+                    
+
+
+                
+                    
+
+
+                
+
+
+
+            
+
+
+            
+
+
+                
+
+ Gå til alle temaer
+
+
+            
+
+
+
+        
+
+
+    
+
+
+
+
+
+
+
+
+            
+
+
+        
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ Etter ønske fra familie-, kultur- og administrasjonskomiteen vil presidenten foreslå at debatten blir begrenset til 1 time og 15 minutter, og at taletiden blir fordelt slik på gruppene:
+
+
+
+
+Arbeiderpartiet 25 minutter, Fremskrittspartiet 10 minutter, Kristelig Folkeparti 10 minutter, Høyre 10 minutter, Senterpartiet 5 minutter, Sosialistisk Venstreparti 5 minutter, Venstre 5 minutter og Tverrpolitisk Folkevalgte 5 minutter.
+
+
+
+
+Videre vil presidenten foreslå at det blir gitt høve til replikkordskifte på inntil tre replikker med svar etter innlegg fra hovedtalerne fra hver partigruppe og fem replikker med svar etter innlegg fra medlemmer av Regjeringen.
+
+
+
+
+Videre blir det foreslått at de som måtte tegne seg på talerlisten utover den fordelte taletid, får en taletid på inntil 3 minutter.
+
+
+
+
+– Det anses vedtatt.
+
+
+
+
+(leiar av komiteen og ordførar for saka): Dokument nr. 8:111 frå stortingsrepresentantane Sylvia Brustad og Karita Bekkemellem Orheim om at einslege skal få høve til å adoptere på lik line med andre dersom søkaren oppfyller dei krava til ressursar og omsorgsevne ein bør sette til adoptivforeldre, har ikkje fått fleirtal i komiteen. 
+
+
+
+
+Komiteen er derimot einig i at ingen har krav på eller rett til å adoptere. Komiteen tar utgangspunkt i at adopsjon alltid må vere til barnets beste. Alle som søker om å få adoptere, må difor underleggast ei streng vurdering, der ein må legge vekt på at søkaren både har føresetnad og moglegheiter for å gi barnet ein trygg og harmonisk oppvekst. Så langt er komiteen einig, men deler seg i synet på einslege og adopsjon. Eg går ut frå at dei ulike partia vil ta for seg sine synspunkt. 
+
+
+
+
+Dagleg blir vi minna om mange barn som lid og manglar ein heim. I adopsjonsdebatten vi har hatt i Noreg, kan ein få inntrykk av at mange av dei foreldrelause barna er tilgjengelege for adopsjon. Men slik er ikkje røyndomen. I barnas heimland er adopsjon til utlandet ofte eit svært kontroversielt og kjensleprega politisk spørsmål, og det kan vere sterke krefter i landet som motarbeider utanlandsadopsjon. Det er faktisk ikkje slik at millionar av barn ventar på ein ny heim i eit rikt vestleg land, men millionar av barn treng hjelp.
+
+
+
+
+Det er i dag tre adopsjonsforeiningar som formidlar adopsjon frå utlandet, og det er kø av godkjende par som ventar på å få tildelt adoptivbarn. 
+
+
+
+
+Det er ofte ikkje stor skilnad på om ein lever saman med eigenfødde eller adopterte barn. Men når ein lever med barn frå eit anna land, møter ein ofte ein del ekstra utfordringar. Barna kjem frå ein annan kultur og ser som regel annleis ut enn adoptivforeldra. Barn som blir adopterte frå utlandet, har på ein eller annan måte mista dei som naturleg skulle ha vore omsorgspersonar. Ofte veit ein lite om barnets bakgrunn, men vi veit at mange av desse barna lid av underernæring eller understimulering. Nokre av barna har også opplevd fysisk og psykisk mishandling. Sjølv om dei fleste adoptivbarna som veks opp i Noreg, klarer seg bra, vil nokre, m.a. på bakgrunn av problem i tidleg barndom, ha periodar som kan vere spesielt krevjande. Adoptivbarna kan ha med seg ein «handbagasje» som dei nye foreldra ikkje kjenner til. På bakgrunn av dei mange usikre faktorane ved utanlandsadopsjon har vi ekstra strenge retningsliner ved handsaming av adopsjonssøknader, og det meiner vi i Kristeleg Folkeparti at det framleis må vere. 
+
+
+
+
+Debatten som har gått om adopsjon, har vore meir prega av vaksnes ønske om å få barn enn av det behovet barna har for foreldre. 
+
+
+
+
+Arbeidarpartiet foreslår at einslege skal få moglegheit til å adoptere på lik line med andre. Kristeleg Folkeparti meiner at det må stillast strengare krav til einslege enn til par, nettopp fordi det er meir krevjande å vere aleine om eit adoptivbarn enn når det er både ei mor og ein far. 
+
+
+
+
+Av dei nye retningslinene frå Barne- og familiedepartementet går det fram at ein i enkelte tilfelle kan opne opp for einslege søkarar der andre forhold kan kompensere for at det berre er ein forelder. I forskriftene har det såleis vore ei oppmjuking i forhold til einslege og adopsjon. Denne oppmjukinga blei gjord etter at Arbeidarpartiet fremma Dokument nr. 8-forslaget, men vi går ikkje så langt som representantane Brustad og Bekkemellem Orheim gjer i Dokument nr. 8-forslaget. 
+
+
+
+
+Kristeleg Folkeparti meiner at ein bør gjere sitt beste for å gi adoptivbarna både ei mor og ein far. Er dette viktig generelt, er det spesielt viktig for adoptivbarn. 
+
+
+
+
+ Det blir replikkordskifte.
+
+
+
+
+ I mange land ses enslige adopsjonssøkere på som en stor ressurs som kan gi barnet sin fulle og hele oppmerksomhet, i motsetning til når man er to. Enkelte land gir også muligheten for at enslige skal få lov å adoptere. 
+
+
+
+
+I Dagsavisen den 7. september 1998 sier statsråden at enslige skal bakerst i køen. Familiene skal først, til beste for barnet. Den diskusjonen skal vi ta senere. Er det slik at i de land som tillater at enslige kan adoptere, vil likevel Kristelig Folkeparti at de enslige skal stå bakerst og ikke få muligheten til å hjelpe de barna som trenger det sårt? 
+
+
+
+
+ Kristeleg Folkeparti har streka under at vi meiner det er best for barnet å ha ei mor og ein far. Men vi har opna for at einslege som har spesielle ressursar, kan bli vurderte og godkjende som adoptivforeldre. Det finst gode eksempel på dette, at det i ein del tilfelle har vore fornuftig. 
+
+
+
+
+No er det slik at adopsjonssøkarane blir godkjende i Noreg, men det er i utlandet det blir bestemt kven som blir tildelt dei ulike barna. Det er ikkje slik at det er vi i Noreg som sit og bestemmer kven som skal få adoptere det eine eller det andre barnet. I enkelte land vil ein vere svært streng i forhold til å frigi barn til adopsjon til einslege, medan andre – som representanten Fossum nemnde – godkjenner det. Men det er desse landa som går gjennom dei godkjende adoptivsøkarane og bestemmer kven som får adoptere, og kven som ikkje får. Det er ikkje slik som ein av og til får inntrykk av, at det er adopsjonsforeiningane i Noreg som avgjer dette. Dei har eigne kontor i dei forskjellige landa som dei har eit samarbeid med, men det er utlandet som tildeler barna. Vi har sagt generelt at det er viktig at vi har strenge reglar i forhold til godkjenning av adoptivforeldre, og det held vi framleis fast ved.
+
+
+
+
+ Presidenten vil spørre representanten om hun ønsker å ta opp forslaget fra Kristelig Folkeparti, Høyre og Senterpartiet.
+
+
+
+
+ Takk for påminninga. Eg vil hermed ta opp det forslaget som vi har i innstillinga.
+
+
+
+
+ Representanten Molvær Grimstad har tatt opp det forslag hun refererte til.
+
+
+
+
+Flere har ikke bedt om ordet til replikk.
+
+
+
+
+Dagens familiestruktur og samlivsmønstre har forandret seg radikalt de siste årene. For 20 år siden ble de aller fleste barn født innenfor ekteskapet, i dag gjelder dette bare halvparten.
+
+
+
+
+Hverdagen for svært mange barn i Norge er at de lever sammen med enslige foreldre og hos samboende foreldre. Representanten Brustad og jeg selv har fremmet et forslag som gir enslige muligheten til å adoptere på lik linje med andre dersom søkeren oppfyller de krav til ressurser og omsorgsevne en bør sette til adoptivforeldre. 
+
+
+
+
+I dag er det intet forbud mot at enslige adopterer i Norge, men det har utviklet seg en praksis der det er svært vanskelig for enslige å bli forhåndsgodkjente som adoptivforeldre. Gjennom de siste ni årene er det kun gitt én forhåndsgodkjenning, med unntak av omgjøring av et vedtak i 1997. Det kan virke som om departementets nye retningslinjer og praksis legger mer vekt på erfaring gjennom arbeid enn erfaringer ellers. Dette tror jeg er en feil vei å gå. Det vil ikke nødvendigvis være en garanti for å være en bedre forelder at en eksempelvis er småbarnspedagog. Målsettingen må være at vi ikke legger opp til en forskjellsbehandling der det vil være avgjørende for at en skal få adoptere at en har tatt det riktige yrkesvalget. Arbeiderpartiet mener at det hele tiden må være hensynet til barnets beste som må være det viktige og det helt grunnleggende. Dette betyr at det er barnets primære interesser som først og fremst skal ivaretas.
+
+
+
+
+Det vil være riktig å sikre barna trygghet både juridisk og sosialt. I Norge har vi strenge regler for adopsjon. Og jeg er nødt til å spørre om hvordan Kristelig Folkeparti og Høyre kan mene at enslige kvinner ikke er egnet som mødre hvis de av en eller annen grunn ikke har født barnet selv. Forskning viser at det ikke er den enslige statusen som er avgjørende for hvordan det går med barnet, men at personlig egnethet, omsorgsevne, fleksibilitet i holdninger, stabilt og sosialt nettverk, tidlig tilknytning til barnet og sosioøkonomiske ressurser spiller en viktig rolle. 
+
+
+
+
+Arbeiderpartiet mener at det skal være en siling, at ikke hvem som helst skal få adoptere. Målet må være å sile ut de uegnede personene, de som ikke kan tenkes å kunne dra omsorg for barn fordi de ikke er personlig egnet til det, ikke å sile ut egnede, villige mennesker på altfor rigide og irrelevante premisser. 
+
+
+
+
+En samlet komite understreker viktigheten av at alle som søker om å få adoptere, må underlegges en streng vurdering der det legges vekt på at søkeren har forutsetninger og muligheter for å kunne gi barnet en trygg og harmonisk oppvekst. 
+
+
+
+
+Det er ingen tvil om at det er mange barn i dag som har behov for den omsorg og trygghet og de juridiske fordeler en adopsjon kan gi. Jeg beklager at komiteens flertall, med unntak av Arbeiderpartiet og SV, mener at det ut fra barnets behov er det beste å gi barnet både en mor og en far. I dag er det svært mange barn som lider og som ikke har noen trygg oppvekst, ved at de bor sammen med sin mor og far. Denne romantiseringen av to foreldre som det eneste riktige er etter min oppfatning feil. Mange barn kan faktisk få et bedre liv ved å dele på å bo hos mor og far. 
+
+
+
+
+Komiteens medlemmer fra Kristelig Folkeparti, Høyre og Senterpartiet hevder at departementet har foretatt en oppmyking av dagens praksis. Komiteens medlemmer fra Arbeiderpartiet mener at den praksis som i dag virker, gjør det svært vanskelig for enslige å bli vurdert som adoptivforeldre fordi det kreves en spesiell tilknytning til barnet for å kunne adoptere. I Sverige har enslige hatt muligheten til å adoptere i 30 år, og undersøkelser fra Sverige viser at dette går svært bra. 
+
+
+
+
+Til slutt vil jeg ta opp Arbeiderpartiets og SVs forslag.
+
+
+
+
+ Representanten Bekkemellem Orheim har tatt opp det forslaget hun refererte til.
+
+
+
+
+Det blir replikkordskifte.
+
+
+
+
+ Representanten Karita Bekkemellem Orheim bruker innledningsvis i innlegget sitt de samme uttrykkene som står i merknadene, og legger stor vekt på disse, samtidig som hun tar avstand fra romantisering av familien, i den forstand at en familie består av mor, far og barn. Representanten skriver også i merknadene:
+
+
+
+
+
+
+
+«Disse medlemmer viser til at familiestrukturen og samlivsmønstrene har forandret seg. For 20 år siden ble de aller fleste barn født innenfor ekteskapet, i dag gjelder dette bare halvparten. Mange barn lever sammen med enslige foreldre og hos samboende foreldre.»
+
+
+
+
+Dette er selvfølgelig, og jeg skal ikke gå inn på hvorfor vi har fått en slik utvikling, men det skal vel ikke spekuleres så mye i det for å forstå at den som har sittet med den politiske makten i de 20 årene, kanskje skal ta noe av ansvaret for at vi har fått en slik utvikling. Spørsmålet mitt blir: Er det slik at Arbeiderpartiet og Karita Bekkemellem Orheim aksepterer og ønsker denne utvikling, og gjennom sitt forslag også ønsker en videre utvikling av at barn skal vokse opp sammen med enslige og i mangel på mønster?
+
+
+
+
+ Ja, nå er skylden lagt på Arbeiderpartiet. Vi er vant til å ta ansvar for mye av det som har skjedd i det norske samfunnet de siste tiårene, men jeg syns det er å gå vel langt hvis vi nå også skal ta ansvar for det som skjer innenfor husets fire vegger. Det kan jeg ikke ta på meg ansvaret for. Men det Per Sandberg spør om, er en viktig ting. Det er hvordan vi kan verne om å leve bedre sammen i familien, og det er en utfordring som alle partier bør ta tak i på en langt bedre måte enn vi har gjort til nå. 
+
+
+
+
+«Romantisering av familien», sier Per Sandberg. Det er ingen tvil om at det beste vil være hvis man kan leve lykkelig innenfor et ekteskap med mor, far og to barn. Men slik er ikke virkeligheten. Innenfor husets fire vegger opplever vi også at ekteskapet ikke nødvendigvis er det aller beste for barna. I mange tilfeller er det til barnas beste at en kan få en skilsmisse, og at en får delt samværsrett mellom foreldrene.
+
+
+
+
+Når det gjelder det at vi legger vekt på de merknadene som vi la opp til i den innstillingen vi har lagt fram, skulle det bare mangle. Vi mener at det er barnas beste som må være det avgjørende hele veien. Men vi kan ikke komme bort fra at det er mange enslige i dag som har store ressurser og gode muligheter til å gi barn gode oppvekstvilkår. Det hadde jeg oppriktig talt ønsket at også Fremskrittspartiet ville sett på på en litt annen måte enn det de har gjort i denne saken.
+
+
+
+
+ Karita Bekkemellem Orheim uttalte i innlegget sitt at Kristeleg Folkeparti sitt syn på adopsjon i forhold til einslege forsørgjarar var negativt. Det vil eg sterkt ta avstand frå. Det har ingen ting med vårt syn på einslege forsørgjarar å gjere. Det er mange flotte einslege forsørgjarar som gjer ein glimrande og god innsats for barna sine, og eg er ikkje i tvil om at barna kan ha det godt. Der foreldra er skilde, og det er enten mor eller far som har det daglege samværet, eller om det er delt, har barna likevel ei mor og ein far. Men skal ein opna for å ha ein veldig liberal politikk når det gjeld høve til adopsjon for einslege, opnar ein for at svært mange barn skal få berre enten mor eller far, og det er noko heilt anna. Eg vil åtvare mot å trekke dei to tinga saman, for dei er nokså forskjellige. Vi er opptatt av å gi barna ei mor og ein far. Dei som skil seg, er framleis mor og far, men dei lever ikkje i lag.
+
+
+
+
+ Det jeg føler Kristelig Folkeparti nå prøver å gjøre, er å si ja. De prøver på en måte å gi inntrykk av at de aksepterer at det er greit at enslige får adoptere, men dette er en fordekt argumentasjon, for Kristelig Folkeparti ønsker ikke det. Vi har en meget restriktiv praksis. Den oppmykingen departementet nå har gitt sin tilslutning til, betyr i realiteten at det er svært få enslige som vil få anledning til å adoptere. Hvis Kristelig Folkeparti virkelig hadde ment at enslige burde få rett til det, hadde de i dag gått inn for det dokumentforslaget som Arbeiderpartiet fremmet.
+
+
+
+
+Hans J. Røsjorde hadde her gjeninntatt presidentplassen.
+
+
+
+
+ Det viktigste når det gjelder det Karita Bekkemellem Orheim har sagt nå, og det viktigste som ligger i forslaget, er egentlig at enslige endelig blir anerkjent som omsorgspersoner. Lenge nok har problemfokuseringen vært festet på den enslige omsorgspersonen nærmest som en trussel mot barns oppvekst. Endelig blir enslige anerkjent som absolutt kompetente til å ta vare på sine egne barn. Men nå stuper Arbeiderpartiet ut i den motsatte grøftekant. Fordi de etter mange år, har funnet ut at enslige faktisk klarer å ta vare på barna sine, mener de nå at når det gjelder å ta vare på andres barn, er det nok med en forelder. Det er å stupe fra grøftekant til grøftekant. Det er stor forskjell på å være en god forelder og omsorgsperson for sitt eget barn, og det som enslig å bli vurdert som omsorgsperson for andres barn. Det er det vi snakker om når det gjelder adopsjon.
+
+
+
+
+Mener Arbeiderpartiet at tanken med to foreldre egentlig er gammeldags og bør forlegges som gammelt arvegods, og at vi i fremtiden egentlig kan klare oss med en forelder til barna?
+
+
+
+
+ Nei, Arbeiderpartiet har ikke blitt så moderne at vi mener det er avleggs at vi skal ha en familie som består av to foreldre. Men i motsetning til Høyre mener vi faktisk at vi må åpne øynene for den virkeligheten som svært mange barn i dag befinner seg i. Punkt nr. 1 er at mange i Norge i dag vokser opp med kun en mor eller en far. Punkt nr. 2 er at det i verden i dag er svært mange barn som har behov for et trygt og godt hjem. Hvorfor i all verden skal ikke da enslige som har ressurser, økonomisk som sosialt, få muligheten til å kunne bli vurdert som forelder til disse barna? Hvorfor er det slik at det kun er hvis man er så heldig å leve i et ekteskap, at man skal bli vurdert? Arbeiderpartiet syns det er helt feil. Så lenge man har kvaliteter, og man blir underlagt en streng kontroll som omsorgsperson, må det være det viktige. Jeg må si at jeg syns at Høyre, Kristelig Folkeparti og Fremskrittspartiet i denne saken har en gammelmodig og lite moderne holdning til det som burde være en moderne familiepolitikk inn i et nytt årtusen.
+
+
+
+
+ Dermed er replikkordskiftet omme.
+
+
+
+
+Fremskrittspartiet har behandlet dette spørsmålet i flere møter i stortingsgruppen. Og det er ikke til å legge skjul på at det i vår gruppe var en enstemmig tilslutning til at vi ikke ønsket noen ytterligere utvikling i retning av på en måte å gjøre familien betydningsløs. 
+
+
+
+
+Fremskrittspartiet ønsker å bevare adopsjonsloven i sin nåværende form. Et restriktivt lovverk om adopsjon er nødvendig. Det er også viktig å få fram at det ikke er noe forbud mot at enslige får adoptere. Det kan gjøres visse unntak, og det ønsker Fremskrittspartiet å bevare. Det er i de tilfeller hvor barnet på forhånd er knyttet til eller kjenner den som skal adoptere. 
+
+
+
+
+Egentlig er denne debatten ganske typisk. Den har viklet seg inn på et spor som ikke omfatter hva som er til det beste for adoptivbarna. Forslaget fra Arbeiderpartiet går på de ensliges rettigheter, hvorvidt de enslige skal få lov å adoptere på lik linje med par hvis en oppfyller de krav til ressurser og omsorgsevne en stiller til adoptivforeldre. Det er her Fremskrittspartiet gjør sin vurdering. Utgangspunktet må alltid være det som er til det beste for det barnet eller de barna det gjelder. Her dreier det seg ikke om enkelte gruppers rettigheter, og om enslige og homofile kan være gode oppdragere eller omsorgspersoner. Jeg blir litt betenkt når en leter etter argumenter for å finne omsorgsformer for barna som skal være tilnærmelsesvis like gode som det å vokse opp i et hjem med vanlige familieforhold. Det er ingen menneskerett å få barn, verken for heterofile eller homofile. Vi har rett og slett ikke noen rett til å få alle de rettigheter som vi ønsker. 
+
+
+
+
+I tidligere forskrifter til adopsjonsloven ble det lagt stor vekt på at barnet måtte gis tilnærmelsesvis så naturlige forhold som mulig til adoptivforeldre. Oppvekstmiljøet måtte være på lik fot med det som var vanlig i miljøet. Særlig viktig var dette på grunn av at adoptivbarnet ikke skulle påføres unødige ekstrabelastninger. Barn som er aktuelle for adopsjon, er allerede i en vanskelig situasjon. 
+
+
+
+
+En må også stille spørsmål ved forslagsstillernes – og kanskje også familieministerens – oppriktige mening i denne saken. De har i mange år understreket viktigheten av at barn vokser opp med foreldre av begge kjønn. De politikerne som nå ikke ser problemet med at barna vokser opp enten med en forelder eller foreldre av samme kjønn, er jo akkurat de samme politikere som i årevis har understreket betydningen av bl.a. kjønnskvotering i barnehagene for å få flere menn ansatt. Frykten for et samfunn hvor barna vokser opp uten mannlige rollefigurer, har vært deres sterkeste argument. 
+
+
+
+
+En av forslagsstillerne, representanten Sylvia Brustad, er faktisk en av arkitektene bak en handlingsplan for å få flere menn inn i barnehagene. I sin statsrådstid, i 1997, holdt Sylvia Brustad en likestillingspolitisk redegjørelse for Stortinget, der hun understreket at det er viktig «å øke antallet menn i omsorgsyrker og blant lærere og førskolelærere, fordi barn også trenger mannlige rollebilder.» Jeg kunne også ha vist til flere uttalelser i samme retning. 
+
+
+
+
+Når jeg samtidig tok med familieministeren, var det fordi en må spørre om hva slags lys familieministeren nå har sett på dette området siden hun delvis forlater sitt standpunkt. Det er ikke så lenge siden familieministeren i et svar i spørretimen slo fast at dagens praksis skal videreføres. Spørsmålet må bli: Har familieministeren egentlig et eget prinsipielt syn på saken, eller lar hun seg styre av interesseorganisasjoner? Til sammenligning kan vi registre at familieministeren er opptatt av barnas beste i adoptivsaker der alderen på adoptivforeldrene er meget viktig. For meg blir det et forholdsvis stort paradoks.
+
+
+
+
+De aller fleste adoptivbarn kommer fra utlandet, ca. 500-600 i året. De fleste av disse sliter med selvbilde- og identitetsproblemer. Det er derfor viktig at de har både feminine og maskuline forbilder, at de har både mor og far. Å argumentere med at alternativene for utenlandske adoptivbarn kanskje kan bli et barnehjem eller gata, er en total avsporing. Når Norge skal påta seg forpliktelser, plikter en også å påse at disse barna får de samme levevilkår som gjennomsnittet av norske barn. Vi kan ikke tilby barn annerledes vilkår enn det normale i Norge fordi disse barna uansett ville ha hatt det dårligere i sitt opprinnelige hjemland. 
+
+
+
+
+Jeg vil også spørre – i likhet med lederen for Adoptertes Landsforening, Morten Johanssen: Er det slik at adoptivbarn på en måte har blitt et velferdsgode? 
+
+
+
+
+Jeg ser argumentene, særlig fra de homofiles organisasjoner, om at det allerede bor 20 000 barn i en familiekonstellasjon med enten mor eller far, og at det fungerer bra. Men forskjellen er at det i hovedsak er den biologiske mor eller far de vokser opp sammen med, og da enten med stemor eller stefar. Det blir derfor rett og slett ikke et rett sammenligningsgrunnlag. 
+
+
+
+
+En annen sak jeg også vil ta med, er at det egentlig ikke er noen mangel på adoptivforeldre. Så det er heller ikke noe argument for at de enslige skal få en rett i den forbindelse. 
+
+
+
+
+Jeg vet at jeg har provosert representanten Sylvia Brustad på dette feltet tidligere, da vi deltok i en TV-debatt, men jeg kan heller ikke dy meg i denne sammenhengen, for jeg greier heller ikke nå å tolke Dokument nr. 8-forslaget annerledes enn da jeg leste det for første gang. For meg er det ingen tvil om at forslagsstillerne her har pekt ut en bestemt gruppe adoptivforeldre som Sylvia Brustad ønsker å tilfredsstille med sitt forslag. Det står jo helt klart i forslaget at det «gjennomgående er kvinner med høy utdannelse, godt nettverk og god økonomi» som søker om å få adoptere. «Verden er full av barn som trenger omsorg». Her har man på en måte tenkt å prioritere noen mennesker som kanskje ikke har prioritert å få barn, at disse skal få prioritet til å adoptere utenlandske barn. Jeg vet at dette vil provosere, men jeg greier i hvert fall ikke å tolke Dokument nr. 8-forslaget annerledes. 
+
+
+
+
+Et annet område har også kommet inn i debatten. Det kan tyde på at de homofiles status på en måte skal justeres opp, og at barna her blir brukt som virkemiddel for å oppnå dette. Lederen i Landsforeningen for Lesbisk og Homofil frigjøring, Knut Sverre Røang, bekrefter dette overfor meg når han i en avisreportasje sier: Jeg er enig i at det trolig vil være få land som vil godkjenne adopsjon til homofile foreldre i Norge. Men dette har mindre betydning, sier han i reportasjen. Det som er viktig, sier Røang videre, er prinsippet om at de homofile skal få rett til å adoptere.
+
+
+
+
+Jeg vil avslutningsvis fremme forslaget fra Fremskrittspartiet som står i innstillingen.
+
+
+
+
+ Representanten Sandberg har tatt opp det forslag han refererte til. 
+
+
+
+
+Det blir replikkordskifte.
+
+
+
+
+ Vi hører igjen at representanten Per Sandberg snakker om de såkalte vanlige familieforholdene, og jeg vil spørre om han mener at enslige kvinner ikke er egnet til å være mødre. Og hvordan mener Fremskrittspartiet og Per Sandberg at politiske partier – også Fremskrittspartiet – skal kunne vedta at ekteskap ikke skal opphøre? Hva slags forslag vil Fremskrittspartiet komme til å gå inn for for å gjøre familiesituasjonen annerledes? Det var nettopp det han kritiserte Arbeiderpartiet for i sin replikk til meg i stad. Jeg regner med at når Fremskrittspartiet har fått en så sterk hånd på rattet i norsk politikk, med velsignelse fra Kristelig Folkeparti, vil også skilsmissestatistikken komme til å gå dramatisk nedover. 
+
+
+
+
+ Til det siste kan jeg svare klart og tydelig: Jeg er 100 pst. overbevist om at med en endret familiepolitikk bort fra Arbeiderpartiets siste 20 års utvikling vil vi få skilsmissestatistikken nedover. Karita Bekkemellem Orheim prøver å fremstille det som at Fremskrittspartiet og jeg ser på enslige mødre som oppdragere som et dårlig resultat. Nei da, langt ifra! Det vet også representanten Bekkemellem Orheim meget godt, også ut fra det at jeg har fremmet tre forslag i Stortinget som berører den problematikken. Men problemet for barn som opplever samboerskapsbrudd eller skilsmisse, er akkurat mangelen på rollemønster, noe som begge forslagsstillerne selv har brukt som argument tidligere, og som jeg var inne på i mitt første innlegg. Problemet ligger altså i mangel på rollemønster og i stor grad det ikke å vokse opp sammen med far. 
+
+
+
+
+Forskning viser at den utviklingen vi har i Norge i dag med at barn vokser opp uten far til stede, er det store familieproblemet. Det er det store problemet for barn som vokser opp. Et forskningsresultat fra Storbritannia som omhandler 60 000 barn, peker på det problemet, problemet med at barn vokser opp med bare en forelder. Der ligger problemet. Fremskrittspartiet ønsker ikke en videreutvikling av det gjennom å åpne for at enslige også skal få lov til å adoptere. Da forsterker vi nettopp problemene i forbindelse med utviklingen som har vært de siste ti årene. 
+
+
+
+
+ Jeg har med interesse merket meg både representanten Sandbergs innlegg og replikkordskiftet med representanten Karita Bekkemellem Orheim. Jeg tror vi skal merke oss at han fra denne talerstol har sagt at han kan garantere for at med en fremskrittspartipolitikk vil antallet skilsmisser gå ned. 
+
+
+
+
+I andre debatter har Fremskrittspartiet sagt at politikerne ikke skal blande seg inn i familielivet til folk, men å blande seg inn i om de skal fortsette ekteskapet eller ikke, ser jeg på som en sterk innblanding i folks frie valg. Det har vært slik i Norge at mange fedre har valgt at mor skal få barnet, og dermed har vi fått den situasjonen. Vi har også fått den situasjonen at mange enslige mødre faktisk er blitt forlatt av fedrene, så her har Per Sandberg en voldsom oppgave å ta på seg, både å hindre skilsmisser og dessuten å få fedrene mer aktive. Jeg ønsker ham lykke til med oppgaven, og jeg er spent på hva det er i Fremskrittspartiets politikk som gjør at det vil bli færre skilsmisser. Kan det være kontantstøtten?
+
+
+
+
+ Det er interessant at representanten Fossum har merket seg «med interesse» noe av det jeg har sagt. 
+
+
+
+
+Jeg har selvfølgelig aldri tenkt i retning av Arbeiderpartiets politikk – med tvang. Jeg sier at jeg tror vi med Fremskrittspartiets familiepolitikk vil få en familierolle som er mer stabil i forhold til å bryte ut av et ekteskap. I den sammenheng har jeg lyst til å nevne den store debatten i 1989, da Fremskrittspartiets formann i valgkampen fikk bakoversveis, for å si det rett ut, da vi snakket om enslige mødre og deres rettigheter. Det er interessant å merke seg utviklingen fra 1989 og fram til i dag. Arbeiderpartiet har faktisk truffet tiltak i retning av det vi sa i 1989, for å hindre at spørsmålet om enslige mødres rettigheter skal bli et langtidsproblem. Nå er det ikke slik lenger at en kan gå på overgangsstønad i ti år, nå er det ikke slik lenger at en kan motta dobbel barnetrygd hvis en etablerer nytt samboerskap. Fra 1. mai i år er det heller ikke slik at en kan motta overgangsstønad hvis et samboerskap har vart gjennomsnittlig i 12 av de 18 siste månedene. 
+
+
+
+
+Dette er ikke forslag som Fremskrittspartiet har fremmet, men vi har støttet dem. Vi trakk dette fram og diskuterte det i 1989. Nå har vi fått styrket de enslige mødrenes rettigheter, og nå får vi dem ut av hjemmet, som Grethe Fossum er så redd for. Vi har ikke tenkt å velge for mennesker som inngår ekteskap. Det er jo Arbeiderpartiet som har lagt opp til retningslinjer og lover som gjør at de ikke har noe valg, eller at det er lettere å velge å gå ut av et ekteskap.
+
+
+
+
+ Dermed er replikkordskiftet omme.
+
+
+
+
+ Når det i dokumentforslaget vises til at det i løpet av de ti siste årene Arbeiderpartiet hadde regjeringsmakten, bare ble gitt to adopsjonsgodkjenninger til enslige – hvorav den ene ble gitt etter anke på avslag – tyder dette på at regelverket for godkjenning av adopsjonssøkere er blitt tolket meget restriktivt av Arbeiderpartiet, faktisk langt mer restriktivt enn det loven legger til grunn. Jeg tolker statsrådens rundskriv om hvordan regelverket skal forstås, som en påpeking av at enslige under gitte forutsetninger bør vurderes som adoptanter. 
+
+
+
+
+Forslaget i Dokument nr. 8:111 går lenger enn dette. Her foreslås det at enslige skal gis adopsjonsmulighet på lik linje med ektepar. Men det mener vi i Høyre er å gå for langt i retning av å gjøre adopsjonsloven til en rettighetslov for voksne. Det er ikke voksnes interesser denne loven skal ivareta, det er barns sikkerhet i forhold til det faktum at de skal gis en juridisk forankring i en familie som i utgangspunktet vanligvis ikke er deres egen, men som i alle henseender skal ha foreldres rett og plikt i forhold til barnet. 
+
+
+
+
+De omfattende konsekvenser av en adopsjon tilsier at adopsjonssøkere må finne seg i en grundig vurdering både av personlige egenskaper og av sannsynlige fremtidsutsikter til å ta seg av et adoptivbarn på beste måte.
+
+
+
+
+Høyre er enig med statsråden i at det optimale for et barn er å ha en mor og en far som lever i harmoni med hverandre. Det gir en trygghet i hverdagen, og det innebærer at barnet også har to slekter i sitt naturlige nettverk. Mange norske barn har et utmerket godt liv selv om bare den ene av foreldrene er til stede i barnets hverdag. Det betyr ikke at barnet mister verken den av foreldrene som ikke har daglig samvær med barnet, eller denne foreldres slektsgren. Barnet har i alle tilfeller to slekter, som er et sikkerhetsnett i tilfelle noe skulle skje rundt et barn.
+
+
+
+
+Barn som adopteres av en enslig, vil ikke ha denne sikkerheten. Heller ikke er det noen sikkerhet for at adoptantens familie vil ta ansvar for et adoptivbarn, om noe skulle tilstøte den som har adoptert. Dette må en ta hensyn til når en vurderer å gi adopsjonsgodkjennelse.
+
+
+
+
+Nå vil mange med rette si at en forelder er bedre enn ingen. Selvfølgelig er det riktig. Men situasjonen er ikke slik at det står en kø av adopsjonsfrigitte barn på grensen til Norge og venter på å få adopsjonsforeldre. Det er tvert imot slik at køen av ektepar som venter på å få adoptere et barn, er langt større enn det behovet som en påpeker. I en slik situasjon må det være samfunnets plikt å ivareta barnets interesser i første rekke, foran voksne menneskers ønske om å få være foreldre. 
+
+
+
+
+Vi må ikke glemme at bak enhver adopsjon ligger en tragedie, for det er i utgangspunktet en tragedie for et barn når omstendighetene hindrer at det kan vokse opp med sine egne naturlige foreldre. Barnets tragiske bakgrunn er noe som må regnes med, den blir ikke borte fordi om barnet adopteres. Dette er en bagasje som barnet alltid bærer med seg. Derfor er det så viktig at vurderingen av hver enkelt adopsjonssøknad og vurderingen av hvem som kan bli adoptivforeldre til hvilke barn, er gjennomtenkt og grundig. Fra tid til annen vil en slik vurdering kunne konkludere med at en enslig som har spesiell tilknytning til barnet, eller som har spesielle kunnskaper om barnets bakgrunn – det være seg kulturbakgrunn, helsebilde, kjennskap til slekt – gjerne er den som har de aller beste forutsetninger for å gi et spesielt barn en god fremtid. I slike tilfeller burde det være en selvfølge at sivil status er uten betydning, og at adopsjonsgodkjennelse bør innvilges. Det er dette jeg tolker inn i statsrådens uttalelse om spesielle ressurser i forhold til barn, at det er snakk om spesielle ressurser i forhold til bestemte barn. At søkeren i tillegg har et godt nettverk, er selvfølgelig en fordel, men betydningen av dette kan ikke tillegges for stor vekt, for nettverk forandrer seg, oftere og raskere i dag enn tidligere, fordi folk flytter oftere, bryter opp fra hjemstedene oftere, og da endres nettverket.
+
+
+
+
+Ingen er gift med sitt nettverk, og et nettverk kan ikke pålegges forpliktelser i forhold til en ensligs adoptivbarn. Heller ikke er det naturlig at slekt, venner og kolleger utsettes for offentlige myndigheters vurdering når en enslig søker om å bli vurdert som adoptant. Jeg har merket meg at betydningen av nettverk ikke er nevnt i rundskrivet, kun i statsrådens utdyping av rundskrivet.
+
+
+
+
+Alt i alt: Med de presiseringer jeg her har foretatt, er Høyres syn på adopsjon stort sett sammenfallende med det som kommer til uttrykk fra Regjeringen. Skulle situasjonen endre seg, at antallet adopsjonsfrigitte barn skulle bli høyere enn antall adopsjonssøkende ektepar, står vi overfor en ny situasjon, og regelverket må vurderes på nytt. Det er, og det vil alltid være, barnets beste som må veie tyngst når adopsjonsregler skal vurderes. Skulle det bli overskudd på barn, er én forelder bedre enn ingen. Men så langt kan vi stort sett tilby adopsjonsbarn som kommer til Norge, to foreldre med god habilitet. Det må fortsatt være hovedregelen.
+
+
+
+
+Dette er ei sak med mange sider. Forslaget vart sett fram for snart eit år sidan, og etter det har det skjedd ein heil del på denne fronten. I rundskriv frå september 1998 frå departementet vart det gjort ei oppmjuking av praksis, slik at einslege nå får høve til å verta vurderte som adoptivforeldre.
+
+
+
+
+Adopsjonslova har heller ikkje tidlegare innehalde forbod mot at einslege skulle kunna få adoptera. Det har likevel vorte ført ein restriktiv praksis ut frå oppfatninga at det gir born større tryggleik å ha to foreldre. Praksis har i mellomtida synt at adopsjonsløyve i utgangspunktet berre har vore gitt til einslege dersom dei før adopsjon har hatt spesiell tilknyting til barnet. Dette kan vera gjennom slektskap, fosterbarnsforhold eller dersom søkjaren har hatt spesielle ressursar i høve til barnet. I tillegg skal det leggjast vekt på om søkjaren har spesiell kunnskap om og erfaring med born. Likeins må det leggjast vekt på om søkjaren har eit stabilt og godt nettverk der barnet gjennom oppveksten kan få kontakt med begge kjønn.
+
+
+
+
+Dersom det er ein einsleg som har ansvaret for eit barn, er det svært viktig med nettverket rundt. Om noko skulle skje, f.eks. sjukdom, kan det vera svært vanskeleg dersom ein er heilt åleine. Dessutan er det òg ei kjensgjerning at mange av adoptivborna krev ekstra ressursar. Dei vert oftast ikkje adopterte før dei er halvtanna til to år gamle. Då har mange av dei hatt det svært vanskeleg i sitt tidlegare miljø, anten dei har vore her i landet eller i utlandet. Dei vil derfor ofte dra på skadar som syner seg att seinare.
+
+
+
+
+Det er adopsjonsstyresmaktene sitt ansvar så langt det er mogleg, å forvissa seg om at adoptivborn, både frå Noreg og utlandet, vert plasserte i familiar med dei beste føresetnadene til å følgja opp barnet. Er dette viktig generelt, så er det spesielt viktig for adoptivborn. Desse borna har nemleg i utgangspunktet mista begge foreldra sine og anna slekt. Dei kan trengja nettopp den styrken som ligg i tilhøyring til dei nye foreldra og deira slekter og nettverk.
+
+
+
+
+Potensielle adoptivforeldre vert underkasta ei svært nøye gransking, der alt frå familieøkonomi og bustadstandard til sosialt nettverk og om ein er personleg skikka, vert etterprøvt. Slik må det vera, særleg der det dreiar seg om adopsjonar frå utlandet. Dei borna som på den måten får eit nytt liv i Noreg, har alle hatt ein tøff start. Mange av dei har budd sine første månader på ein barneheim, som aldri kan verta noko fullgodt alternativ til ein eigen familie. Nå kjem mange av dei til sin første verkelege heim. Då har dei som oftast eit omsorgsbehov langt utover det vanlege.
+
+
+
+
+Det er viktig å merka seg at adopsjonslova ikkje heimlar ein rett til å adoptera for søkjarane. Søkjarane må ha føresetnader for og vera i stand til å gi barnet ein trygg og harmonisk oppvekst. Dessutan seier FNs barnekonvensjon og Haagkonvensjonen at det er barnet sitt beste som må vera grunnleggjande. 
+
+
+
+
+Det syner seg også at einslege adoptivsøkjarar er gjennomgåande svært ressurssterke. Etter at dei nye retningslinene frå september vart innførte, har departementet som klageinstans avgjort ti søknader frå einslege, der åtte har fått førehandssamtykke til adopsjon. Dette syner at det ikkje er nokon stor grunn til å klaga på dei avgjerdene som har vorte tekne. Dessutan er det rimeleg å tru at ikkje alle eignar seg like godt til dette.
+
+
+
+
+Eg er først og fremst oppteken av at borna skal ha ein god og harmonisk oppvekst, og at dei skal føla seg aksepterte og respekterte. Mange av borna har spesielle behov som kan gå på fysiske, psykiske, kulturelle eller sosiale forhold. Foreldra, anten det måtte vera einslege eller adoptivforeldre, er i ein stor del av livet dei viktigaste personane for borna. Men alle foreldre vil enkelte gonger føla seg usikre i rolla si og på korleis dei skal vera til det beste for borna sine. Då er det viktig med eit godt nettverk, anten det er slekt, vener, naboar, helsestasjonar eller barnehagar.
+
+
+
+
+ I tida framover vil det være behov for å se på om departementets oppmyking av praksis i forhold til enslige, faktisk gir enslige muligheter til å bli vurdert som adoptivforeldre. Denne endringen er av så ny dato at praksis ikke er tydelig ennå, men det må etter SVs mening i mye større grad åpnes for at enslige kan være gode omsorgspersoner for barn på lik linje med par. Barnets beste vil for oss alle være det viktigste, men det å ekskludere personer fra adopsjon basert på hvorvidt de er enslige eller par, må ikke være noen hovedkvalifikasjon. En rekke andre land inkluderer muligheten for enslige til å få adoptere på lik linje med par, og vi behøver ikke gå lenger enn til Sverige eller Danmark for å se forskjeller fra lovverket vårt. Nabolandene våre har myket opp sin lovgivning i tråd med endringer i samfunnet og endringer i familiemønsteret. Jeg viser til det forslaget vi står sammen med Arbeiderpartiet om.
+
+
+
+
+Så til den videre debatten, for den kommer. SV ser at den store debatten blir om vurderinga av lesbiske og homofile par som adoptivforeldre. Statsråden sa i brev til komiteen datert 9. februar 1999 at hun har satt departementet i gang med å utrede spørsmålet om hvordan barn som bor sammen med en lesbisk eller homofil forelder og hennes eller hans partner, best kan sikres.
+
+
+
+
+Statsråden sa i brevet sitt i februar at arbeidet da var godt i gang, og at hun, før hun tar endelig stilling til spørsmålet, vil se nærmere på resultatene av NOVAs undersøkelse om levekår og livskvalitet når det gjelder homofile og barn. Den har vi diskutert før i dag. Som kjent kom denne undersøkelsen kort tid etter, og viser at 13 pst. av kvinnene og 8 pst. av mennene allerede har barn. Den viser også at 12 pst. av kvinnene og 2 pst. av mennene bor sammen med egne eller partners barn. 10 pst. av kvinnene og 8 pst. av mennene ønsker mulighet for stebarnsadopsjon.
+
+
+
+
+Ut fra at undersøkelsen nå foreligger, og tallene er så tydelige, forutsetter SV at Regjeringa vil komme tilbake med forslag til ytterligere endringer i adopsjonslovgivningen samt til partnerskapsloven, slik at barn som bor i disse familierelasjonene, også sikres på lik linje med andre barn. Etter vår mening holder det ikke å gi muligheten til stebarnsadopsjon først etter at biologisk forelder er død, som det tidligere har vært foreslått mulighet for. 
+
+
+
+
+SV mener at vi allerede har et innarbeidet lovverk og en praksis i saker hvor ektefelle ønsker å adoptere biologiske foreldres barn. Det er ingen grunn til å komme med nye løsninger når det gjelder registrerte partnere. Videre mener SV at muligheten for homofiles rett til adopsjon på lik linje med heterofile senere må utredes nærmere, ikke bare muligheten for stebarnsadopsjon, men alltid med barns beste som utgangspunkt. Vi innser at det er et stykke vei videre, men vi kommer tilbake til det.
+
+
+
+
+ Det blir replikkordskifte.
+
+
+
+
+ Jeg har et spørsmål som går mer direkte på selve forslaget og hvordan det skal oppfattes. Siden jeg ikke slapp til med replikk på Arbeiderpartiets hovedtaler, får jeg ta den i forhold til den andre forslagsstilleren.
+
+
+
+
+Den problemstillingen jeg vil be om å få et svar på, skal jeg prøve å formulere så presist som mulig. For det første – og det kunne man jo gjøre seg litt lystig over – står det altså i forslaget «på lik linje med andre», og jeg vil anta at «andre» i dette tilfellet er ektepar. Det er vel mer en skrivefeil, som ikke er så viktig. Men det som er problemstillingen min, er faktisk: Hva ligger i dette «på lik linje med» når vi tar utgangspunkt i en enslig? Betyr det at den enslige skal vurderes som omsorgsperson uavhengig av om man tar stilling til at det ikke vil være en ektefelle som representerer enten det å være far eller mor for barnet, eller skal det forhold at barnet da vil få bare en forelder – altså ikke både mor og far – kunne være et moment som man skal kunne ta hensyn til, men at det da blir spørsmål om vekten av det hensynet som kommer inn her? Altså: Jeg føler på en måte at i dette med å si «på lik linje med» er det noe som blir stående åpent og uavklart, knyttet nettopp til det forhold. Det at det er én forelder, er det et hensyn som overhodet skal kunne tillegges vekt i vurderingen av adopsjon, eller er det et forhold som skal være irrelevant og uinteressant?
+
+
+
+
+ Jeg var litt usikker på om det var juristen Harald Hove som stod her. 
+
+
+
+
+Det vi ønsker, er at enslige skal kunne få muligheten til å bli vurdert som adoptivforeldre på lik linje med par i samfunnet. Bakgrunnen for det er at vi tror oppriktig at enslige har muligheter for å gi barn gode oppvekstvilkår, gode nettverk, på lik linje med det par vil ha. Det er slik at det er mange enslige som har store ressurser å gi til barn, og som kan gi barn gode oppvekstvilkår. Det er allerede slik at det er mange barn som bor sammen med enslige foreldre. Vi mener at de viser at de er gode foreldre, og det vil også enslige adoptanter kunne være. Men igjen: Det er barns beste som hele tiden skal stå i fokus, og det er muligheten for å kunne få innvilget adopsjon som skal vurderes. 
+
+
+
+
+ Flere har ikke bedt om ordet til replikk.
+
+
+
+
+ Først må jeg få lov til å bemerke til svaret på replikken min at det pleier å være politikeren Harald Hove som står på denne talerstol, og ikke noen fagperson.
+
+
+
+
+Jeg må si at det er et litt underlig utgangspunkt for denne debatten. Og det er at inntil for halvannet år siden var Arbeiderpartiet i posisjon. I løpet av den tiden Arbeiderpartiet var i posisjon, er det tydelig at man må ha utviklet den restriktive praksisen som man nå fremmer et forslag for å få endret. Det betyr at Arbeiderpartiet i opposisjon tydeligvis mener noe annet om disse spørsmålene enn det Arbeiderpartiet gjorde så lenge de var i posisjon.
+
+
+
+
+Vi fra regjeringspartiene har stadig vekk blitt møtt med et utsagn i retning av at vi har oppdaget virkeligheten etter at vi kom i posisjon, og det kunne da være et litt interessant spørsmål å stille Arbeiderpartiet, om det er slik at de nå mener at de har opplevd virkeligheten etter at de kom i opposisjon, en virkelighet som de ikke så og ble fortrolig med i den perioden de var i posisjon. For i løpet av de 13 år vi har hatt den någjeldende adopsjonsloven, er vi faktisk i den situasjon at Arbeiderpartiet har hatt regjeringsmakten i ti av de 13 årene. Hvis det er slik at man her har utviklet en for restriktiv praksis, må det være Arbeiderpartiet som er årsak til det, og som har ansvaret for den altfor restriktive praksisen som man nå fremmer forslag for å få endret.
+
+
+
+
+Det som så skjedde da man fikk en ny statsråd og en ny regjering, var nettopp at det ble foretatt en endring i den praksis som hadde utviklet seg, og som hadde blitt etablert. Og det er tydeligvis det at man ikke har endret praksisen tilstrekkelig mye, som i så fall er utgangspunktet for det forslaget som også fremmes av dem som det siste året av Arbeiderpartiets regjeringstid, hadde det direkte ansvaret for det saksområdet som dette gjelder. Det er faktisk grunn til å merke seg med en viss kuriøs interesse at Arbeiderpartiet fort har funnet virkeligheten etter at de kom i opposisjon. Jeg minner om at dette forslaget – etter det som ble sagt tidligere – visstnok er ett år gammelt, slik at det var etter ganske kort tid man fant det ut.
+
+
+
+
+Venstre kan vi si har klart vært i tvil om hvilket standpunkt vi skulle ta i denne saken, og hvordan vi skal votere. Men på bakgrunn av det forhold at det her er skjedd en endring i praksis, og på bakgrunn av at vi ennå ikke vet så mye om hva den endringen fører til, mener vi at det kan være riktig å avvente situasjonen noe, før man eventuelt går inn på spørsmålet om det kunne være riktig å være med på et forslag om å skulle gå videre og endre mer. Det betyr at vi kommer til å stemme mot forslagene fra Arbeiderpartiet og Fremskrittspartiet, og mot innstillingen, og stemme for forslaget fra de to andre sentrumspartiene. Jeg vil gjerne understreke at det er en forskjell mellom det forslaget som Fremskrittspartiet har lagt fram, og det som de to sentrumspartiene står bak i innstillingen, nemlig at det ene går ut på å avvise forslaget, og det andre går ut på å vedlegge det protokollen. Det ligger i det en viss realitetsforskjell med hensyn til i hvilken grad man tar stilling til forslaget eller ei.
+
+
+
+
+Det er klart at det har skjedd endringer i familiemønstrene over tid. Det er slik at går man ca. 30 år tilbake i tid, ble de aller fleste barn født av foreldre som var gift med hverandre. I dagens situasjon blir nær på like mange barn født av foreldre som på fødselstidspunktet er samboere, som av foreldre som er gift. Det som faktisk er det interessante, er at antallet reelt enslige faktisk ikke har endret seg noe særlig over en svært lang tidsperiode.
+
+
+
+
+Vi har fått en litt underlig debatt om barn i dag, med hensyn til om de har det best med den ene eller den annen foreldresituasjon osv. Jeg tror det er viktig å skille mellom et litt mer generelt spørsmål og et litt mer konkret når det gjelder hva som er best. Barn kan ha det godt når de bor sammen med begge sine foreldre, barn kan ha det godt når de bor hos den ene av sine foreldre, og barn kan ha det dårlig når de bor sammen med begge sine foreldre – det vil kunne variere en del.
+
+
+
+
+Til slutt: Jeg tror at litt av problemet her kanskje er at vi ikke har den samme troen som Arbeiderpartiet og SV på at det offentlige er i stand til å utstede sertifikater for hvem som er gode foreldre, og hvem som er dårlige foreldre.
+
+
+
+
+ Det blir replikkordskifte.
+
+
+
+
+ Representanten Hove gjorde et poeng av at Regjeringen fra Arbeiderpartiet ikke hadde gjort jobben sin, men jeg tror kanskje han bør lese historien noe annerledes. Vi hadde utviklet en politikk som gjorde det vanskelig for enslige å adoptere, men i familieminister Sylvia Brustads tid begynte hun på en oppmyking av det, og overleverte det til en Kristelig Folkeparti-regjering som ønsket å være mer restriktiv. Så historiebeskrivelsen til representanten bør nok være noe annerledes.
+
+
+
+
+Det er helt klart at når Arbeiderpartiet så at den prosessen som vi hadde begynt på, ble reversert, ønsket vi å fremme nettopp dette Dokument nr. 8-forslaget. Det er også en bakgrunn som representanten bør ta med seg.
+
+
+
+
+Venstre sier at de er i tvil. Det er ikke noe nytt for noen partier at Venstre stadig er i tvil. De er i tvil, for de vil se hva dette fører til, og de vil avvente. Men hvorfor vil ikke Venstre i denne perioden ha mer utredning og få Regjeringen til å uttale seg om det? Hvorfor vil ikke Venstre ha kunnskaper om dette, for det er det Venstre sier nei til i dag?
+
+
+
+
+Jeg er overrasket over at Venstre har sveket de enslige, sveket sin liberale holdning, og nå viser fram sin konservatisme. Dette syns jeg er overraskende.
+
+
+
+
+ Noe av det jeg med størst glede vedkjenner meg her i livet, er evnen til å tvile. Jeg er også veldig glad for på vegne av Venstre å kunne si at vi stadig vekk kan være i tvil, og at vi også våger å vedkjenne oss den åpent. Jeg tror at forskjellen på Venstre og andre partier er at vi i større grad nettopp våger åpent å vedkjenne oss tvilen, mens andre partier prøver å tildekke den på ulike måter gjennom flertallsvedtak, som deretter blir partienes endelige standpunkt for alle representanter. 
+
+
+
+
+Hvis vi i dag sviker de enslige, er det en ganske sterk karakteristikk av hva Arbeiderpartiet har gjort i ti år med regjeringsmakt. Den får i så fall stå for replikantens regning og vil ikke bli underskrevet av meg. 
+
+
+
+
+Når det gjelder den utviklingsprosess som her ble omtalt, kan det godt være at det er en riktig beskrivelse av historikken. Jeg bare bemerker at hvis det er rett at Sylvia Brustad satte i gang en prosess da hun var statsråd, så lyktes hun ikke med å komme i mål med den på det knappe året hun var statsråd. Statsråd Valgerd Svarstad Haugland har i alle fall kommet i mål med en endring. Så får vi etter en tid se om endringen er så stor som vi ønsker. 
+
+
+
+
+ Den reglementsmessige tiden for formiddagens møte er omme. Presidenten vil foreslå at replikkordskiftet føres til ende før formiddagens møte heves – og anser det vedtatt. 
+
+
+
+
+ Vi har alle rett til å tvile. Det som er overraskende, er at Venstre fortsetter å tvile, og når de har tatt tvilen til etterretning, vedlegger de den protokollen. Når alle vi andre tviler, prøver vi å få mer kunnskap om saken. Derfor vil vi ha en gjennomgang, derfor vil vi se på hva dette er. Når Hove sier at statsråd Haugland har fått til en endring, må jeg etterlyse: Javel, men hva gjør man da? Er Venstre nå fornøyd med at enslige skal få muligheten til å bli vurdert, slik som Arbeiderpartiet vil, eller er han interessert i det statsråden vil, nemlig å gjøre dette så vanskelig som mulig? Det er greit nok at Venstre tviler, men hvorfor ikke få mer kunnskap?
+
+
+
+
+ Jeg har i alle fall fått representanten Grethe G. Fossums aksept for at det å tvile kan være en god egenskap, så jeg takker for det. 
+
+
+
+
+Som jeg har sagt, har Venstre vært i tvil om hvordan vi skulle votere i dag. Vi har altså bestemt oss for å votere slik at vi vedlegger dette protokollen. Det betyr at det er det man gjør i denne omgang. Man har altså ikke dermed tatt noe definitivt standpunkt om at det som er foreslått, nødvendigvis vil være uønsket, hvis man om noen tid skulle finne ut at det vil være riktig å gå videre. 
+
+
+
+
+Så er jeg ikke helt sikker på om det er en korrekt karakteristikk av Barne- og familiedepartementets praksis at dette skal gjøres så vanskelig som mulig, men det vil vel statsråden kunne si noe om og oppklare i sitt innlegg. 
+
+
+
+
+ Presidenten er ikke i tvil: Formiddagens møte er nå omme. Nytt møte settes kl. 18, i tråd med forretningsordenen. 
+
+
+
+
+Behandlingen av sak nr. 6 fortsatte på kveldsmøtet
+
+.
+
+
+
+
+
+                    
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+        
+
+
+            
+
+
+                
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Tilhører sak
+
+
+
+            
+
+
+	
+                        
+
+
+                            
+
+Forslag fra stortingsrepresentantene Sylvia Brustad og Karita Bekkemellem Orheim om at enslige skal få muligheten til å adoptere på lik linje med andre dersom søkeren oppfyller de krav til ressurser og omsorgsevne en bør sette til adoptivforeldre
+
+
+                        
+
+
+                
+                    
+
+
+                        
+
+Gå til saker
+
+
+                    
+
+
+                
+
+
+
+            
+        
+
+
+    
+
+
+
+
+
+
+    
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Alt om
+
+
+
+            
+
+
+	
+                    
+
+
+                
+                    
+
+
+                        
+
+ Familie
+
+
+                    
+
+
+                
+                    
+
+
+                
+
+
+
+            
+
+
+            
+
+
+                
+
+ Gå til alle temaer
+
+
+            
+
+
+
+        
+
+
+    
+
+
+
+
+
+
+
+
+            
+
+
+        
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ Ingen har bedt om ordet.
+
+(Votering, se side 2773) 
+
+
+
+
+Kirsti Kolle Grøndahl overtok her presidentplassen.
+
+
+
+
+
+                    
+
+ Det voteres over forslag fra representanten
+
+Eirik Langeland Fjeld på vegne av Sosialistisk Venstreparti
+
+oversendt fra Odelstingets møte 23. mars 1999:
+
+«Stortinget ber Regjeringen
+
+utarbeide forslag til en nasjonal forhåndsgodkjenningsordning
+
+for private institusjoner som brukes i barne- og ungdomsvernet.»
+
+Votering:
+
+Forslaget fra Sosialistisk Venstreparti ble mot 6 stemmer
+
+ikke bifalt.
+
+
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+        
+
+
+            
+
+
+                
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Tilhører sak
+
+
+
+            
+
+
+	
+                        
+
+
+                            
+
+Forslag fra stortingsrepresentant Eirik Langeland Fjeld på vegne av Sosialistisk Venstreparti oversendt fra Odelstingets møte 23. mars 1999:
+(Jf. Innst. O. nr. 49)
+
+"Stortinget ber Regjeringen utarbeide forslag til en nasjonal forhåndsgodkjenningsordning for private institusjoner som brukes i barne- og ungdomsvernet. "
+
+
+                        
+
+
+                
+                    
+
+
+                        
+
+Gå til saker
+
+
+                    
+
+
+                
+
+
+
+            
+        
+
+
+    
+
+
+
+
+
+
+    
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Alt om
+
+
+
+            
+
+
+	
+                    
+
+
+                
+                    
+
+
+                        
+
+ Barnevern
+
+
+                    
+
+
+                
+                    
+
+
+                
+
+
+
+            
+
+
+            
+
+
+                
+
+ Gå til alle temaer
+
+
+            
+
+
+
+        
+
+
+    
+
+
+
+
+
+
+
+
+            
+
+
+        
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Ærede medrepresentanter!
+
+Tidligere stortingsrepresentant Nils O. Golten
+
+er død, bare 62 år gammel. 
+
+Nils O. Golten var født i Sund i Hordaland
+
+i mai 1936. Etter endt utdannelse, bl.a. fiskerifagskolen, begynte
+
+han i 1962 som aktiv fisker og senere fiskeskipper – et
+
+yrkesvalg som han holdt fast ved resten av livet.
+
+Etter å ha vært aktiv i lokalpolitikken
+
+i hjemkommunen Sund, bl.a. som medlem av kommunestyret, ble Nils
+
+O. Golten i 1981 valgt til vararepresentant til Stortinget, valgt av
+
+Høyre. Ved valget i 1985 ble han så valgt som
+
+fast representant fra Hordaland. Han ble gjenvalgt for perioden
+
+1989-93, og sa farvel til Stortinget høsten 1993. 
+
+Nils O. Golten var en kystens mann, og han
+
+var aktivt engasjert i de fleste sider av norsk fiskerinæring.
+
+I mange år var han medlem av Fiskarbankens hovedstyre og
+
+styreformann for bankens avdeling i Bergen. Han hadde
+
+tillitsverv i Garantikassen for fiskere, Fiskernes Gjensidige Trygdelag
+
+og Norges Fiskeriforskningsråd. Nils O. Golten hadde også sine
+
+yrkesfellers tillit – noe som gav seg utslag bl.a. i formannsvervet
+
+i Hordaland Fiskarlag og som styremedlem i Norges Fiskarlag sentralt.
+
+Nils O. Golten var derfor sjeldent godt kvalifisert
+
+da han på Stortinget ble valgt inn i den daværende
+
+Sjøfarts- og fiskerikomiteen. Han var medlem av denne komiteen
+
+gjennom alle sine åtte år på Stortinget,
+
+og her var det ingen tvil om at han var rette mann på den
+
+rette plass.
+
+Vi er mange i Stortinget, både blant
+
+representanter og ansatte, som har gode personlige minner fra samarbeidet
+
+med Nils O. Golten, og det er nesten uvirkelig å måtte
+
+konstatere at han så brått er revet bort.
+
+Vi minnes Nils O. Golten for hans virke i Stortinget,
+
+og lyser fred over hans minne.
+
+Representantene påhørte stående presidentens
+
+minnetale.
+
+  Representantene Anne Brit 
+
+Stråtveit
+
+, Ola D. 
+
+Gløtvold
+
+,
+
+Karin 
+
+Andersen
+
+, Olav 
+
+Akselsen
+
+,
+
+Kari 
+
+Økland
+
+, Reidun 
+
+Gravdahl
+
+,
+
+Britt 
+
+Hildeng
+
+, Oddbjørg Ausdal 
+
+Starrfelt
+
+ og John I. 
+
+Alvheim
+
+,
+
+som har vært permittert, har igjen tatt sete.
+
+De innkalte vararepresentanter, for Buskerud
+
+fylke Frank Willy 
+
+Larsen 
+
+og for Vestfold
+
+fylke Ellen Gjerpe 
+
+Hansen
+
+, har tatt sete.
+
+Det foreligger to permisjonssøknader:
+
+fra representanten Finn Kristian 
+
+Marthinsen
+
+ om permisjon i dagene 20. og
+
+21. april for å delta i et møte i regi av Den
+
+vesteuropeiske unions parlamentariske forsamling i Stockholm
+
+fra Arbeiderpartiets stortingsgruppe om permisjon
+
+for representanten Astrid Marie 
+
+Nistad
+
+ tirsdag
+
+20. april for å delta i et møte i utvalget for
+
+frivillig arbeid i organisasjonene i Norden i regi av Nordisk Råd
+
+i København
+
+Etter forslag fra presidenten ble enstemmig
+
+besluttet:
+
+1.	Søknadene behandles straks
+
+og innvilges.
+
+2.	Følgende vararepresentanter innkalles for å møte
+
+i permisjonstiden:
+
+For Buskerud fylke: Unni Hennum 
+
+Lie
+
+For Sogn og Fjordane fylke: Reidar 
+
+Sandal
+
+  Unni Hennum Lie og Reidar Sandal
+
+er til stede og vil ta sete.
+
+Valg av settepresident
+
+  Presidenten vil foreslå at
+
+det velges en settepresident for inneværende ukes møter – og
+
+anser det som vedtatt.
+
+Presidenten ber om forslag på settepresident.
+
+  Jeg foreslår Asmund Kristoffersen.
+
+  Asmund Kristoffersen er foreslått
+
+som settepresident. – Andre forslag foreligger ikke, og
+
+Asmund Kristoffersen anses enstemmig valgt som settepresident for
+
+inneværende ukes møter.
+
+Statsråd Odd Roger Enoksen overbrakte
+
+2 kgl. proposisjoner (se under Referat).
+
+
+
+
+
+                    
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+

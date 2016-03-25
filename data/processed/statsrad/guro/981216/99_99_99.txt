@@ -1,0 +1,1101 @@
+ Strømførende undervannskabler
+brukes i elektrisitetsfremføring både til fastlandet
+og offshore.  De fleste er relativt tynne.  Kablene inneholder kobber
+og bly og er omgitt av en oljeholdig hylse.  Statnett opplyser at
+det ikke er brukt farlige miljøgifter i oljen.  Kobber,
+bly og olje spres i liten grad fra kabelen.  Noe tyntflytende olje
+kan lekke ut fra kabelen, men denne brytes raskt ned i sjøvann.
+ Etter SFTs vurdering representerer derfor ikke kablene noe nevneverdig miljøproblem
+i dag, men det er behov for å få vurdert de langsiktige
+miljøkonsekvensene av at kabler eventuelt blir liggende
+på havbunnen.
+
+Det er Norges vassdrags- og energidirektorat
+som forvalter regelverket knyttet til elektriske sjøkabler.
+ Etter forskrift til energiloven stilles det krav til opprydning
+når større elektriske anlegg – som sjøkabler – tas
+ut av bruk.
+
+Olje- og energidepartementet har satt i gang
+et treårig utredningsprogram som skal belyse konsekvensene
+av ulike disponeringsløsninger for rørledninger
+og kabler brukt i offshorevirksomheten.  Dette arbeidet skal være ferdig
+innen utgangen av 1999.  Utredningsprogrammet består av
+en rekke delprosjekter som belyser ulike aspekter ved problemstillingen.
+ Kabler vil bli berørt i et delprosjekt med tittelen «Konsekvenser
+for habitater ved ulike disponeringsalternativer for rørledninger
+og kabler».  Hensikten med utredningsprogrammet
+er å skape grunnlag for å utforme en politikk
+angående disponering av rørledninger og kabler
+knyttet til norsk olje- og gassvirksomhet.  Når utredningen
+foreligger, vil det være naturlig å vurdere politikken
+også for kabler som ikke har vært tilknyttet offshoreindustrien.
+
+For å oppsummere:  Utrangerte sjøkabler
+utgjør ikke noe nevneverdig forurensningsproblem i dag.
+ Vi er i ferd med å vurdere om kablene utgjør
+et mulig fremtidig miljøproblem, og om det er behov for
+en strengere regulering.
+
+  Som jeg sa i mitt første svar, er
+det slik allerede i dag at etter forskrifter til energiloven
+stilles det krav til opprydding når større elektriske anlegg,
+som sjøkabler, tas ut av bruk. En av de tingene som må vurderes
+i det arbeidet som nå er startet, er om regelverket er
+tilstrekkelig strengt til å sikre det. 
+
+Men jeg har litt lyst til å nevne
+at dette er en av flere store utfordringer vi står overfor
+når det gjelder forurensning langs kysten vår.
+Det er også derfor Regjeringen har valgt å prioritere
+tre ting spesielt: Det er opprydding i forurenset marine sedimenter
+i fjordområdene, vi har endelig fått i gang undersøkelser
+av de seks mest risikable vrakene våre med tanke på å få fjernet
+forurensningsfaren fra dem, og vi har også satt
+i gang kartlegging av og prioritering av tiltak ved skipsverft,
+fordi vi ser at disse utgjør en stor fare for forurensning,
+spesielt fra miljøgifter. Det er i første rekke
+dette vi nå gjør, samtidig som vi også utreder
+om sjøkablene vil utgjøre et miljøproblem
+i fremtiden.
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Øvelsen som det refereres til i spørsmålet,
+ble avholdt den 3. november med en observatør fra Statens
+forurensningstilsyn til stede. Under øvelsen fungerte utstyret
+etter planen, men i forbindelse med at lensen skulle tas opp, ble
+arbeidsbåten fylt med vann av en brottsjø, og
+kantret. Mannskapet ble umiddelbart tatt opp av sjøen,
+og båten ble også berget. Statoil avgav rapport
+om øvelsen den 18. november i år.
+
+Rederiet har nå bestilt en ny båt,
+og SFT har mottatt spesifikasjoner på denne. SFT har gitt
+Statoil pålegg om å beholde en ekstra slepebåt
+på feltet inntil det er gjennomført en tilfredsstillende
+verifikasjon av den nye arbeidsbåten. Dette er foreløpig
+ikke gjennomført på grunn av dårlig vær.
+SFT vil ta stilling til rapporten når den foreligger.
+
+Statoil har også bygd en oljeopptaker
+som er tilpasset Norne-oljens spesielle egenskaper. Opptakskapasiteten er
+dermed god. Slepekapasiteten for lenser er også god nok,
+fordi det siden 1996 har vært stasjonert et ekstra slepefartøy
+på Norne.
+
+Dersom det blir gjennomført en tilfredsstillende
+verifikasjon av den nye arbeidsbåtens kapasitet som slepefartøy,
+vil det ikke bli stilt ytterligere krav til Statoils feltberedskap
+i denne fasen. På bakgrunn av hendelsen på Norne vil
+jeg ta initiativ til et arbeid med typegodkjenning av slepefartøy
+for beredskap mot akutt oljeforurensning.
+
+  Som jeg sa i mitt første svar, er
+Statoil pålagt å ha en ekstra slepebåt
+på feltet inntil det er godtgjort at den nye slepebåten
+er tilfredsstillende.  Hvis testene viser at den nye båten
+vil fungere etter forutsetningene, vil det ikke bli stilt ytterligere
+krav til Statoils feltberedskap i denne fasen.  I dette ligger det
+at myndighetene har stilt de krav man mener er nødvendig for å ivareta
+de spesielle forholdene på Norne.  Men all erfaring viser
+at man ikke kan gi garantier for at det ikke kan skje uhell også i
+fremtiden i et så værutsatt område.
+
+SFT har i denne saken fulgt utviklingen av
+oljevernberedskapen på Norne meget nøye og stilt
+spesifikke krav for å fange opp de spesielle forholdene
+på feltet.  Som kjent ble også produksjonen på feltet
+stanset tidligere i år i påvente av bedre opptaksutstyr.
+ SFT vil også i fortsettelsen følge opp beredskapsutviklingen
+på Norne-feltet.
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ Den saken som representanten Johnsen refererer
+til, er i disse dager til sluttbehandling som klagesak hos Riksantikvaren.
+Jeg finner det derfor ikke riktig å kommentere de konkrete
+problemstillinger som er knyttet til denne spesielle saken.
+
+Departementet mottar en del henvendelser om
+forholdet mellom plan- og bygningslovens planbestemmelser og kulturminnelovens
+bestemmelser om arkeologiske utgravinger.
+
+Etter mitt syn gir det et galt bilde av situasjonen å hevde
+at oppfyllelse av kulturminnelovens krav i dag skjer vilkårlig,
+og at dette generelt bidrar til å svekke rettsbevisstheten
+på dette feltet. Min erfaring er at spørsmål
+om frigiving av automatisk fredete kulturminner, vilkår
+om arkeologiske utgravinger og tiltakshavers dekningsplikt gjennomføres
+i samsvar med saksbehandlingsreglene i kulturminneloven og forvaltningsloven.
+Jeg kan forstå at kulturminnelovens krav om utgravinger
+kan oppleves som konfliktfylt i forhold til ønsket om en
+smidig og kostnadseffektiv gjennomføring av tiltak.
+
+Gjennomføring av utbyggingstiltak
+krever som regel koordinering med og tillatelser etter ulike lovverk.
+For tiltakshaver vil det ofte påløpe kostnader
+knyttet til behandling av søknader og vilkår knyttet
+til eventuelle tillatelser, herunder også etter kulturminneloven.
+Utgifter knyttet til oppfyllelse av kulturminnelovens krav, er derfor
+i utgangspunktet utgifter på lik linje med andre utgifter
+som påløper utbyggingsprosjekter, og som man må innkalkulere
+i de totale prosjektkostnadene. Praksis viser at kostnader knyttet
+til arkeologiske utgravinger sjelden utgjør en vesentlig
+del av prosjektets totalkostnader. I de tilfeller det er mange automatisk
+fredete kulturminner i byggegrunnen, kan kostnadene bli av en slik
+størrelsesorden at det kan være aktuelt å gi
+statlige bidrag.
+
+På denne bakgrunn mener jeg det ikke
+er grunnlag for å endre hovedprinsippene i dagens regelverk.
+
+  Som jeg sa i mitt forrige svar, mener jeg
+at kulturminnepolitikken i hovedsak fungerer bra, og ser ingen grunn
+til å endre hovedlinjene i den politikken vi har i dag.
+
+Når det gjelder den situasjonen at
+et statlig organ, som f.eks. Riksantikvaren, har mulighet til å gripe
+inn etter at kommunen har laget en plan, må dette også ses
+i sammenheng med kommunens plikt til å ta hensyn til nasjonale
+retningslinjer i kulturminnepolitikken. Da er automatisk vernete
+kulturminner, og ikke minst arkeologisk interessante funn, viktige å ta
+vare på, både av hensyn til vår felles
+kulturarv og til vår felles identitetsfølelse.
+Jeg tror ikke man skal undervurdere viktigheten av at man også i
+lokalsamfunnene kan finne tilbake til sine røtter gjennom
+disse minnene. Samtidig er det selvsagt viktig å ha en
+smidig og fornuftig håndtering av de sakene som oppstår.
+Derfor har altså staten mulighet til å gå inn
+med midler der det er veldig mange automatisk fredete minner i grunnen. 
+

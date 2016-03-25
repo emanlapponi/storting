@@ -1,0 +1,3143 @@
+ Flere har ikke bedt om ordet til sak nr. 2.
+
+(Votering, se side 1212)
+
+
+
+
+
+                    
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+        
+
+
+            
+
+
+                
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Tilhører sak
+
+
+
+            
+
+
+	
+                        
+
+
+                            
+
+Erstatning ved stråleskader etter brystkreftbehandling ved Radiumhospitalet i årene 1975 - 86
+
+
+                        
+
+
+                
+                    
+
+
+                        
+
+Gå til saker
+
+
+                    
+
+
+                
+
+
+
+            
+        
+
+
+    
+
+
+
+
+
+
+    
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Alt om
+
+
+
+            
+
+
+	
+                    
+
+
+                
+                    
+
+
+                        
+
+ Sykdommer
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Sykehus
+
+
+                    
+
+
+                
+                    
+
+
+                
+
+
+
+            
+
+
+            
+
+
+                
+
+ Gå til alle temaer
+
+
+            
+
+
+
+        
+
+
+    
+
+
+
+
+
+
+
+
+            
+
+
+        
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ Flere har ikke bedt om ordet til sak nr. 7. 
+
+(Votering, se side 1234)
+
+
+
+
+
+                    
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+        
+
+
+            
+
+
+                
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Tilhører sak
+
+
+
+            
+
+
+	
+                        
+
+
+                            
+
+Ombudsmannen for sivile tjenestepliktige sender skriv datert 5. august 1998 vedrørende endring av begrepet sivil tjenesteplikt til sivil verneplikt m.v.
+
+
+                        
+
+
+                
+                    
+
+
+                        
+
+Gå til saker
+
+
+                    
+
+
+                
+
+
+
+            
+        
+
+
+    
+
+
+
+
+
+
+    
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Alt om
+
+
+
+            
+
+
+	
+                    
+
+
+                
+                    
+
+
+                        
+
+ Sivile vernepliktige
+
+
+                    
+
+
+                
+                    
+
+
+                
+
+
+
+            
+
+
+            
+
+
+                
+
+ Gå til alle temaer
+
+
+            
+
+
+
+        
+
+
+    
+
+
+
+
+
+
+
+
+            
+
+
+        
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ John I. Alvheim har tatt opp de forslagene han refererte til. 
+
+
+
+
+(ordfører for saken): 
+
+Det har vært svært lærerikt for meg å få lov til å være saksordfører for denne saken, ikke fordi jeg er uenig i Regjeringens innstilling slik den foreligger, men tvert imot fordi jeg nå står her som den eneste som er enig i den. Regjeringspartiene støtter altså ikke sin egen regjering. Jeg er den eneste som kan si her: 
+
+
+
+
+
+
+
+«Dette medlem er enig i de prioriteringer for omdisponeringer som Regjeringen har foretatt, og fremmer følgende forslag: …»
+
+
+
+
+Den eneste som fremmer dette forslaget fra Regjeringen, er altså jeg på vegne av SV. Slik er det når man har en mindretallsregjering. Man må søke flertall der det er å hente, og det betyr altså at man må gå imot den støtten man får fra SV. Det hadde vært greit å vite når man var saksordfører, at det faktisk kom forslag fra helt annet hold, men SV vil likevel ta opp det forslaget som Regjeringen i utgangspunktet hadde. SV ser at regjeringspartiene ikke kommer til å støtte det og vil selvfølgelig beklage det, men forslaget er herved fremmet.
+
+
+
+
+ Olav Gunnar Ballo har tatt opp det forslaget han refererte til. 
+
+
+
+
+Eg kunne jo be om ordet for å takka for at det i alle fall er ein som står kvar, men det som gjer at eg finn grunn til å seia nokre ord, er innlegget til komiteens leiar. Han peika på noko svært viktig når det gjeld metadonassistert rehabilitering, nemleg: Kvifor går ikkje utbygginga og tilrettelegginga av eit landsomfattande tilbod endå raskare? 
+
+
+
+
+Innafor dette kapitlet er det no løyvt vel 40 mill. kr. Dei er brukte til etablering og drift av spesialiserte senter både i Trondheim, Bergen og Oslo. Det er òg planar i gang for dei tre fylka Buskerud, Vestfold og Telemark, i samråd med Agder-fylka. Så ved årsskiftet vil det vera om lag 200 klientar som får behandling. Nokre vil faktisk seia at i delar av landet har dette gått uventa fort. Eg var sjølv til stades då Bergen formelt opna sin klinikk i byrjinga av november, og dei var nøgde med den framdrifta dei har klart å halda, både når det gjeld å syta for at det blir tilsett kvalifisert personell, og at det blir lagt ein plan rundt den einskilde klienten, samstundes med at stadig fleire blir tatt inn. Det er nok tilsvarande for dei andre sentra. 
+
+
+
+
+For i alle fall å medverka noko til kommunane sine planar for den einskilde – som altså er ein heilt avgjerande føresetnad for at den som får dette tilbodet, skal ha høve til å lukkast – og for å oppklara noko som kan verka uryddig når det gjeld ansvar, dekkjer staten metadonutgiftene frå 1. september, slik at den einskildes heimkommune ikkje blir belasta med det. 
+
+
+
+
+Eg skjønar godt at her er utolmod, og eg kjenner det sjølv. Her er utolmod i Stortinget. Her er naturleg nok utolmod hjå dei tyngste rusmisbrukarane, som dette gjeld, og hjå deira næraste pårørande. Men for å kunna sikra eit tilbod som kan vera til hjelp for den einskilde, har det vore nødvendig å ta stega gradvis. Både kompetanse og tiltaksapparat må utviklast i eit tempo som gjer at den einskilde får den oppfylginga som er nødvendig. 
+
+
+
+
+Så eit par ord om Vensmoen. Eg er glad for støtta i sosialkomiteen til den løysinga som her er vald. Eg skal gjerne innrømma at eg gjekk til den saka med det for auge at her ikkje både skulle overdragast ein eigedom og sendast med midlar i tillegg. Men eg har stor respekt for det forarbeidet som er gjort over lengre tid i departementet, lenge før mi tid, for å prøva å få til ei avklaring for denne enorme bygningsmassen. Det er gjort fleire forsøk når det gjeld sal av delar av bygningane. Det er gjort greie for at ein del av dette komplekset er verneverdige bygningar, og det er gjort greie for dei kostnadene som det ville innebera å utføra vedlikehaldet som etter kvart har blitt tungt påkravd. Så eg håpar no at vi har funne ei løysing som kan vera god både for framtidige statlege budsjett og for Saltdal kommune.
+
+
+
+
+Til det siste sosialministeren var inne på angående Vensmoen: Det er vel ikke fattet vernevedtak for Vensmoen, men det vurderes hvorvidt man skal gå inn og verne enkelte av husene – det er i hvert fall ikke besluttet slik det står i proposisjonen som vi har til behandling i dag. 
+
+
+
+
+Jeg har et spørsmål til sosialministeren. Helt i tolvte time skjedde det noe underlig i komiteen. Kap. 614 post 63 var fra Regjeringens side foreslått opprettholdt med 6,9 mill. kr. Dette skulle gå til ettervern av rusmiddelmisbrukere, og det ble sagt helt klart og tydelig: Disse pengene kan dere bruke – her kan dere sette av penger, bruk dem til noe positivt og overfør dem. Så skjer det underlige at når vi skal avgi innstilling, overfører man 1,5 mill. kr av denne pengesummen til tilskudd til avholdsorganisasjoner. Jeg vil spørre om sosialministeren virkelig mener at dette er en fornuftig bruk av pengene. Kan man plutselig bare overføre 1,5 mill. kr til avholdsorganisasjonene, som det ikke lå noe i proposisjonen om på forhånd, men som kom i ettertid, når man til og med sa at de midlene som ble satt opp til ettervern, kunne brukes og ville bli brukt på en fornuftig måte? Er det den måten sosialministeren vil drive rusmiddelpolitikk på i fremtiden?
+
+
+
+
+Saksordføreren er i sin fulle rett når han påpeker dårlig kommunikasjon i forbindelse med det endringsforslaget regjeringspartiene, Arbeiderpartiet og Høyre støtter i denne innstillingen, og som har ført til at SV står alene om det som var Regjeringens opprinnelige forslag – og som saksordføreren på en elegant måte har klart å fremheve fra talerstolen. Saksordføreren kjenner bakgrunnen, nemlig tidspresset i forbindelse med den samtidige budsjettbehandlingen. Ikke desto mindre burde saksordfører vært orientert på et tidligere tidspunkt, og det burde vært mitt ansvar, så det skulle vært gjort.
+
+
+
+
+Når det gjelder selve saken, som også representanten Nesvik var inne på her, er det i grunnen bare et spørsmål om valg mellom to gode formål: Fordeling av midler til to sider ved samme sak, nemlig forebygging og ettervern av rusmiddelskader. Vi vet jo alle at det trengs innsats på begge områder. Mer dramatikk er det egentlig ikke i innholdet i saken.
+
+
+
+
+Eg fekk eit spørsmål frå representanten Nesvik. Eg vil for det fyrste stadfesta at Regjeringa la fram eit forslag om å bruka 6,9 mill. kr ekstra for å styrkja ettervernet. Det er eit tema som òg var oppe til debatt her den 1. desember. Det er behov for eit forsterka ettervern for å sikra fleire av dei som kjem ut etter behandling for sitt rusmisbruk, meir oppfylging enn dei får i dag. Det vil det heldigvis no etter det budsjettet som blir vedtatt vera auka moglegheiter for også i 1999. Eg rettar meg etter dei omprioriteringar som fleirtalet i sosialkomiteen her har gjort. Som representanten Nesvik er kjend med, er eg òg opptatt av å styrkja det førebyggjande arbeidet innan dette området. Slik sett vil eg seia at når det fyrst skulle omprioriterast midlar, har ikkje eg sterke innvendingar mot at det var avhaldsorganisasjonane som denne gongen fekk dei midlane. Men Regjeringa sitt utgangspunkt ligg i proposisjonen.
+
+
+
+
+Jeg undret meg litt over det svaret som ble gitt nå til slutt. For det sosialministeren her sier, er at det er hipp som happ om det går til edruskapsorganisasjonene eller om det går til ettervern, og når en omprioritering skjedde, var det bra det gikk dit det gikk. Jeg trodde at når sosialministeren legger fram en proposisjon for Stortinget om omrokering av penger, gjelder det innenfor de områder som sosialministeren mener det er riktig å gjøre det, og fordi det er et behov. 
+
+
+
+
+Når man sier at ettervernet er styrket innenfor 1999-budsjettet, så er også avholdsorganisasjonene styrket i det samme budsjettet. Saken er at det er en skrikende mangel på ettervern, og det gjorde sosialministeren noe med og satte av 6,9 mill. kr, men så blir dette endret til 5,4 mill. kr. Og det var det jeg spurte sosialministeren om: Er det dette man ønsker skal gjøres i fremtiden?
+
+
+
+
+La meg gjera det heilt klart at Regjeringa foreslo 6,9 mill. kr til ettervern. Sosialkomiteen gjorde ei vurdering. Fleirtalet ynskte ei anna prioritering. Det rettar eg meg etter.
+
+
+
+
+ Flere har ikke bedt om ordet til sak nr. 4.
+
+(Votering, se side 1215)
+
+
+
+
+
+                    
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+        
+
+
+            
+
+
+                
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Tilhører sak
+
+
+
+            
+
+
+	
+                        
+
+
+                            
+
+Endringer i statsbudsjettet for 1998 under enkelte kapitler under Sosial- og helsedepartementet
+
+
+                        
+
+
+                
+                    
+
+
+                        
+
+Gå til saker
+
+
+                    
+
+
+                
+
+
+
+            
+        
+
+
+    
+
+
+
+
+
+
+    
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Alt om
+
+
+
+            
+
+
+	
+                    
+
+
+                
+                    
+
+
+                        
+
+ Folkehelse
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Funksjonshemmede
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Helseinstitusjoner
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Helsepersonell
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Helsevesen
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Kommunenes økonomi
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Rusmidler
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Sosialvesen
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Sykdommer
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Sykehus
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Trygder
+
+
+                    
+
+
+                
+                    
+
+
+                
+
+
+
+            
+
+
+            
+
+
+                
+
+ Gå til alle temaer
+
+
+            
+
+
+
+        
+
+
+    
+
+
+
+
+
+
+
+
+            
+
+
+        
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ De talere som heretter får ordet, har en taletid begrenset til 3 minutter.
+
+
+
+
+Først til det punktet at man ikke klarer å gjennomføre reformer som et enstemmig storting har vedtatt. Dessverre er ikke det noe nytt. Dessverre har det vært slik lenge. Det betyr kanskje at mange partier i Stortinget etter hvert er nødt til å ta innover seg at en del av reformene man vedtar, og som er bra og riktige, koster mer penger enn det man faktisk er villig til å skaffe til veie gjennom fordelingspolitikken og når inntektene skal skaffes. Bare som et apropos til siste taler. 
+
+
+
+
+Grunnen til at jeg tok ordet, var at det var noen innlegg før i dag som dreide seg om konkurranseutsetting på omsorgssektoren. Det ble vist til eksempler fra Sverige. Det er ikke bare Fremskrittspartiets representanter som har vært på studietur til Sverige og Danmark – det har også jeg vært. Erfaringene i Danmark kunne jeg si mye om, men i og med at det var kostnadene i Sverige som spesielt ble trukket fram, har jeg lyst til å si litt om det. I utgangspunktet er kostnadene i den svenske omsorgssektoren mye høyere enn i Norge. Der gikk det altså inn private firmaer og fikk kostnadene ned, men til et nivå som fremdeles ligger langt over det som er vanlig på norske sjukehjem. Det tror jeg vi må ha med oss i bildet, slik at vi ikke sammenlikner epler og pærer. 
+
+
+
+
+Det er riktig at noen steder har dette blitt bra, men det er også riktig at noen steder har det blitt riktig ille. Det har blitt så ille at gamle folk har ligget og faktisk verken fått mat eller stell, fordi her har hensynet til det å skulle tjene penger på en slik virksomhet blitt overordnet hensynet til brukerne. Jeg syns man må være realist når man skal begynne å telle kroner, og innse at det norske prisnivået på disse tjenestene faktisk er lavt. Det er ikke bra, for mange steder er det for dårlig pleiefaktor, og vi steller for dårlig med mange av våre gamle på mange sjukehjem. Å gjøre det bedre vil koste mer penger.
+
+
+
+
+Så til et punkt som har opptatt meg mye de siste dagene, og det er den skjeve fordelingen som kommer av dette budsjettet. Et av de punktene som opprører meg mest, og som rammer de fattigste, er at man ved innføringen av kontantstøtte ikke har skjermet sosialhjelpsmottakerne mot at de skal få avkortet sosialhjelpen når de mottar kontantstøtten. Jeg kunne godt tenke meg å spørre sosialministeren, i og med at hun er her, om hun kan tenke seg å ta ordet og svare på om dette var med i beregningen fra starten av, og om Regjeringen kan tenke seg å vurdere å forandre på dette systemet når de nå skal legge fram en melding for Forskjells-Norge. For er det noe som kommer til virkelig å gjøre en stygg omdreining for Forskjells-Norge, er det det at man utbetaler såpass mange tusen kroner helt uten behovsprøving til mennesker, uansett hvor mye penger man har, og at de aller fattigste av oss, som må gå og be om hjelp for å klare seg til livets opphold, ikke skal kunne få lov til å få disse kronene uavkortet. Det syns jeg er smålig.
+
+
+
+
+Det er dramatisk når det til tross for at vi har fått ca. 1 200 nye legestillinger i Norge de siste tre årene, likevel har vært en reduksjon på seks leger i den nordnorske landsdelen. Derfor har utdanningskomiteen i sin budsjettinnstilling påpekt at det er nødvendig å gjennomføre tiltak for å bedre legesituasjonen i Nord-Norge. 
+
+
+
+
+Vi vet at å utdanne leger i landsdelen er et av de beste tiltakene som vi kan gjøre for å fylle de ledige stillingene. Det er derfor gledelig at Regjeringa fant plass til å starte utbyggingen av Regionsykehuset i Tromsø i forbindelse med høstens budsjett. Men jeg vil samtidig understreke at det ikke er noen grunn, verken for Regjeringa eller Stortinget, til å hvile på sine laurbær av den grunn. Universitetet i Tromsø satte som forutsetning da de sa ja til økt opptak i høst, at først trengte de utbyggingen av Regionsykehuset i Tromsø, som man nå har fått tilsagn til. Men både Regionsykehuset i Tromsø og medisin- og helsefagbygget ved universitetet trenger videre utbygging. Dette blir også understreket av et bredt flertall i undervisningskomiteen. 
+
+
+
+
+Mange rundt i landet har reagert på planene om legeutdanning ved Sentralsykehuset i Akershus. Også jeg er bekymret for at dette skal føre til problemer med å rekruttere fagpersonell til medisinerutdanningen i andre regioner. Planene om legeutdanning ved Sentralsykehuset i Akershus har likevel fått støtte i Stortinget, og vi har bedt om å få saken tilbake ved neste statsbudsjett. Samtidig står alle partier i utdanningskomiteens innstilling sammen om å forutsette at medisinerutdanningen i Akershus ikke får negative konsekvenser for medisinerutdanningen i andre deler av landet, og det er spesielt pekt på situasjonen i Nord-Norge. En enstemmig sosialkomite fremmer også forslag om at økt opptak ved de øvrige universitetene vurderes samtidig med vurderingen av utdanning ved SiA. 
+
+
+
+
+Når det gjelder tannleger, er situasjonen i Nord-Norge om mulig enda mer prekær enn for leger. Dekningen er liten og gjennomtrekken er stor. Man er bekymret for at mange av de svenske tannlegene skal forsvinne til Sverige nå når det legges om der på finansieringen av tannleger. 
+
+
+
+
+Med dagens utdanningskapasitet i Norge vet vi at det i år 2015 vil mangle mellom 500 og 600 årsverk i Norge. Det er altså uansett behov for å øke utdanningskapasiteten for tannleger. Om man velger å utvide der det utdannes tannleger i dag, i Oslo eller Bergen, vil det uansett kreve investeringer, som til f.eks. nye bygg.
+
+
+
+
+Det er satt ned en arbeidsgruppe som skal vurdere dette. Etter mitt syn bør det ikke være tvil om at økningen av kapasiteten bør komme i Tromsø. Jeg forventer ikke et klart og tydelig svar fra statsråd Høybråten, men jeg håper likevel at du kan si deg enig i at tannlegeutdanningen i Tromsø iallfall kan være et nødvendig tiltak for å øke tilgangen på tannleger i Norge, og at du kommer tilbake til denne saken så fort arbeidsgruppen som er satt ned, er ferdig.
+
+
+
+
+ Presidenten minner om at all tale skal rettes til presidenten.
+
+
+
+
+La meg bare kort få kommentere – at det er gledelig å registrere Arbeiderpartiets bekymring for budsjettene ved norske sykehus. Det som er forbausende, er jo at da Arbeiderpartiet selv satt i regjering, hørte vi aldri om slike bekymringer fra denne talerstol. Da var det andre som var bekymret. Arbeiderpartiet var det ikke. Vi får håpe at dette fortsetter, slik at vi kan få større ressurser til våre sykehus. Det skal i hvert fall Fremskrittspartiet være med og medvirke til.
+
+
+
+
+Psykiatrien er eit forsømt felt. Det er eit paradoks ettersom nyare rapportar viser at kvar fjerde nordmann har, har hatt eller vil få psykiske problem. Framleis er det mange mytar knytte til psykiske lidingar, og ofte heftar det ved eit menneske om ein har hatt bruk for profesjonell hjelp når sjukdom av psykisk karakter har meldt seg. 
+
+
+
+
+Det er på tide med ein innsats for å få til ei haldningsendring overfor omgrepet psykisk liding. Det kan vera minst like belastande å verta klassifisert og stigmatisert av såkalla friske som det er å stå utan eit tilbod som høver til sjukdomen sin karakter. Tiltak nr. 1 må vera respekt for pasienten, og å styrkja og ta i bruk pasientane sine eigne erfaringar. Det er ikkje vanskeleg å forstå pasienten si kjensle av maktesløyse om alle reaksjonar vert møtte med diagnoserelaterte svar. Psykiatrien treng modernisering med vekt på rett for den enkelte til å høyra til i eit lokalsamfunn når det gjeld bustad, arbeid og nødvendig hjelpeapparat i det daglege.
+
+
+
+
+Eg er glad for at det kommunale tilbodet skal styrkjast. Ordninga med støttekontakt treng ei massiv utbygging, særleg for å gje støtte til menneske med psykiske lidingar, slik at dei kan koma ut av isolasjonen. Det er rett å satsa på det kommunale tilbodet. Men det er grunn til å minna om at dei psykiatriske sjukehusa og poliklinikkane i dag i mange tilfelle må skriva ut pasientar før dei er ferdig behandla. Det kan ta lang tid å få plass for behandling dersom det ikkje er tale om akutt hjelp.
+
+
+
+
+Det er grunn til å fylgja utviklinga knytt til dei psykiatriske sjukehusa og poliklinikkane nøye, slik at me ikkje vert ståande i ein situasjon der tiltakskjeda overfor pasientane framleis er svak. Eg finn grunn til å minna om at fleire langtidsavdelingar ved dei psykiatriske sjukehusa har ein standard som kan gjera sjølv friske og robuste personar deprimerte. Det er uverdig og direkte uansvarleg overfor medmenneske som for ein kortare eller lengre periode treng behandling og omsut.
+
+
+
+
+Det trengst ei satsing no for at ikkje storparten av milliardane fyrst kjem brukarane til hjelp sist i planperioden. 400 mill. kr for neste år av 24 milliardar kr på åtte år viser at helseministeren si utsegn i nyheitssendingar i går om at han no hadde fått Stortinget med på ei storsatsing, var noko hol. Om han hadde sett meir inn på det, kunna kan henda den årlege løyvinga, og spesielt for neste år, ha vore vesentleg større. Det hadde kome pasientane til gode.
+
+
+
+
+La meg på tampen av denne debatten kommentera eit par utsegner og spørsmål som har kome frå Arbeidarpartiet.
+
+
+
+
+Fyrst til prisjusteringa av vertskommunetilskotet: Det er interessant å registrera at når sentrumsregjeringa innafor eit budsjett med 9 milliardar kr i innstrammingar vel å fylgja nokre av dei tidlegare arbeidarpartiregjeringane sine forslag, er nettopp Arbeidarpartiet ute med sterkast kritikk. Eg er opptatt av vertskommunane sin situasjon. Eg nemnde i mitt innlegg ei arbeidsgruppe som vurderer kostnadene med særleg ressurskrevjande klientar. Den legg fram si innstilling for departementet før jul, og vil, som eg sa i mitt innlegg, sjå både på innsatsmidlar og andre økonomiske ordningar.
+
+
+
+
+Så er eg oppfordra av representanten Britt Hildeng til å svara på spørsmål som gjeld grunnbeløpsreguleringa i folketrygda. Ho peikte på at Stortinget i samband med trygdeoppgjeret har bedt Regjeringa drøfta prosedyrane for grunnbeløpsreguleringa med partane. Eg kan opplysa at møte om det skal haldast i slutten av januar.
+
+
+
+
+Elles merka eg meg at representanten Britt Hildeng synest å gje denne regjeringa ansvaret for tidlegare trygdeoppgjer og påfølgjande underregulering av grunnbeløpet. Eg reknar med at ho stiller seg sjølv spørsmål om kven det er som har hatt ansvaret for tilrettelegginga av trygdeoppgjeret gjennom fleire år på 1990-talet.
+
+
+
+
+Så har ho også bede meg å avkrefta mistanken om at Regjeringa sitt forslag om underregulering av grunnbeløpet på 0,3 står fast, og når forslag om inndraging av ein fridag og utvida arbeidsgjevarperiode fell bort. La meg der streka under noko som òg har vore nemnt før i dag. Regjeringa la i sitt budsjett til grunn ei grunnbeløpsregulering som skulle vera i samsvar med anna inntektsutvikling. Når forslaget om inndraging av ein fridag og utvida arbeidsgjevarperiode no er avvist, vil Regjeringa utan å vera bunden av sitt tidlegare forslag koma tilbake til det i samband med trygdeoppgjeret i samsvar med dei føresetnader som Stortinget har lagt til grunn.
+
+
+
+
+Representanten John Alvheim avla Arbeiderpartiet en kort visitt. Jeg synes det har oppstått et mysterium her i salen i dag – og kanskje har det vært der før også. Fremskrittspartiet kuttet stort i overføringene til fylkeskommunene, og selv om en del av disse midlene åpenbart føres tilbake gjennom en forsterket stykkprisfinansiering, er nettogapet og nettotapet for fylkeskommunene på flere milliarder kroner. Likevel sier altså Fremskrittspartiet at fylkeskommunene som sykehuseiere vil få bedrede økonomiske vilkår. Sykehusdriften skal åpenbart profittere på dette. Nei, dette går ikke. Den manglende sammenhengen som ligger i budsjettet til Fremskrittspartiet, viser nettopp at det ikke er sammenheng i Fremskrittspartiets politikk, og at dette avdekkes gjennom akkurat dette eksemplet som representanten John Alvheim har brakt inn i dag. Kuttarbeidet i fylkeskommunene pågår nå, og det rammer helsesektoren. Det ser vi. Og det vil bli enda mer dramatisk hvis en skulle legge til grunn Fremskrittspartiets budsjett. Jeg tror på denne bakgrunn at Fremskrittspartiet vil få et økende troverdighetsproblem og i alle fall en umulig dokumentasjonsoppgave for faktisk å rettferdiggjøre at deres helsepolitikk vil føre til noe godt for våre pasienter.
+
+
+
+
+Det har fra flere talere i denne debatten vært reist kritikk mot fordelingsprofilen i Regjeringens budsjettopplegg og i det fremlagte forslaget til forlik. Det har fra enkelte av Arbeiderpartiets talere vært fremstilt slik at man nesten skulle få inntrykk av at Arbeiderpartiet selv aldri har foreslått innstramninger i velferdsordninger. Det må være tillatt å minne om velferdsmeldingen og Stortingets behandling av den, hvor nettopp det var et av elementene som inngikk. 
+
+
+
+
+Jeg mener at det å prioritere forsømte områder i helsevesenet er god fordelingspolitikk. Det å prioritere psykiatrien – og her registrerer jeg at det er full tilslutning til nye 400 mill. kr som en start på psykiatrisatsingen – er det bred tilslutning til i denne salen. Det er god fordelingspolitikk. Vi starter på denne måten og i dette omfanget, i tråd med det som lå i den vedtatte opptrappingsplanen, nemlig en forsiktig innfasing i starten, en brattere innfasing etter hvert av hensyn til personellsituasjonen. Det å satse på det forsømte området kreftbehandling, er god fordelingspolitikk.
+
+
+
+
+Når det gjelder egenandeler, må jeg si at det er såpass klare spor i tidligere budsjettforslag fra tidligere regjeringer at enkelte talere burde fare litt stillere i dørene når det gjelder å kritisere denne regjeringens egenandelsforslag.
+
+
+
+
+Representanten Konglevoll tar opp veldig viktige spørsmål når det gjelder lege- og tannlegedekningen, noe som har stor oppmerksomhet fra vår side. Jeg vil si meg enig i at det å satse på legeutdanning i Tromsø har vært et av de viktigste og mest vellykkede virkemidler for å skaffe økt legedekning i Nord-Norge. Derfor har det vært så viktig for meg å få til en opptrapping av kapasiteten på legeutdanningen nettopp i Tromsø. Jeg er glad for at vi har fått til en start på det.
+
+
+
+
+Det jeg ønsker meg framover, er at vi ikke i så stor grad setter de ulike landsdelene opp mot hverandre, for både fastlegeordningen og behovene innenfor psykiatrien og kreftomsorgen vil kreve betydelige økninger i legedekningen framover. 
+
+
+
+
+I tillegg til økt utdanningskapasitet kreves det fortsatt rekruttering utenfor landets grenser. Det kreves stimuleringstiltak for å gjøre det mer attraktivt å arbeide i distriktene. Det vil vi forsterke som et resultat av denne budsjettbehandlingen. Det kreves en sterkere statlig styring av legedekningen, og det får vi gjennom det lovvedtak som Odelstinget er invitert til å vedta senere i kveld.
+
+
+
+
+Eg fekk ikkje høve innanfor den tida eg hadde, til å svara på alle spørsmåla. 
+
+
+
+
+Eitt av dei var frå representanten Karin Andersen og galdt forholdet mellom kontantstøtte og sosialhjelp. Der kan eg stadfesta at utgangspunktet både til barne- og familieministeren og meg var nok i starten, då vi hadde det fyrste innsynet i dette, at kontantstøtta burde haldast utanom, på same måten som vi òg ynskte det når det galdt barnetrygda. Vi føretok då visse sonderingar rundt i kommunane når det galdt sjølve nivået på sosialhjelpa, og fann ut at i denne omgangen, i dei reviderte retningslinene for sosialhjelp, måtte vi konsentrera oss om å få til nokre fleire felles kriterium som innebar eit noko meir felles nivå for sosialhjelpa, og så kan eg stadfesta at vi kjem tilbake til ei vurdering av dette i stortingsmeldinga om utjamning i levekår.
+
+
+
+
+Til slutt vil eg òg gjerne seia at eg merker meg at det her fell sterke ord om ein manglande fordelingsprofil hjå dagens regjering. Eg trur det er behov for å dempa ordbruken i alle fall litt. Eg deltok i Stortinget under behandlinga av velferdsmeldinga for to og eit halvt år tilbake. Det er ingen tvil om at det då blei gjort solide innstrammingar både overfor nokre av dei einslege forsørgjarane og overfor kvinner, f.eks. når det gjeld pensjonar. Dersom eg ikkje minnest heilt feil, karakteriserte LOs Esther Kostøl velferdsmeldinga frå Arbeidarpartiet som kvinnefiendtleg. Det var sterke ord. Eg gjentek ikkje dei no, men eg vil oppfordra alle parti som er opptekne av eit meir finmaska tryggingsnett for dei mest vanskelegstilte i vårt land, om at vi saman finn fram til løysingar som gjer kvardagen lettare for fleire, og at vi finn fram til forslag og løysingar som held ei stund.
+
+
+
+
+Jeg er glad for at statsråden nå sa at hun vil vurdere kontantstøtten opp mot avkorting av sosialhjelpen når man skal komme tilbake med meldingen dette året. Og det er fordi det er nødvendig, særlig når man hører at både barne- og familieministeren og sosialministeren i utgangspunktet hadde tenkt annerledes enn slik det ble, og at de forhåpentligvis hadde tenkt at det var viktigst å skjerme de fattigste, de som hadde minst. Og der støtter SV Regjeringa, hvis den er i stand til å få til det.
+
+
+
+
+Men det er jo i den sammenhengen vi begynner å lure på hva det er som har skjedd med denne regjeringa. For i utgangspunktet tenkte man bra om fordeling. Man tenkte veldig riktig om mange av disse ordningene. Så har det skjedd noe underveis som har gjort at man har klart å skjerme de rikeste med null kroner i skatte- og avgiftsøkning. Men man har endt opp med f.eks. å tillate at noen kommuner avkorter sosialhjelpen mot kontantstøtten, man har økt egenandelene, og så har man også lagt fram et kommunebudsjett der kommunene sjøl er nødt til å øke egenandeler og avgifter osv. for å klare å saldere sine budsjetter. Så når SV kritiserer denne regjeringas fordelingsprofil, gjør vi det med god samvittighet, for vi har ment det hele tida. Vi mente det da Arbeiderpartiet satt i regjering, vi mener det nå, og vi har tenkt å mene det også til neste år.
+
+
+
+
+Jeg kritiserer denne regjeringa mest fordi jeg savner at den istedenfor å peke på andre og Arbeiderpartiet og si at de er verre enn oss, går inn og erkjenner de fordelingsforandringene som er skjedd nå, og at det faktisk har rammet noen av de aller svakeste. Så får man heller si at det ble slik denne gangen, men neste gang skal vi gjøre det bedre, og da skal vi slåss for disse. Jeg frykter at vi har en tung jobb, for de har skrevet seg sammen i avtaler som gjør at det nok ikke er det som står øverst på dagsordenen. Men jeg savner det at man erkjenner de faktiske virkninger av de budsjetter man har lagt fram, og også av de regelendringene man har gjort. 
+
+
+
+
+Statsråden var inne på velferdsmeldingen. Det er riktig at da den ble behandlet, stod SV, Kristelig Folkeparti og Senterpartiet sammen om å kritisere Arbeiderpartiet for de endringene som skjedde, spesielt i forhold til de enslige forsørgerne. Men nå er problemet at når disse regelendringene slår inn, er ikke denne regjeringen der med sine statsråder fra Kristelig Folkeparti og Senterpartiet og verger de enslige forsørgerne og sørger for at de ordningene som skulle ta over og gi dem andre tilbud enn overgangsstønadene, er oppe og går og gode nok, slik at de enslige forsørgerne ikke kommer dårligere ut. Det betyr at det var Arbeiderpartiet som fikk gjennom endringene i velferdsmeldingen, som svekket tilbudet, og denne regjeringen er med på å svekke de nye tiltakene som da tross alt ble vedtatt, og som skulle komme til erstatning for overgangsstønaden.
+
+
+
+
+Jeg savner også – når en skulle gå inn på sykelønnsordningen – en viss erkjennelse av at en faktisk har valgt seg ut én gruppe, nemlig de som har de laveste inntektene. Og ingen er vel særlig overrasket over at dette i høy grad også er kvinner, kvinner som står svakt. Og derfor har det også vært relativt lite bråk. Men samtidig har jeg villet tro at sosialminister Kleppa nettopp kanskje har tanker for disse menneskene, ut fra den tidligere profilen som vi har opplevd her i Stortinget. Så jeg må si at jeg er meget skuffet over at det toget går, og at disse kvinnene som fra før har liten inntekt og står svakt på arbeidsmarkedet, blir fratatt rettigheter og vil få det veldig vanskelig ved langvarig sykdom. Hvis en f.eks. får kreft, og en da også mister sine inntekter, kan en faktisk risikere å måtte gå fra hus og hjem. Slik er det.
+
+
+
+
+Så litt om psykiatrien. Nå har heldigvis helseministeren dempet sin egen rolle litt i handlingsplanen for psykiatri. Det ligger et ganske stort arbeid bak der. Vanligvis er det slik at det blir fremmet en stortingsmelding som drøfter prinsippene. Det ble gjort også denne gangen. Det tror jeg er den mest ærlige stortingsmeldingen jeg noen gang har lest, den blottla alle problemer og la det på bordet: Her er vi nødt til å gjøre noe. Så er det vanlig at en deretter fremmer en handlingsplan. Det har Høybråten gjort, og det skal han da også ha ære for. Men det var faktisk etter påtrykk fra et enstemmig storting. Alle partier var enige om at vi nå måtte ha et løft og en opptrappingsplan. Så her er vi mange som har stått sammen, og da håper jeg også at det vil være mange som følger opp.
+
+
+
+
+Så til egenandelsøkningene: For meg blir logikken litt merkelig når en sier at en har hatt egenandelsøkninger før, og det skal bli så mye bedre når en øker dem ytterligere. Det er jo en litt spesiell logikk. Det som var litt spesielt i år, var at det var forslag om en økning på 20 pst. på det såkalte taket, og det er en formidabel økning på ett år! Men i tillegg har vi problemet som mange har vært inne på i debatten, at med det kommuneopplegget som foreligger, er det å frykte at svake grupper, folk med kroniske lidelser, syke og eldre, får betydelig økte egenandeler og økte avgifter, fordi kommunene er nødt til å få inn penger for å få det hele til å gå i hop. Summen av dette tror jeg derfor gjør det meget vanskelig. Det blir en skatt på sykdom, som hele komiteen for så vidt er opptatt av.
+
+
+
+
+ Flere har ikke bedt om ordet til sak nr. 1 
+
+(Votering, se side 1178)
+
+
+
+
+
+                    
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+        
+
+
+            
+
+
+                
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Tilhører sak
+
+
+
+            
+
+
+	
+                        
+
+
+                            
+
+Bevilgninger på statsbudsjettet for 1999
+
+
+                        
+
+
+                
+                        
+
+
+                            
+
+Utsettelse av flytting av Rikshospitalet
+
+
+                        
+
+
+                
+                    
+
+
+                        
+
+Gå til saker
+
+
+                    
+
+
+                
+
+
+
+            
+        
+
+
+    
+
+
+
+
+
+
+    
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Alt om
+
+
+
+            
+
+
+	
+                    
+
+
+                
+                    
+
+
+                        
+
+ Departementer
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Eldreomsorg
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Familie
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Folkehelse
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Funksjonshemmede
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Fylker
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Fylkeskommunenes økonomi
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Helseinstitusjoner
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Helsepersonell
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Helsevesen
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Kommunenes økonomi
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Kommuner
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Rusmidler
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Sosialvesen
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Statsbudsjettet
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Svalbard
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Svangerskap
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Sykdommer
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Sykehus
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Trygder
+
+
+                    
+
+
+                
+                    
+
+
+                
+
+
+
+            
+
+
+            
+
+
+                
+
+ Gå til alle temaer
+
+
+            
+
+
+
+        
+
+
+    
+
+
+
+
+
+
+
+
+            
+
+
+        
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+

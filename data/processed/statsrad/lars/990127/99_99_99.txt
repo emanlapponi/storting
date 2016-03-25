@@ -1,0 +1,2108 @@
+ Situasjonen i verftsindustrien har forverret
+seg den senere tiden, og utsiktene for resten av året indikerer
+at situasjonen kan bli vanskelig. Jeg vil i dette svaret omtale
+skipsbyggingsindustrien, mens jeg i svar på dagens spørsmål
+9 vil ta for meg den oljerelaterte industrien.
+
+Ordreinngangen i 1998 var på 4 milliarder
+kr, mens gjennomsnittet for de fire forutgående årene
+var mellom 11 og 12 milliarder kr, med topp på rundt 20
+milliarder kr i 1997. Verftene hadde ved årsskiftet inneliggende
+ordre for nærmere 19 milliarder kr, mens noen av verftene vil
+ha sin siste leveranse allerede i løpet av første
+halvår. Rundt halvparten av verftene vil ha sin siste leveranse
+i løpet av året. Problemene vil imidlertid ofte
+oppstå tidligere, fordi deler av arbeidsstokken vil gå tom
+for arbeid før et fartøy leveres. Allerede nå har
+enkelte verft permittert hele eller deler av arbeidsstokken.
+
+Skipsbyggingsindustrien er en svært
+viktig næring i mange lokalsamfunn og en viktig del av
+vår maritime næringsklynge, og vi vurderer derfor
+nå situasjonen meget nøye. Vi vurderer også om
+det er behov for raskt å sette i verk tiltak for å motvirke
+de negative tendenser som gjør seg gjeldende.
+
+  Jeg tror det er viktig å understreke
+i første del av dette svaret at de vanskeligheter
+og problemer vi nå ser, nok har direkte sammenheng med
+flere forhold enn disse to prosentene i ulikhet når det
+gjelder verftsstøtte. I hvert fall sier bransjen selv med
+stor tydelighet at det er et svært endret marked, og det
+er nok hovedårsaken. Men vi er nok enige om at det forhold
+at vi har en lavere verftsstøtte i Norge enn i konkurrentland,
+definitivt ikke gjør situasjonen bedre. 
+
+Vi fikk en veldig uro rundt dette allerede
+høsten 1997, da både den forrige regjering og
+denne regjering valgte å ha en lavere verftsstøttesats
+av omsyn til innstramningseffekten i økonomien. Dette medførte
+at nesten et helt års normal ordretilgang ble forsert fram
+på slutten av 1997, og dette skapte en uro i ordretilgangen
+som vi nå ser forplanter seg, kombinert med at det er uro
+i markedene ute. Regjeringen tar dette veldig alvorlig. Det er for
+de fleste verft ikke noen akutt situasjon, men det er nødvendig å gå igjennom
+dette og komme tilbake til Stortinget med tiltak i løpet
+av første halvår – og vi vil gjøre
+det så fort vi klarer det.
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ Bemanning av norske ferger og passasjerskip
+reguleres av forskrift av 17. mars 1987 om bemanning av norske skip,
+og forskrift av      30. juni 1987 om vakthold for dekksavdelingen
+og maskinavdelingen på norske skip.
+
+Ved en særskilt vurdering av det enkelte
+skip fastsetter Sjøfartsdirektoratet den sikkerhetsbemanningen
+som er nødvendig for å ivareta skipets og de ombordværendes sikkerhet.
+Det er et absolutt krav at sikkerhetsbemanningen skal være
+tilstrekkelig stor til å dekke de aktuelle sikkerhetsoppgaver
+om bord.
+
+For at Sjøfartsdirektoratet skal være
+sikker på at den bemanning som fastsettes, er stor nok,
+blir det i dag utført bemannings- og evakueringsanalyse
+for å dokumentere at det er bemanning til de arbeidsoperasjoner
+forskriftene krever. I tvilstilfelle foretas det øvelse
+for å verifisere analysen.
+
+Den mest kritiske parameteren for vurdering
+av passasjerenes sikkerhet på innenriks ferger har vært
+evakueringsfasen. Det er den senere tid utviklet redningsutstyr som
+er lite arbeidskrevende, og som reduserer mannskapsbehovet ved evakuering.
+Det vises bl.a. til ferger som har installert «tørrskodd
+evakuering». Dette tiltaket gjør det mulig å styre
+hele evakueringen fra broen. I en evakueringssituasjon er det dermed
+ikke nødvendig å avsette en av mannskapene til å låre
+og holde livbåtene inntil skipssiden for å gi
+passasjerene mulighet til å gå om bord.
+
+Har fergen fått installert nytt redningsutstyr,
+kan rederiet sende inn søknad om fastsetting av ny bemanningsoppgave.
+Sjøfartsdirektoratet vil da foreta en ny vurdering som
+kan gi som resultat at sikkerhetsbemanningen reduseres. Forutsetningen
+er at passasjerenes og skipets sikkerhet opprettholdes slik bemanningsforskriften
+krever.
+
+På denne bakgrunn anser jeg at spørsmålet
+om sikker bemanning av norske ferger og passasjerskip er tilfredsstillende
+ivaretatt. 
+
+  Når en diskuterer disse spørsmålene,
+er det viktig å skille mellom det som er rederipålagte
+oppgaver, billettering og andre ting om bord på en ferge,
+og det som er sikkerhetsbemanning, som Sjøfartsdirektoratet
+har ansvar for å sørge for at ethvert skip har
+i tilfredsstillende grad. Det er ikke økonomiske forhold
+som ligger til grunn for den bemanningsoppgave som Sjøfartsdirektoratet
+krever, slik som jeg viste til i mitt svar, det er ikke noe annet
+enn rent sikkerhetsmessige vurderinger. Men så er det slik
+at teknologien går framover på dette området
+også, og det har vært mulig å kunne revurdere
+disse bemanningsoppgavene i kraft av ny teknologi, som jeg viste
+til. Men det er viktig å understreke at dette ikke rører
+ved rederioppgavene. Det er rederiet og avtale mellom
+rederi og arbeidstakere som fastsetter bemanningen på områder
+som ikke ligger under sikkerhetsspørsmål. 
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Jeg oppfatter spørsmålet som å gjelde
+den aksjepost som Aker RGI ASA har i det svenske selskapet Scancem
+AB, og som de har varslet at de ønsker å selge.
+Det svenske Scancem-konsernet har norske datterselskaper, som bl.a.
+Norcem AS og Scancem Chemicals A/S. Pr. i dag har jeg ikke
+opplysninger om hvem som vil komme inn på eiersiden i Scancem-konsernet.
+Jeg har imidlertid tatt et initiativ til et møte med Aker
+RGIs styreformann og majoritetseier samt konsernsjef for å få en
+orientering og om mulig søke å få avklart
+de fremtidige eierforholdene i Scancem AB. I den forbindelse vil
+jeg også presisere viktigheten av å få inn nye
+eiere som vil opprettholde sementproduksjonen i Norge. Dette er
+spesielt viktig med tanke på alle de arbeidsplasser som
+er knyttet til nettopp denne produksjonen.
+
+Jeg har ingen opplysninger om hvordan salget
+av Scancem-aksjene vil skje. Verken vår någjeldende
+ervervslov eller forgjengeren, den tidligere industrikonsesjonsloven,
+har vært utformet slik at norske myndigheter kan gripe
+inn ved erverv av utenlandske selskaper selv om dette selskapet
+har et norsk datterselskap. Aker RGIs salg av sin aksjepost i Scancem
+AB-konsernet – som nevnt er det et svensk selskap – vil
+derfor ikke bli gjenstand for behandling etter den norske ervervsloven.
+
+Dersom det vurderes enkeltstående
+salg av norske datterselskaper i Scancem-konsernet, vil slike erverv
+imidlertid være regulert av den norske ervervsloven. Uansett: Jeg
+vil benytte meg av de påvirkningsmuligheter som eksisterer,
+for å søke å sikre at aksjeoverdragelsen
+i minst mulig grad får negative konsekvenser for Scancems norske
+sementprodusenter.
+
+Jeg vil for øvrig opplyse at når
+det gjelder sementproduksjonen til Norcem AS i Brevik og Kjøpsvik,
+er denne regulert av en bergverkskonsesjon. De vilkår som
+er satt i denne konsesjonen, knytter seg til selve driften og regulerer
+ikke fremtidige eierskifter i Norcem AS. Denne bergverkskonsesjonen
+vil fortsatt bestå uavhengig av om Scancem-konsernet får
+nye eiere, og de nye eierne er forpliktet til å følge
+vilkårene i konsesjonen.
+
+  Jeg kan forsikre representanten om at Regjeringen
+vil gjøre det som står i dens makt for å sikre
+sementproduksjonen i Norge, både i Brevik og i Kjøpsvik.
+Vi vil sørge for å bruke de mekanismene som er,
+og vi vil ha den nødvendige dialog med de gamle eierne
+i RGI om hvordan dette kjøpet skal foregå. Men
+vi vil også så raskt det er etablert en ny kjøper,
+se hvordan vi fra norske myndigheters side kan bidra til å sikre
+at en ny eier av det svenske Scancem-konsernet tar vare på de
+arbeidsplassene vi har i Norge. Jeg ser fram til et godt samarbeid
+med både Stortinget og representanten om et slikt arbeid.
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Det siste års erfaring viser med
+all tydelighet at oljebransjen er en bransje i stadig endring. I
+fjor var en av hovedutfordringene et svært høyt aktivitetsnivå med
+press både på arbeidskraft og andre innsatsfaktorer.
+Norsk økonomi var videre preget av overoppheting, og innstramningstiltak
+var påkrevet.
+
+I dag ser bildet ganske annerledes ut. Flere
+prosjekter er enten utsatt eller lagt på is som følge
+av lave oljepriser. Denne situasjonen illustrerer ikke minst vanskeligheten
+med å sikre jevn ordretilførsel for oljerelatert
+industri og stabil sysselsetting i en bransje hvor ytre rammebetingelser
+endrer seg så raskt.
+
+Petroleumsvirksomheten på norsk sokkel
+står derfor overfor en rekke utfordringer både
+på kort og lengre sikt. Regjeringen er svært opptatt
+av at vi møter disse utfordringene, og olje- og energiministeren
+igangsatte derfor i fjor høst flere utredningsprosjekter
+som berører sentrale problemstillinger for næringen.
+Et av prosjektene er en analyse av norsk oljevirksomhets konkurransekraft.
+
+Både den senere tids kostnadsutvikling,
+strukturendringene i næringen, den betydelige usikkerheten
+i oljeprisens utvikling, muligheten for vedvarende lave priser samt
+endringer i oljeselskapenes investeringsmuligheter i andre petroleumsprovinser
+tilsier en analyse av vår kontinentalsokkels konkurransesituasjon.
+
+Siktemålet med prosjektet er å fremskaffe
+et grunnlag for å vurdere eventuelle tiltak slik at vi
+over tid fortsatt evner å utvikle petroleumsressursene
+på kontinentalsokkelen på en effektiv måte,
+samtidig som vi sikrer at en høy andel av oljerenten tilfaller
+fellesskapet. At vi fortsatt tiltrekker oss investeringer fra de
+beste aktørene innen næringen, er viktig for å oppnå dette. 
+
+Prosjektet berører sentrale problemstillinger
+som dels vil bli utredet internt i Olje- og energidepartementet,
+dels i samarbeid med industrien og med hjelp fra norske og utenlandske
+konsulenter/forskningsmiljøer.
+
+Samtidig som arbeidet med konkurransekraftprosjektet
+pågår, vil Regjeringen i revidert nasjonalbudsjett
+for 1999 redegjøre for den betydelige usikkerheten i oljeprisens
+utvikling og drøfte konsekvensene av vedvarende lave oljepriser.
+I denne sammenheng vil det være naturlig med en drøfting
+av markedssituasjonens betydning for konkurransekraften i oljeindustrien.
+Som annonsert av statsministeren i finansdebatten i november i fjor,
+vil vi i revidert nasjonalbudsjett også redegjøre
+for vårt samarbeid med andre oljeprodusenter både
+innenfor og utenfor OPEC og drøfte hvordan dette kan utvikles
+og forbedres. 
+
+I revidert budsjett vil det også bli
+vurdert om det på dette tidspunkt er hensiktsmessig å foreta
+konkrete justeringer i vår politikk og våre rammebetingelser
+overfor næringen. 
+
+  Den situasjonen som representanten her refererer
+til, som jeg ikke har noen grunn til å være uenig
+i, og som i og for seg også reflekterer et annet spørsmål
+som er stilt i dag om den andre delen av verftsindustrien, viser
+jo hvor tøft og vanskelig det er å ha norske arbeidsplasser
+spredt rundt omkring i det ganske land som er avhengig av de ubønnhørlige svingninger
+som de store utenlandske markedene gir. Den lave oljeprisen som
+velter innover norsk økonomi, er et tydelig eksempel på dette.
+Det er klart at det får konsekvenser i en situasjon hvor
+oljeselskapene revurderer sine planer og vurderer hvilke konsekvenser
+det må få for deres måte å drive
+på, for deres kostnadsbilde osv. hvis vi skulle gå inn
+i en vedvarende situasjon med lave oljepriser. En sånn
+situasjon gjør i realiteten også at vi som nasjon
+kan miste en viktig grunnrente, ganske enkelt ved at en viktig merverdi
+som ligger i disse ressursene, blir borte. På den bakgrunn
+er dette prosjektet iverksatt, altså for å skape
+et beslutningsgrunnlag for Regjeringen for å se om det
+er nødvendig å iverksette tiltak. 
+
+Jeg kan ikke varsle nærmere tiltak
+enn dette.
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+

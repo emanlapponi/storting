@@ -1,0 +1,1096 @@
+ Den norske helsepolitikk er tuftet på en
+forutsetning om rettferdig fordeling av og tilgang på helsetjenester.
+
+I dette tilfellet dreier det seg om hvorvidt
+en spesialisterklæring kan nektes avgitt fordi
+pasienten røyker. Jeg er ikke kjent med alle forhold vedrørende
+denne saken, men jeg forstår spørsmålet
+slik at det dreier seg om legens motvilje mot å tilrå at
+pasienten får tilgang på en bestemt type medisinsk
+utstyr.
+
+Uten å gå inn på den
+konkrete saken vil jeg gi følgende svar: Det følger
+av legeloven § 30 at en lege plikter å være
+varsom, nøyaktig og objektiv ved utstedelse av attest og
+legeerklæring. Bestemmelsen skal sikre at legeerklæringer
+bygger på grundige undersøkelser og er nøyaktig
+utformet.
+
+Den enkelte leges faglige skjønn har
+jeg som helseminister ikke mulighet til å overprøve,
+men jeg vil presisere at legens vurdering med hensyn til innholdet
+i legeerklæringen skal foretas på bakgrunn av
+et forsvarlig medisinsk- faglig skjønn.
+
+Legens vurdering skal videre foretas på bakgrunn
+av saklige hensyn. I den grad det legges vekt på pasientens livsførsel,
+må det være fordi dette har betydelig relevans i
+forhold til behandlingens forsvarlighet og nytteverdi.
+
+Det kan foreligge tilfeller hvor legen finner
+at pasientens livsførsel gjør at en behandling
+pasienten ønsker, vil være uforsvarlig. Videre
+kan det foreligge tilfeller hvor pasientens livsførsel
+medfører at behandlingen ikke vil kunne gi gode resultater.
+
+Dersom pasientens livsførsel tillegges
+vekt ut fra andre motiver enn de medisinsk-faglige, f.eks. fordi
+legen prinsipielt mener at personer som røyker, ikke er
+berettiget til samme behandlingstilbud som andre, vil det være utenforliggende
+hensyn i forhold til den beslutning legen skal treffe. Slike hensyn
+har han ikke anledning til å ta.
+
+Jeg ber om forståelse for at jeg ikke
+kan uttale meg om forholdene i den konkrete saken det her refereres
+til, men jeg viser til at Fylkeslegen i Nordland har saken til en
+konkret vurdering.
+
+  Jeg vil fastholde at Stortingets talerstol
+ikke er stedet for å vurdere en konkret diagnose eller
+anvist behandling for en enkelt pasient. Like fullt mener jeg det
+er berettiget at fylkeslegen nå har gått inn i
+saken og vil gjøre en konkret vurdering av den i forhold
+til de prinsipper som jeg redegjorde for i mitt første
+svar. Det anser jeg for å være en betryggende håndtering
+av saken slik den står.
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Statens helsetilsyn har i løpet av
+1998 gjennomført en evaluering av nasjonale høyspesialiserte
+funksjoner, inklusive landsfunksjonen for avansert brannskadebehandling.
+Rapporten fra Haukeland Sykehus beskriver en betydelig
+klinisk aktivitet som etter hvert er vel etablert. Ved siden av
+klinisk virksomhet avholdes også et stort nasjonalt brannskadekurs
+hvert år.
+
+Haukeland Sykehus har ivaretatt landsfunksjonen
+på en god måte.
+
+Det har i løpet av 1998 vært
+bemanningsvansker ved brannskadeavsnittet i Haukeland Sykehus. Både
+sykehuset og Hordaland fylkeskommune har orientert om dette, sist
+i pressemelding av 18. januar i år og i notat av samme
+dato til fylkesutvalget i Hordaland. Sykehuset opplyser at det er
+stor mangel på spesialsykepleiere og samtidig store problemer
+med nyrekruttering. Om lag halvparten av spesialsykepleierstillingene
+i brannskadeavsnittet – 21 stillinger – er for
+tiden ledige. I løpet av 1998 ble i alt 16 brannskadde
+pasienter behandlet i sykehus i Sverige og Danmark. I fjor behandlet
+brannskadeavsnittet i Haukeland Sykehus 41 pasienter,
+mens gjennomsnittet de siste fem årene har vært
+66 pasienter årlig. Kapasiteten var således betydelig
+redusert i deler av 1998. Dette skyldes imidlertid også at
+avdelingen var stengt i om lag to måneder på grunn
+av infeksjonsproblemer.
+
+Haukeland Sykehus har for øvrig generelle
+vansker med å rekruttere tilstrekkelig med spesialsykepleiere også til
+andre avdelinger. Sykehuset har derfor økt den interne
+utdanningen av spesialsykepleiere med 40 pst. og i tillegg
+iverksatt en rekke rekrutteringstiltak rettet mot fagpersonell i
+Sverige, Finland og Tyskland. Sykehuset opplyser at dette arbeidet
+vil fortsette, samtidig som sykehuset nå arbeider
+aktivt for en mer fleksibel utnyttelse av den samlede spesialsykepleierkapasiteten.
+
+Det er avtalt et omfattende skandinavisk samarbeid omkring
+pasienter med alvorlige brannskader. Dette samarbeidet gjorde det
+som nevnt mulig å overføre 16 pasienter til Danmark
+og Sverige i 1998. Også Haukeland mottar pasienter fra
+andre land, bl.a. ble to svenske ungdommer flyttet dit etter storbrannen
+i Göteborg i november i fjor. Det tar tid å bygge
+opp til et høyt internasjonalt nivå en så vidt
+spesiell og krevende funksjon som et brannskadeavsnitt. Erfaringene
+fra oppbyggingsperioden av brannskadeavsnittet for snart 15 år
+siden viser dette. Med de problemene som er beskrevet ovenfor, må en
+forvente at det vil ta noe tid før situasjonen igjen er fullt
+ut tilfredsstillende. Det vil imidlertid ta atskillig lengre
+tid å bygge opp denne landsfunksjonen ved et annet norsk
+sykehus. I den nåværende oppbyggingsperioden vil
+det derfor være nødvendig også å nytte
+kapasitet ved brannskadeavdelinger i andre land. Både Haukeland Sykehus
+og Hordaland fylkeskommune har i denne situasjonen gitt uttrykk
+for at de ønsker snarest mulig å bli i stand til
+fullt ut å ivareta denne landsfunksjonen, og at de vil
+sikre at dette skjer.
+
+Gjennom hele 1998 har tilsynsmyndighetene,
+dvs. Fylkeslegen i Hordaland og Statens helsetilsyn vært
+orientert om utviklingen og har hatt løpende kontakt med sykehuseier.
+Denne kontakten fortsetter. Fylkeslegen i Hordaland vil aktivt følge
+utviklingen framover. Jeg oppfatter det slik at en på sykehuseiers
+side gjør hva en kan for å sikre bemanningen.
+Situasjonen tilsier derfor ikke noe eget initiativ til endringer
+i den landsfunksjon som brannskadeavsnittet på Haukeland
+har, men en fortsatt årvåken oppfølging
+fra tilsynsmyndighetenes side.
+
+  Det er min oppfatning at sykehuseier håndterer
+situasjonen med de tilgjengelige virkemidler. Saken er ikke fremstilt
+slik for meg at det er nødvendig å tilføre
+nye virkemidler. Det er først og fremst en intern utdanning
+som nå dras opp i et stort omfang, en intensivert ekstern
+rekruttering, samtidig som man ivaretar sin funksjon gjennom et
+samarbeid med andre sykehus. Men tilsynsmyndighetenes oppfølging
+kan jo avdekke at det er behov for tiltak fra nasjonale myndigheters
+side. De vil selvfølgelig bli vurdert hvis vi får slike
+meldinger.
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Inngåelse av avtale mellom Cerebral
+Parese-foreningen og staten v/ Sosial- og helsedepartementet
+om bruk av Berg Gård har vært på dagsordenen
+fra 1996. Staten ved Sosial- og helsedepartementet og Rikshospitalet
+tok kontakt med sikte på forhandlinger i juli 1997. Nytt
+initiativ ble tatt i mars 1998. Første forhandlingsmøte
+ble avholdt den 27. august 1998. 
+
+Staten har investert ca. 10 mill. kr
+i eiendommen på Berg Gård. I tillegg har de årlige
+vedlikeholdsutgiftene vært på ca. 1,5 mill. kr.
+
+Rikshospitalet uttaler at de pr. i dag har
+behov for lokalene på Berg Gård. Det nye rikshospitalet,
+barneavdelingen, på Gaustad har i dag ikke kapasitet til å ta
+imot den aktivitet som er på Berg Gård. Fremtidig
+organisering av tilbudet til pasientgruppen ved Berg Gård
+er til vurdering i departementet.
+
+En utflytting fra Berg Gård pr. 31.
+mars 1999 vil få konsekvenser for den pasientgruppen som
+i dag er på stedet. Jeg har derfor tatt initiativ til at
+det blir sammenkalt til et møte med Cerebral Parese-foreningen
+i neste uke.
+

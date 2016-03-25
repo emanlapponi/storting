@@ -1,0 +1,531 @@
+ Jeg tillater meg å stille følgende spørsmål til justisministeren:
+
+
+
+
+«Lotteriloven av 1995 medførte en kraftig innskjerpelse av kravene til avholdelse av lotterier, selve grunnstenen i ideelle organisasjoners arbeid. Det kreves i dag normalt polititillatelse for eksempelvis å legge ut en loddbok i den lokale landhandel. Det er som hovedregel forbudt for barn under 15 år å selge lodd. I tillegg gjelder en rekke strenge regler. Norske Kvinners Sanitetsforening opplyser at loven truer virksomheten i mange lokalforeninger. 
+
+
+
+
+Hva vil statsråden gjøre for å rette på forholdene?»
+
+
+
+
+ Jeg takker statsråden for svaret. Det er bra at de gjeldende forskrifter nå blir revidert, og at statsråden har i tankene å sikre gode rammevilkår for organisasjonene. Men er statsråden i disse juletider klar over at loven bl.a. forutsetter at dersom man vil lodde ut en halv gris og ikke kan sende inn selve grisen på søknadstidspunktet, må det stilles særskilt bankgaranti for grisens verdi? Man vet ikke om man skal le eller gråte. 
+
+
+
+
+Loven er en trussel mot ideelt arbeid i sin alminnelighet. Justisdepartementet har hatt meget lang tid på seg til å lage forskrifter som kunne ha begrenset lovens rekkevidde på en fornuftig måte. Vil statsråden sørge for å få fortgang i dette arbeidet? Det er uholdbart slik regelverket nå fungerer. Det er, som jeg sa, en trussel mot det arbeidet som foregår i de frivillige organisasjonene.
+
+
+
+
+  Jeg tillater meg å stille følgende
+spørsmål til sosialministeren:
+
+«Folketrygdlovens § 15-5
+inneholder bestemmelser om tildeling av stønad til dekning
+av ortopediske hjelpemidler. For å presisere lov og forskrift
+har Rikstrygdeverket utarbeidet retningslinjer for tildeling av
+slik stønad. Frem til mai 1997 ble vurderingen om å gi
+stønad basert på hensynet til den trygdedes funksjonalitet.
+Retningslinjene ble da endret. Nå tildeles stønad
+bare til trygdede med spesifikke diagnoser.
+
+Hvilke vurderinger lå til grunn da
+Rikstrygdeverket endret retningslinjene?»
+
+  Jeg takker statsråden for svaret. 
+
+Høyre tok opp denne saken fordi Rikstrygdeverkets praktisering
+av retningslinjene for tildeling av stønad til ortopediske
+hjelpemidler innebar at en rekke pasienter som før har
+fått stønad til slike hjelpemidler, ikke lenger får
+det. Mange av disse pasientene må leve med plagene og får
+en betydelig redusert livskvalitet fordi de ikke har råd
+til å betale det selv. Dette har vi fått inn flere
+eksempler på. Jeg er derfor glad og tilfreds
+med at statsråden nå vil gå inn og se
+på praksis og retningslinjene og presisere at det er pasientens
+funksjonalitet og ikke diagnose som skal være avgjørende
+for tildeling av støtte.
+
+Jeg har tillit til at sosialministeren, siden
+hun er enig i at det kan være avdekket en uheldig praksis
+her, umiddelbart vil sørge for at dette kommer til opphør,
+slik at de pasienter dette gjelder, kan få den hjelp som
+de har krav på etter loven. 
+
+Så igjen, takk til statsråden
+for et positivt svar. 
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+

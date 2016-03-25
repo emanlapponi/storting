@@ -1,0 +1,524 @@
+  Ved behandling av Forsvarets investeringsprosjekter
+forholder Forsvarsdepartementet seg til Stortingets bevilgningsreglement
+og de fullmakter som gis i de årlige budsjett- og investeringsproposisjoner.
+
+I henhold til fullmakt i St.prp. nr. 1 for
+1998-99 vedtak V tredje ledd forutsettes det at alle nasjonale byggeprosjekter
+på over 25 mill. kr forelegges Stortinget. De utbyggingskostnader
+for regionfeltprosjektet som tidligere er offentliggjort, ligger
+betydelig over denne grense og tilsier at prosjektet vil bli forelagt
+Stortinget før det startes opp.
+
+For å få utarbeidet et prosjekt
+som er tilstrekkelig godt fundamentert til å presenteres
+for Stortinget, gis Forsvarsdepartementet i samme romertallsvedtaks
+fjerde ledd adgang til å starte opp prosjektering av byggeprosjekter
+med en samlet utgift tilsvarende inntil 5 pst. av den totale
+bevilgning på de respektive poster. For å følge opp
+Stortingets vedtak fra 23. mars i år har departementet gitt
+Forsvarets overkommando i oppdrag å utarbeide et forprosjekt,
+slik at dette kan forelegges for Stortinget i løpet av
+neste vinter eller våren år 2000. For 1999 utgjør bevilgede
+midler på kap. 1760 post 47 ca. 925 mill. kr, slik
+at de 20 mill. kr som er planlagt benyttet til
+planarbeidet for regionfeltet i 1999, er beregnet til å ligge
+vel innenfor totalrammen for prosjektplanleggingen.
+
+Jeg kan således bekrefte at det ikke
+vil bli iverksatt noen utbygging av Regionfelt Østlandet uten at
+prosjektet og kostnadsrammen er godkjent av Stortinget. Dette prosjektet
+vil med andre ord følge de samme prosedyrer som Forsvarets øvrige
+byggeprosjekter med kostnadsramme over 25 mill. kr.
+
+  Når det gjelder selve prosjektet,
+har jeg gitt et klart svar på at det ikke blir igangsatt.
+Hvilket dokument representanten viser til, er jeg noe usikker på,
+men det kan gjelde iverksetting av dette forprosjektet. Hvis det
+er av en karakter som tilsier at det kan åpnes, skal jeg
+selvfølgelig se om det er mulig, for det ville jo være
+en oppfølging av den linjen jeg har. Men jeg kan ikke her
+og nå si det på annen måte enn at jeg
+vil undersøke hva dette dokumentet gjelder, og så foreta
+en vurdering av det.
+
+  Jeg vil ikke gå god for alle opplysninger
+som er kommet fram i disse Brennpunkt-programmene. Dem får
+vi ta en mer grundig debatt om en annen gang. 
+
+Når det gjelder skytefeltsaken, er
+også representanten kjent med hvilke vedtak Regjeringen
+la opp til der, men vi er selvfølgelig forpliktet til å gjennomføre
+det flertallsvedtaket som er gjort i denne salen. Vi følger – som
+jeg sa i mitt første svar – de prosedyrer for
+gjennomføring av slike investeringsprosjekter som jeg refererte
+til, noe som betyr at vi vil komme tilbake til Stortinget med et
+endelig prosjekt når forprosjektet gir oss bedre grunnlag
+for å legge det fram for Stortinget.
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+

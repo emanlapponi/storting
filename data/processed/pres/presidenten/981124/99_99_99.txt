@@ -1,0 +1,1510 @@
+ Flere har ikke bedt om ordet til
+sak nr. 4.
+
+(Votering, se side 495)
+
+
+
+
+
+                    
+
+  Kristin Halvorsen har tatt opp det
+forslaget hun viste til.
+
+Flere har ikke bedt om ordet til sak nr. 1.
+
+(Votering, se side 494)
+
+
+
+
+
+                    
+
+ Under debatten er det satt fram ett
+forslag, fra Kristin Halvorsen på vegne av Sosialistisk
+Venstreparti. Forslaget er omdelt i salen. 
+
+Komiteen hadde innstillet:
+
+Stortinget samtykker i at følgende
+godtgjørelser fastsettes med virkning fra 1.oktober
+1998:
+
+Stortingsrepresentanter 			kr 440 000
+pr. år
+
+Regjeringsmedlemmer			kr 625 000 pr. år
+
+Statsminister				kr 765 000 pr. år
+
+ Her foreligger et alternativt forslag
+fra Sosialistisk Venstreparti. Forslaget lyder:
+
+«Saken
+sendes tilbake til Stortingets lønnskommisjon. Stortinget
+forutsetter at økningen i godtgjørelse for stortingsrepresentantene
+og regjeringens medlemmer ikke blir større enn den generelle
+lønnsøkningen i arbeidslivet.»
+
+Votering: 
+
+ Ved alternativ votering mellom komiteens innstilling og
+forslaget fra Sosialistisk Venstreparti bifaltes komiteens innstilling
+med 98 mot 11 stemmer.
+
+(Voteringsutskrift kl. 11.44.00)
+
+
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Øystein Hedstrøm har tatt
+opp det forslag han refererte til.
+
+  Det har vore mykje fokusering på det
+som blir kalla landbrukets multifunksjonelle rolle. Med andre ord:
+Landbrukets oppgåver er ikkje berre å produsere
+naudsynt mat, men det er eit viktig verkemiddel i distriktspolitikken
+for å bevare levande bygder og busettinga rundt omkring
+i dette landet. Det er klart at skal ein oppnå dei målsettingane,
+må ein ha eit regelverk for styringa. Utan planøkonomi
+og regelverk for landbruket, men med overlating til den frie marknaden,
+ville vi hatt heilt andre bygdemiljø enn vi har i dag. I
+så måte har konsesjonslovgivinga, odelslovgivinga
+og jordlova vore nyttig, men det inneber ikkje at ein ikkje nå har
+behov for å gå inn og sjå om denne lovgivinga
+nå imøtekjem våre landbrukspolitiske
+målsettingar og verkar i riktig retning. 
+
+Arbeidarpartiet har opna opp for evaluering
+og gjennomgang av dette. Vi har òg gått så langt,
+seinast i samband med landsmøtet vårt i helga,
+at vi seier at ein kanskje bør opne for ei høgare
+grense når det gjeld konsesjonsbehandling. Vi meiner at
+ein kanskje bør stramme inn odelslovgivinga og i det heile
+føreta ei sterkare prioritering av overføringane
+til landbruket, og har ymta frampå om ei mogeleg nedre
+grense når det gjeld omsetting i landbruksverksemd, som
+ei grense for om ein skal prioriterast med statlege overføringar. 
+
+I alle fall er dette noko vi må gjere
+på ein grundig måte, i ein prosess som må gå føre
+seg i hop med næringsutøvarane. Eg meiner det
+rette høvet til å gå inn i dette er når
+landbruksmeldinga som statsråden har varsla skal kome i
+løpet av 1999, ligg føre. Vi har gitt nokre signal og
+vink om i kva retning vi vil gå. Dermed er vi ikkje ueinige
+i framlegget her om at det er behov for å sjå på lovgivinga,
+men vi vil gjere dette i ein større samanheng, slik at
+vi er sikre på at vi gjer dei riktige vedtaka og har innsikt
+i dei konsekvensane som måtte kome.
+
+  Når en vil få en landbruksmelding
+om relativt kort tid og arbeidet faktisk allerede er i gang, er
+det rett å vurdere denne saken i et større perspektiv
+og i en mer overordnet landbrukspolitisk sammenheng. 
+
+Årsaken til at jeg nå tar ordet, er
+at jeg vil gi uttrykk for at Venstre har sympati for mange av de
+tankene Høyre har på dette området. Jeg
+vil ikke gå i detaljer, men vil allerede her si at vi vel
+ikke går så langt som Høyre vil gjøre.
+En nedre konsesjonsgrense på 50 mål er å gå altfor høyt.
+Men at grensen justeres, er vel noe tiden er moden for.
+
+Videre tar Venstre avstand fra formuleringer
+som at statens forkjøpsrett åpenbart har vært
+til skade for bosetting i distriktene. Jeg tror at hvis markedet
+hadde fått styre dette helt fritt, hadde bygdene sett annerledes
+ut, og vi hadde også hatt et annet kulturlandskap enn det
+vi har i dag.
+
+Jeg vil bare kort få uttrykke forståelse
+for at Høyre ønsker å gi signal gjennom
+eget forslag i denne saken. Som sagt vil vi åpent være
+med og drøfte mange av de tingene som Høyre fremsetter.
+Men jeg formoder at både Høyre og Fremskrittspartiet
+på dette tidspunktet innerst inne synes at det må være
+rett å vurdere forslagene i forbindelse med den kommende
+landbruksmeldingen.
+
+  I motsetning til foregående taler
+tar SV ordet i denne debatten for å uttrykke litt mindre
+sympati for det Høyre og Fremskrittspartiet står
+for av synspunkter i denne saken. 
+
+Vi ønsker også en gjennomgang
+av lovverket, fordi vi ønsker utvikling og ikke avvikling
+av landbruket. Vi ønsker å fokusere mer på 
+
+bolyst
+
+ enn 
+
+boplikt
+
+,
+vi tror at det er en rett vinkling. Men hvis eiendomsrett og markedsmekanismer
+skal være de eneste rettesnorene for landbrukspolitikken
+heretter, blir det avvikling. Vi ønsker en gjennomgang
+av både odelslov og konsesjonslov. Vi ønsker en
+gjennomgang og en omfordeling av ressursene innenfor landbruket,
+da med motsatt innfallsvinkel av den Arbeiderpartiets taler hadde
+da han var oppe her og snakket om en nedre grense. Derimot synes
+vi det er på tide å få en øvre
+grense for overføringer til store bruk. 
+
+Vi ønsker også at gjennomgangen
+må ha som hovedsiktemål en gjennomgående økologisering
+av norsk landbruk. Vi må ha en politikk for å produsere
+mat i Norge. Det er et multifunksjonelt siktemål, som Rudihagen
+sa. Men hvis vi ikke holder steinhardt fast på at det skal være
+matproduksjon, kommer landbruket til å tape. Norsk landbruk
+er nødt til å være noe annet enn den
+store masseproduksjonen som foregår i andre land, vi taper uansett
+hvis vi legger oss på den linja. Derfor må en økologisering
+av landbruket generelt, men også spesielt, være
+en hovedmålsetting i alle de politikkgjennomgangene som
+vil komme i stortingsmeldinga. Dette vil vi komme tilbake til når
+stortingsmeldingen kommer. Vi kommer til å gå inn
+i det med det siktemål å reformere, men da i en
+motsatt retning av det Høyre og Fremskrittspartiet i dag
+har snakket om.
+
+  Jeg hadde vel i utgangspunktet trodd at det
+skulle bli relativt få innlegg om denne saken, for et flertall
+i komiteen har sagt at man ønsker å drøfte
+dette spørsmålet i sammenheng med den varslede
+landbruksmeldingen som vil bli framlagt. 
+
+I og med at Senterpartiet er med på flertallsinnstillingen
+har vi sagt oss positive til å få en evaluering
+av loven, men det betyr ikke at vi har sagt oss positive til å foreta
+endringer i loven. Den evalueringen som skal foretas, skal selvsagt
+danne grunnlaget for om det vil være fornuftig å foreta
+visse endringer i den. 
+
+Men la meg nå si at når man
+gjør konsesjonsloven til et spørsmål
+om markedsmekanismer og fri prisdannelse på landbrukseiendommer,
+har man med respekt å melde ikke skjønt mye av
+dynamikken i norsk landbrukspolitikk. Spesielt i de områder
+representanten Gabrielsen representerer, vil et slikt system kombinert
+med en dramatisk hevning av konsesjonsgrensen medføre en
+rasering av landbruket. En overgang til markedspris kombinert med
+en høyere konsesjonsgrense vil føre til at det
+ikke vil være mulig å omsette landbrukseiendommer
+til landbruksformål, verken som selvstendige bruksenheter
+eller som tilleggsjord. Og når dette forslaget kommer fra
+de partier som samtidig ønsker et sterkt press både
+på prisutvikling, på inntektsutvikling og på bruksstørrelse
+i landbruksnæringen, blir et annet paradoks at man skal bruke
+det eneste virkemidlet man har for å regulere prisene på landbrukseiendommer,
+i en retning som gjør det økonomisk forsvarlig å drive
+landbruk. De mekanismene skal man fjerne – la markedet
+rå – samtidig som man har tro på at man
+skal klare å få til større og mer rasjonelle enheter
+som i tillegg skal bli billigere i drift. Men la gå med
+det – den stortingsmeldingen som kommer, vil vise dette,
+og vi skal ha en mer grundig debatt da.
+
+Jeg har bare lyst til å signalisere
+at vi selvsagt er positive til en evaluering, selv om jeg for min
+del har begrenset tro på hvilke muligheter som ligger for å foreta
+endringer i det systemet vi har i dag. Jeg er særdeles
+glad for det representanten Rudihagen har sagt i sitt innlegg. Jeg slutter
+meg fullt ut til det han har sagt, at dette er et viktig fundament
+i landbrukspolitikken, at bosettingen i mange bygder vil bli dramatisk
+endret hvis man foretar vesentlige forandringer i dette regelverket.
+Iallfall Arbeiderpartiet har skjønt at dette er et sentralt
+element i norsk landbrukspolitikk.
+
+  Jeg synes det har vært en positiv
+debatt. Selv om det siste innlegget fra representanten fra Senterpartiet,
+kanskje bidrog til å redusere det som kunne ha blitt en
+særdeles vellykket avslutning på denne debatten,
+tror jeg det likevel er grunn til å se litt optimistisk
+på oppfølgingen, for her uttaler den ene etter
+den andre at man er villig til å foreta en revisjon av
+dagens konsesjonslov. Jeg kan ikke skjønne annet enn at
+dette må ha spor i seg til å kunne ende positivt.
+
+Jeg tror ikke vi i en debatt som denne skal
+blande inn alskens andre forhold og lover som er gjeldende innenfor landbruket.
+ Jeg tror man må skille klart mellom eksempelvis konsesjonsloven
+og odelsloven, dette bør ikke nødvendigvis være
+noe som helt nøye henger sammen når man skal diskutere
+den generelle landbrukspolitikken videre.  Men jeg synes dette spørsmålet,
+som etter hvert begynner å bli nokså overmodent,
+også handler om levende bygder – siden dette har
+vært trukket fram av nokså mange i debatten.  
+
+Hva er egentlig distriktspolitikk?  Jo, det
+må jo være myndighetenes aktive politikk for å bidra
+til vekst og utvikling i Distrikts-Norge.  Og det er ingen tvil
+om at Landbruks-Norge er en vesentlig del av det såkalte
+Distrikts-Norge. Hva angår bosettingen i Distrikts-Norge,
+på landsbygda, er det ikke tvil om at hvis vi tar oss bryet med å se
+litt bakover i tiden og utover i landet, ser vi at de gamle kjøpmenn
+som var til stede på landsbygda, finner vi i historiebøkene.
+ Skolene er nedlagt, fordi det ikke lenger er skolebarn nok til å fylle
+klasserommene.  Vi ser rett og slett at det stadig er færre å levere
+varer og tjenester til i Distriks-Norge.  Vi ser sågar
+at de som hører hjemme på landsbygda, landbrukets
+egne organisasjoner, også har tatt den samme ferden som
+de andre og flyttet fra Landbruks-Norge med sine virksomheter. 
+Det betyr at hvis man ikke er villig til å se på praktiseringen
+av konsesjonsloven, som, hvis man endrer den, kan være
+et bidrag til å snu strømmen litt, har man etter
+min oppfatning ikke tatt denne debatten tilstrekkelig på alvor.
+ Dette handler ikke, slik SV er inne på, om stordriftens
+fordeler.  Jeg tror kanskje man forkludrer landbruksdebatten ved å si
+at en enhet på 10, 20, 30, 40 eller 50 dekar har noe med stordriftfordel å gjøre
+innenfor norsk landbrukspolitikk.  Men hvis man ikke tar seg bryderiet
+med å se på hvordan vi kan gjøre Distrikts-Norge
+mer attraktivt, hvordan vi kan få folk til å prioritere å ha
+10, 15, 20, 30 eller 50 dekar å pusle med, og se det  som
+mer attraktivt enn å være i byen, hvor det finnes
+diverse tilbud for å utnytte fritiden på en fornuftig
+måte, ja, da tar man ikke denne debatten helt på alvor.
+ 
+
+Når vi diskuterer spørsmålet
+om levende bygder, tror jeg man må stille spørsmål
+om hvor mye dokumentasjon som må til for å se
+på den utviklingen vi har hatt innenfor Distrikts-Norge,
+før man alvorlig griper fatt i også å gjøre
+omsetningen av landbrukseiendommer mer hensiktsmessig for å bidra
+til å styrke bosettingen.  I dag virker konsesjonsloven
+stikk motsatt.  Den reduserer rekruttering, den er et hinder for
+investering/kapital.  Kredittinstitusjonene har
+rett og slett ikke noe å ta pant i, og så går
+jobben via Stortinget for å øke rammen til landbruksbank
+osv.– og jeg ser at det samme flertallet som utgjør flertallet
+i dag, ikke har vært villig til å ta de nødvendige løft.
+ Det skal ikke jeg kritisere dem for, men vi må i hvert
+fall skape arenaer som gjør at kapitalen kan komme inn
+og bidra til vekst og utvikling også innenfor denne næringen.
+
+Og bare for å klargjøre,
+siden enkelte ønsker å angripe Høyre
+for at vi vil landbrukspolitikken til livs, vil jeg få lov å sitere
+hva vi sier i forslaget:
+
+«Det
+presiseres i loven at vilkår som settes for konsesjon skal
+ligge innenfor de formål loven skal fremme.»
+
+Jeg vil tro at det skulle være tilstrekkelig
+til å forstå at det ikke er landbrukspolitikken
+generelt vi vil til livs, snarere tvert imot.
+
+Helt til slutt: Jeg går ut fra at
+når det forslaget som er fremmet av komiteen, i dag blir
+vedtatt, vil dette bli en sentral del av landbruksmeldingen.  Jeg
+håper at statsråden, som er den neste som skal
+ha ordet, kan bekrefte at dette vil bli gjort på en grundig
+og selvfølgelig effektiv måte, uten at konklusjonen
+blir fremmet her og nå.
+
+ Presidenten vil bemerke at statsråden nok
+ikke er den neste.  Derimot blir det replikkordskifte.
+
+  Jeg er ikke helt sikker på om representanten
+Kristiansen fikk med seg at SV var for en gjennomgang av både
+konsesjonslov og odelslov, og at vi ikke har uttrykt noe spesielt
+om grenser i denne sammenhengen.  
+
+Grunnen til at jeg tok ordet, var nettopp innlegg
+fra Høyre og Fremskrittspartiet som trakk opp linjer som kunne
+resultere i et slikt bilde som jeg var oppe og beskrev.  Det var
+ikke noe spesielt ønske fra vår side om å begynne
+en debatt her og nå om akkurat hvor denne grensen skal
+gå.  Men det var tydelig at de representantene som har
+fremmet dette forslaget, ønsker en landbrukspolitikk som
+går i stikk motsatt retning av det vi ønsker.
+ Derfor er det viktig for oss å markere hva vi mener om det,
+og også si litt om etter hvilke linjer vi ønsker
+dette skal gå.
+
+  Nå har jeg jo hørt de innleggene
+som har vært holdt av representanter fra Høyre
+og Fremskrittspartiet.  Jeg tror det bare er positivt for debatten
+og for den videre drift, både i landbrukspolitikken og på landsbygda,
+at en finner andre innlegg og en annen politikk enn det en finner
+i SVs programmer.
+
+  Flere har ikke bedt om ordet til
+replikk.
+
+  Jeg vil si meg tilfreds med innstillingen
+og for så vidt også med den debatten som nå har
+vært i salen. Jeg skal bekrefte at dette naturligvis vil bli
+tatt opp til drøfting i landbruksmeldingen, med den plass
+det fortjener. Det er helt opplagt at lov og regelverk i stor grad
+styrer mye av utviklingen i landbruket, og derfor vil det være
+helt unaturlig om ikke disse temaene blir en del av det som drøftes
+i meldingen. Men jeg vil samtidig gi uttrykk for at å endre
+en del av disse lovene klart vil ha sidekonsekvenser som man vil
+måtte drøfte like seriøst. La oss ta
+et eksempel: Hever vi f.eks. arealgrensen for konsesjon opp til
+50 dekar, vil det vel måtte bety at en da definerer det
+som er under 50 dekar, ut av jordbrukspolitikken, og det vil også bety
+at en definerer disse brukene ut av det som eventuelt går
+på prisregulering. Det vil si at markedet for den delen
+av Moder Norge blir et annet. Det blir naturligvis andre krefter,
+med mye større kjøpekraft, som da kan gå inn
+og f.eks. kjøpe et bruk på 50 dekar, som ikke
+er så rent lite i norsk bruksstruktur slik den er i dag.
+Og disse sidevirkningene synes jeg det nå er riktig av
+meg som statsråd å be samtlige tenke gjennom i
+forbindelse med den debatten vi vil få, der vi skal drøfte
+dette i en større sammenheng. Eventuelt å oppheve prisreguleringen
+vil bety at en får en annen rekruttering i landbruket,
+i den grad det da er eiendommer som går på fritt
+salg. Og en del av bærekraften i norsk landbruk er jo at
+prisen på eiendommer ikke er større enn at en
+skal greie å forrente et bruk gjennom den inntjeningen
+en har av det. Det betyr vel at inntjeningen vil måtte
+bli større hvis investeringen som må til for å erverve
+disse enhetene, også blir større. Dette er noen
+av de paradokser som vi er nødt til å forholde
+oss til når vi skal gjennom dette. 
+
+Når det gjelder rekrutteringen til
+norsk landbruk, håper jeg en i framtiden vil rekruttere
+folk med stor kreativitet for å nå målet
+om levende bygder, som en her har vært inne på.
+Men da må vi samtidig greie å ha en landbrukspolitikk
+som for det første gjør at det er interessant å bli
+rekruttert inn i denne næringen. Det betyr at en må ha
+en inntjening i denne næringen som gjør at f.eks.
+ungdom som vil inn i næringen, har mulighet til å eksistere der.
+Her ligger det kjempeutfordringer i norsk landbrukspolitikk som
+vi vet vi vil møte i løpet av et par års
+tid, kanskje på en ganske ubehagelig måte – i
+hvert fall ut fra det mange av representantene i denne sal ønsker å se,
+eller tenker seg, når det gjelder landbruk i framtiden.
+
+Jeg har ellers bare lyst til kort å nevne
+at også de partiene som vi har hørt representanter
+fra i dag, også i tidligere innstillinger har uttalt seg
+om på hvilken måte disse lovene skal brukes. Også fra
+Høyres side er det sagt at lovanvendelsen skal ivareta
+hensyn til bosetting og næringsutvikling, samtidig som
+en fremmer et ønske om strukturutvikling. Hvis en skal
+oppnå alt det som f.eks. lå i St.prp. nr. 8 for
+1992-93, som var et uttrykk for et ønske om et robust landbruk,
+kan en si: Vil en målet, må en ville midlene – og
+midlene i en slik sammenheng har jo også i stor grad noe
+med lovverket å gjøre. Så jeg ønsker at
+en kommer så langt at en nå begynner å få konkretisert ting.
+I forbindelse med meldingen må vi naturligvis forholde
+oss til alle disse bitene. Men en løser ikke utfordringene
+i norsk landbruk ved å avvikle lovverket, vi må heller
+se på justering, som eventuelt betyr bedre måloppnåelse.
+
+  Det blir replikkordskifte.
+
+  Statsråden var i sitt innlegg inne
+på spørsmålet om levende bygder. Det
+vi i hvert fall med 100 pst. sikkerhet kan konstatere,
+er at dagens konsesjonslovgivning har betydd det motsatte. I etterkrigstiden
+har vi med konsesjonslovgivningen opplevd den største folkeflyttingen
+fra distriktene til sentrale strøk i norgeshistorien. Det
+mener Fremskrittspartiet bør være en hovedgrunn
+for å se på alternative løsninger. Han
+var også inne på spørsmålet
+om konsesjonsgrenser og prisregulering. Jeg har her et oppslag fra
+Aftenposten av 25. mars i år der Norsk Bonde- og Småbrukarlag
+sier: «Hold fingrene unna småbrukene.» Det
+står så:
+
+«Når
+selgeren av et småbruk inngår en frivillig avtale
+med en kjøper som vil bosette seg og drive bruket, må politikerne
+holde fingrene av fatet.»
+
+Videre:
+
+«Departementet
+overkjører så vel kommunale som fylkeskommunale
+organer, som heller vil benytte de mange småbruk på salg
+for å lokke til seg folk som ønsker å slå ned
+i distriktene.»
+
+Og assisterende generalsekretær i
+Bonde- og Småbrukarlaget sier:
+
+«Vi
+trenger å bevare de små bruk for barnefamilier og
+andre som ønsker å slå seg til i bygdene.
+Småbrukene ligger ofte idyllisk til med barnevennlige og
+trivelige tun.»
+
+Så mitt spørsmål
+til statsråden blir: Er landbruksministeren enig i at dagens
+praksis med statlig bruk av forkjøpsrett er til skade for
+distriktsbosetting, lokalt selvstyre og den private eiendomsrett?
+
+ Jeg har vel nå uttrykt noen ganger – og
+jeg mener det faktisk fremdeles  – at av og til blir politikk
+retorikk. Ut fra den analysen har jeg forsøkt å gå inn
+på hva jeg selv frambringer gjennom politiske innlegg.
+Jeg er veldig opptatt av måloppnåelse, og det betyr
+at retorikken da må resultere i et mål.  Jeg tror – for å uttrykke
+meg såpass forsiktig – at konsesjonsloven på ingen
+måte er grunn for den folkeflyttingen som vi har hatt i
+Norge fram til i dag. Det vil være helt andre forhold som
+kommer til å få stå i fokus hvis man
+skal ha en analyse omkring det spørsmålet. Det
+kan være grunn til å tenke over på hvilken
+måte dette skal justeres ut fra en ny tid og nye utfordringer,
+det er det klart vi alltid skal gjøre. Men fram til i dag
+har ikke konsesjonsloven vært årsaken til dette.
+
+Jeg har også lyst til å si
+at når representanten Hedstrøm bruker Bonde- og
+Småbrukarlaget som sin fanebærer når
+det gjelder å holde fingrene unna fatet, at det vel ligger
+en del ting i den politikken – som organisasjonen gir uttrykk
+for, som betyr ganske mye større uttellinger enn hittil
+på en del av de budsjettene som Stortinget skal behandle – som
+jeg egentlig ikke synes har fått prioritet hos enkelte
+politiske partier i så måte. Så når
+man plukker fram én blomst, bør man kanskje ta
+med hele buketten for at bildet skal bli relevant.
+
+Når det gjelder bruk av statlig forkjøpsrett,
+er det etter lov som Stortinget har vedtatt, og jeg tror at den
+brukes med skjønnsomhet i dag. Det er klart at en finner
+ikke én sak som er lik en annen. Og i og med at en her
+er inne og behandler en sak i forhold til to parter, er det alltid
+en part som taper. Den parten vil være misfornøyd.
+Men det kan være at det er et mål å bruke
+statens forkjøpsrett for å styrke et annet bruk,
+rett og slett bidra til å opprettholde bosetting, og ikke
+det motsatte.
+
+  Det er ingen flere blomster til
+statsrådens bukett – replikkordskiftet er dermed
+omme.
+
+   Jeg vil gjerne diskutere dette litt på statsrådens
+egne premisser. Jeg skal ikke da blande inn markedsøkonomi
+og fri prissetting for eiendommer, men dvele litt ved den praksis
+som følges. 
+
+Jeg har et konkret eksempel: Det gjelder en
+konsesjonseiendom, hvor arealet er fordelt på syv teiger.
+Det er en stor andel gammel skog på eiendommen. Et langsiktig anslag
+på årlig uttak er ca. 300 – 320 m3. Kjøpesummen var
+500 000 kr – dette var i Grue. Han som
+søkte om konsesjon, var meget godt skikket til å drive
+denne konsesjonseiendommen. Han hadde også slektsmessig
+tilknytning til eiendommen. Det er ikke noen bolig på konsesjonseiendommen,
+men den kan drives på en tilfredsstillende måte
+fra søkerens bolig på Kirkenær. Hans kompetanse,
+tror jeg jeg kan forsikre, ville være en berikelse
+av skogmiljøet i bygden. Og det er meget god veiforbindelse
+til alle teigene på konsesjonseiendommen. Teigene ligger
+innenfor et begrenset område. Bonitet, topografi og driftsforhold
+gjør det mulig å drive skogen hele året. 
+
+Her ser man at det er en rekke positive ting
+som kanskje kunne bli tilført miljøet gjennom
+en slik konsesjonssøker. Men når departementet
+skal ta standpunkt til denne saken, velger de altså fullstendig å se
+bort fra disse tingene og bare konsentrere seg om en eneste ting.
+Det står her at departementet er enig i at eiendommen kan drives
+på tilfredsstillende måte fra søkerens
+bolig på Kirkenær. Bonitet, topografi og driftsforhold
+gjør det mulig å drive i skogen hele året.
+En kan imidlertid ikke se at dette forhold  på en avgjørende
+måte taler mot bruk av forkjøpsrett. 
+
+Så jeg har inntrykk av at denne forkjøpsretten
+brukes på en veldig absolutt måte. Man ser først
+og fremst på arronderingen av arealer, men man ser helt
+bort fra det initiativ som våre bygder meget godt trenger
+når det gjelder folk som er såpass interesserte
+at de vil kjøpe en slik eiendom – og har kvalifikasjoner
+for å drive den. 
+
+Dette var ment som et innspill i den debatten
+som jeg forstår statsråden er interessert i. Det
+gjelder anvendelsen av gjeldende lov, og dreier seg altså ikke
+om spørsmålet om prisfastsettelse osv.
+
+  Flere har ikke bedt om ordet til
+sak nr. 5.
+
+(Votering, se side 495)
+
+
+
+
+
+                    
+
+ Under debatten har Øystein
+Hedstrøm satt fram et forslag på vegne av Fremskrittspartiet
+og Høyre. Forslaget lyder:
+
+«Stortinget
+ber Regjeringen fremme forslag til endringer i konsesjonsloven
+i tråd med forslagene i Dokument nr. 8:113 (1997-98).
+Forslagene legges fram i forbindelse med den bebudede
+landbruksmeldinga.»
+
+Det voteres først over dette forslaget. 
+
+Votering:
+
+Forslaget fra Fremskrittspartiet ble med 76 mot 33 stemmer
+ikke bifalt.
+
+(Voteringsutskrift kl. 11.45.42)
+
+Komiteen hadde innstillet: 
+
+Dokument nr. 8:113 (1997-98) – forslag
+fra stortingsrepresentantene Ansgar Gabrielsen, Oddvard
+Nilsen og Ivar Kristiansen om endringer i konsesjonsloven og andre
+berørte lover – oversendes Regjeringen til vurdering
+i forbindelse med landbruksmeldinga.
+
+Votering:
+
+Komiteens innstilling bifaltes enstemmig.
+
+
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4712 @@
+ Ingen har bedt om ordet.
+
+(Votering, se side 2322)
+
+
+
+
+
+                    
+
+ Det voteres over forslaget
+fra representanten Odd Eriksen på vegne av Arbeiderpartiet
+og Sosialistisk Venstreparti oversendt fra Odelstingets
+møte 4.   mars 1999:
+
+  «Stortinget
+ber Regjeringen komme tilbake med forslag som kan sikre de tillitsvalgte
+beboerrepresentanter lovbestemt rett til innflytelse.»
+
+Voteringstavlene viste
+54 stemmer avgitt for forslaget fra Arbeiderpartiet og Sosialistisk
+Venstreparti og 52 stemmer mot. 
+
+(Voteringsutskrift kl. 10.59.51)
+
+  
+
+ (fra salen):
+
+President! Eg stemde feil. Eg skulle ha stemt
+mot, men eg stemde for. 
+
+  
+
+(fra salen): 
+
+Jeg stemte også feil.
+
+ Presidenten antar at det da må bety
+at forslaget med 54 mot 52 stemmer er ikke bifalt.
+
+Hvis det er knapp margin, vil presidenten,
+dersom noen anmoder om det, la voteringen gå om igjen.
+Det nikkes iallfall fra hr. Nymo, og da har presidenten gode grunner
+til å anta at vi bør ta voteringen om igjen!
+
+Votering:
+
+ Forslaget fra Arbeiderpartiet og Sosialistisk Venstreparti
+ble med 60 mot 47 stemmer ikke bifalt.
+
+(Voteringsutskrift kl. 11.00.50)
+
+
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+        
+
+
+            
+
+
+                
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Tilhører sak
+
+
+
+            
+
+
+	
+                        
+
+
+                            
+
+Forslag fra stortingsrepresentant Odd Eriksen på vegne av Arbeiderpartiet og Sosialistisk Venstreparti oversendt fra Odelstingets møte 4. mars 1999:
+(Jf. Innst. O. nr. 43)
+
+"Stortinget ber Regjeringen komme tilbake med forslag som kan sikre de tillitsvalgte beboerrepresentanter lovbestemt rett til innflytelse."
+
+
+                        
+
+
+                
+                    
+
+
+                        
+
+Gå til saker
+
+
+                    
+
+
+                
+
+
+
+            
+        
+
+
+    
+
+
+
+
+
+
+    
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Alt om
+
+
+
+            
+
+
+	
+                    
+
+
+                
+                    
+
+
+                        
+
+ Boligsaker
+
+
+                    
+
+
+                
+                    
+
+
+                
+
+
+
+            
+
+
+            
+
+
+                
+
+ Gå til alle temaer
+
+
+            
+
+
+
+        
+
+
+    
+
+
+
+
+
+
+
+
+            
+
+
+        
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ Ingen har bedt om ordet.
+
+(Votering, se side 2322)
+
+
+
+
+
+                    
+
+  Det voteres over forslag fra representanten
+Ågot Valle på vegne av Sosialistisk Venstreparti oversendt
+fra Odelstingets møte 4. mars 1999:
+
+  «For å bedre asylsøkeres
+rettssikkerhet ber Stortinget Regjeringa vurdere å opprette
+et kompetansesenter på virkningene av tortur, samt for
+behandling av traumer og skader som følge av tortur.»
+
+  Erik Solheim – til stemmeforklaring.
+
+  På bakgrunn av de mange positive
+reaksjoner som er kommet på intensjonen i forslaget, vil
+vi be om at forslaget blir omgjort til et oversendelsesforslag.
+
+ Det betyr at forslaget reformuleres
+og gjøres om til et oversendelsesforslag.
+
+Forslaget lyder da i endret form:
+
+ «Det henstilles til Regjeringa for å bedre
+asylsøkeres rettssikkerhet å vurdere å opprette
+et kompetansesenter på virkningene av tortur, samt for
+behandling av traumer og skader som følge av tortur.»
+
+Forslaget foreslås da oversendt Regjeringen
+uten realitetsvotering. – Det anses bifalt.
+
+
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+        
+
+
+            
+
+
+                
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Tilhører sak
+
+
+
+            
+
+
+	
+                        
+
+
+                            
+
+Forslag fra stortingsrepresentant Ågot Valle på vegne av Sosialistisk Venstreparti oversendt fra Odelstingets møte 4. mars 1999:
+(Jf. Innst. O. nr. 42)
+
+"For å bedre asylsøkeres rettssikkerhet ber Stortinget Regjeringa vurdere å opprette et kompetansesenter på virkningene av tortur, samt for behandling av traumer og skader som følge av tortur."
+
+
+                        
+
+
+                
+                    
+
+
+                        
+
+Gå til saker
+
+
+                    
+
+
+                
+
+
+
+            
+        
+
+
+    
+
+
+
+
+
+
+    
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Alt om
+
+
+
+            
+
+
+	
+                    
+
+
+                
+                    
+
+
+                        
+
+ Innvandrere
+
+
+                    
+
+
+                
+                    
+
+
+                
+
+
+
+            
+
+
+            
+
+
+                
+
+ Gå til alle temaer
+
+
+            
+
+
+
+        
+
+
+    
+
+
+
+
+
+
+
+
+            
+
+
+        
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ Etter ønske fra justiskomiteen vil presidenten foreslå at debatten blir begrenset til 45 minutter, og at taletiden blir fordelt slik: 5 minutter til hver gruppe og 5 minutter til statsråden.
+
+
+
+
+Videre vil presidenten foreslå at det ikke blir gitt anledning til replikker etter de enkelte innlegg, og at de som måtte tegne seg på talerlisten utover den fordelte taletid, får en taletid på inntil 3 minutter.
+
+
+
+
+- Dette anses vedtatt.
+
+
+
+
+ 
+
+(ordfører for saken): 
+
+Et viktig skritt videre i det norske samfunns forsinkede oppgjør med behandlingen av Norges jøder – de som overlevde det tyske naziregimet holocaust – i årene like etter krigen, er i dag til behandling i Stortinget. Proposisjonen omhandler et historisk og moralsk oppgjør med behandlingen i Norge av den økonomiske likvidasjon av den jødiske minoritet under den annen verdenskrig.
+
+
+
+
+Oppgjøret gjennomføres dels som et kollektivt og dels som et individuelt oppgjør. Ved det kollektive oppgjøret foreslås for det første bevilget et beløp til sikring av jødisk kultur og fremtid i Norge. Det skal videre gis støtte utenfor Norges grenser til å minnes og å utvikle den tradisjon og kultur som nazistene ønsket å utrydde, og det skal opprettes et kompetansesenter om holocaust og om livssynsminoriteters stilling og historie generelt. Det individuelle oppgjøret foreslås gjennomført i form av utbetaling av en erkjentlighetssum til personer som i Norge ble rammet av antijødiske tiltak under krigen.
+
+
+
+
+Et flertall støtter Regjeringen og mener at det må tas et historisk og moralsk oppgjør med den økonomiske likvidasjonen, og at dette oppgjøret også må få et økonomisk uttrykk.
+
+
+
+
+Flertallet støtter Regjeringen i at det er naturlig med et oppgjør i form av en bevilgning til fellesjødiske formål. Samtidig støttes de som ble rammet av forfølgelse under krigen med en individuell erkjentlighetssum.
+
+
+
+
+Til det kollektive oppgjøret foreslås avsatt 250 mill. kr. Beløpet fordeles på tre områder:
+
+
+
+
+
+
+
+
+
+
+1. Et beløp på 150 mill. kr foreslås overført til de registrerte mosaiske trossamfunn i Norge.
+
+
+
+
+
+
+
+2. Et beløp på 60 mill. kr foreslås benyttet til støtte utenfor Norges grenser til å minnes og å utvikle den tradisjon og kultur som nazistene ønsket å utrydde, og beløpet fordeles gjennom et fond.
+
+
+
+
+
+
+
+3. Et beløp på 40 mill. kr foreslås benyttet til opprettelse og drift av et kompetansesenter for studier av holocaust og livssynsminoriteters stilling i Norge.
+
+
+
+
+I proposisjonen er det foreslått at et beløp på anslagsvis 50 mill. kr av de 150 mill. kr forutsettes benyttet til tilbakebetaling av gjeld og investeringer, herunder nyanskaffelse av gravlund og barnehage og opprettelse av jødisk museum og bibliotek.
+
+
+
+
+Flertallet understreker betydningen av den kunnskap og innsikt til forståelse av jødenes historie i det norske samfunn som jødiske kulturtilbud, både i og utenfor Oslo, vil formidle. Flertallet forutsetter at eksisterende tilbud på dette området ivaretas. Når vi har uttrykt oss så konkret, er det fordi komiteen er kjent med at det er lagt ned betydelige ressurser i å bygge opp et museum i Trondheim, og vi forutsetter at dette museet får sin rettmessige andel av de midlene som skal fordeles.
+
+
+
+
+For å sikre intensjonen i proposisjonen forutsetter flertallet at midlene brukes på en slik måte at også interessene til dem som ikke er medlemmer av de mosaiske trossamfunn, blir ivaretatt. Dette er helt klare signaler om at alle jøder i Norge skal få sin rettmessige andel av midlene.
+
+
+
+
+Avkastningen av de resterende midlene forutsettes benyttet til drift og videreutvikling av organisasjoner og institusjoner med det formål å sikre en jødisk bredde og et jødisk mangfold i Norge.
+
+
+
+
+Flertallet forutsetter at Justisdepartementet mottar årlig rapport om at midlene er brukt i henhold til Stortingets intensjoner, inkludert regnskap revidert av statsautorisert revisor. Dette er en sterkere formulering enn Regjeringens forslag.
+
+
+
+
+Regjeringen foreslår at det utbetales en erkjentlighetssum som et standardisert beløp på 200 000 kr til de personer i Norge som ble rammet av antijødiske tiltak, f.eks. i form av å ha fått sine eiendeler og sin formue inndratt av okkupasjonsmyndigheten under annen verdenskrig.
+
+
+
+
+Til slutt: Komiteen har tilstrebet at behandlingen i komiteen skulle bære preg av den samme ryddighet og grundighet som den som preger proposisjonen. Det mener jeg som saksordfører at vi har klart å få til. Komiteen – alle partier bortsett fra Fremskrittspartiet – står sammen om alt i innstillingen.
+
+
+
+
+Dette oppgjøret er betegnet som et raust oppgjør. Et økonomisk oppgjør har alltid sin begrensning, og penger er ikke alt, men dette er et uttrykk for norsk solidaritet med jøder.
+
+
+
+
+Jeg tror det er grunnlag for å si at oppgjøret med fortiden legger gode føringer for fremtiden.
+
+
+
+
+ Når Stortinget i dag vedtar dette historisk moralske oppgjøret i form av et økonomisk oppgjør, blir det en god dag. Det blir en god dag for vår samvittighet, det blir en god dag for vår moral og for vår evne til å ville ta ansvar og å ta et oppgjør.
+
+
+
+
+Henrik Wergeland skrev følgende om en annen sak som omhandlet jøders skjebne, som var til behandling i Stortinget for mer enn 150 år siden:
+
+
+
+
+
+
+
+«Resultatet av disse forhandlingene inneholder en 
+
+angivelse
+
+ til verden om det kultur- og civilisasjonspunkt det norske folk befinner sig på idag. Og verden vil legge merke til det.»
+
+
+
+
+Den gangen, i 1842, dreide det seg om det grunnlovsbestemte forbudet mot at jesuittene skulle få komme inn i riket. Det vant ikke flertall å fjerne forbudet da. Slike ord er selvfølgelig altfor store om dagens forhandlinger, men det sier noe om jødenes historie og forfølgelse også her i Norge. 
+
+
+
+
+Og endelig er denne gode dagen her, 50 år etter at overgrepene fant sted. Nå er det jo slik at intet erstatningsoppgjør kan erstatte slike overgrep, men man forsøker gjennom et økonomisk oppgjør å ta et historisk moralsk oppgjør. Og da kan man ikke legge til grunn en strengt juridisk, regnskapsmessig betraktning. For det første er det ikke praktisk mulig. Dessuten ville det vært et dårlig svar på en slik totallikvidasjon som vi stod overfor i krigsårene, en totallikvidasjon som innebar tap av rettigheter for jødene, tap av muligheten til å kunne praktisere jødedommen, tap av friheten, tap av kultur og fellesskatter, bo som ble plyndret, livsforsikringer som ble innløst. Etter at det hele var borte, ble også de fysiske livene tatt. Det er denne totallikvidasjonen vi må ta et oppgjør med.
+
+
+
+
+Jødene kom også spesielt uheldig ut i det erstatningsoppgjøret som fant sted like etter krigen overfor dem som hadde lidd økonomiske tap.
+
+
+
+
+Arbeiderpartiet går derfor inn for, som saksordfører også redegjorde for at vi står enstemmig bak, individuell billighetserstatning til dem som har lidd personlig tap, og deres arvinger, dessuten – og det er like viktig – det kollektive oppgjøret for å sikre framtidig jødisk mangfold og kultur her i landet. Det kollektive oppgjøret må selvfølgelig komme alle med jødisk tilknytning til gode.
+
+
+
+
+Jeg er ganske glad for og også stolt av at vi her i Norge har et mosaisk trossamfunn som har en unik karakter, i den forstand at trossamfunnet driver aktiviteter og virksomheter som er inkluderende for alle jøder, uansett trosretning. Vi forventer selvfølgelig at det fondsstyret som nå blir oppnevnt, forvalter formuen i fondet med det brede perspektiv at det er mangfoldet i jødedommen som ivaretas, og ikke bare en spesiell organisasjons aktiviteter.
+
+
+
+
+Norge er med dette det første landet som foretar denne typen oppgjør, og heldigvis er det mye som ligger i marka, som tyder på at flere land vil følge etter.
+
+
+
+
+ Representanten Tømmerås sa at hun følte at dette var en god dag for vår samvittighet. Jeg føler det ikke slik. Jeg tror ingen av oss, og slett ikke Norge som nasjon, er i stand til å kjøpe seg god samvittighet. Den måten norske myndigheter har behandlet jødene på opp gjennom historien, og ikke minst delaktigheten i arrestasjonen av norske jøder under siste krig, vil bli stående i historien som en skamplett, og vil aldri kunne viskes vekk med penger.
+
+
+
+
+Dersom staten stjeler folks eiendommer, er det bare rett og riktig, ja en selvfølgelighet, at staten skal gjøre opp for seg og erstatte tyveriet. Alt annet ville vært grunnleggende umoralsk. Derfor er det riktig at norske jøder som ble frarøvet eiendommer under siste krig, nå får erstatning for disse. Det burde bare ha skjedd for mange, mange år siden. Det opplegget som stortingsflertallet legger opp til, gir imidlertid ikke tilnærmet full erstatning for de eiendommene som ble frarøvet jøder. Enkelte jødiske familier kan dokumentere tap på flere millioner kroner, og får nå tilbake 200 000 kr, altså bare en mindre del av tyveriet. Samtidig får andre jøder, som bare hadde ubetydelig økonomisk tap, den samme summen. Det er et utslag av en sosialistisk utjevningspolitikk som må føles dypt urettferdig for de jødene som i dag kan dokumentere milliontap. Fremskrittspartiet ønsker derfor en mer rettferdig fordeling av den økonomiske erkjentlighetserstatningen med et minstebeløp på 50 000 kr og et øvre beløp på 2 mill. kr.
+
+
+
+
+Fordi det for mange vil være vanskelig å fremskaffe konkrete bevis på nåtidsverdien av de fraranede eiendommene, bør det være tilstrekkelig med en sannsynlighetsvurdering av tapet. Jeg har hørt at det har vært argumentert med at enkelte jødiske familier likevel ikke vil kunne sannsynliggjøre at de har lidd milliontap selv om det skulle være tilfellet, og at det ville være urimelig når disse familiene ikke kan få erstatning, at andre familier som kan dokumentere tapet, vil få erstatning. Det er et argument som jeg synes er urimelig. Ingen kan ta skade av at det norske samfunnet gjør opp for seg i de tilfellene der det er mulig.
+
+
+
+
+Fremskrittspartiet er for øvrig enig i at det også bør gis en kollektiv erstatning for å bøte på de kollektive skadene på jødisk kultur som et resultat av den etniske rensningen og ødeleggelsene av synagoger og andre kulturminner, og foreslår derfor at det i tillegg til at det settes av 250 mill. kr til erstatning for beslaglagt eiendom, også settes av 50 mill. kr til et kompetansesenter for studier av holocaust.
+
+
+
+
+Jeg vil til slutt ta opp Fremskrittspartiets forslag som står i innstillingen. Når det gjelder voteringen, vil det være naturlig å sette I i Fremskrittspartiets forslag opp mot I i innstillingen. Når det gjelder II, vil det være naturlig at Fremskrittspartiet stemmer subsidiært for innstillingen, og jeg ber om at det blir gjort mulig.
+
+
+
+
+ Jan Simonsen har tatt opp det forslag han refererte til, og presidenten har merket seg ønsket når det gjelder voteringen.
+
+
+
+
+Vi er mange som betegner det som skjer i Stortinget i dag, som en historisk begivenhet. Det er gledelig at det også er så bred enighet mellom partiene om et historisk og moralsk oppgjør med behandlingen i Norge av den økonomiske likvidasjon av den jødiske minoritet under den annen verdenskrig.
+
+
+
+
+Jeg som vokste opp etter krigen, har lært mye om det grufulle forsøk på jødeutryddelse som fant sted. Den økonomiske siden ved saken fikk imidlertid liten oppmerksomhet. For historiens og vårt folks samvittighets skyld er jeg glad for det vedtak vi i dag skal fatte i landets nasjonalforsamling.
+
+
+
+
+For Kristelig Folkeparti handler ikke dette om å kjøpe seg fri fra skyld, aktivt eller passivt pådratt oss som folk under krigen. For oss dreier det seg heller ikke om å dele ut penger for derigjennom å si til dem som omfattes av oppgjøret, at «nå får dere være fornøyde». Nei, det handler om et historisk og moralsk oppgjør med behandlingen i Norge av den økonomiske likvidasjon av den jødiske minoritet under den annen verdenskrig.
+
+
+
+
+Selvsagt ligger det i dette både et «unnskyld!» og et «forlat oss vår skyld!» i forhold til holocaust. Men det er primært et oppgjør med den økonomiske likvidasjonen. Derfor gis det historiske og moralske oppgjøret uttrykk gjennom økonomisk bevilgning.
+
+
+
+
+Når mennesker likvideres eller utsettes for tortur og systematisk utryddelse, handler det i hvert tilfelle om enkeltmennesker som rammes. Rundt den enkelte befinner det seg familier som lider med og kjenner smerten. For de jødiske familiene skjedde det ofte at en eller ingen overlevde veien til gasskamrene. Når man under siste verdenskrig inndrog eller konfiskerte eiendeler som tilhørte enkeltpersonene vi her omtaler, ja, så er det naturlig at oppgjøret vi vedtar i dag, også har en individuell side. Når flertallet legger seg på en standardisert utbetaling, har det sammenheng med det faktum at bare noen familier ville være i stand til å legge fram en korrekt oversikt over tapene man led. Denne verdifastsettelsen kunne man så f.eks. indeksregulere. Men det ville høyst sannsynlig bære galt av sted med mistenkeliggjøring, urettferdighet og forskjellsbehandling som resultat.
+
+
+
+
+Kristelig Folkeparti mener at i en slik sak, med et relativt langt tidsperspektiv og varierende mangel på bevis, er det mest riktig å se alle likt. Dette gjør vi ikke for å bagatellisere eller tilsløre at det var forskjell i verdi og omfang på de eiendeler og den formue som ble fratatt den enkelte. Men erstatningen uttrykker at dette er et erkjentlighetsbeløp og ikke et nøyaktig oppgjør for faktisk dokumenterte tap.
+
+
+
+
+Samtidig var det som skjedde under krigen, tiltak rettet mot det jødiske samfunn i Norge som helhet: Jødene skulle utryddes. Heldigvis lyktes man ikke i å oppnå målsettingen, selv om mange som ble drept, ikke hadde gjenlevende arvinger. Med bakgrunn i disse fakta er det naturlig at oppgjøret også har en kollektiv form.
+
+
+
+
+Fordelingen av de 450 mill. kr som legges inn i dette historiske og moralske oppgjøret, skjer ut fra økonomiske beregninger og med ønske om at midlene skal tjene til det beste for jødene, til å sikre deres kultur og framtid i Norge. Men det ligger også i fordelingen et ønske om å bidra til nasjonal og internasjonal forståelse for betydningen av den tradisjon og kultur som nazistene ønsket å utrydde. Dette skal skje på ulike måter og med forskjellige virkemidler. Allerede i dag besøker skoleklasser i Trondheim en begynnende historisk samling og dokumentasjon tilknyttet lokalitetene til Det Mosaiske Trossamfund der. Slikt må utbygges og gjøres tilgjengelig for flest mulig, slik at nye generasjoner kan se, reflektere, lære og forstå. Vi vil en framtid med røtter i historien, der fedrenes synder ikke gjentas av barna. Kristelig Folkeparti ønsker at dette historiske og moralske oppgjøret i forhold til den økonomiske likvidasjon av den jødiske minoritet under annen verdenskrig skal bidra til det.
+
+
+
+
+Jeg anbefaler med dette komiteens innstilling.
+
+
+
+
+Samtlige talere har understreket at dette er en historisk dag. Da blir det påfallende at man har satt av fem minutters taletid til hvert parti, og har gjort dette til en minidebatt. Dette er en historisk dag, og det burde vært en dag hvor Stortinget hadde gått gjennom denne saken i sin fulle bredde, sett på vårt forhold til jødene som minoritet i Norge, og også sett på hva denne saken sier om Norges evne til å håndtere andre minoriteter.
+
+
+
+
+Dette er også en sak av stor internasjonal interesse. Det er antakelig nesten ingenting Stortinget gjør i dette året, som kommer til å bli lagt så mye merke til internasjonalt, men derimot så lite i Norge. Med andre ord: Vi burde diskutert dette med den største grundighet.
+
+
+
+
+Det er en historisk dag, fordi det er en historisk unnskyldning Norge nå ber vår jødiske minoritet om. Selvsagt var det slik at det var Hitler-Tyskland og nazistene, og til sjuende og sist Hitler personlig, som var drivkraften i jødeutryddelsene. Men vi kan heller ikke se bort fra at nær sagt samtlige norske jøder ble arrestert av norsk politi. De politifolkene som gjorde det, visste selvsagt ikke i sin fulle bredde hvilken skjebne de personene de arresterte, ville møte, men de kunne heller ikke være i tvil om at noe fryktelig ville skje dem. Det var med andre ord nordmenn som deltok med plikttroskap eller iver i den norske versjonen av jødeutryddelsene, og det fortjener vårt jødiske mindretall å bli bedt om unnskyldning for fra Norge. 
+
+
+
+
+Og dernest, da krigen var over, og man skulle gå inn i erstatningsspørsmålene, gikk vi oss bort i skiftejus, juridiske betraktninger og revisorbetraktninger. Vi glemte den uhyrlighet som var begått mot jødene, og forsøkte å sammenligne med det som også var begått av overgrep og grusomheter mot nordmenn. Men bortsett fra i Telavåg, var det ikke noe sted i Norge hvor man så å si forsøkte å utrydde en hel folkegruppe. Og uhyrlighetene i Telavåg kan heller ikke sammenlignes med det som skjedde med jødene.
+
+
+
+
+Til sjuende og sist – 50 år etter – har vi i alle fall mannet oss opp til å be om en unnskyldning som også får økonomiske konsekvenser. Men selv om dette er bra og gledelig, og selv om både regjeringen Jagland, regjeringen Bondevik og flertallet i justiskomiteen fortjener honnør for det som nå har skjedd, kan vi ikke se bort fra at det holdt på å gå helt galt. Det holdt på å gå helt galt da Skarpnes-utvalget kom med sin innstilling. Det var et utvalg som gikk seg bort i revisorbetraktninger og skiftejus 50 år etter at krigen var slutt, framfor å se på det moralske, politiske, filosofiske og verdighetsmessige oppgjør denne saken krevde.
+
+
+
+
+Og det holdt også – riktignok i mye mindre målestokk – på å gå litt galt i justiskomiteen, der man begynte å innkalle tilfeldige enkeltpersoner og relativt perifere internasjonale organisasjoner som høringsinstanser på linje med dem som representerer de jødiske minoritetene selv. Hvis vi overførte det som skjedde i justiskomiteen, til vår kirke i kristelig sammenheng, ville det være som om man samtidig som man innhentet synspunkter fra kirkemøtene og bispekollegiet, også innhentet noen enkeltpersoner som hevdet seg å representere kristenheten. Og samtidig som man innkalte Kirkenes Verdensråd, eller ikke innkalte dem i det hele tatt, innkalte man en relativt tilfeldig gruppe som representerer særstandpunkt innen kristendommen. Denne måten å håndtere et mindretall på, er alvorlig, fordi det sier noe om vår evne som flertallskristne – protestanter, eller hva man nå velger å kalle oss – til å håndtere mindretall. En annen gang kan det være muslimer, hinduer, buddhister eller andre religiøse mindretall det gjelder.
+
+
+
+
+Nå går man inn i et oppgjør som jeg støtter. Jeg støtter fullt ut flertallsinnstillingen fra komiteen, og det gjør SV også. Vi støtter det regjeringen Bondevik har lagt fram, men det må være soleklart at dette oppgjøret nå må gjennomføres slik det står i innstillingen, i et tett samarbeid med og under avgjørende innflytelse av Det Mosaiske Trossamfund. Det er så få jøder i Norge at det er ikke mulig å drive én barnehage og én eldreinstitusjon for ortodokse, én for reformerte og én for konservative jøder, slik man f.eks. kan gjøre i Israel. I Norge vil det jødiske samfunn bare kunne overleve hvis det holder sammen på tvers av motsetninger, på tvers av ulike religiøse tendenser, og det klarer det mosaiske trossamfunn. Det er også grunnlaget, tror jeg, for deres framtidige eksistens under det trykket som en flertallskultur som den norske alltid legger på et mindretall.
+
+
+
+
+Men trass i det nødvendige selvoppgjøret som vi ikke riktig får tatt på grunn av tiden, vil jeg likevel til sjuende og sist uttrykke at dette er en gledens dag, fordi vi nå endelig har fått brakt denne saken i havn og har fått tatt først og fremst det moralske, men dernest det økonomiske oppgjør med den skjebne norske jøder led.
+
+
+
+
+ Stortinget behandler i dag innstillingen fra justiskomiteen om et historisk og moralsk oppgjør med behandlingen i Norge av den økonomiske likvidasjon av den jødiske minoritet under den annen verdenskrig.
+
+
+
+
+Venstre slutter seg til komiteens vurderinger og vil gi ros til Regjeringen for å ha lagt mindretallet i Jødebo-utvalget til grunn for proposisjonen. Venstre er glad for at det er et bredt flertall bak denne innstillingen. 
+
+
+
+
+Venstre mener det er riktig med et historisk og moralsk oppgjør, og at oppgjøret også må få et økonomisk uttrykk. Venstre støtter Regjeringens og komiteens syn om at det foretas et oppgjør i forhold til det jødiske samfunn, ut fra at den økonomiske og fysiske likvidasjonen var rettet mot det jødiske samfunn i Norge som helhet. 
+
+
+
+
+I tillegg legger komiteen vekt på at mange jøder som ble drept, ikke hadde gjenlevende arvinger. Det er derfor naturlig at det også gis et oppgjør til fellesjødiske formål, i tillegg til det individuelle oppgjøret. Venstre vil slutte seg til disse vurderingene.
+
+
+
+
+Det kollektive oppgjøret på til sammen 250 mill. kr er avsatt til tre områder:
+
+
+
+
+150 mill. kr skal gå til å sikre jødisk kultur og framtid i Norge, administrert av de registrerte mosaiske trossamfunn i Norge. Midlene skal hovedsakelig gå til undervisnings-, forsknings- og informasjonsformål. 
+
+
+
+
+Venstre vil understreke at det er svært viktig at disse midlene kommer alle norske jøder til gode, også jøder utenfor de registrerte mosaiske trossamfunn. Samtidig har Venstre full tiltro til at de som skal forvalte midlene, vil ivareta disse hensyn.
+
+
+
+
+60 mill. kr skal gå til et fond til støtte utenfor Norges grenser for å minnes og utvikle den tradisjon og kultur som nazistene ønsket å utrydde. 
+
+
+
+
+40 mill. kr skal benyttes til opprettelse og drift av et kompetansesenter for studier av holocaust og livssynsminoritetenes stilling i Norge. Senteret skal være politisk og ideologisk nøytralt.
+
+
+
+
+I det individuelle oppgjøret skal det utbetales en erkjentlighetssum som et standardisert beløp på 200 000 kr til dem som ble rammet av antijødiske tiltak, som inndragning av eiendeler og formue. Ektefelle og livsarvinger kan tre inn i avdødes sted.
+
+
+
+
+Venstre er fornøyd med at oppgjøret inneholder en individuell og en kollektiv del, som vil ivareta både den enkelte og det jødiske samfunn som helhet. Det er også gledelig at det gis støtte til tiltak utenfor Norges grenser. Komiteens innstilling er i all hovedsak godt mottatt av det jødiske samfunn i Norge og omtales som et raust oppgjør.
+
+
+
+
+Det norske oppgjøret blir fulgt med stor interesse også utenfor Norge. Den norske håndteringen kan tjene som eksempel på hvordan et historisk og moralsk oppgjør kan gjennomføres. 
+
+
+
+
+De grufulle overgrepene som ble begått mot jødene og andre minoriteter under den annen verdenskrig, kan aldri gjøres godt igjen. Det moralske og økonomiske oppgjør med behandlingen av norske jøder under krigen kan likevel være et verdig bidrag til en moralsk og økonomisk oppreisning til det jødiske samfunn i Norge i dag.
+
+
+
+
+ Justiskomiteen har under behandling av denne saken selvsagt ikke innkalt noen til høringer. Vi har hatt ordinære høringer med tre organisasjoner som selv hadde bedt om å få komme til høring. Utover det er jeg kjent med at enkeltrepresentanter har hatt samtaler om saken. Men så vidt jeg kan bedømme, har saken på alle måter vært behandlet slik den skal i justiskomiteen.
+
+
+
+
+Fra justiskomiteens side har det ligget som et underliggende premiss, slik jeg har oppfattet det under hele debatten, at vi må behandle denne saken med den verdighet som saken ikke bare fortjener, men som den rett og slett krever. Derfor er jeg grunnleggende uenig i det Erik Solheim sa, at denne saken ville tjent på en bred, lang debatt i Stortinget. Jeg kan ikke med min beste vilje skjønne at et ordgyteri over en hel dag, som meget lett kunne blitt en ansamling med svulstige ord, kunne bidratt til en verdig avslutning av denne saken. Her synes jeg sakens karakter, sakens alvor, det som har skjedd, er mer enn nok i seg selv, uten at vi skal forsøke å sette mer eller mindre vellykkede formuleringer på det. Vi tar et oppgjør så godt vi kan, både moralsk og økonomisk, med en hendelse som selvsagt, uansett hva vi måtte si, aldri kan gjøres god igjen.
+
+
+
+
+Jeg tror derfor at vi kan være fornøyd med det som har skjedd. Jeg tror ikke en debatt, noe i retning av en polemikk om at det holdt på å gå galt i det utvalget som behandlet saken, og en påstand om at det holdt på å gå galt i justiskomiteen, kunne ha fjernet det inntrykket noen har. Men fra min side har jeg lyst til å fastslå at det gikk ikke galt. Vi tok utgangspunkt i det som vi syntes var fornuftig fra det utvalget som hadde behandlet saken, og vi behandlet – som jeg sa i stad – saken i justiskomiteen og kom frem til en praktisk talt enstemmig innstilling på alle vesentlige punkter. 
+
+
+
+
+Det jeg kanskje allikevel burde si – og som jeg faktisk er helt enig med Erik Solheim i – er at det fra justiskomiteens side er gitt uttrykk for tillit til Det Mosaiske Trossamfund. Jeg slutter meg også til de resonnementene som jeg følte at Erik Solheim kom med, nemlig at det er vanskelig å tenke seg noen organisasjon som representerer en gruppe på en bredere og mer samlende basis enn det de to mosaiske trossamfunnene gjør. Det er bakgrunnen for at vi har gitt de mosaiske trossamfunn myndighet til å forvalte denne relativt store pengesummen, og vi føler oss overbevist om at de kommer til å gjøre det på en måte som er i tråd med Stortingets intensjoner. 
+
+
+
+
+ Det er et viktig historisk vedtak Stortinget i dag inviteres til å gjøre ved å gi sin tilslutning til St.prp. nr. 82 for 1997-98. Regjeringen legger stor vekt på å få gjennomført dette historiske og moralske oppgjøret med behandlingen i Norge av den økonomiske likvidasjon av den jødiske minoritet under den annen verdenskrig. Regjeringen ønsker med dette å sette et verdig punktum for oppgjøret. Jeg er derfor svært glad for den brede tilslutningen proposisjonen har fått under komitebehandlingen her i Stortinget. Oppgjøret skal først og fremst baseres på en bred moralsk tilnærming, som gis en form og et innhold som tar hensyn til sakens spesielle karakter. Etter Regjeringens oppfatning kan et slikt oppgjør ikke begrenses til økonomiske betraktninger.
+
+
+
+
+Det kan ikke herske tvil om at folkemordaspektet setter jødene i en særstilling blant den tyske okkupasjonsmaktens mange ofre under annen verdenskrig.
+
+
+
+
+Den økonomiske likvidasjon av den jødiske gruppen som helhet var unik, og den organiserte arrestasjonen, deportasjonen og fysiske tilintetgjørelsen var et folkemord. Da hensikten med jødeforfølgelsen var at den jødiske gruppen i Norge skulle tilintetgjøres totalt, må den økonomiske og fysiske likvidasjon ses på som to sider av samme sak. Uretten mot det jødiske folk under krigen kan aldri gjøres god igjen, men Regjeringen mener det må tas et historisk og moralsk oppgjør med den økonomiske likvidasjonen, og at dette oppgjøret også må få et økonomisk uttrykk. Dette gjennomføres ved både et kollektivt og et individuelt oppgjør.
+
+
+
+
+Det kollektive oppgjøret skal understreke at man nå foretar et oppgjør i forhold til det jødiske samfunn i Norge i sin helhet, særlig fordi den økonomiske og den fysiske likvidasjonen var tiltak rettet mot jødene i Norge som gruppe. I tillegg til at privat jødisk eiendom ble inndratt, ble de jødiske institusjoner og religiøse sentra i Norge økonomisk likvidert.
+
+
+
+
+Dertil kommer det faktum at mange jøder som ble drept, ikke hadde gjenlevende arvinger. Det er på denne bakgrunn naturlig med et økonomisk oppgjør i form av en bevilgning til fellesjødiske formål, både nasjonalt og internasjonalt. Ved vurdering og fastsettelse av totalbeløpet til kollektive oppgjør har Regjeringen bl.a. tatt hensyn til at jødiske familier i sin helhet ble utslettet og følgelig ikke får noe individuelt oppgjør. Til det kollektive oppgjøret foreslås avsatt 250 mill. kr, fordelt på tre områder.
+
+
+
+
+Det overføres 150 mill. kr til de mosaiske trossamfunn i Norge. Beløpet skal benyttes til å sikre jødisk kultur og fremtid i Norge.
+
+
+
+
+Det avsettes videre 60 mill. kr som skal anvendes til å støtte jødiske institusjoner eller prosjekter utenfor Norges grenser.
+
+
+
+
+En av de viktigste lærdommer fra annen verdenskrig og holocaust er hvor utsatt minoriteter er for fordommer, hat og forfølgelse, som i ytterste konsekvens ledet til historiens grusomt gjennomførte og mest systematiske folkemord. Det beste middel til bekjempelse av fordommer er saklig informasjon, som forutsetter bred kunnskap om minoritetene i vårt samfunn. Et beløp på 40 mill. kr foreslås derfor benyttet til etablering og drift av et dokumentasjons- og kompetansesenter for å skape kompetanse i Norge om holocaust generelt, og spesifikt om det norske kapittel i historien om holocaust.
+
+
+
+
+Regjeringen ønsker gjennom tilbud om en erkjentlighetssum å støtte de enkeltpersoner som ble rammet av forfølgelsen i Norge under annen verdenskrig. Derfor er det foreslått utbetalt en erkjentlighetssum som et standardisert beløp på 200 000 kr til de personer som i Norge ble rammet av antijødiske tiltak. Mange av dem som fikk sine eiendeler og virksomheter beslaglagt, er nå døde. Ektefeller og livsarvinger forutsettes derfor å kunne tre inn i de avdødes sted, og beløpet fordeles blant disse etter fordelingsreglene i arveloven.
+
+
+
+
+Det kan med rette hevdes at dette oppgjøret kommer for sent. Over 50 år etter krigens slutt er det nesten bare etterkommerne etter de jødene som ble direkte rammet, som er igjen. Men det er likevel viktig at det endelig blir tatt et oppgjør med måten jødene i Norge ble behandlet på. Vi må innse at jødenes spesielle situasjon etter krigen ikke ble tatt hensyn til slik det burde vært gjort. Dette ansvar påhviler oss som nasjon, og Stortingets vedtak i dag er derfor av den aller største betydning.
+
+
+
+
+ De talere som heretter får ordet, har en taletid på inntil 3 minutter.
+
+
+
+
+ For ordens skyld: I denne debatten har jeg behov for å imøtegå Simonsens påstand om at det ut fra mitt innlegg kunne tolkes som om noen her mente at det dreide seg om å «kjøpe seg god samvittighet». Det er i beste fall en misforståelse fra Simonsens side. Min henvisning til samvittighet går selvfølgelig på norske myndigheters vilje til innrømmelse, vilje til beklagelse og vilje til å ta ansvar og yte en erstatning. Behandling av jødene gjennom Norges historie, og spesielt under siste verdenskrig, vil alltid være et svært mørkt kapittel i vår historie, uansett hva vi måtte gjøre og si i ettertid. Og det oppgjøret som vi tar her i dag, er jo nettopp en innrømmelse av akkurat det.
+
+
+
+
+For øvrig vil jeg rette opp en ren forsnakkelse under det forrige innlegget mitt, hvor jeg under henvisningen til Wergeland og hans omtale av behandlingen av jødesaken i Stortinget i 1842 brukte ordet «jesuittene» i stedet for «jødene». Jesuittene var riktignok også utestengt fra landet i en periode, men det var selvfølgelig jødene jeg mente.
+
+
+
+
+ Det er understreket at det er en historisk merkedag når Stortinget i dag vedtar å gjennomføre et oppgjør med den økonomiske likvidasjonen av den jødiske befolkningsgruppen i Norge under den annen verdenskrig. At oppgjøret gis et økonomisk uttrykk, understreker i seg selv at det ikke er ment å være fyllestgjørende for den totale skade som ble forvoldt mot den jødiske minoritet. Det ville heller ikke på noen måte være mulig. Ikke desto mindre er det gledelig at det er tverrpolitisk enighet om å gjennomføre et slikt oppgjør, og at det er et bredt flertall bak den form oppgjøret er foreslått gitt, at det både skal dreie seg om et individuelt og et kollektivt oppgjør.
+
+
+
+
+Det er likevel ett punkt i innstillingen jeg vil kommentere litt nærmere. Det gjelder bevilgningen på 40 mill. kr til opprettelse og drift av et kompetansesenter for studier av holocaust og livssynsminoriteters stilling i Norge. Av proposisjonen kan det se ut som om dette er tenkt anvendt ett sted, nemlig i Oslo. Jeg er derfor glad for at komiteens flertall så vidt sterkt har understreket betydningen av å bringe videre kunnskapen om jødenes historie i Norge som kulturtilbud både i og utenfor Oslo, og at eksisterende tilbud på dette området skal bevares. Jeg viser i denne sammenheng til at det allerede er etablert et offentlig godkjent museum i Trondheim i samarbeid mellom den jødiske synagogen og NTNU. Selv om senteret foreløpig er lite, har det allerede vært godt besøkt, ikke minst av skoleelever og studenter, og det representerer således et viktig bidrag til å oppfylle formålet med denne delen av oppgjøret. 
+
+
+
+
+Jeg konstaterer med tilfredshet, etter kontakt med medlemmer av komiteen, at selv om Trondheim ikke eksplisitt er nevnt i innstillingen, vil de som skal fordele midlene videre, kunne sørge for at også Trondheimssenteret blir omfattet av dem. Det må tas i betraktning at om lag ¼ av de jøder som ble deportert fra Norge under krigen, kom nettopp fra Trondheims-området. 
+
+
+
+
+Så står vi sammen i ønsket om at oppgjøret må få betydning også for forståelsen av den historiske udåd som rammet det jødiske folk, ikke bare her i Norge, men over hele verden.
+
+
+
+
+ Flere har ikke bedt om ordet, og debatten i sak nr. 1 er avsluttet.
+
+(Votering, se neste spalte)
+
+
+
+
+
+                    
+
+  Under debatten har Jan Simonsen
+satt fram et forslag på vegne av Fremskrittspartiet. 
+
+Forslaget lyder:
+
+«I.
+
+På statsbudsjettet for 1999 gjøres
+følgende endringer:
+
+Kap. 260
+
+Universiteter i Oslo
+
+70
+
+Tilskudd til senter
+for studier av Holocaust og livssynsminoriteters stilling i Norge,
+forhøyes med	
+
+kr
+
+10 000 000
+
+fra kr 40 000 000
+til kr 50 000 000
+
+Kap. 476
+
+Et historisk og moralsk
+oppgjør med behandling i Norge av den økonomiske likvidasjon
+av den jødiske minoritet under den 2. verdenskrigen:
+
+1
+
+Driftsutgifter, 
+
+kan overføres
+
+, forhøyes med	
+
+kr
+
+3 000 000
+
+fra kr 1 500 000
+til kr 4 500 000
+
+72
+
+Erkjentlighetsbeløp, 
+
+overslagsbevilgning
+
+, forhøyes
+med	
+
+kr 
+
+10 000 000
+
+fra kr 60 000 000 til kr 70 000
+000
+
+II.
+
+Tilsagnsfullmakt
+
+Stortinget samtykker i at det kan gis tilsagn
+i 1999 om utbetaling i år 2000 av individuelle erkjentlighetsbeløp
+til personer som i Norge ble rammet av antijødiske tiltak
+under den 2. verdenskrig, innenfor en beløpsramme på 250.
+mill. kroner inklusiv bevilgningen for 1999.»
+
+Det voteres først alternativt mellom
+innstillingens romertall I og romertall I i forslaget fra Fremskrittspartiet, deretter
+over romertall II i forslaget fra Fremskrittspartiet og til sist
+over innstillingens romertall II.
+
+Komiteen hadde innstillet:
+
+I.
+
+På statsbudsjettet for 1999 gjøres
+følgende endringer:
+
+Kap. 476
+
+Et historisk og moralsk
+oppgjør med behandlingen i Norge av den økonomiske likvidasjon
+av den jødiske minoritet under den 2. verdenskrigen:
+
+1
+
+Driftsutgifter, 
+
+kan overføres
+
+, forhøyes med	
+
+kr 
+
+3 000 000
+
+fra kr 1 500 000
+til kr 4 500 000
+
+70
+
+(Ny) Sikring av jødisk
+kultur og framtid i Norge, bevilges med	
+
+kr
+
+150 000 000
+
+71
+
+(Ny) Støtte
+utenfor Norges grenser til å minnes og å utvikle
+den tradisjon og kultur som nazistene ønsket å utrydde, bevilges med	
+
+kr
+
+60 000 000
+
+72
+
+Erkjentlighetsbeløp, 
+
+overslagsbevilgning
+
+, forhøyes med	
+
+kr 
+
+10 000 000
+
+fra kr 60  000 000 til kr 70 000
+000
+
+Votering:
+
+Ved alternativ votering mellom komiteens innstilling til
+I og forslaget fra Fremskrittspartiet til I bifaltes innstillingen
+med 90 mot 16 stemmer.
+
+(Voteringsutskrift kl. 10.58.44)
+
+  Det voteres over romertall
+II i forslaget fra Fremskrittspartiet.
+
+Votering:
+
+Forslaget fra Fremskrittspartiet ble med 90 mot 16 stemmer
+ikke bifalt. 
+
+(Voteringsutskrift kl. 10.59.08)
+
+Videre var innstillet: 
+
+II.
+
+Tilsagnsfullmakt
+
+Stortinget samtykker i at det i samsvar med
+retningslinjene i St. prp. nr. 82 (1997-98) kan gis tilsagn i 1999 om
+utbetaling i år 2000 av individuelle erkjentlighetsbeløp
+til personer som i Norge ble rammet av antijødiske tiltak
+under den 2. verdenskrig, innenfor en beløpsramme på 200
+mill. kroner inklusiv bevilgningen for 1999
+
+Votering:
+
+Komiteens innstilling bifaltes enstemmig. 
+
+
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+        
+
+
+            
+
+
+                
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Tilhører sak
+
+
+
+            
+
+
+	
+                        
+
+
+                            
+
+Et historisk og moralsk oppgjør med behandlingen i Norge av den økonomiske likvidasjon av den jødiske minoritet under den 2. verdenskrig
+
+
+                        
+
+
+                
+                    
+
+
+                        
+
+Gå til saker
+
+
+                    
+
+
+                
+
+
+
+            
+        
+
+
+    
+
+
+
+
+
+
+    
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Alt om
+
+
+
+            
+
+
+	
+                    
+
+
+                
+                    
+
+
+                        
+
+ Rettsvesen
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Trossamfunn
+
+
+                    
+
+
+                
+                    
+
+
+                
+
+
+
+            
+
+
+            
+
+
+                
+
+ Gå til alle temaer
+
+
+            
+
+
+
+        
+
+
+    
+
+
+
+
+
+
+
+
+            
+
+
+        
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Stortinget går da til votering. 
+
+
+
+
+
+                
+                
+                
+
+Voteringen i en sak finnes i slutten av referatet for hver enkelt sak.
+
+
+            
+
+
+            
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+   
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+       var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ Ingen har bedt om ordet.
+
+(Votering, se side 2322)
+
+
+
+
+
+                    
+
+  Det voteres over forslag fra representanten
+Karin Andersen på vegne av Sosialistisk Venstreparti oversendt
+fra Odelstingets møte 4. mars 1999:  
+
+«Stortinget ber Regjeringen utforme
+en overgangsordning for husleieøkningen til personer som
+ved lovendringen bebor boliger omfattet av Husleiereguleringslovens
+kapittel II («den strenge reguleringen»), slik
+at grunnleien i tillegg til konsumprisindeksen maksimalt skal kunne økes
+med 10 pst. årlig.»
+
+Votering:
+
+ Forslaget fra Sosialistisk Venstreparti ble mot 6 stemmer
+ikke bifalt.
+
+
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+        
+
+
+            
+
+
+                
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Tilhører sak
+
+
+
+            
+
+
+	
+                        
+
+
+                            
+
+Forslag fra stortingsrepresentant Karin Andersen på vegne av Sosialistisk Venstreparti oversendt fra Odelstingets møte 4. mars 1999:
+(Jf. Innst. O. nr. 43)
+
+"Stortinget ber Regjeringen utforme en overgangsordning for husleieøkningen til personer som ved lovendringen bebor boliger omfattet av Husleiereguleringslovens kapittel II ("den strenge reguleringen"), slik at grunnleien i tillegg til konsumprisindeksen maksimalt skal kunne økes med 10 pst. årlig."
+
+
+                        
+
+
+                
+                    
+
+
+                        
+
+Gå til saker
+
+
+                    
+
+
+                
+
+
+
+            
+        
+
+
+    
+
+
+
+
+
+
+    
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Alt om
+
+
+
+            
+
+
+	
+                    
+
+
+                
+                    
+
+
+                        
+
+ Boligsaker
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Priser og konkurranseforhold
+
+
+                    
+
+
+                
+                    
+
+
+                
+
+
+
+            
+
+
+            
+
+
+                
+
+ Gå til alle temaer
+
+
+            
+
+
+
+        
+
+
+    
+
+
+
+
+
+
+
+
+            
+
+
+        
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Det foreligger ikke noe referat.
+
+
+
+
+
+                    
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ Representanten Aud 
+
+Blattmann
+
+,
+som har vært permittert, har igjen tatt sete.
+
+Fra den norske delegasjon til Den felles parlamentarikerdelegasjonen
+til EFTA og EØS" møte i Keflavik, Island, foreligger
+søknad, undertegnet av delegasjonens leder, stortingsrepresentant
+Haakon Blankenborg. Søknaden gjelder permisjon i dagene
+16. og 17. mars for representantene Dag 
+
+Danielsen
+
+,
+Gunn Karin 
+
+Gjul
+
+, Grete 
+
+Knudsen
+
+,
+Bror Yngve 
+
+Rahm
+
+, Siri Frost 
+
+Sterri
+
+ og Haakon 
+
+Blankenborg
+
+.
+
+Denne søknaden foreslås behandlet
+straks og innvilget. – Det anses vedtatt.
+
+Første vararepresentant for Telemark
+fylke, Vivian Knarvik 
+
+Bugge
+
+, er for tiden
+utenlands og av den grunn forhindret fra å møte
+i Stortinget. 
+
+Etter forslag fra presidenten ble enstemmig
+besluttet:
+
+1.		Følgende vararepresentanter
+innkalles for å møte i permisjonstiden:
+
+For Hordaland fylke: Gard 
+
+Folkvord
+
+For Oppland fylke: Kjell Ivar 
+
+Fossnes
+
+For Oslo: Sissel 
+
+Dagslet
+
+For Telemark fylke: Jens Arnfinn 
+
+Brødsjømoen
+
+For Sør-Trøndelag fylke: Tore 
+
+Nordseth
+
+ og
+Michael 
+
+Momyr
+
+2.		Michael Momyr innvelges i Lagtinget for den tid han møter
+for representanten Siri Frost Sterri.
+
+
+
+
+
+                    
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+

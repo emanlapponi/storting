@@ -102,10 +102,12 @@ def horinger(top_level_dir):
 def stortinget(top_level_dir):
     for root, dirnames, filenames in os.walk(top_level_dir):
         for f in filenames:
-            parser = StortingetParser(top_level_dir.split('/')[8])
-            file_path =  os.path.join(root, f)
-            print "[ STARTING ] file path: ", file_path
-            parser.feed(codecs.open(file_path, 'r', 'utf8').read())
+            sroot = root.split('/')
+            if len(sroot) >= 9:
+                parser = StortingetParser(sroot[8])
+                file_path =  os.path.join(root, f)
+                print "[ STARTING ] file path: ", file_path
+                parser.feed(codecs.open(file_path, 'r', 'utf8').read())
 
 if __name__ == '__main__':
     man = "usage python /scripts/cleanup.py {stortinget|horinger} dir"

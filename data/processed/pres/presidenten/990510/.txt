@@ -1,0 +1,4034 @@
+ Ingen har bedt om ordet. 
+
+(Votering, se side 3148)
+
+
+
+
+
+                    
+
+ Det voteres over forslag oversendt
+fra Odelstingets møte 22. april 1999:
+
+«Stortinget ber Regjeringen legge
+frem en sak for Stortinget der en vurderer hvor langt forsikringsselskaper skal
+ha rett til å gå i å kreve utlevering
+av taushetsbelagte helseopplysninger og opplysninger om personlig
+livsstil som grunnlag for forsikringsavtale.»
+
+Votering:
+
+ Forslaget bifaltes enstemmig. 
+
+
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+        
+
+
+            
+
+
+                
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Tilhører sak
+
+
+
+            
+
+
+	
+                        
+
+
+                            
+
+Forslag oversendt fra Odelstingets møte 22. april 1999:
+(Jf. Innst. O. nr. 58)
+
+"Stortinget ber Regjeringen legge frem en sak for Stortinget der en vurderer hvor langt forsikringsselskaper skal ha rett til å gå i å kreve utlevering av taushetsbelagte helseopplysninger og opplysninger om personlig livsstil som grunnlag for forsikringsavtale."
+
+
+                        
+
+
+                
+                    
+
+
+                        
+
+Gå til saker
+
+
+                    
+
+
+                
+
+
+
+            
+        
+
+
+    
+
+
+
+
+
+
+    
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Alt om
+
+
+
+            
+
+
+	
+                    
+
+
+                
+                    
+
+
+                        
+
+ Forsikring
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Helsepersonell
+
+
+                    
+
+
+                
+                    
+
+
+                
+
+
+
+            
+
+
+            
+
+
+                
+
+ Gå til alle temaer
+
+
+            
+
+
+
+        
+
+
+    
+
+
+
+
+
+
+
+
+            
+
+
+        
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ Stortinget går da til votering.
+
+
+
+
+I sak nr. 1 foreligger det ikke noe voteringstema.
+
+
+
+
+
+                
+                
+                
+
+Voteringen i en sak finnes i slutten av referatet for hver enkelt sak.
+
+
+            
+
+
+            
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+   
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+       var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ Etter ønske fra familie-, kultur- og administrasjonskomiteen vil presidenten foreslå at debatten blir begrenset til 1 time og 40 minutter, og at taletiden blir fordelt slik på gruppene:
+
+
+
+
+Arbeiderpartiet 35 minutter, Fremskrittspartiet 15 minutter, Kristelig Folkeparti 15 minutter, Høyre 15 minutter, Senterpartiet 5 minutter, Sosialistisk Venstreparti 5 minutter, Venstre 5 minutter og Tverrpolitisk Folkevalgte 5 minutter. 
+
+
+
+
+Videre vil presidenten foreslå at det blir gitt anledning til replikkordskifte på inntil fem replikker med svar etter innlegg fra medlemmer av Regjeringen.
+
+
+
+
+Videre blir det foreslått at de som måtte tegne seg på talerlisten utover den fordelte taletid, får en taletid på inntil 3 minutter. 
+
+
+
+
+– Det anses vedtatt. 
+
+
+
+
+ Statsråden sitt hovudperspektiv i den forvaltningspolitiske utgreiinga, er spørsmålet om demokrati. Den demokratiske idé bygger på mennesket si grunnleggande interesse, deltaking og sjølvstyre med sikte på innverknad på eigne arbeids- og livsvilkår. Denne vinklinga er eg glad for. Ei vel fungerande forvaltning er ein viktig reiskap for å oppretthalde og vidareføre folkestyret. 
+
+
+
+
+Kristeleg Folkeparti er grunnleggande oppteke av kva normer og kriterium som skal prege samfunnsutviklinga. Eit spørsmål som det då er viktig og naturleg å vere oppteken av, er: Korleis bør forholdet mellom individ, sivilt samfunn og staten vere? Sjølv om innhaldet i politikken er og blir det viktigaste, er det naudsynt å ta del i debatten om korleis samfunnet skal organiserast for å sikre formålstenlege verkemiddel for å kome nærare målet: ein lokal, nasjonal og global solidaritet både økonomisk og politisk. 
+
+
+
+
+Borgarane må oppleve at forvaltninga ivaretek deira interesser og står til deira teneste. Eg vil stoppe litt opp ved to tema som statsråden rører ved i si utgreiing: kunnskaps- og informasjonssamfunnet og likestilling. 
+
+
+
+
+Statsråden peika i utgreiinga si på at vi står ved eit tidsskilje. Vi er på full fart inn i kunnskaps- og informasjonssamfunnet. Ho peika på at forvaltninga er framtidsretta og offensiv når det gjeld dei teknologiske utfordringane. Det er viktig og bra i og med at informasjons- og kommunikasjonsteknologi ofte pregar kvardagen vår på ein meir gjennomgripande måte.
+
+
+
+
+Kristeleg Folkeparti er oppteke av at folk flest – kvinner og menn, unge og gamle – må få ta del i den teknologiske utviklinga, slik at informasjonssamfunnet ikkje blir eit hinder for eit levande demokrati. Statsråden peika på at vi i framtida sannsynlegvis vil møte ein langt meir ressurssterk og krevjande borgar enn tidlegare. Vi vil ha langt fleire valmoglegheiter. Vi vil lettare kunne hente inn informasjon om rettar og plikter. Og ikkje minst: Vi vil stille heilt nye krav til forvaltningservice, effektivitet og kvalitet. Eg trur òg at aktive og innsiktsfulle borgarar vil forvente at vi har ei forvaltning som er open og tilgjengeleg, og som gir moglegheit til innsyn og deltaking i sluttprosessen.
+
+
+
+
+Men vi må òg sjå til at vi ikkje får eit gap mellom dei som meistrar teknologien, og dei som ikkje meistrar han. Vi må vere observante, slik at vi i framtida ikkje får eit samfunn der færre tek del i dei nødvendige sluttprosessane på den bakgrunn at forvaltninga er for komplisert å halde seg til. Vi vil òg få eit meir samansett samfunn, der ulike grupper bør syne god og brei deltaking i den politiske prosessen.
+
+
+
+
+Handlingsplanen som skal sikre auka rekruttering av innvandrarar til statsforvaltninga, er eit døme på at Regjeringa tar denne utfordringa på alvor. Dersom vi ikkje lukkast i ein betre integrasjon av fleire grupper, vil demokratiet kunne stå i fare. Forvaltninga si utfordring vil difor vere, som statsråden nemnde, å:
+
+
+
+
+
+
+
+
+
+
+øke åpenheten og borgernes rett til insyn og informasjon
+
+
+
+
+
+
+
+utvikle målbare kvalitetskrav på forvaltningens tjenester
+
+
+
+
+
+
+
+modernisere, forenkle og effektivisere offentlig sektor
+
+
+
+
+
+
+
+utvikle kompetanse, omstillingsevne og serviceholdninger hos medarbeidere i staten»
+
+
+
+
+Eg er difor glad for at statsråden er oppteken av at vi ikkje må møte problema i morgon med løysingar av i dag. Vi må foreta monalege endringar og fornying av offentleg forvaltning.
+
+
+
+
+Det er også svært viktig i eit likestillingsperspektiv at ein er oppteken av IT. Det er avdekt store skilnader mellom jenter og gutar når det gjeld IT-kunnskap. Det er særleg jentene si måtehaldne interesse for å velje IT som skolefag og utdanningsretning som blir uheldig, fordi ein trur IT-kompetansen vil bli stadig viktigare på arbeidsmarknaden i tida framover.
+
+
+
+
+Kristeleg Folkeparti ønskjer i langt større grad å få jenter på banen, slik at dei kan vere med og gjere seg nytte av IT-verktøyet i arbeidet, og at kvinner skal vere med og styre utviklinga av fagfeltet. Dersom vi skal lukkast med dette, må vi ha tiltak som i første rekkje grunnar seg på motivasjon i ljos av jentene sine verdiar, interesser og føresetnader for å bruke IT. Fordi vi ser på datafaget som så aktuelt i den tydinga at det kjem til å få stor innverknad på samfunnet i morgon, ser vi det som særs viktig at begge kjønn får innverknad over utviklinga av faget og prioriteringane.
+
+
+
+
+Sjølv om ein når Regjeringa si målsetting om 30 pst. kvinner i leiarstillingar innan 2001, er det nok mykje å gjere på dette området. Men vi er på rett veg, og statsråden si utgreiing peikar ut nye vegar å gå for å halde fram med å bygge ei god offentleg forvaltning, med kompetanse, omstillingsevne og likestilling.
+
+
+
+
+Jeg er enig med statsråden i at vi står ved et tidsskille, men da i form av en verdikamp for velferdssamfunnet, som nå blir utfordret fra flere hold. Utfordringene kommer bl.a. som press fra private initiativ på områder der det offentlige har vært alene om tilbudene. Dette presset har ikke bare negative sider, fordi det offentlige må skjerpe seg. De private initiativene kjennetegnes imidlertid gjerne av at de ikke alltid ser sammenhengene. De er sektororienterte, og drivkraften bak er ofte å tjene penger. En markedstenkning ligger til grunn. Politikernes oppgave blir da å se sammenhengene og vurdere konsekvensene for helheten og den langsiktige samfunnsutviklingen.
+
+
+
+
+Den største utfordringen for velferdssamfunnet kommer imidlertid i dag fra politisk hold og paradoksalt nok fra en regjering utgått fra de partiene som i forrige periode sterkest anklaget Arbeiderpartiet for ikke å holde fast nok på de etablerte ordningene. Sentrumsregjeringens bevisste valg av Fremskrittspartiet som støtteparti fører oss i dag i feil retning, og det skremmer meg at Kristelig Folkepartis leder har sagt at hun finner seg godt til rette med denne støtten.
+
+
+
+
+Også ved å satse på individuelle løsninger i form av pengeutbetalinger i stedet for fellesskapsløsninger bidrar Regjeringen til å svekke velferdssamfunnet. Da tenker jeg både på hvordan vi kunne styrket de offentlige velferdstilbudene ved alternativ ressursbruk, og på konsekvensene av det som gjennomføres.
+
+
+
+
+En ting er nemlig udiskutabel: Dersom målet er å skape rettferdighet og lik tilgang på velferdsgoder, finnes det ikke noe alternativ til dagens velferdssamfunn forankret i en sterk og slagkraftig offentlig sektor. Alternativet vil fungere godt for dem som har mye penger og kan kjøpe seg private tilbud. Jeg skulle ønske at statsråden på vegne av Regjeringen hadde slått dette ettertrykkelig fast.
+
+
+
+
+Arbeiderpartiet vil slåss for velferdssamfunnets framtid. Det vil fortsatt skje i nært samarbeid med fagbevegelsen, bl.a. gjennom nye solidaritetsalternativ. Også vi er villige til å prøve nye løsninger. Det har vi alltid vært. Men vi vil samtidig holde fast på velferdssamfunnet som modell og dets forankring i en sterk offentlig sektor, en sektor som må gis muligheter til å skape stadig bedre tilbud som er tilgjengelig for absolutt alle. Vi vil sikre valgfrihet ved å gjøre fellesskapsløsningene mer tilpasset enkeltmenneskets behov, og vi vil slåss mot en individualisering som fører oss mot et todelt samfunn. 
+
+
+
+
+Den offentlige forvaltningen skal også bidra til en positiv utvikling når det gjelder verdiskapingen, også i privat sektor. Verdiskapingen er jo selve fundamentet i ethvert samfunn. For Arbeiderpartiet er det viktig at disse ideologiske holdningene ligger til grunn når vi drøfter forvaltningens framtidige rolle, for forvaltningen skal selvsagt være vårt redskap for å nå målene.
+
+
+
+
+«Offentlig sektor – et spørsmål om tillit» er overskriften på statsrådens redegjørelse. Her har statsråden et svært viktig poeng. For alle oss som er tilhengere av å sikre velferdssamfunnets framtid, er denne tilliten en forutsetning, for uten at vi klarer lå skape tillit mellom den offentlige forvaltningen og det enkelte samfunnsmedlem, vil vi ikke lykkes. Dersom folk ikke har tillit til forvaltningen, vil det tvinge seg fram andre tilbud enn de offentlige. Mangel på tillit vil bryte ned respekten for både forvaltningen, lover og regler samt offentlig planlegging, og vil til sist true vårt demokrati. I redegjørelsen kom statsråden tilbake til dette poenget da hun sa:
+
+
+
+
+«Tillit bygges ved at forventninger avklares og deretter innfris.»
+
+
+
+
+Ja, det er i sannhet ord i rett tid fra en regjering som uten tvil har satt norgesrekord i manglende innfrielse av forventninger den selv og dens partier skapte. Vi må ikke glemme at også vi politikere, enten vi er på Stortinget eller i kommunestyret, oppfattes som representanter for forvaltningen, noe vi vitterlig også er. Det er vi som legger premissene for forvaltningens arbeid. Det er vi som prioriterer ressursbruken, og det er vi som til sjuende og sist står ansvarlig for at det blir samsvar mellom liv og lære.
+
+
+
+
+Tillit mellom velgerne og oss politikere er derfor også av vital betydning. Dersom vi svikter, skapes politikerforakt, og vi reduserer den deltakelsen vi alle ønsker skal være så bred som mulig, noe som også var en viktig ingrediens i statsrådens redegjørelse. På denne bakgrunn støtter jeg sterkt opp om utsagnet fra vår nye administrasjonsminister, men tar det samtidig som en ny erkjennelse fra regjeringspartiene, for hun har så rett, så rett.
+
+
+
+
+Da jeg hørte redegjørelsen, kunne jeg ikke unnlate å tenke på hvilke angrep Arbeiderpartiet ville blitt utsatt for hvis den hadde kommet fra oss. Tidligere statsråd Totland ble f. eks. kritisert for å ha lagt altfor stor vekt på begrepet omstilling. De samme kritikerne går nå, i regjeringsposisjon, lenger enn noen tidligere har gjort.
+
+
+
+
+Dagens statsråd viste bl.a. til at utviklingen innenfor forvaltningen de siste 10-15 år har vært preget av overgang til nye tilknytningsformer for offentlig virksomhet, og at muligheten for direkte styring er blitt mindre. Med tanke på tidligere debatter her i salen er det forunderlig at Regjeringens eneste konklusjon er at denne utviklingen bare vil fortsette. Jeg går ut fra at også Senterpartiet nå er fornøyd med at Regjeringen ikke vil foreta seg noe på dette området.
+
+
+
+
+Når det gjelder omstilling, sa statsråden bl.a. følgende:
+
+
+
+
+
+
+
+«Om vi ikke foretar betydelige endringer i og fornyelse av offentlig forvaltning, står vi dermed i fare for å møte morgendagens problemer med dagens løsninger.»
+
+
+
+
+Også her kan vi fastslå at regjeringspartiene har kommet til en ny erkjennelse. Ja, jeg sitter faktisk med det inntrykket at ingenting ligger fast lenger. Alle må være forberedt på at det vil bli satt spørsmålstegn ved absolutt alt. Samtlige steiner skal løftes minst én gang. Statsråden peker på en rekke forhold som må under lupen – og la meg understreke: 
+
+viktige 
+
+forhold. Ting må kanskje gjøres annerledes, og de må kanskje gjøres av andre. Jeg sier bevisst kanskje, fordi redegjørelsen var nærmest kjemisk fri for konklusjoner og svar. Alt henger på en måte i luften, og for forvaltningen må den fortone seg som en formidabel usikkerhetsfaktor. Ikke minst gjelder det formuleringene om og understrekingen av behovet for konkurranseeksponering av offentlig sektor. Ja, en av overskriftene i trykksaken heter faktisk: «Åpen for å omdefinere statens rolle».
+
+
+
+
+Redegjørelsen reiste for øvrig en serie interessante og viktige spørsmål og problemstillinger, men gav, som sagt, svært få svar utover det å sette ned utvalg.
+
+
+
+
+Statsråden er også opptatt av informasjonsteknologien, at den skal komme alle til nytte, og at det ikke må oppstå nye informasjonskløfter mellom de som kan benytte teknologien, og de som ikke kan. Hun understreket også flere ganger behovet for kompetanseheving, nok et svært viktig forhold som Arbeiderpartiet kan gi sin fulle støtte til. Men i motsetning til Regjeringen har vi foreslått at noe må gjøres. Vi har krevd at Regjeringen utarbeider en plan for kvalitetsheving i skolen, bl.a. når det gjelder datamaskiner og etterutdanning av lærere. Vi har også bedt om at Regjeringen legger fram årlige tilstandsrapporter for å måle om det blir forbedringer. Vi har bak oss en tiårsperiode med satsing på skolen i regi av Arbeiderpartiet. Denne satsingen må fortsette.
+
+
+
+
+Når det gjelder påpeking av problemstillinger og ideelle forutsetninger, vil nok mange kunne si at redegjørelsen var god. Men som grunnlag for en meningsfull debatt om løsninger burde vi fått noe langt mer konkret å forholde oss til.
+
+
+
+
+Når Regjeringen f. eks. forventer at forvaltningen skal bidra aktivt til å fremme en demokratisk utvikling av samfunnet, burde statsråden også sagt konkret hvordan hun ser for seg at det skal oppnås. Det er ikke nok å peke på honnørord som åpenhet, medvirkning, service, likebehandling, tjenestekvalitet og respekt for enkeltmennesket. Altfor ofte ser vi hvor vanskelig det er å leve opp til disse idealene. Når det gjelder begrepet åpenhet, demonstrerer f. eks. Kommunaldepartementet at Regjeringen har en jobb å gjøre når det gjør sitt ytterste for å hemmeligholde generelle retningslinjer for fordeling av tilskuddsmidler til distriktsformål.
+
+
+
+
+La meg presisere at jeg ikke hadde ventet meg fasitsvar på alle spørsmålene, men når problemstillingene reises, burde vi fått noen refleksjoner fra statsråden om hvilke løsninger hun ser for seg som aktuelle. Her er et konkret eksempel. Hun sier: 
+
+
+
+
+
+
+
+«Bedre og bredere deltakelse i den politiske prosessen er også nødvendig for å få til en bedre integrasjon av forskjellige grupper i et stadig mer variert og sammensatt samfunn.» 
+
+
+
+
+Da savner jeg tiltakene – i hvert fall stikkordsmessig. Jeg er nemlig så enig med statsråden når det gjelder behovet både for integrasjon og for å forhindre dannelsen av subkulturer og at grupper faller utenfor det øvrige samfunnet. Jeg er spesielt glad for at statsråden er opptatt av dette, fordi vi her vil stå overfor en av våre aller største utfordringer. Men hvilke politiske og praktiske grep ser hun for seg at vi bør ta? For ikke å spørre: Hvilke grep vil Regjeringen ta?
+
+
+
+
+Svaret på dette og andre spørsmål vil være helt avgjørende for hvilken samfunnsutvikling vi får, og avgjørende for om vi skal vinne kampen for velferdssamfunnet og fellesskapsløsningene.
+
+
+
+
+ Jeg må si redegjørelsen fra statsråden var meget interessant. Fremskrittspartiet finner klare kjennetegn i det som ligger i redegjørelsen, på det vi har lagt vekt på i tidligere sammenhenger.
+
+
+
+
+Regjeringen ønsker et levende demokrati, hvor borgerne skal kunne påvirke sin hverdag og framtid og aktivt delta i beslutningsprosessen på alle plan i samfunnet. En slik målsetting skaper selvsagt store utfordringer med dagens forvaltning, som er uoversiktlig og forskjellig organisert. Man kan også si at dagens forvaltning er ineffektiv med en sammenblanding av roller som på en måte har ansvarspulverisering som kjennetegn. Og det er klart at Regjeringen gjennom denne redegjørelsen og alle de utvalg som den har satt ned, har laget store planer. Det er nok å nevne handlingsplan for å sikre økt rekruttering av innvandrere til statsforvaltningen, prosjektet «Norge 2030», fordelingsutvalg, arbeidsutvalg for å utrede konkurranseeksponering, arbeidsgruppe for å utvikle et helhetlig, brukervennlig og pålitelig system for offentlig plikt- og rettighetsinformasjon og offentlige servicekontorer. Det er noe av det som er nevnt i redegjørelsen.
+
+
+
+
+Fremskrittspartiet har tidligere tatt til orde for en gjennomgripende forvaltningsreform som klargjør ansvarsfordelingen mellom dem som fastsetter lovene, reglene, forskriftene og instruksene på den ene siden, de som administrerer disse på den andre siden, de som produserer tjenestene på den tredje, og til slutt de som fører tilsyn med at lover, regler og forskrifter følges. Dette er av sentral betydning for en effektiv, moderne og rettferdig forvaltning. Poenget er at dagens forvaltning er opprettet uten en klar, overordnet, fastsatt modell. Forvaltningen er bygd opp på de enkelte fagområdene og ansvarsområdene basert på en selvstendig historisk adhocvurdering, uavhengig av hva andre forvaltningsområder har gjort ved tilsvarende problemstillinger vedrørende ansvarsforhold. Institusjoner som en departementsavdeling, et direktorat, en etat eller et tilsyn kan derfor ha forskjellige ansvars- og oppgaveforhold fra fagsektor til fagsektor. Finansieringen av arbeidet til de forskjellige departementsavdelinger, direktorater, etater og tilsyn varierer også sterkt, fra helt selvfinansierende organisasjoner til organisasjoner som i sin helhet er finansiert over statsbudsjettets utgiftsside, selv om det ikke eksisterer noen begrunnelse for forskjellene. 
+
+
+
+
+Et eksempel på ulikheter er f.eks. at Arbeidsdirektoratet har klart definerte oppgaver med eget styre og stor uavhengighet av sitt departement, mens Statens forurensningstilsyn opptrer både som uavhengig direktorat og som en slags politisk departementsavdeling. Kredittilsynet har direktoratsoppgaver ved at det lager forskrifter og retningslinjer som det selv utfører tilsynet med. Helsetilsynet utfører også selvstendige direktorat/departementspolitiske avgjørelser og fører tilsyn, mens Konkurransetilsynet er et rent tilsynsorgan. De rettslige bestemmelsene varierer i stor grad fra fagområde til fagområde.
+
+
+
+
+Fremskrittspartiet mener at en felles modell, hvor det i selve benevnelsen på organet blir klart hvilke oppgaver det har, må være fornuftig. Like oppgaver og funksjoner for alle departement, direktorat, etater og tilsyn, med det ansvarsforhold disse har seg imellom og i forhold til f.eks. politiske myndigheter og domstoler, må være formålstjenlig og avgjørende for å skape oversiktlighet og forutsigbarhet. 
+
+
+
+
+Videre mener Fremskrittspartiet det ville være en fordel om det var et regelverk for hvilke tjenester et direktorat og et tilsyn skal kjøpe inn fra et marked, og hvilke tjenester man kan produsere selv. I et fast forvaltningssystem vil alle andre aktører og befolkningen i utgangspunktet være kjent med hvilken instans som utfører visse oppgaver, og hvilket organisasjonsledd som har ansvaret. Den uoversiktligheten som nå hersker, vil kunne bli avløst av et ordnet og oversiktlig system, noe som i seg selv vil styrke rettssikkerheten og folks muligheter til å orientere seg i det offentlige maktapparatet og byråkratiet. 
+
+
+
+
+Som jeg tidligere har sagt, er norsk forvaltning i dag uoversiktlig, forskjellig organisert og lite effektiv med delvis sammenblanding av roller og på en måte ansvarspulverisering. Fremskrittspartiet mener derfor at det må gjennomføres en overordnet forvaltningsreform i tråd med innstillingen fra Modalsli-utvalget av 15. mai 1970 og Fremskrittspartiets mindretallsinnstilling fra Innst. S. nr. 239 for 1975-76, som ble videreført av Fremskrittspartiet i Innst. S. nr. 63 for 1992-93. Hovedinnholdet i en slik reform ville vært å gjennomføre en total omorganisering etter følgende prinsipper: 
+
+
+
+
+
+
+
+
+
+
+Et departement utformer lover, regler og forskrifter for et område som sekretariat og rådgiver for den ansvarlige statsråd, mens det å sette en vedtatt politikk ut i livet, skal være en oppgave for direktorater utenfor departementet. 
+
+
+
+
+
+
+
+Et direktorat står for den daglige driftsgjennomføring, oppfølging og iverksetting av den vedtatte politikk og utformer nærmere detaljforskrifter og bestemmelser for dem som utfører en virksomhet eller produserer varer og tjenester, og behandler konsesjons- og autorisasjonsordninger. 
+
+
+
+
+
+
+
+En etat står for utførelsen av visse oppgaver i henhold til lover, regler og forskrifter fra direktoratet samt de spesielle oppgaver etaten er tildelt. 
+
+
+
+
+
+
+
+Den kontrollerende virksomheten legges til et uavhengig tilsyn som påser at alle aktører følger lover, regler og forskrifter. Slike statlige tilsyn gjøres selvfinansierende ved avgifter pålagt den næring eller virksomhet tilsynet er satt til å kontrollere, og til dels bestemte sanksjonsmuligheter overfor de som bryter lover, tillatelser, konsesjoner og forskrifter m.m. 
+
+
+
+
+Fremskrittspartiet mener en organisering etter disse prinsippene vil medføre at alle departementer får samme type oppgaver og ansvar. Alle direktorat får samme type oppgaver og ansvar, alle etater får samme type oppgaver og ansvar, og alle tilsyn får samme oppgaver, ansvar og sanksjonsmidler, enten fagområdet dreier seg om landbruk, finans, fiskeri, natur, miljø, olje, transport, handel, næringsmidler, servicenæring eller skoler m.m. 
+
+
+
+
+Vi vet at det i andre land også er egne forvaltningsdomstoler, forfatningsdomstoler og andre særdomstoler. Fremskrittspartiet mener at det burde undersøkes hvilke erfaringer andre land har med slike domstoler, og deretter vurdere om det kan være fornuftig å innføre slike i det norske styrings- og domstolssystemet. Det kan f.eks. være at en egen forvaltningsdomstol uten ventelister og køer, med ekspertise på nettopp forvaltningslov og praksis, kan fatte raske avgjørelser og dermed få forvaltningssaker raskt tilbake på rett kjøl uten at nyttig tid er blitt kastet bort. En slik domstol vil også virke forebyggende på en forvaltning med sterk indre lojalitet også mellom overordnet og underordnet ledd slik at ankesaker sjelden vinner frem. En kritisk og uavhengig forvaltningsdomstol som i utgangspunktet har forståelse for synspunktene til menigmann, vil kunne bedre kvaliteten i våre forvaltningsorgan og etater. 
+
+
+
+
+Til sist: Den politiske delen er viet lite oppmerksomhet i redegjørelsen. Personlig hadde jeg gjerne sett at Regjeringen og statsråden hadde kikket på dobbeltrollene som eksisterer i det politiske miljøet. Vi vet at mange av oss i huset her som overordnet politisk myndighet også deltar i underordnede politiske organer, slik som fylkeskommune, fylkesting og kommunestyre. Jeg skulle gjerne sett at Regjeringen og statsråden hadde sett mer på den problematikken, for det er på en måte litt merkelig at vi skal ha et så stort omfang av politikere som har tredelte roller.
+
+
+
+
+ I Høyre har vi sett frem til statsrådens forvaltningspolitiske redegjørelse med forventning. Vi hadde håpet at denne redegjørelsen skulle peke ut i hvert fall noen områder der Regjeringen hadde funnet det mulig å rasjonalisere og forenkle forvaltningen, og noen konkrete tiltak for å fjerne dobbeltadministrasjon der forvaltningsnivåene overlapper hverandre. Men vi ble dessverre skuffet. Visst er det så at statsrådens redegjørelse inneholder programformuleringer som kunne vært hentet ut av vårt partiprogram, og dersom redegjørelsen hadde gitt oss en handlingsplan med tidsfrister for gjennomføring av dette, ja, da skulle vi selvfølgelig hilst det velkommen med glede. Men så er ikke tilfellet. Redegjørelsen bærer mer preg av å være et valgprogram enn en handlingsplan. Men fra dem som sitter i posisjon til å gjennomføre valgløfter, venter vi noe mer enn det vi har fått. 
+
+
+
+
+Høyre er opptatt av at vi skal gjøre det viktigste først, og da må vi prioritere hvordan statens midler skal brukes. Ikke minst derfor har vi ønsket en fortgang i arbeidet med å modernisere og forenkle den offentlige forvaltning.
+
+
+
+
+Statsråden henviser til at Oppgavefordelingsutvalget skal avgi sin innstilling om vel ett år.Og jeg undres da om dette er det samme oppgavefordelingsutvalget som statsråd Løwer henviste til da vi høsten 1997 etterlyste en grenseoppgang mellom fylkeskommunens og fylkesmannens oppgaver, nettopp for å forenkle og rasjonalisere den offentlige forvaltning. Eller er det det strukturutvalget for modernisering av offentlig sektor som et flertall i Stortinget vedtok sist høst, nettopp fordi dette arbeidet synes å gå for tregt og behovet for rasjonalisering og modernisering er påtrengende? Men det er altså først om vel ett år vi kan vente en innstilling fra utvalget. Skal så denne ut på høring før det skjer noe mer, eller vil de berørte parter være tilstrekkelig hørt under arbeidets gang? Legger en opp til at en mer rasjonell offentlig forvaltning kan realiseres i inneværende stortingsperiode, eller vil dette bli enda et eksempel på at den gang da Fanden fikk i sinn at intet skulle skje, da satte han i verden inn den første komite?
+
+
+
+
+I Høyre begynner vi nå å bli kraftig utålmodige. Offentlig forvaltning eser ut over alle grenser, og effektivitet er ikke akkurat vår første assosiasjon til begrepet «offentlig forvaltning». Og det er synd for de ansatte, for det menigmann opplever som ineffektivitet i forvaltningen, skyldes i stor grad den overveldende mengde forskrifter som forvaltningen må forholde seg til, og som gjør selv den enkleste sak til en komplisert affære. I tillegg kommer stadig nye, unødvendige lover og forskrifter som ingen har bedt om, men som øker forvaltningens arbeidsbyrde. Påtrengende oppgaver blir lagt til side til fordel for kontrolloppgaver, som denne regjeringen prioriterer. Eksempelvis var de store sakene i fjor å få vedtatt båtregisterloven og Brustad-buloven, den siste forlanger endatil familieministeren skal gis prioritet på kontrollsiden.
+
+
+
+
+«Forvaltningen synes å fungere godt», sier statsråden. Ja, gjør den egentlig det? Møter vår forvaltning brukerne med den service og den respekt som skal kjennetegne et godt forvaltningsapparat? Er saksbehandlingstiden tilfredsstillende? Har forvaltningen evnen til å prioritere? I VG 5. mai står det å lese at myndighetene siden 1993 har «forsømt tilsynet med mer enn tusen barnevernsbarn» i institusjon. Synes statsråden at dette er tilfredsstillende prioritering i fylkesmannsembetene?
+
+
+
+
+Da Ot.prp. nr. 61 for 1997-98 om barnevernet var til behandling i vår, tok Høyre opp den vilkårlighet som råder i barnevernet, og som departementet selv pekte på i sin saksutredning. Vi ønsket å legge inn kvalitetskrav i forhold til dem som ble plassert i institusjon. Vi ønsket trygghet for at tiltak skulle bygge på tverrfaglig god kompetanse, og vi ønsket høyere kvalitet på evalueringen før tiltak ble endret. Dette ble avvist av Barne- og familieministeren og regjeringspartiene. 
+
+
+
+
+Statsråden peker på at det i praksis kan være konflikt mellom hensynene til åpenhet, rettssikkerhet og effektivitet, og at denne regjeringen vil ha åpenhet som det overordnede mål. Med all respekt for det arbeidet som gjøres for et åpnere innsyn i forvaltningen, det må aldri gå på bekostning av rettssikkerheten – aldri.
+
+
+
+
+Når det gjelder barnevernet, er dets arbeid i sin karakter skjermet mot åpent innsyn, men departementet vet at det i forhold til våre svakeste går på rettssikkerheten løs. Men i dette departementet er det tilsynelatende viktigere å kontrollere søndagshandelen enn barnevernet. Barn kan plasseres hvor som helst – bare ikke brødene får plassangst av for store lokaler.
+
+
+
+
+Og er det tilfredsstillende forvaltning når den vanlige borger får straffeskatt dersom selvangivelsen kommer én dag for sent, mens ligningskontorene kan oversitte klagefristbehandlingen så lenge det måtte passe dem? Igjen – jeg etterlyser rettssikkerhet som prioritert område, og jeg savner en prioritering av offentlige oppgaver.
+
+
+
+
+Under fylkesmannsembetene var det 1. mars 1998 1 800 ansatte. Av disse var en drøy tredjedel, 639, knyttet til landbruksavdelingene og 375 til miljø. Hvor store ressurser finner statsråden det forsvarlig å bruke på å overprøve salgsavtaler mellom kjøper og selger av privateide små jordlapper, eller til konsesjonsbehandling ved arveovertagelse av små gårdsbruk? Når fylkesmannen melder fra om at lovpålagte kontrolloppgaver ikke utføres på grunn av ressursmangel, er det ikke da på tide å se om de ressurser som tildeles disse embetene, prioriteres riktig? Er det virkelig behov for at drøye 56 pst. av fylkesmannens ressurser benyttes på landbruk og miljø? Er det viktigere å kontrollere hvor mange netter en eier overnatter på et konsesjonsbelagt småbruk, enn å kontrollere hvordan barn under offentlig omsorg lever?
+
+
+
+
+Denne regjeringen har ved flere anledninger pekt på behovet for å styrke lokaldemokratiet, at beslutninger fattes nærmest mulig dem det angår. Det er Høyre helt enig i. Men mener Regjeringen det? Statsråden sier at forvaltningen skal bidra til en demokratisk utvikling, og et av de viktige spørsmålene i den sammenheng er hvordan en også ved forvaltningspolitiske virkemidler kan styrke politiske beslutningers legitimitet. Det høres flott ut, men Regjeringens handlinger undergraver tilliten til hensiktene. I Rogaland teller fylkesmannens avdeling for landbruk og miljø ca. 70 mann. Til tross for denne velkvalifiserte, overdimensjonerte staben, underkjenner departementet den faglige ekspertise som er lagt til grunn for et politisk lovlig fattet gjennomarbeidet reguleringsvedtak i Stavanger kommune, og nekter å godkjenne reguleringsplanen. Er det ved å la sentralforvaltningen overprøve lokalforvaltningen at denne regjeringen vil styrke demokratiet?
+
+
+
+
+Høyre savner samsvar mellom ord og handling også på andre områder. På flere steder i redegjørelsen pekes det på sannsynligheten for at vi vil få en utvikling hvor enkelte grupper ansatte vil kunne ønske en løsere tilknytning til arbeidsgiver, for selv i større grad å kunne forme sin arbeidsdag. For å kunne konkurrere om ettertraktet arbeidskraft må også staten kunne svare på slike utfordringer. Det er vi i Høyre helt enig i, men vi undres på om dette fra statsrådens side bare er ord. Det offentlige har kjempeproblemer med å tiltrekke seg kvalifisert arbeidskraft i helsevesenet, og enkelte sykehus står i fare for å måtte stenge avdelinger. Samtidig vet vi at vi har 10 000 sykepleiere i reserve. De jobber ikke med det de er utdannet for, men det ville de muligens kunne tenke seg dersom de fikk en løsere tilknytning til arbeidsgiver. Men til tross for dette vil Regjeringen skille ut helsepersonell og ikke tillate privat arbeidsformidling og utleie av arbeidskraft for disse. Her er det en motsetning mellom den virkelighetsforståelse som beskrives i redegjørelsen, og Regjeringens faktiske handlinger.
+
+
+
+
+Men dette ser vi jo også på andre områder. Opprydding i skjemaveldet var en fanesak for Regjeringen, og også statsrådens redegjørelse peker på dette som et prioritert område. Men under denne regjeringen har skjemaveldet økt – ikke avtatt. I statsråd Sponheims første år økte næringslivets skjemabelastning med 94 000 timeverk, ifølge Næringslivets Ukeavis. I 1998 var næringslivet pålagt å fylle ut 40 flere skjemaer enn året før, og jeg vil jo anta at den offentlige forvaltning får tilsvarende økt arbeidsbelastning med å kontrollere alle disse skjemaene.
+
+
+
+
+Nye forskrifter kommer på løpende bånd. Ifølge Norsk Lovtidend kom det i fjor 1 526 sentrale forskrifter, og pr. 9. april i år var det kommet 305 nye. Vi kan ikke møte morgendagen med å legge stadig nye områder under offentlig kontroll og registreringsplikt. Skal vi få et enklere Norge, må det settes grenser for hva det offentlige skal bry seg med, men det ser det ikke ut til å være noen ambisjoner om i denne regjeringen. Tvert imot, både Voksenåserklæringen og statsrådens redegjørelse slår fast at vi i Norge skal ha en stor offentlig sektor. Men er det ingen varselklokker som ringer når den vedlagte statistikk viser at andelen ansatte i offentlig sektor stiger jevnt og trutt, fra hver fjerde arbeidstaker i 1978 til hver tredje arbeidstaker i 1997? Når stadig flere arbeidstakere blir offentlig ansatt, betyr det stadig færre til å utføre det verdiskapende arbeid som vi alle tross alt er avhengig av. Det burde bekymre flere enn Høyre. Offentlig sektor var ment å trygge vår velferd, men i dag har offentlig sektor fått et omfang som truer velferden. Helsevesen og skole – statens kjerneområder – blir stadig mer byråkratisert. Skjemaveldet truer tjenesteproduksjonen. Arbeidstiden går med til møter og papirarbeid istedenfor å produsere tiltrengte tjenester, og denne problematikken er ikke engang tema i den forvaltningspolitiske redegjørelse. Derfor er Høyre skuffet.
+
+
+
+
+ Representanten Stolt-Nielsen berørte i innledningen av sitt innlegg temaet om retningslinjer for nedsetting av komiteer. Presidenten vil understreke at når man bruker sitater, vil det være en fordel om man også inntar hvor sitatet kommer fra.
+
+
+
+
+Tidsnød, president!
+
+
+
+
+ Presidenten har merket seg at nøden er stor, men forhåpentligvis ikke tiltakende.
+
+
+
+
+ Den norske forvaltninga har gjennom dei 200 åra ho har eksistert, gjennomgått store endringar. Nå går me inn i kunnskaps- og informasjonssamfunnet. Me er ved eit nytt tidsskilje. Aktive og innsiktsfulle borgarar vil forventa ei forvaltning som er open og tilgjengeleg, som gjer det mogleg med innsyn og deltaking, og som møter enkeltmennesket med respekt.
+
+
+
+
+Senterpartiet meiner at nærleik er eit hovudprinsipp for å nå dette målet. Kjennskap, kunnskap, oversikt og tilhøyring gjer at ein lettare veit kva saka gjeld, og dermed lettare kan fatta dei rette vedtaka. Dette vil i tillegg binda folket saman. Diskusjonen som nå har pågått i lengre tid om å slå saman kommunar og fylke til store einingar, vil klart verka negativt inn på dette og skapa framandgjering. Dersom me meiner noko med demokrati og deltaking, må me gå imot dei store endringane her.
+
+
+
+
+Senterpartiet ønskjer å ta heile landet i bruk. Som eit ledd i dette må staten gå føre for å desentralisera verksemda si. Utflytting av offentlege aktivitetar kan hjelpa til med å laga skapande miljø, samstundes med at lokalsamfunnet får tilført auka kunnskap. Dette kan vera både nye oppgåver og overføringar av nåverande funksjonar frå sentralt til lokalt nivå, altså så nær brukarane som mogleg. Her er det viktig å utvikla nye løysingar for samhandling og oppgåveløysing på tvers av geografiske grenser og forvaltningsnivå. Dette kan medføra ei positiv utvikling til næringsfattige strok av landet. Eg ser fram til vidare handsaming av dette etter at den nedsette embetsmannsgruppa har kome med sitt forslag.
+
+
+
+
+Eg tykkjer det er positivt at Regjeringa nå går inn for å innføra offentlege sevicekontor. Slike kontor vil kunna berga mange lokalmiljø frå fråflytting, særleg av unge folk. Me veit at den dagen skulen, postkontoret, bensinstasjonen og butikken vert nedlagde, når ein mistar kvardagsfunksjonane ein hadde i nærmiljøet, då er ofte vegen ikkje lang til at tanken om flytting melder seg. Men servicekontor må likevel ikkje verta eit vikarierande motiv for nettopp å leggja ned posten, likningskontoret osv., for då vil det ha motsett verknad – då verkar det sentraliserande.
+
+
+
+
+Ei undersøking frå Møreforsking, synte at nærbutikken var mest like viktig som grendeskulen for å hindra utflytting frå ei utkantbygd. Når ein i tillegg veit at talet på butikkar har vorte sterkt redusert dei siste åra, er det på høg tid med mottiltak. Elles finst det positive erfaringar frå rundt om i landet der ein har prøvt seg på samarbeid. Eg kjenner t.d. til at i Namsskogan har folkebiblioteket samlokalisert seg med trygde- og sosialkontoret og kommunal informasjonsteneste. I tillegg har biblioteket, saman med lokal butikk og post, synleggjort sin eigen eksistens. Sidan desse bibliotekfilialane er plasserte i butikkane i bygda, har dei vore tilgjengelege i heile opningstida til butikkane, altså ca. 70 timar i veka. Dette har igjen synt kva som kan vera mogleg å gjera i ein vidstrakt kommune med svært spreidd busetjing. Dette er eit godt døme på noko ein har fått til. Derfor må det vera rett ikkje å setja detaljerte og snevre grenser for kva offentlege servicekontor skal bestå i, og korleis dei skal drivast. Her er det vel berre fantasien som kan setja grensene for kva ein kan få til når berre viljen er til stades.
+
+
+
+
+Ei arbeidsgruppe som nå ser på dette, skal òg tilrå løysingar innan februar i år 2000. Dette ser eg fram til å få vera med og drøfta vidare.
+
+
+
+
+Elles vil eg gjerne få kommentera ein statistikk som følgde med statsråden si utgreiing. Når det gjeld totale offentlege utgifter i prosent av bruttonasjonalprodukt, som t.d. Inger Stolt-Nielsen frå Høgre i dag kritiserte, syner det seg at Noreg klart har dei lågaste utgiftene av alle dei nordiske landa, med 10-18 pst. under nivået i dei andre landa. Dette gjeld òg i høve til andre europeiske land som vi kan samanlikne oss med, så nær som Storbritannia, som ligg litt under oss. Dette kan gi oss verkeleg grunn til ettertanke.
+
+
+
+
+ Rammene for offentlig forvaltning og den offentlige forvaltninga utvikler seg ikke som følge av en naturlov, men som resultat av hvilke krefter som er på offensiven, og som følge av vedtak, både i storting og kommunestyrer, og særlig av gutta i de lukka rom i finansinstitusjoner og konsern. Utviklinga er altså menneskeskapt. 
+
+
+
+
+Det går som en rød tråd gjennom hele den forvaltningspolitiske redegjørelsen at vi skal tilpasse oss utviklingstrekka. Fordi utviklinga er styrt av mektige kapitalkrefter som sprenger nasjonalstatens rammer og opptrer friere og friere på et uregulert verdensmarked, får vi altså et press på offentlig sektor i alle land. Resultatet er også press på kommuneøkonomien, som vi ser resultatene av nå. Fra NHO og høyrekreftene kjøres det systematiske og massive kampanjer for omgjøring til AS, fristilling av kommunale og statlige selskap, for privatisering av offentlig sektor, for konkurranseutsetting, og nå altså det nye ordet, som vi lærte i redegjørelsen, konkurranseeksponering.
+
+
+
+
+Det er sterke privatøkonomiske interesser som ser offentlig sektor som et viktig ekspansjonsområde – nye markeder skal erobres, der det er mulig å oppnå stor avkastning. Resultatet er større forskjeller, men også at bedriftsøkonomisk tankegang sniker seg inn i offentlig sektor, der hver enhet skal lønne seg – og det er slett ikke den beste ramme for helhetstenking – og der det er krav om effektivitet i betydningen løp fortere, ta unna flere pasienter eller brukere, stapp flere unger inn i klassene og barnehagene. Dette fører til et enormt press på forvaltningas viktigste ressurs, nemlig menneskene. Når statsråden har som ambisjon å tilpasse seg utviklinga, ikke styre den så det er mulig å få mer ressurser til offentlig sektor, en offentlig sektor der folk har tid til å gjøre en bedre jobb, legges det altså til rette for ei høyredreining av forvaltningspolitikken. Derfor er Fremskrittspartiet såre fornøyd.
+
+
+
+
+SV vil forsvare en sterk offentlig sektor, en sterk velferdsstat og sterke velferdskommuner, fordi dette er den beste måten å organisere samfunnet på. Vi vil ha lik rett til deltakelse i samfunnet, uavhengig av kjønn, alder, etnisk bakgrunn eller økonomiske og sosiale ressurser. Bare en sterk offentlig sektor kan sikre denne retten, og sikre alle lik tilgang til velferdstjenester ut fra behov. Den offentlige forvaltninga er det beste redskapet for rettferdig fordeling. Markedet er en elendig fordeler. Derfor vil SV sammen med fagbevegelsen, sammen med brukere som er borgere og ikke kunder, jobbe for en bedre offentlig sektor og mot privatisering. Vi er mot at demokratisk, folkevalgt styring svekkes ved at avgjørelser i økende grad overføres til markedet, til de lukka styrerom, der offentlighet og åpenhet ikke står særlig høyt. Et forsvar for offentlig sektor betyr ikke at vi er såre fornøyd med tingenes tilstand. Tvert imot betyr det å forsvare offentlig sektor å se med kritiske øyne på tjenestene. 
+
+
+
+
+Jeg er helt enig med statsråden i at serviceholdning og respekt for det enkelte menneske skal være forvaltningas kjennemerke. Alle skal kunne beholde verdigheta si i møte med forvaltninga. Vi vet at det ikke alltid er sånn. Altfor mange ganger er folk blitt møtt med en A4-holdning og ekstrem regelstyring. Når vi hører om slike opplevelser, må vi spørre om hvorfor. Hvorfor skjer det? Sjølsagt har det noe med holdning å gjøre. Men kravet om effektivitet i betydningen gjør ting fortere, fremmer ikke det gode møtet mellom enkeltmenneske og den som skal hjelpe. Når nå serviceerklæringen holdes opp som et middel for å nå målet om en bedre forvaltning – og det kan kanskje være veldig bra – må den ikke inneholde et standardkrav om behandlingstid. Mennesker skal ha hjelp ut fra forskjellige behov, og de har krav på individuell behandling med ulik bruk av tid. De har krav på helhetlige tilbud, at ulike etater virkelig samarbeider, fordi det er hele mennesker som har behov for tjenester eller hjelp. 
+
+
+
+
+Som leder i en kommune har jeg tenkt en del over hvordan vi skal få til dette samarbeidet over etats- og forvaltningsnivå som trengs for at den enkeltes møte med offentlig forvaltning skal bli bedre. Og jeg har bl.a. funnet ut at det overordna kravet om streng budsjettdisiplin i den enkelte etaten eller ved det enkelte kontoret, gjør at de som trenger mest hjelp, blir skjøvet mellom kontora – svarteperspill. Vi må gi de ansatte rom og muligheter til å samarbeide og til de nødvendige omstillinger ved å satse på de ansattes kreativitet, erfaring, kompetanseutvikling og bedre organisasjons- og ledelsesstrukturer. På denne måten kan vi fornye og forsvare offentlig sektor.
+
+
+
+
+ Venstres grunnholdning er at forvaltningen er eid av borgeren, og den er et redskap for borgeren. Vårt slagord «Du er sjefen!» beskriver ganske presist hva partiets grunnholdning er.
+
+
+
+
+Jeg må si at mitt møte med forvaltningen etter at jeg kom på Stortinget gjør at jeg vil begynne med å gi en kompliment til den norske forvaltning. Jeg er imponert over den grundighet, uavhengighet og ansvarsfullhet den viser i sitt arbeid. Men «sjefen» begynner å få problemer fordi det systemet som forvaltes, etter hvert er blitt så komplisert at borgeren føler stadig større avmakt overfor systemet. Jeg tror SVs representant her sa at «alle skal kunne beholde verdigheta si i møte med forvaltninga». Det er en annen måte å si det på. Men skylda for dette ligger ikke hos forvaltningen, den ligger her i salen – hos oss som er lovgivere. Det er vi som går ut fra at samfunnet er så komplisert at vi derfor trenger kompliserte regler til å styre det. Det er en forkvaklet holdning.
+
+
+
+
+Reguleringene har vært begrunnet med hensyn til likhet og forutsigbarhet, men dessverre har det blitt stadig flere detaljreguleringer og forsøk på millimeterrettferdighet. Konsekvensene av dette er at vi bruker stadig mer av ressursene våre på å kontrollere om de reguleringene vi har fastlagt, blir fulgt, i stedet for å bruke ressurser på å løse oppgaver.
+
+
+
+
+Vi i Venstre ønsker en enklere og mer åpen forvaltning. En enklere forvaltning handler om å gjøre forvaltningen effektiv, slik at det offentlige kan produsere flest mulig tjenester for hver krone. Og i diskusjonene om vi skal ha en sterk offentlig sektor eller ikke, mener jeg at svaret fra Venstres side er helt selvfølgelig: Vi 
+
+skal 
+
+ha en sterk offentlig sektor, men det utelukker naturligvis ikke at vi kan be om produkter fra andre. Det er altså ikke dermed sagt at den offentlige sektor skal stå for all produksjon av tjenester. Det er opp til oss politikere å sørge for at kravspesifikasjonene blir så pass klare at de ikke representerer noen fare for verken det enkelte individ, de svakeste av oss eller noen andre dersom vi setter ut dette.
+
+
+
+
+Det som er problemet med den jungelen som etter hvert har utviklet seg som en konsekvens av de regler vi vedtar her, er at det er de mest ressurssvake som blir skadelidende. De ressurssterke svinger seg gjennom denne jungelen som om de var Tarzan, og de finner alltid utveier. 
+
+
+
+
+Åpenhet og rettssikkerhet er viktige prinsipper omkring informasjon som angår den enkelte borger. Det er for Venstre en selvfølge at en borger som henvender seg til den offentlige forvaltningen, skal ha rett til å få innsyn i dokumenter som angår borgeren. Han skal også i størst mulig grad ha rett til å bestemme over gjenbruk av informasjon om seg selv. 
+
+
+
+
+Venstre ser det som meget positivt at Regjeringen har tatt initiativ til denne debatten. Og vi synes at den diskusjonen som nå foregår om prinsippene, bærer bud om at det kan bli noen endringer i kursen på den supertankeren som norsk forvaltning er, og «supertanker» er da ment i positiv betydning. Regjeringen har forenkling som hovedmål, men dessverre tar det lang tid før dette synker ned gjennom alle lag i forvaltningen. Men dette er et arbeid som Regjeringen har påbegynt, og jeg er sikker på at vi skal få det til dersom vi får tiden på oss.
+
+
+
+
+Lodve Solholm hadde her teke over presidentplassen.
+
+
+
+
+Statsråden understreket i redegjørelsen at hun både skulle legge vekt på Regjeringens visjoner for forvaltningen og dens syn på rolle og oppgaver i årene framover. Nå skal jeg prøve å unngå å karakterisere denne, men det er grunn til å advare mot en for tendensiøs framskriving av utviklingen på enkelte områder, og et ønske om at forvaltningen kan spille en sterkere rolle på andre områder. 
+
+
+
+
+Statsråden la i redegjørelsen stor vekt på individuelle tilpasninger og en oppmykning av arbeidstaker- og arbeidsgiverforholdet på bakgrunn av den teknologiske utviklingen. Da er det kanskje på sin plass å peke på det kollektive rammeverket vi har i dag, som statsråden var oppsiktsvekkende lite inne på. Offentlig sektor og også forvaltningen er av en slik karakter at det selvsagt må legges vekt på IT, og det offentlige må ha en offensiv politikk på dette området, men å tro at IT vil skape grunnleggende endringer i organiseringen av våre medarbeidere, tror jeg kan være uheldig. Riktignok ser vi fra andre land at dette blir brukt som en brekkstang for å redusere arbeidstakernes innflytelse og å få innført mer fleksible ordninger som svekker deres interesser. Det må ikke bli utgangspunktet for statens personalpolitikk. 
+
+
+
+
+De offentlige arbeidsplassene er av en slik karakter at de i liten grad vil bli sterkt berørt av dette, selv om det også er nødvendig for en så pass stor arbeidsgiver som det offentlige å ha et vel utviklet tilbud for å gi arbeidstakere muligheten til å ta IT i bruk for å organisere sin hverdag bedre. Dersom man tolker statsråden ordrett, får man derimot et inntrykk av at hun bruker dette til å angripe de kollektive rettighetene i det som kan karakteriseres som verste Høyre-tradisjon. Derfor vil jeg understreke at vår holdning er å bidra til at det offentlige er med på å finne løsninger som ivaretar arbeidstakernes interesser også ved slike arbeidsordninger, og jeg vil utfordre statsråden på nettopp dette punktet.
+
+
+
+
+Et beslektet tema som har vært viktig for Arbeiderpartiet i forvaltningspolitikken, er likestilling. Det offentlige er en veldig viktig aktør for å få reell likestilling blant arbeidstakerne, og kanskje spesielt for at de skal oppnå likelønn. Her har staten de senere årene ført en politikk som har fungert rimelig bra, mens det motsatte kan sies om f.eks. kommunene. Arbeiderpartiet er opptatt av at dette er et punkt som det blir fokusert på av arbeids- og administrasjonsministeren også i årene framover, og at hun fortsetter med den politikken som ble ført av Arbeiderpartiets statsråder. Nettopp fordi statsråden ikke valgte å legge noen særlig vekt på dette i redegjørelsen, vil jeg bruke anledningen til å gi henne en sjanse til. Og jeg forutsetter at statsråden da benytter muligheten til å bekrefte at dette også i hennes periode blir en sterkt vektlagt problemstilling.
+
+
+
+
+I et land som Norge vil det offentlige spille en stor rolle både som kapitalbase, som kompetanseinnehaver og som tilrettelegger. På den bakgrunn blir det også litt tafatt å gå inn i en debatt om statens styringsform med det utgangspunkt at staten ikke skal eie, og at privatisering blir det eneste saliggjørende. I et lite land som vårt, med den næringsstrukturen vi har, må nødvendigvis staten være en veldig viktig og moderne deltaker også i næringsutviklingen. Noe annet ville kunne bidra til å gjøre innslaget av utenlandsk eierskap sterkere, noe jeg har fått et bestemt inntrykk av at sentrumsregjeringen ikke har ansett som heldig.
+
+
+
+
+I et innlegg i Dagsavisen i forrige uke, ble det stilt en del betimelige spørsmål som det er nødvendig å få svar på før vi går inn i den privatiseringsdebatten som statsråden inviterte til:
+
+
+
+
+
+
+
+«Hva vil bli bedre? Vil en privatisering gi selskapet en bedre ledelse? Kan en regne med raskere beslutninger og klokere disposisjoner i det øyeblikket selskapet blir notert på børsen? Vil børsnotering utløse intellektuelle og faglige ressurser i selskapet som ellers ikke får anledning til å vokse fram?» 
+
+
+
+
+Dersom svarene på dette mot formodning er at det er ønskelig å privatisere, er det vel absolutt nødvendig med et sterkere engasjement fra statsrådens side. 
+
+
+
+
+Jeg håper at statsråden i dag ikke vil nøye seg med å ramse opp det som er statusen, men også gi signaler om om hun vil og om hun kan bidra til å styre denne utviklingen. Passiv tilpasning har alltid vært høyresidens ønske, og jeg håper at det ikke blir malen for sentrumsregjeringens forvaltningspolitikk. 
+
+
+
+
+Vi behandler i dag redegjørelsen om forvaltningen. For mitt vedkommende gjelder det å se den ifra den menige manns side, hvordan hverdagen oppfattes for dem som skal produsere og skape noe i dette samfunnet, basert på arbeid og maskiner – det være seg at en bruker båt eller gravemaskin, at en sprenger tunneler, bygger garasjer eller hus. Da fortoner bildet seg litt annerledes enn det fortoner seg fra dette huset og fra denne salen.
+
+
+
+
+Min erfaring med forvaltningen er ikke akkurat så strømlinjeformet som den statsråden redegjorde for i sin redegjørelse. Jeg har opplevd trenering av søknader, trenering av behandling. Jeg har en spesiell sak som jeg vil nevne. Jeg har opplevd trenering til og med av Sivilombudsmannen. Ikke en gang han får svar på sine henvendelser til forvaltningen, nettopp med bakgrunn i at det ikke er noen hjemmel i forvaltningsloven for å pålegge saksbehandlingsfrister. Jeg viser til mitt forslag som jeg hadde for en tid siden. Til og med Sivilombudsmannen blir altså neglisjert. Han satte en ti dagers frist for en måned siden til det aktuelle departementet, og har ennå ikke fått svar. 
+
+
+
+
+Vi opplever at skal en starte på en tunnel eller bygge en vei, og det investeres for hundrevis av millioner kr, så dukker det opp en byråkrat som finner en pilspiss, eller noe som likner på en pilspiss, og anlegget blir stoppet. Det koster hundrevis av millioner kr dersom det blir stoppet. Men ved å omgå regelverk og lover kan en greie å få dette i gang igjen og få gjort den samfunnsnyttige innsatsen som det skulle investeres i. Vi opplever at skal en bygge en garasje eller flytte et lite hus, så må en gjennom en papirmølle som er helt enorm. En må ha en stabel med dokumenter og gjennom åtte-ni instanser for å få flyttet et lite naust eller ei lita bu. Det er det folk sliter med i dag.
+
+
+
+
+Hva er så svaret? Jo, det er en serviceerklæring – en serviceerklæring kan en vise til! Da får en flytte bua, da får en sprenge fjellet, da får en grave i veien, da får en pløye marka. Serviceerklæring – et nytt kontor, et servicekontor, må vite! Der kan en gå inn og få løst alle sine problemer! Der sitter det nye byråkrater som skal sile ens initiativer og dele ut serviceerklæringer som en kan legge fram for gravemaskinen, og så er det bare å sette i gang.
+
+
+
+
+Jeg har også et annet felt jeg gjerne vil nevne. Det er fiskerinæringen. Der har vi et system som gjør at forvaltningen er overlatt til forvaltningens frie skjønn. Der er det forvaltningens frie skjønn som får lov til å herje og si og mene akkurat det som den selv synes. Det er et system som vi ikke kan trekke inn for domstolene, fordi domstolene er avskåret fra eller uvillige til å gripe inn i forvaltningens frie skjønn. Nettopp der er problemet. Slik er hverdagen for folk som arbeider med hendene sine eller maskinene sine, eller er ute på havet for å prøve å gjøre noe produktivt til fordel for dette landet, og som ikke lever av å produsere papir eller av å flytte på papir. 
+
+
+
+
+Jeg lurer på når Regjeringen har tenkt å ta disse tingene alvorlig og prøve å gjøre saksbehandlingen enklere og lettere for folk, og la mindre og mindre blir overlatt til forvaltningens frie skjønn. Som vi har sett i en rekke saker, kan det være umulig for en menigmann å få behandlet sin sak nettopp fordi, som jeg sa i stad, domstolene er avskåret fra eller uvillige til å behandle slike saker som er overlatt til forvaltningens frie skjønn, ut fra at de har fått fullmakt fra denne sal. 
+
+
+
+
+ Man kan si mye om statsrådens redegjørelse om forvaltningspolitikk. At den skulle inneholde noen revolusjonære forandringer, hadde Fremskrittspartiet ikke ventet, men noe mer konkret enn det vi fikk høre, hadde vi forventet. 
+
+
+
+
+Redegjørelsen inneholdt mange selvfølgeligheter og forholdsvis lite om handling. Et eksempel kan være at menneskene skal være aktive deltakere i samfunnet og ikke bare være kunder og klienter. Fremskrittspartiet er fornøyd med dette utsagnet da dette er god fremskrittspartipolitikk, men det mangler noe når man ikke konkretiserer hvordan dette skal foregå, for det skulle ikke være noe parti, noen gruppering eller noen enkeltperson som ikke ønsker seg mer innflytelse over sitt eget liv. 
+
+
+
+
+Man sier også at forvaltningen skal ivareta menneskenes interesser og stå til deres tjeneste Ja, det må og skal være slik at staten er til for menneskene, og ikke motsatt.
+
+
+
+
+Ellers registrerer Fremskrittspartiet at statsråden har svært stor tro på at Internett og informasjonsteknologi skal løse de fleste problemer vi har. Kanskje kan de det, men dette ligger nok en del år fram i tiden. Svært mange i Norge har ikke tilgang til dette, noe som kan skyldes mangel på utstyr, bl.a. av økonomiske grunner, samt mangel på opplæring. Dette er selvfølgelig under utarbeiding, spesielt i skolen, men vil vel ta noe tid.
+
+
+
+
+Fremskrittspartiet mener også at redegjørelsen mangler noe om fylkeskommunen og dens rolle framover. Mener statsråden at den skal være som den er, eller er statsråden åpen for en vurdering av et såpass stor forvaltningsorgan, som etter Fremskrittspartiets syn er modent for forandring og på sikt bør fjernes. 
+
+
+
+
+Den største mangelen med den foreliggende redegjørelsen er etter Fremskrittspartiets oppfatning at man ikke tar de grunnleggende problemer med en stor og sterkt voksende offentlig sektor alvorlig. Fremskrittspartiet er av den oppfatning at man istedenfor å drøfte mindre organisatoriske og forvaltningsmessige forbedringer, burde ha lagt opp til en mer grunnleggende debatt om offentlig sektor og framlagt en samlet strategi for en deregulering av denne. En slik strategi burde etter Fremskrittspartiets syn være inndelt i fire deler: Det bør være en realistisk, nøktern og kritisk gjennomgang av den offentlige sektor. Det bør være en klar definisjon av hva som skal være statens ansvar, rolle og arbeidsoppgaver. Det bør også være en fastsetting av klare og konkrete mål for denne virksomheten. Og til slutt: Det bør også være en handlingsplan med virkemidler for hvorledes man skal nå målet. 
+
+
+
+
+Fremskrittspartiet er, i motsetning til f.eks. SV, av den oppfatning at en rekke tjenester i offentlig sektor med stor fordel kan produseres av private bedrifter. Fremskrittspartiet mener derfor at det bør oppnevnes en privatiseringskommisjon eller noe tilsvarende som skal vurdere hvilke tjenester i offentlig sektor som kan utføres mer effektivt av private bedrifter eller organisasjoner. 
+
+
+
+
+Videre bør det oppnevnes en permanent ekspertgruppe som skal vurdere kost- og nytteverdien av slike tiltak i offentlig sektor. 
+
+
+
+
+Fremskrittspartiet konstaterer at det er et klassisk problem i staten og i offentlig forvaltning i det hele at en er lite flink til å registrere hvilke resultater som virksomheten skaper. En er heller ikke god til å foreta forbedrende korreksjoner i tilfeller der de resultatene som kan oppnås, ikke står i forhold til de ressursene som anvendes.
+
+
+
+
+Jeg vil påpeke at Fremskrittspartiet tidligere har fremmet en rekke forslag til forbedringer innen forvaltningspolitikken. Dette gjelder bl.a. innføring av tidsbegrensede lover og strengere krav til tidsbruken ved behandling av søknader, konsesjoner mv. Dette er forslag som er oversendt Regjeringen tidligere. 
+
+
+
+
+Allerede i 1992-93 foreslo Fremskrittspartiet flere tiltak for å få en så god og så riktig offentlig sektor som mulig. Blant annet vurderte vi, som tidligere nevnt, å oppnevne en offentlig kommisjon som skal vurdere hvilke tjenester i statsforvaltningen som med fordel kan produseres av private. Dette kan også gjelde organisasjoner, ved at man foretar en gjennomgang av den eksisterende departementsstruktur med sikte på en bedre samordning av reduserte interessemotsetninger og økt produktivitet. 
+
+
+
+
+Fremskrittspartiet har også bedt om at man foretar en vurdering av om ikke departementene bør omorganiseres til rene politiske sekretariater. Fremskrittspartiet ønsker også å endre personalpolitikken, slik at man går bort fra ansiennitet som et kriterium for forfremmelse. 
+
+
+
+
+ Først vil jeg prøve å svare på en del av spørsmålene som er reist. 
+
+
+
+
+Gunnar Breimo spør om Regjeringen er kommet til en ny erkjennelse. Jeg skal ikke svare direkte på det, annet enn at jeg er helt overbevist om at det offentlige er nødt til å fornye seg for nettopp å unngå en ren privatisering. Vi må være villige til en god – og en bedre – ressursutnyttelse og mest mulig effektiv drift. Vårt overordnede mål har vært at dette skal skje i forhold til at vi også skal ivareta en god brukerorientering, der brukerne skal ha tillit til forvaltningen, og der brukerne skal få medvirkning. 
+
+
+
+
+Når det så sies at det er lite av tiltak i denne redegjørelsen, er ikke jeg enig i det. Her er en god del tiltak. Noen er videreføring av det som andre har diskutert tidligere og til dels satt i gang, og noen av tiltakene er helt nye. 
+
+
+
+
+Når det gjelder den etterlyste medvirkning, vil jeg spesielt nevne de offentlige servicekontorene, som et tiltak til medvirkning. Vi har informasjonsteknologiske høringer, som er et nytt virkemiddel, vi har serviceerklæringer, og ikke minst vil samlingen av norge.no på Internett med én inngang gjøre det mulig å få en mye sterkere brukermedvirkning. Det er noen av sakene. 
+
+
+
+
+Vi har sittet et og et halvt år i denne regjeringen, og vi har satt ned en del utvalg. De blir fortløpende ferdig i år og neste år, og vi vil selvsagt komme til å følge dette godt opp.
+
+
+
+
+Sandberg fra Fremskrittspartiet peker på en del viktige forhold når det gjelder rolleavklaringer. Vi har et viktig prosjekt på gang gjennom Statskonsult som går ut på å se på staten som eier og regulator, se på og avklare roller og ansvarsdeling mellom departementene og underordnede virksomheter. I tillegg kommer vi også til å se på tilsynsmyndighetenes rolle framover. Dette er viktige områder.
+
+
+
+
+Inger Stolt-Nielsen snakket om modernisering, at vi er for sent ute med å gjøre ting, og at det kanskje er for mange utvalg. Ja, men vi må ha utvalg. Det må faktisk en del utredninger til. 
+
+
+
+
+Når det gjelder mandatet for Oppgavefordelingsutvalget, ble det først godkjent av Stortinget ved behandlingen av statsbudsjettet i 1998, og det er viktig. Men det er ikke slik at vi bare sitter og venter på dette utvalget. Vi har satt i gang en del andre tiltak. Vi har bl.a. «Et enklere Norge», der det vil komme prosjekter fortløpende. I kommunalministerens redegjørelse ble det snakket om frivillig kommunesammenslåing. Og så har vi de offentlige servicekontorene, som også er et svar på dette.
+
+
+
+
+Når det gjelder fylkesmannens oppgaver og ressurser, må disse ses i sammenheng. Oppgaver pålegges også i denne sal, men det er helt klart at når det gjelder prioriteringen av fylkesmennenes oppgaver, har vi en løpende debatt med fylkesmennene om det. Dette vil for øvrig også bli debattert ganske inngående i Oppgavefordelingsutvalget.
+
+
+
+
+Unn Aarrestad var inne på ordningen med de offentlige servicekontorene, og hun pekte på en del lokale initiativ og ulike løsninger. Der er jeg helt enig. Vi må imidlertid også legge til rette for å få vekk en del lovhindringer. Fra departementets side har vi nylig bedt samtlige departement om å arbeide for lokale initiativ til samarbeid på tvers.
+
+
+
+
+Selv om staten er positiv, har vi sett at det er en del motstand også i de statlige etatene. Vi prøver å være pådrivere her. Når det gjelder kommunene, må de også være aktive i å ønske å opprette et offentlig servicekontor, og det er gledelig å se at svært mange kommuner er opptatt av dette.
+
+
+
+
+Til Ågot Valle: Ja, vi skal ha en sterk offentlig sektor. Det er ikke og vil heller ikke bli aktuelt for det offentlige, som jeg sa i redegjørelsen, å gi fra seg ansvaret når det gjelder sentrale velferdsgoder som helsetjeneste, pleie- og omsorgstjenester eller undervisning.
+
+
+
+
+Terje Johansen var inne på at systemet er for komplisert. Det er jeg også enig i. Nettopp derfor har vi gjennom «Et enklere Norge» grepet fatt i dette, og det vil komme konkrete prosjekter utover våren. Det skal bli enklere for enkeltmenneskene, det skal bli enklere for næringslivet, og det skal bli enklere for kommunene.
+
+
+
+
+Alstad i Arbeiderpartiet sa at IT vil skape endringer i personalpolitikken, at vi på en måte legger opp til det. Skal det skje, så skal det selvsagt skje i samarbeid med arbeidstakerorganisasjonene. Vi skal også følge opp arbeidet med likestilling – det kan jeg bare si.
+
+
+
+
+Jeg merket meg at Bastesen er litt negativ til serviceerklæringer. Jeg har ikke det negative forholdet til serviceerklæringer som han har, og håper det skal gå bra.
+
+
+
+
+ Det blir replikkordskifte.
+
+
+
+
+ Statsråden understreket flere ganger i sin redegjørelse behovet for kompetanseheving. At det er viktig og stadig blir viktigere, kan det ikke herske tvil om. Det gjelder ikke minst på et område som informasjonsteknologi, hvor store grupper i dag faller utenfor.
+
+
+
+
+I mitt innlegg pekte jeg på mangelen på forslag fra Regjeringen om tiltak i skoleverket for å møte det mest grunnleggende behovet og sikre at alle får de samme startmulighetene. I redegjørelsen fikk vi ingen signaler om satsingsviljen. I stedet omtaler statsråden den nye kompetansereformen som Regjeringens kompetansereform, og vi får inntrykk av at det er Regjeringens innsats som har ført til at det blir lagt så stor vekt på arbeidslivsbasert etter- og videreutdanning. I rettferdighetens navn bør vi vel her innrømme at det er snakk om fagbevegelsens reform. For reformen er vitterlig unnfanget og framkjempet av fagbevegelsen. At den nå følges opp med tverrpolitisk støtte, er en helt annen sak. Jeg vil gjerne at statsråden bekrefter at det er slik.
+
+
+
+
+Så snakket statsråden om de offentlige servicekontorene. Men også her er det vel snakk om en ordning som ble initiert av en annen statsråd i en annen regjering. Under statsråd Totland ble det igangsatt prøveprosjekter, som senere har blitt evaluert. Det naturlige nå er vel å ta utgangspunkt i de erfaringene vi i dag sitter inne med etter prøveprosjektene, og videreføre de positive sidene. Mitt spørsmål til statsråden på dette punktet blir: Hvordan vil hun gå fram for å få motvillige aktører til å delta i ordningen med servicekontor? Holdningene til disse er sannsynligvis varierende innenfor statsforvaltningen.
+
+
+
+
+ Når det gjelder informasjonsteknologi og kompetanseheving, er dette viktige områder. Jeg vil vise til handlingsplanen som Regjeringen har laget om informasjonsteknologi. Ellers har jeg lyst til å opplyse om at det faktisk er 1,8 millioner mennesker i dette land som pr. dags dato har tilgang til Internett, og det er veldig gledelig. Vi vet også at man vil kunne hente ut en del informasjon via bibliotek, skoler, offentlige servicekontor osv. Jeg tror at informasjonsteknologi, selv om vi har blitt beskyldt for å ha sagt for mye om det, skal løse en del ting. Vi tror på den som et virkemiddel til å bedre informasjonen fra og dialogen med forvaltningen.
+
+
+
+
+Når det så gjelder kompetansereformen, og hvem som var opphavet til den, er det riktig at jeg brukte uttrykket «Regjeringens kompetansereform». Det var i glede over at også Regjeringen så helt og fullt gjennom lønnsoppgjøret og også de signaler som ble gitt i fjor, har integrert kompetansereformen i sin politikk. Men det er helt riktig at det ikke var denne regjeringen som oppfant kompetansereformen. Jeg skal ikke ta en debatt om hvem som var først ute.
+
+
+
+
+Når det så gjelder de offentlige servicekontorene, er det riktig at det var statsråd Totland som satte i gang forsøket med disse i 1992. Forsøkene var ferdige i 1996, men så ble det ikke gjort noe mer. Denne regjeringen, som ble innsatt i 1997, syntes at dette var en veldig god idé, hentet fram igjen forsøkene som var gjort, og har faktisk gått aktivt inn og besluttet at den ønsker å opprette servicekontor i alle kommuner. Det er i så fall nytt. Det har vært en del motstand mot servicekontorene, kanskje først og fremst i statlige etater. Det har jeg grepet fatt i, og jeg kommer fortsatt til å være en pådriver for å få de statlige etatene med. Men kommunene må være villige, og det er kommunene som også må dra dette i gang.
+
+
+
+
+ La meg først igjen få lov til å berømme statsråden for at hun følger opp når det gjelder statsforvaltning, og tankene og vyene omkring det Regjeringen ønsker å gjøre på det området. Men allikevel: Avslutningsvis i mitt innlegg la jeg fram noen tanker om hvorvidt statsråden hadde gjort seg noen betraktninger rundt det politiske rollemønsteret gjennom å være øverste myndighet overfor fylkespolitikere og kommunepolitikere, og det som etter hvert begynner å bli en større og større gjenganger, at politikerne opptrer på alle tre forvaltningsnivåer. Jeg kunne gjerne tenkt meg å høre om statsråden hadde noen betraktninger og vyer omkring dette i framtida.
+
+
+
+
+Jeg kunne også gjerne ha tenkt meg å høre statsrådens syn på fylkeskommunen – hvorvidt det er et styrkende forvaltningsledd eller et svekkende forvaltningsledd i framtida – og om også statsråden er inne på regiontenkning i forhold til kommunesammenslåing og fjerning av fylkeskommunen.
+
+
+
+
+ Representanten Sandberg stiller spørsmål om det at vi har politikere som opptrer på tre forvaltningsnivåer. Jeg kan ikke si at jeg i min korte fartstid som statsråd har tenkt så forferdelig mye over det. Men jeg syns det er en interessant problemstilling, og tar den med meg tilbake igjen for å vurdere dette nærmere. Det har ikke vært en del av det vi har diskutert i relasjon til denne forvaltningspolitiske redegjørelsen.
+
+
+
+
+Når det så gjelder fylkeskommunens eksistens eller ikke, har det vært og er denne regjeringens politikk at fylkeskommunen skal bestå som forvaltningsorgan. Men det er ikke til å komme forbi at fylkeskommunens rolle og oppgavefordelingen blir et viktig tema når vi får Oppgavefordelingsutvalgets ferdige rapport. Jeg kan ikke svare representanten på annen måte enn at dette blir en debatt som kommer senere.
+
+
+
+
+ Høyre er glad for at Regjeringen tar et oppgjør med Arbeiderpartiet og med seg selv og sin egen fortid i denne redegjørelsen. 
+
+
+
+
+Regjeringen setter opp brukerorientering, modernisering og effektivisering som tre hovedstikkord for sin forvaltningspolitikk. Et av de områdene statsråden legger vekt på, er bestiller-/utførerrollen. Statsråden mener, i likhet med Høyre, at det offentlige har et ansvar for helse, skole og omsorg, men det er «ikke nødvendigvis» det offentlige som trenger «å ha ansvaret for å produsere tjenesten», sier Regjeringen i sin redegjørelse. Dette høres bra ut, men harmonerer dårlig med uttalelser fra bl.a. statsråd Magnhild Meltveit Kleppa, som i spørretimen i februar etterlyste at «kommunane … drøftar alternativ til privatisering/konkurranseutsetjing».
+
+
+
+
+Senterpartiet har generelt uttrykt stor skepsis til bruk av eksterne produsenter av offentlige tjenester. Hva er Regjeringens syn på dette viktige spørsmålet? Er det statsråd Dåvøys påpekning – sitat fra redegjørelsen: «Private aktører og frivillige organisasjoner kan her vise entreprenøransvar ved å konkurrere om produsentrollen»? Eller er det Senterpartiets inngrodde motstand mot det samme, konkurranseutsetting – eller «konkurranseeksponering», som Regjeringen sier? Hva er Regjeringens syn? 
+
+
+
+
+Kan vi nå forvente at Regjeringen faktisk vil sende ut det klare signalet også i andre redegjørelser til Kommune-Norge at nå er det viktig å sørge for at tjenesten blir produsert til en riktig pris, og ikke så viktig hvem som produserer tjenesten?
+
+
+
+
+ Regjeringen har ønsket å ha en helhetlig tilnærming til disse spørsmålene, og ser at vi er nødt til å reise en helhetlig debatt om dette.
+
+
+
+
+Det er faktisk nå nedsatt en arbeidsgruppe som skal utrede betingelsene for når f.eks. konkurranseutsetting er formålstjenlig og ikke. Herunder kommer vi til å drøfte skillet mellom bestillerrollen og produsentrollen. Da vil det være slik at selv om det offentlige kan velge å overlate den faktiske produksjonen av en tjeneste til private, har det offentlige fortsatt økonomisk og politisk ansvar for kvaliteten på tjenesten.
+
+
+
+
+Vi vil se på muligheten til å stimulere lokale private aktører og frivillige organisasjoner til å vise entreprenøransvar når det offentlige ikke alltid er produsent av tjenestene. Vi har jo eksempler også i dag – det er ikke helt nytt, dette. Vi har både frivillige og andre mer formaliserte organisasjoner som jobber mot det offentlige i dag.
+
+
+
+
+Vi vil også se på muligheten for å spre gode løsninger og ideer i forvaltningen. Vi vil at dette bl.a. skal gjøres gjennom målestokkonkurranser, der offentlige etater kan måle seg mot hverandre.
+
+
+
+
+Vi ønsker å se på dette i et helhetsperspektiv, og ønsker å reise en debatt i kjølvannet av utredningen når den kommer.
+
+
+
+
+ Først en åpenbar misforståelse. Hvem skal ta æren for kompetansereformen? Det var faktisk SV ved Øystein Djupedal som først reiste forslaget om kompetansereformen her i dette hus.
+
+
+
+
+Så til personalpolitikk og likestilling, som jeg er glad for at statsråden sier at hun skal videreføre. For det er slik at staten har et arbeidsgiveransvar for statlig virksomhet og kan gjennom det gi et klart signal om at likelønn bør prioriteres. Nå, etter inntektsoppgjørene for 1998, viser det seg at statsansatte, heltidsansatte kvinner i 1997 hadde en gjennomsnittlig årslønn på 89,9 pst. av tilsvarende for menn. 
+
+
+
+
+Undersøkelsene viser at det har gått forferdelig seint. Her er det altså ingen som kan slå seg på brystet og si at jobben er gjort. Tempoet må økes – og det ganske kraftig – dersom det skal oppnås likelønn innen 2015. SV har flere ganger foreslått at det skal settes av en likelønnspott, og at disponering av likelønnspotten avgjøres i forhandlinger, altså at dette skal komme som en ekstrainnsats. Hvordan ser statsråden på et slikt forslag? Hvis hun ikke ser positivt på det, hvilke tiltak vil hun sette i verk for å sørge for at vi får likelønn i statlig sektor? 
+
+
+
+
+Statsråden sa: Ja, Regjeringen vil forsvare en sterk offentlig sektor. Men ser ikke statsråden at presset på offentlig sektor, presset på å slanke offentlig sektor og dermed også skvise kommunene – det faktum at kommunene nå mangler 5 milliarder kr – i seg sjøl blir et press for å privatisere offentlige tjenester, til glede for dem som ønsker å tjene mer penger på det området?
+
+
+
+
+ Ja, likestilling er viktig, og jeg har et sterkt engasjement for likestilling og likelønn. Når det så gjelder de konkrete spørsmål representanten stiller i forhold til føringer og lokale forhandlinger, vil jeg be om forståelse for at jeg ikke kan si så mye om det her og nå. Vi er faktisk ikke ferdig med lønnsoppgjøret i år. De sentrale justeringene og de lokale forhandlingene kommer fortløpende, så vi får heller ta en slik debatt kanskje etter oppgjøret – jeg kan ikke gå mer inn på det.
+
+
+
+
+Så til det å forsvare offentlig sektor: Jo, jeg ser de problemstillingene som representanten Valle her reiser med hensyn til presset på offentlig sektor. Men jeg tror også det er avgjørende viktig at vi som har ansvar for forvaltningen, ser om det finnes muligheter for å gjøre tjenesten bedre. Ikke minst gjelder det å være mer og bedre brukerorientert, for jeg tror at veldig mye av det som skjer overfor den enkelte bruker fra forvaltningens side, fra det offentliges side, vil være med på å avgjøre om vi lykkes i å gi et godt nok tilbud. For hvis vi ikke lykkes i det – og da går det ikke bare på økonomi, men det går også på holdninger – vil også de private tjenestene tvinge seg fram, og jeg er ikke tilhenger i det hele tatt, og heller ikke Regjeringen, av at vi skal privatisere offentlige tjenester.
+
+
+
+
+ Et spørsmål av vital betydning for den videre utvikling av velferdssamfunnet er graden av privat engasjement, at man her finner den rette balansen. For alle som er opptatt av rettferdighet og lik tilgang på tjenester, er svaret på dette spørsmålet helt avgjørende. Personlig vil jeg si at en del av statsrådens uttalelser skremte meg, på tross av en formulering om at ansvaret for viktige deler fortsatt skal være offentlig. Statsråden sier det så sterkt at hun er åpen for å «omdefinere» statens rolle. Hun er villig til å gå langt når det gjelder konkurranseutsetting av offentlig virksomhet. I tillegg vil hun bringe inn flere private eiere i offentlige bedrifter og virksomheter. Det må jo lyde som musikk i Fremskrittspartiets ører, og jeg er ikke forundret over at representanten Sandberg var godt fornøyd. Hvis jeg forstod ham rett, fant han visse formuleringer igjen fra sitt eget partiprogram. 
+
+
+
+
+Jeg finner grunn til å be statsråden utdype sitt syn med hensyn til spørsmålet om private eiere. Som begrunnelse for å privatisere viser hun til at private eiere vil heve kvaliteten på eierskapet. Hva tenker hun på når hun formulerer det slik? På hvilken måte holder ikke statlig eierskap i bedrifter med statlige forvaltningsoppgaver mål, og hvilke virksomheter ønsker hun spesielt å privatisere?
+
+
+
+
+ For å presisere noe av det jeg svarte til Ågot Valle nettopp: Når det gjelder de tunge offentlige oppgavene som jeg nevnte i sted, nemlig helsetjenester, pleie- og omsorgstjenester og skole, er det ikke snakk om at vi ønsker å privatisere dette. Når det gjelder konkurranseutsetting, er vel svaret det samme til representanten Breimo som til Helleland, at vi ønsker å se dette i et helhetsperspektiv. Vi tror at det er nødvendig å diskutere om det offentlige holder mål. Vi tror det er nødvendig å diskutere om man ser muligheter til å konkurranseutsette noen deler av offentlig virksomhet og i tilfelle hvilke, og det kan ikke jeg her og nå svare på. Vi må komme tilbake til dette i en mer helhetlig debatt senere.
+
+
+
+
+ Dermed er replikkordskiftet omme.
+
+
+
+
+ Offentlig sektor er selvfølgelig gjenstand for stor oppmerksomhet i vårt samfunn. Det som skjer i den offentlige forvaltning, har på en eller annen måte betydning for de fleste av oss. Deltakelse og demokrati, sa representanten Per Sandberg. Ja, det er det vel ingen her i salen som er uenig i. Det er en programerklæring som samtlige partier kan si seg helt enig i.
+
+
+
+
+Det er viktig at forvaltningen er preget av likhetsbehandling, åpenhet og mulighet til innsyn – samtidig som rettssikkerheten til den enkelte bruker blir ivaretatt på en ordentlig måte.
+
+
+
+
+Offentlig forvaltning skal være der for å hjelpe og bistå med å håndheve vårt lovverk og politiske signal på en god og rettferdig måte. Service og fleksibilitet – og ikke negativitet og motarbeidelse – må være riktige stikkord. Men da må også ressursene til å utføre oppgavene være til stede.
+
+
+
+
+Regjeringen tar i sin redegjørelse utgangspunkt i at vi mennesker skal være aktive deltakere i samfunnet og ikke bare kunder og klienter. Skal vi ha en sterk offentlig sektor i framtiden, vil det være helt avgjørende at vi som er kunder eller klienter av ulike etater, opplever en profesjonell og rettferdig forvaltning. Vi er nødt til å våge å sette et kritisk søkelys på vår forvaltning. Å ha et lovverk som fungerer, er ikke nødvendigvis ensbetydende med at brukerne av offentlige etater får den hjelp og den bistand som de har krav på etter loven. Private løsninger vil tvinge seg fram hvis ikke den offentlige sektoren oppleves som god og brukervennlig. 
+
+
+
+
+Viktige stikkord for service er etter min mening åpenhet og tilgjengelighet. Et profesjonelt, oppdatert saksbehandlerapparat er selvfølgelig en forutsetning. Det bør være de mest erfarne og rutinerte medarbeiderne som fronter den såkalte førstelinjetjenesten, og som altså er der hvor brukeren møter etaten ved henvendelse. Videre mener jeg at offentlige servicekontorer er en god idé. Stortinget har diskutert og fattet vedtak om dette flere ganger. Likevel har det gått sent med etablering av slike kontorer. Jeg håper Regjeringens og statsrådens arbeid snart vil resultere i flere offentlige servicekontorer. Men igjen er en god service avhengig av gode og oppdaterte medarbeidere. 
+
+
+
+
+Representanten Stolt-Nielsen sa i sitt innlegg at offentlig forvaltning var preget av ineffektivitet og en stadig større opphovning. Når en hører på representanten, skulle en nesten tro at offentlig sektor er mot folket og ikke for folket. Ja, representanten mente – hvis jeg forsto henne riktig – at det var vår offentlige forvaltning som truet velferden. Det er meget sterke beskyldninger. 
+
+
+
+
+Den offentlige forvaltningen står for fundamentale velferdsoppgaver i vårt samfunn. Jeg synes det i en slik debatt er grunn til å si at den også består av dyktige medarbeidere som står på for at vi skal få et best mulig tilbud. Det er nok å nevne det som skjer i helsesektoren i dag. 
+
+
+
+
+Jeg har også lyst til å fokusere på kvinners stilling i forvaltningen. Når det gjelder kvinnelige ledere, går det smått om senn framover. Selv om kvinner har hatt en kraftigere lønnsvekst enn menn de siste 20 årene, er det fortsatt svært mye som gjenstår før vi har oppnådd full likelønn. En viktig årsak til at kvinner tjener mindre enn menn, er at kvinneyrker er lavere betalt enn yrker dominert av menn. Dette kalles verdsettingsdiskriminering.
+
+
+
+
+Mange av disse kvinnene har sine yrker i offentlig sektor. Jeg mener det er helt uakseptabelt at vi fortsatt har ulik lønn for likt arbeid her i landet. Dette skal ikke forekomme i det offentlige. Jeg vil spørre statsråden om hun kan garantere for at slikt ikke skjer i forvaltningen vår i dag. 
+
+
+
+
+Det er viktig at det offentlige går foran i spørsmål som disse. Det er liten trøst at det private næringsliv ikke er noe særlig bedre. Jeg mener at vi må se konkret handling. Statsrådens fromme ønsker og mål er det ingen uenighet om. Men dette er problemstillinger vi har snakket om svært lenge. Hvilke virkemidler ønsker statsråden å bruke på dette området for å komme videre?
+
+
+
+
+ Jeg vil i innlegget mitt fokusere på de positive signalene som ble gitt i redegjørelsen vedrørende konkurranseutsetting, bestillerrollen/utførerrollen og brukerorientering.
+
+
+
+
+Jeg var litt inne på det også i replikken, og jeg synes det er et framskritt at statsråden i det hele tatt bruker slike begreper. Så kan vi håpe at dette vil manifestere seg i Regjeringens politikk framover. Det er imidlertid det jeg dessverre må trekke i tvil – i hvert fall så langt. Jeg skal gjennom noen eksempler påvise Regjeringens dobbeltkommunikasjon i forhold til dette.
+
+
+
+
+I redegjørelsen sies det, under overskriften «La staten konkurrere med seg selv og andre»:
+
+
+
+
+
+
+
+«I offentlig tjenesteproduksjon kan det være hensiktsmessig å skille mellom bestillerrollen og produsentrollen. Som bestiller har det offentlige først og fremst ansvaret for å definere innholdet og sette krav til kvalitet på tjenesten, og kontrollere at kravet etterleves.»
+
+
+
+
+Og videre:
+
+
+
+
+«Selv om bestilleransvaret for en tjeneste er offentlig, trenger ikke nødvendigvis stat og kommune å ha ansvaret for å produsere tjenesten.»
+
+
+
+
+Dette er veldig bra – på papiret. Spørsmålet er om Regjeringen vil følge opp i handling. På hvilke områder vil dette bli fulgt opp i praksis? Vil f.eks. Regjeringen legge til rette for at private eller organisasjoner kan eie og drive sykehus for det offentlige etter anbud? Statsråden sier klart i sin redegjørelse at det offentlige har et ansvar for sykehus, eller for helse, sosiale tjenester og undervisning. Dette er vi skjønt enige om. Høyre har heller aldri vært uenig i det. Men spørsmålet er om dette vil manifestere seg i at staten virkelig kan ta ansvaret, og la andre utføre jobben.
+
+
+
+
+Mange kommuner har gått foran når det gjelder konkurranseutsetting av pleie- og omsorgstjenester. Det er nok å nevne Asker, Moss, Oslo og Trondheim – dette fordi de ser at det gir mer kostnadseffektive tjenester, men også tjenester av bedre kvalitet. Så snart kommunene har satt en tjeneste ut på anbud, begynner de å interessere seg for hvordan beboerne eller brukerne har det. Om anbudsprosessen sier Lars Nygård ved Ressurssenter for Omsorgstjenester i Stjørdal: 
+
+
+
+
+
+
+
+«I den prosessen kommer det ofte fram at kravet til institusjoner som kommunene driver selv nærmest er «gjør det beste ut av det». Når noe skal ut på anbud må kravene tydeligere på bordet. For kommunene hadde det vært mer fruktbart å stille mer spesifiserte krav også til egen organisasjon, uavhengig om den skal utsettes for konkurranse eller ikke.» 
+
+
+
+
+FAFO, fagforeningens forskningsinstitutt, skriver om Moss kommune:
+
+
+
+
+«Kommunen har, i stor grad som resultat av utsettingen av pleie- og omsorgsvirksomheter til en privat virksomhet, blitt mer opptatt av å dokumentere den kvaliteten som ytes på dette området, både i kommunenes egne institusjoner og i den privat drevne.»
+
+
+
+
+Dette er jo åpenbart i tråd med de signaler ministeren gir i sin redegjørelse. Derfor er det da, som jeg nevnte i stad, beklagelig at sosialministeren har vært så skeptisk. På spørsmål fra Britt Hildeng, Arbeiderpartiet, svarte sosialministeren i spørretimen i februar:
+
+
+
+
+
+
+
+«Eg ynskjer at kommunane aktivt drøftar alternativ til privatisering/konkurranseutsetjing. I Voksenåserklæringa har vi lagt vekt på modernisering og fornying av offentleg sektor. Den store satsinga på pleie- og omsorgssektoren i samband med handlingsplanen for eldreomsorga vil gje eit godt grunnlag for eit offentleg tenestetilbod også i tida som kjem.»
+
+
+
+
+Videre varslet sosialministeren en redegjørelse om Regjeringens syn på konkurranseutsetting i kommuneøkonomiproposisjonen, som jeg fikk i dag, og som jeg ikke har hatt sjanse til å sjekke. Men hovedpoenget for sosialministeren har hele tiden vært å uttrykke skepsis overfor konkurranseutsetting, og å legge vekt på forvaltningsprinsipp og at det er det offentlige som både skal produsere og bestille. Hvem er det som representerer Regjeringens syn? Er det Dåvøy, eller er det Meltveit Kleppa? Eller er det slik at helse og omsorg skal være unntatt fra konkurranseutsetting, på samme måte som Dåvøy ikke vil la vikarbyrå formidle arbeidskraft til helsevesenet?
+
+
+
+
+Nå ser jeg at administrasjonsministeren benytter begrepet konkurranseeksponering, men budskapet er klart nok. Jeg registrerer med tilfredshet signaler om at det offentlige skal være brukerorientert, ta ansvaret for sentrale velferdsgoder som helse, omsorg og undervisning, og påpekingen av at stat og kommune tar bestilleransvaret, men ikke produksjonsansvaret. Dette er et område som stadig flere av våre naboland og mange av våre kommuner har kommet godt i gang med. Jeg ber nå om at utredningsarbeidet ikke trekker ut i tid, at det blir gitt klare signaler fra hele Regjeringen om at dette er en ønsket utvikling, og at regelverk, inkludert momsregler som forhindrer en slik utvikling, blir endret.
+
+
+
+
+Til slutt vil jeg uttrykke tilfredshet med Regjeringens retoriske taktskifte og linjevalg i denne redegjørelsen. Jeg er imidlertid i tvil om dette vil nedfelle seg i Regjeringens praktiske politikk, jf. tidligere uttalelser fra Senterpartiet generelt og statsråd Meltveit Kleppa spesielt.
+
+
+
+
+ Offentlig forvaltningspolitikk spenner vidt. Derfor blir dette gjerne de store linjers debatt, noe den til nå har vist i stor grad. 
+
+
+
+
+Norge har hatt en formidabel vekst i offentlig sektor de siste 20 – 30 år, i stor grad som følge av utbyggingen av de mange ulike velferdsordningene i kommunene. Av tabelloversikten som lå ved statsrådens redegjørelse, går det fram at de offentlige utgiftenes andel av bruttonasjonalproduktet i Norge ligger svært høyt i internasjonal sammenheng, tatt i betraktning den betydelige veksten i BNP landet har hatt som følge av inntektene fra oljen. Veksten i offentlig sektor har i et langt historisk perspektiv fulgt om lag samme vekstkurve som BNP.
+
+
+
+
+Statsråden har slått fast at det er Regjeringens mål å opprettholde en stor offentlig sektor. Dette har Norge behov for for å sikre et likeverdig tjenestetilbud over hele landet. Og nettopp utbyggingen av velferdstilbudene har bidratt til å opprettholde sysselsetting, og derved bidratt til å bevare et spredt bosettingsmønster i vårt land. Det må fortsatt være en viktig målsetting. 
+
+
+
+
+I sin redegjørelse pekte statsråden på de endringer samfunnet har gjennomgått de siste årene, ikke minst som følge av fremveksten av kunnskaps- og informasjonssamfunnet. Den teknologiske utviklingen og internasjonaliseringen har bidratt til skjerpet konkurranse i alle ledd i samfunnet. Dette har nok heller ikke offentlig sektor unngått å merke. Likevel er det grunn til å anta at offentlig sektor i mindre grad enn privat sektor har måttet ta følgene av denne konkurransen. Sett fra et makrosynspunkt er det ikke urett å si at offentlig sektor har ridd på en sammenhengende medgangsbølge de siste 30 årene på grunn av de store oljeinntektene. At det fortsatt er uløste oppgaver og områder som ligger etter, endrer ikke dette bildet. Hva denne medgangsbølgen har ført til, er det imidlertid ikke så lett å avlese. 
+
+
+
+
+Kravet til effektivisering og rasjonalisering har vært stilt kontinuerlig, men man har manglet noe av den drivkraften som kjennetegner privat sektor i sterkere grad, nemlig nødvendigheten av å sørge for rentabilitet. Dette og andre forhold understreker det betimelige i at Regjeringen nå så sterkt understreker behovet for en forenkling, modernisering og fornying av offentlig sektor. Arbeidet med å utrede konkurranseeksponering – forresten et veldig vanskelig ord – kan i denne sammenheng være et viktig initiativ for å oppnå en mer dynamisk forvaltning.
+
+
+
+
+Bruk av informasjonsteknologi har vært fremholdt som et viktig og avgjørende redskap for å oppnå større effektivitet. I festtaler har det vært hevdet at investeringer i IT vil kunne betale seg selv, altså tjenes inn igjen opptil flere ganger. Det har imidlertid vært vanskelig å se de konkrete resultatene av dette. Når det i redegjørelsen fra statsråden så pekes på faren for at IT-bruken kan skape nye informasjonskløfter i samfunnet, er nok det absolutt riktig. Når det derimot samtidig sies at det er en politisk oppgave å påse at ressurser som frigjøres, settes inn på å forbedre tradisjonelle kanaler til dem som fortsatt vil benytte seg av disse, ringer det en bjelle hos meg. Det er lett å tenke at her finner man seg et nytt område å anvende effektiviseringsgevinsten på. Jeg vet ikke om dette er et typisk eksempel, men Parkinsons lover har en tendens til å dukke opp i bakrommet i ulike typer forvaltning og administrasjon. 
+
+
+
+
+Selvoppholdelsesdriften kan være en nyttig egenskap. Men når det gjelder offentlig byråkrati, har vi et særlig ansvar for å være på vakt. I denne sammenheng er det prisverdig at Regjeringen tar til orde for utflytting av statlige etater. Hittil er det ikke blitt mange resultatene, men den som kjenner til motkreftenes enorme styrke på dette området, vet at det ikke er noen lett oppgave å ta fatt i. 
+
+
+
+
+Det samme gjelder målet om et enklere Norge, som statsministeren selv har gått i bresjen for. Det blir ikke lett, men det er ikke mindre viktig for det. Et enklere Norge – vi skal ikke veksle mange ordene med vanlige brukere av offentlig tjenester før det kommer et «Eia, var vi der!» Vi har møtt mange bedriftsledere som har utøst sin frustrasjon over byråkratijungelen, med utilnærmelige internkontrollforskrifter, statistikkskjemaer og nå sist det nye regelverket til plan- og bygningsloven.
+
+
+
+
+Et enklere Norge er en utfordring som bør få full politisk oppbakking. Det samme bør gjelde utflytting av statlige virksomheter og etablering av lokale servicekontorer. Dette er tiltak som klart peker i retning av en mer effektiv ressursutnyttelse og en tidsmessig offentlig forvaltning, en mer bruker- og serviceorientert forvaltning.
+
+
+
+
+ Statsråden har konsentrert forvaltningspolitisk redegjørelse om tre utviklingstrekk i årene som kommer. Det ene er den aktive borger med sine krav. Det andre er omstillingsdyktighet i forvaltningen. Og det tredje er bred kompetanse i den offentlige forvaltning. 
+
+
+
+
+La meg få understreke at en forvaltningspolitisk redegjørelse må ikke bare redegjøre for utviklingstrekkene, men også skissere løsninger og møte utfordringene vi får i framtiden, med visjoner og målsettinger. 
+
+
+
+
+Vi kan vel alle være enige om at ord som åpenhet, innsyn, rettssikkerhet, personvern, serviceholdning og respekt er viktige når vi snakker om den offentlige forvaltning. Men like viktig som å bruke disse ordene, er det å finne virkemidler som gjør at dette kan oppnås, og her er det jeg synes at denne redegjørelsen har sin store svakhet. 
+
+
+
+
+I en redegjørelse som skulle være bearbeidet i et og et halvt år, i den tiden Regjeringen har sittet ved makten, burde det være mye klarere fokusert på hva man vil, hvilke tiltak man vil sette i gang, i stedet for å nedsette fem ulike arbeidsgrupper som skal se på problemene. Hvis vi ser 30 år fram i tid i Norge, er det etter min oppfatning nødvendig å ta hensyn til følgende: Vi ser at det vil være en globalisering av økonomien. Vi ser at brukerne av offentlige tjenester vil ha mer individrettede tjenester. Vi ser også at vi får en aldring av befolkningen, som må møtes med en bedre og mer altomfattende offentlig tjeneste. Ingen av disse utviklingstrekkene har statsråden funnet det nødvendig å skissere løsninger for. 
+
+
+
+
+Hvordan vil hun f.eks. stille seg til at brukerne i framtiden blir kravstore, utålmodige og mindre ideologiske og får mindre respekt for autoriteter? Hvordan vil hun forandre de offentlige tjenesteytingene til nettopp å møte disse kravene? Hun kan ikke, som ingen av oss andre heller, oppdra det folket som skal få tjenestene. 
+
+
+
+
+Svaret på individorientert forvaltning er ikke bare elektronikk og offentlige servicekontorer. De offentlige tjenestene blir båret fram av de offentlig ansatte, og derfor er det viktig å ha en utviklingsstrategi for nettopp de offentlig ansatte. Det må aldri være slik at hovedoppgaven for statens arbeidsgiverpolitikk er å sette den i stand til å rekruttere, utvikle og beholde dyktige medarbeidere. Hva med dem som har noe redusert kapasitet, som ikke har muligheten til å ta etterutdanning, eller som har store omsorgsoppgaver i privatlivet? Er ikke staten også arbeidsgiver for disse? Og bør ikke staten gå foran med gode eksempler på hvordan vi skal løse nettopp problemer med arbeidstakere som ikke kan gi alt? Med sin bakgrunn fra ett spesielt yrke burde statsråden nettopp være opptatt av å inkludere disse i statsadministrasjonen. 
+
+
+
+
+I redegjørelsen stiller statsråden en masse spørsmål. Jeg savner svarene. Når statsråden sier at 1,7 millioner mennesker i Norge har tilgang på Internett i hjemmet, på skolen eller på jobben, hvordan er da strategien for å få med alle de andre, som ikke benytter Internett? Når hun nevner at hovedmålet er at informasjonsteknologien skal komme alle til nytte, hvordan vil hun gjøre det? Hvordan vil hun sørge for at alle i Norge har tilgang på den nye teknologien? Hvor er virkemidlene for ikke å skape den informasjonskløften som vi alle er så redde for? Det er de som må komme nå, og ikke arbeidsgrupper.
+
+
+
+
+Når det gjelder eierskap i staten, påstår statsråden at der hvor staten opptrer som eier, er det viktig å påse at staten forvalter sitt eierskap effektivt og profesjonelt gjennom den statlige avkastnings- og utbyttepolitikken. Er det viktigste for statsråden å få utbytte av de statlige selskapene? Er det ikke slik at også de statlige selskapene tilligger det sterke forpliktelser til å virke over hele landet? Da er kanskje utbyttepolitikken mindre vesentlig? Dette er kanskje en ny omdreining på høyrevridningsspiralen fra Regjeringen?
+
+
+
+
+ Dei talarane som no får ordet, har ei taletid på inntil 3 minutt.
+
+
+
+
+ Noen er redde for vridning til høyre, og andre for vridning til venstre. Det er vel litt avhengig av hvilket utgangspunkt vi har. 
+
+
+
+
+Når jeg bad om ordet nå, var det fordi Karita Bekkemellem Orheim sa at jeg hadde sagt at offentlig sektor er preget av ineffektivitet. Hvis en skal referere til meddebattanter som ikke har replikkrett, bør en iallfall være såpass etterrettelig at en refererer til hva som virkelig blir sagt, og ikke til det en tror blir sagt. 
+
+
+
+
+Det som var mitt poeng, er nettopp at det er sørgelig at de ansatte i offentlig forvaltning som jobber og jobber og jobber, blir opplevd av menigmann som ineffektive, fordi de fra denne sal eller fra departementet blir pålagt så forferdelig mye tull – rett og slett – som de ikke er nødt til å gjøre for å skape et bedre samfunn. De skal kontrollere i øst og kontrollere i vest, og dette kommer ikke menigmann til gode. Når de da er opptatt med å kontrollere butikkarealer istedenfor å gjøre andre ting f.eks., opplever folk dette som ineffektivt. Det betyr ikke at de ansatte 
+
+er
+
+ ineffektive, men de bruker sin arbeidskraft på feil område, fordi de blir dirigert til feil område. 
+
+
+
+
+Lånke tok litt fatt i dette med at vi herfra skal sørge for å flytte en del statlig virksomhet ut fra Oslo til distriktene. Det kan så være. Det er meget mulig at vi må gjøre det. Men vi må jo ikke flytte ut offentlige tjenester fra Oslo med den hensikt å øke befolkningstilveksten til fraflyttingsområder. Hvis vi skal flytte en virksomhet fra ett sted til et annet, må det jo ha noe med kompetanse å gjøre. Hvis en f.eks. hadde lagt hovedkontoret for Kystverket til Haugesund istedenfor til Oslo, ville det vært et veldig positivt tiltak. Man hadde flyttet et kontor dit hvor kompetansen finnes, istedenfor å flytte kompetansen inn til Oslo. En må jo se på slike virkemidler da, hvis en ønsker å flytte på virksomheter, og ikke bruke det som befolkningsvirkemiddel i fraflyttingsområder. Så litt sammenheng her mellom hva som er fornuftig, og hva som er ren ønsketenkning når det gjelder distriktspolitikk, bør en jo kunne vente ligger til grunn. 
+
+
+
+
+En må heller ikke øke den offentlige sektor for å styrke bosettingen i distriktene, som det her flere ganger er blitt tatt til orde for, etablere servicekontorer f.eks. for å øke bosettingen i distriktene. Det er jo ikke det som er hensikten med en bedre service. Det er at folk skal få bedre service der hvor de bor, og der hvor de ønsker å bo.
+
+
+
+
+ Presidenten vil minne representanten om at ordet «tull» ikkje er eit parlamentarisk uttrykk.
+
+
+
+
+ En sluttkommentar fra min side: Jeg sa i mitt innlegg at velferdssamfunnet er avhengig av en sterk offentlig sektor, og jeg vil hevde at konkurranseutsetting gjennomført som prinsipp vil føre oss til et helt annet samfunn, et todelt samfunn, der de rike alltid får et tilbud. Det offentlige kan lett bli sittende igjen med det dårligste tilbudet på grunn av ressursmangel, det tilbudet som de svakest stilte er avhengig av. En slik utvikling ønsker ikke Arbeiderpartiet. Mange steder vil det heller ikke være grunnlag for konkurranse. Det blir snakk om å overføre offentlige monopol til privat monopol, og da er vi skikkelig ute og kjører. Jeg er glad for at statsråden i debatten i hvert fall har gitt uttrykk for visse tvilstilfeller.
+
+
+
+
+For øvrig er jeg ikke fornøyd med svaret på min replikk, om hvilke konkrete virksomheter statsråden vil privatisere. Når problemstillingen reises, burde hun ha hatt eksempler. Jeg er villig til å tilskrive det hennes korte fartstid.
+
+
+
+
+Det tas visse forbehold fra statsrådens side når det gjelder konkurranseutsetting. Man skal ikke fraskrive seg ansvar når det gjelder sentrale velferdsgoder som helsetjenester, pleie- og omsorgstjenester eller undervisning. Alle skal ha lik tilgang uavhengig av økonomi. I budsjettet for 1999 opplevde vi imidlertid at vi fikk økte egenandeler som spesielt rammer de svakeste. Privatisering vil skape store avstander mellom politikere og utøvende organ. Avstand betyr ansvarsforskyvning og kanskje krangel om hvor ansvaret ligger. 
+
+
+
+
+For øvrig litt om informasjonsteknologien til slutt. Den elektroniske kanalen, snakker statsråden om, hvor folk kan bruke elektroniske skjemaer for innrapportering, mottak av søknader og behandling av søknader. Det høres jo bra ut, men gjør vi ikke noe med utdanningsforholdene, bl.a. slik at samtlige elever får tilgang til og opplæring i bruk av PC, blir dette en illusjon for veldig mange, kanskje de fleste – selv om 1,8 millioner i dag kan knytte seg til Internett. 
+
+
+
+
+I et avisinnlegg for noen dager siden gir lederen for Lærerforbundet, Anders Folkestad, uttrykk for noen synspunkter på IT-situasjonen i skoleverket. Han viser bl.a. til mangelen på vedlikehold av utstyret og nevner eksempler på hvordan undervisningen foregår, og sier:
+
+
+
+
+
+
+
+«Truleg er det eit fåtal av elevane som har tilfredsstillande utbytte.»
+
+
+
+
+Dette understreker bare Arbeiderpartiets krav om en tilstandsrapport for skolen, ikke minst må det gjelde ungdomsskolen. Dersom det ikke skjer, er jeg redd for at vi får en stor kløft mellom dem som kan bruke IT, og dem som ikke kan, selv om vi ønsker å unngå det. Vi kan også risikere at det skjer en overføring av ressurser i det offentlige for å ivareta behovet til de sterkeste, og at de som er avhengig av den gammeldagse saksbehandlingsmåten, blir skadelidende. Da har vi også på det området fått et todelt samfunn. Derfor gjentar jeg fra mitt innlegg: Bare velferdssamfunnet sikrer rettferdighet og likhet.
+
+
+
+
+ Til foregående taler vil jeg si at det er mulig det må noen begrepsavklaringer til. Jeg snakker ikke om privatisering, men om konkurranseutsetting. Altså: Konkurranseutsetting og privatisering er faktisk ikke synonymt. 
+
+
+
+
+Så til Valle: Jeg ble bedt om å garantere for likelønn. Jeg har et ønske, for å si det slik, om at staten som arbeidsgiver skal være pådriver, slik at vi får lik lønn for likt arbeid overalt. I så måte har vel ikke staten så mye å skamme seg over. 
+
+
+
+
+Når det så gjelder konkurranseutsetting, gjelder det flere områder enn helse- og sosialsektoren. Vi snakker om hele forvaltningen når vi diskuterer i meldingen dette med at andre bl.a. skal kunne utføre en jobb. Sosialsektoren, helsesektoren og utdanningssektoren er veldig tunge områder, og det er ikke sikkert at disse områdene er de som egner seg best for konkurranseutsetting. Men vi har et utvalg på gang, og vi har sagt at vi er villig til å gå inn og se på hva som her ligger av muligheter og begrensninger når det gjelder konkurranseutsettingsområdet. Men det er andre virkemidler som vi ikke har diskutert så mye her i dag, og som kanskje spesielt relaterer seg til helsesektoren i disse dager, og det går på fristilling. Her har vi allerede sett en type endring, nemlig en fristilling av de statlige sykehusene som går fra brutto- til nettobudsjettering. Det er én type fristilling. Og vi har sett at det i helsesektoren i alle fall er et behov for å gi større fullmakter til den enkelte virksomhet. I det utvalget – Sørensen-utvalget – som nylig har avgitt sin innstilling, er det en diskusjon om dette hva gjelder sykehus. Når det gjelder konkurranse mellom offentlige bedrifter, vil jeg vise til det som står i meldingen om målestokkonkurranse, dette at vi faktisk trenger en større konkurranse mellom de ulike offentlige bedriftene. 
+
+
+
+
+Ja, vi har tenkt 30 år frem i tid, Grethe G. Fossum, og kanskje enda lenger. Vi snakker om år 2030, «Norge 2030», det prosjektet som også står omtalt i redegjørelsen. Det er en prosess og en metodikk som vi har satt i gang for å gjøre forvaltningen mer omstillingsdyktig gjennom at man trekker opp fem ulike scenarier for hvordan verden kan se ut så langt frem i tid. Og vi vil selvsagt prøve å lage en handlingsberedskap ut fra det. Men det er også like fullt en prosess og en metodikk for å gjøre forvaltningen omstillingsdyktig. Det er kjempeviktig. Og når det gjelder brukerne, er det klart at de skal være med og legge betingelsene. Det er vår visjon at brukerne skal være med og legge betingelsene. Det er ikke slik at vi skal tre ting nedover hodet på brukerne.
+
+
+
+
+ Presidenten vil gjere merksam på at talen i salen skal gå via presidenten og ikkje direkte til representantane.
+
+
+
+
+ Det er litt begrepsforvirring ute og går, sier statsråden, og det kan jeg for så vidt være enig i. Det dukket også opp et nytt begrep her for meg, og det var fra representanten fra Arbeiderpartiet Grethe G. Fossum – «høyrevridningsspiral» var det nye. Ja, hvis det er startet en sånn høyrevridningsspiral, så ble den startet i 1992 av Arbeiderpartiet.
+
+
+
+
+Jeg skal referere fra Arbeiderpartiets merknader i Innst. S. nr. 63 for 1992-93, hvor de sier:
+
+
+
+
+
+
+
+«Disse medlemmer mener at en sterk offentlig sektor er et konkurransefortrinn for norsk næringsliv.» – Men så kommer det: «På enkelte områder kan det være naturlig at det offentlige kjøper tjenester på det private marked. Selv om offentlig sektor har ansvaret for en oppgave, trenger det nødvendigvis ikke stå for utførelsen. Det må legges en hensiktsmessighetsvurdering til grunn i det enkelte tilfelle.»
+
+
+
+
+Det er akkurat det samme som står i redegjørelsen fra Regjeringen denne gangen, så det er bare en videreføring. Derfor blir en også litt skeptisk når det snakkes om 30 år. Fremskrittspartiet skulle gjerne sett at vi hadde snakket om ti år, for utviklingen må gå mye raskere enn som så, i takt med det som skjer rundt omkring oss, som også Arbeiderpartiet peker på i sine merknader i innstillingen i 1992-93.
+
+
+
+
+Jeg viste tidligere til Fremskrittspartiets merknader i den samme innstillingen. Her peker vi på alle disse områdene, ut fra de merknadene som Carl I. Hagen skrev i 1975, og fra 1975 og fram til i dag har det snart gått 30 år. Og nå skal vi altså legge opp til nye 30 år for å få den ønskede utviklingen.
+
+
+
+
+En annen ting jeg syns er meget interessant og positivt, er at statsråden i redegjørelsen bruker uttrykket «konkurranseeksponering», mens hun fra talerstolen bruker uttrykket «konkurranseutsetting». Jeg har størst sans for det uttrykket statsråden bruker fra talerstolen.
+
+
+
+
+Det er også et annet område som ikke har vært omhandlet her, og som vi kanskje kan kikke på. Det gjelder dette med at offentlig sektor, og særlig da i primærkommunene, når de ser realistisk på framtida, oppdager at dette med konkurranseutsetting utvikler seg mer og mer, og at vi går i den retningen. Men i en del tilfeller nå ser vi at forskjellige kommuner inngår avtaler med sine ansatte, avtaler som har en varighet fra to til fire år, om at de ansatte ikke skal utsettes for konkurranseutsetting på noen slags måte. I Nord-Trøndelag er det nå tre kommuner som har gjort det i avtaler med sine ansatte. Det syns jeg er meget bekymringsfullt.
+
+
+
+
+ Til foregående taler: Det er klart at noe skal skje før år 2030, og mye er jo allerede i gang. Hvis man går nøye gjennom den forvaltningspolitiske redegjørelsen, vil man finne at det er snakk om 18 helt konkrete tiltak. Det er ikke alle som er nye, initiert av denne regjeringen. Det er noen som har vært i gang, det er noen som vi har hentet fram igjen, det er en del nye tiltak, og det vil komme flere når prosjektene i «Et enklere Norge» etter hvert blir presentert utover våren.
+
+
+
+
+Jeg har lyst til å si noe mer i forhold til kommentaren som gjaldt IT, fra Grethe G. Fossum, om hvordan vi skal klare å ivareta dem som ikke kan benytte seg av informasjonsteknologi, og at vi ikke har tenkt på dem. Vi har tenkt på dem. Det er jo slik i dag at veldig mange, de aller fleste av oss kan nå denne informasjonen selv om vi ikke har en personlig maskin. Vi har skoleverket som har informasjonsteknologiske systemer – det er kanskje ikke godt nok – vi har universiteter og biblioteker, og vi ser også på offentlige servicekontorer som et sted der folk kanskje kan få sette seg ned og betjene denne type maskiner selv, det ville jo vært fint, eller i alle fall få tilgang til informasjonen via dem som jobber der. 
+
+
+
+
+Så har vi også sagt, som det også står i redegjørelsen, at de ressursene som vi eventuelt kan frigjøre ved å bruke informasjonsteknologi, vil vi i stor grad kunne bruke på å legge til rette for en bedre betjening av dem som ikke vil komme til å benytte seg av dette, for det vil alltid være en del som ikke vil kunne benytte seg av dette.
+
+
+
+
+Så til sist: I denne regjeringen har vi understreket at folk ikke bare skal oppfattes som kunder og klienter av velferdsstaten, men også som aktive deltakere og samfunnsborgere. Det offentlige kan ikke bare være et supermarked for tjenesteyting, vi må videreutvikle det offentlige som arena for demokratiske prosesser, det er noe av hovedpoenget vårt. Og i denne sammenhengen er det langt fra likegyldig hvordan vi innretter forvaltningen. Jeg tror at vi bare kan skape tillit nettopp gjennom medvirkning og deltakelse. Så sammen med brukerne, med borgerne, og forvaltningen skal vi skape et bedre Norge framover – tror jeg.
+
+
+
+
+ Dermed er debatten i sak nr. 3 over.
+
+(Votering, sjå side 3148)
+
+
+
+
+
+                    
+
+ Presidenten vil foreslå at
+arbeids- og administrasjonsministerens redegjørelse om
+forvaltningspolitikk i Stortingets møte 26. april
+1999 vedlegges protokollen. – Det anses vedtatt. 
+
+ Til sak nr. 4 foreligger det ikke
+noe voteringstema.
+
+
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+        
+
+
+            
+
+
+                
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Tilhører sak
+
+
+
+            
+
+
+	
+                        
+
+
+                            
+
+Arbeids- og administrasjonsministerens redegjørelse om forvaltningspolitikk
+
+
+                        
+
+
+                
+                    
+
+
+                        
+
+Gå til saker
+
+
+                    
+
+
+                
+
+
+
+            
+        
+
+
+    
+
+
+
+
+
+
+    
+    
+
+
+
+    
+
+
+        
+
+
+
+            
+
+Alt om
+
+
+
+            
+
+
+	
+                    
+
+
+                
+                    
+
+
+                        
+
+ Lokalforvaltning
+
+
+                    
+
+
+                
+                    
+
+
+                        
+
+ Statsforvaltning
+
+
+                    
+
+
+                
+                    
+
+
+                
+
+
+
+            
+
+
+            
+
+
+                
+
+ Gå til alle temaer
+
+
+            
+
+
+
+        
+
+
+    
+
+
+
+
+
+
+
+
+            
+
+
+        
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ Det foreligger ikke noe referat.
+
+
+
+
+
+                    
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ Følgende innkalte vararepresentanter har
+tatt sete:
+
+For Hordaland fylke: Gard 
+
+Folkvord 
+
+og
+Thorbjørn 
+
+Merkesdal. 
+
+For Telemark fylke: Kari Lise 
+
+Holmberg. 
+
+Det foreligger tre permisjonssøknader:
+
+fra representanten Fridtjof Frank 
+
+Gundersen 
+
+om permisjon i dagene 10. og
+11. mai, og fra representanten Jørgen 
+
+Kosmo 
+
+om
+permisjon i tiden fra og med 10. mai til og med 12. mai – begge
+for å delta i Den vesteuropeiske unions parlamentariske
+forsamlings møte i Bremen.
+
+fra representanten Annelise 
+
+Høegh 
+
+om
+permisjon i tiden fra og med 10. mai til og med 12. mai for å delta
+i Europarådets parlamentariske forsamlings møte
+på Malta
+
+Disse søknadene foreslås
+behandlet straks og innvilget. – Det anses vedtatt.
+
+Henholdsvis første og andre vararepresentant
+for Oslo, Anders C. 
+
+Sjaastad 
+
+og
+Merete 
+
+Agerbak-Jensen
+
+ er for tiden utenlands,
+og kan av den grunn ikke møte under representanten Annelise
+Høeghs permisjon.
+
+Etter forslag fra presidenten ble enstemmig
+besluttet:
+
+Følgende vararepresentanter innkalles
+for å møte i permisjonstiden:
+
+For Akershus fylke: André 
+
+Kvakkestad. 
+
+For Oslo: Frode 
+
+Helgerud. 
+
+For Vestfold fylke: Karin 
+
+Lian. 
+
+  André Kvakkestad, Frode
+Helgerud og Karin Lian er til stede og vil ta sete.
+
+
+
+
+
+                    
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+

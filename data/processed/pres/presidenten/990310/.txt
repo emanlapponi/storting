@@ -1,0 +1,3203 @@
+ Før vi går til
+votering, vil presidenten gjøre oppmerksom på at
+den reglementsmessige tid for formiddagens møte nå er
+over. Presidenten foreslår at vi fortsetter møtet
+inntil voteringene i de sakene som er oppført på dagens
+kart, er gjennomført – og anser det for bifalt. 
+
+Det vil da bli votert over sakene nr. 2 – 5.
+
+
+
+
+
+                
+                
+                
+
+Voteringen i en sak finnes i slutten av referatet for hver enkelt sak.
+
+
+            
+
+
+            
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+   
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+       var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Stortinget mottok mandag meddelelse fra
+Statsministerens kontor om at følgende regjeringsmedlemmer
+vil møte til muntlig spørretime:
+
+		statsråd Valgerd Svarstad
+Haugland
+
+		utenriksminister Knut Vollebæk
+
+		statsråd Ragnhild Queseth Haarstad
+
+		statsråd Eldbjørg Løwer
+
+Videre har statsminister Kjell Magne Bondevik
+bedt om å få gi tilleggsinformasjon knyttet til
+to av de hovedspørsmålene han besvarte i den muntlige
+spørretimen for en uke siden.
+
+Presidenten vil foreslå at vi starter
+den muntlige spørretimen med at statsministeren får
+ordet først, og at de som deltok i spørrerunden
+på dette temaet for en uke siden, gis anledning til å stille
+tilleggsspørsmål. Deretter fortsetter den muntlige
+spørretimen etter ordinært opplegg, og det hele
+avvikles innenfor en time.
+
+Presidenten gjør oppmerksom på at
+statsministeren ikke deltar i den videre del av spørretimen.
+På denne bakgrunn ber presidenten om Stortingets tilslutning
+til å fravike bestemmelsen for den muntlige spørretimen
+i Stortingets forretningsorden § 53 pkt. 2, slik
+at det skisserte opplegg kan gjennomføres.
+
+– Dette anses vedtatt.
+
+De annonserte regjeringsmedlemmer er til stede.
+
+De representanter som i tillegg til de forhåndspåmeldte ønsker å stille
+hovedspørsmål, bes reise seg. – Takk.
+
+  I forrige spontanspørretime fikk
+jeg, som presidenten refererte, flere spørsmål
+om EUs narkotikaovervåkingssenter. Jeg har gjennom media
+registrert ønske om utfyllende opplysninger. Det gir jeg
+gjerne, fordi jeg alltid ønsker å gi Stortinget
+så god informasjon som mulig. 
+
+EUs narkotikaovervåkingssenter er
+en selvstendig EU-institusjon med basis i unionstraktatens artikkel
+235. Senterets oppgave er å samle, analysere og spre informasjon
+om narkotika og narkotikapolitiske spørsmål, for derigjennom å sette
+medlemslandenes politikere, fagfolk og andre bedre i stand til å utforme
+effektive tiltak mot narkotikaproblemet. Norske fagmyndigheter vurderer deltakelse
+i senteret som nyttig.
+
+Opptakten til norsk samarbeid kom i januar
+1994, da daværende sosialminister Grete Knudsen skrev til
+EU-kommisær Flynn. Samme år ble Norge invitert
+til og deltok som observatør i senterets styre under dets
+møte i november. Resultatet av folkeavstemningen senere
+samme måned resulterte i at EU ikke ville la Norge beholde
+observatørstatusen.
+
+Senterets statutter åpner for deltakelse
+også for land utenfor EU. Med henvisning til disse skrev
+daværende sosialminister Hill-Marta Solberg til senterets
+styreformann i april 1995 og anmodet styret om å vurdere
+norsk deltakelse. Senterets styre gav direktøren i oppdrag å gjøre
+en vurdering av hvorvidt Norge er kvalifisert for deltakelse. Direktøren
+avla i den forbindelse Norge to besøk i 1996. 
+
+Før det siste av disse ble det sendt
+et brev fra Sosial- og helsedepartementet til senterets direktør
+29. mai 1996. Her kommer det klart fram at det fra norsk side var ønske om
+at samtalene skulle ha som utgangspunkt at norsk deltakelse skulle
+skje innenfor rammen av EØS-avtalen. Under møtet avholdt
+i departementet 3. og 4. juni samme år, sa direktøren
+for senteret seg enig i dette, men at det måtte klareres
+med senterets styre og EU-kommisjonen. Direktøren uttrykte
+dette synet overfor EF-kommisjonen i et brev av 18. november 1996.
+Dette viser at en EØS-løsning også ble lagt til
+grunn av daværende regjering.
+
+I brev av 30. september 1996 ble Sosial- og
+helsedepartementet orientert om styrevedtak i senteret, som gav direktøren
+mandat til å initiere formelle forhandlinger med Norge
+med sikte på deltakelse enten på basis av uniontraktatens
+artikler 235 og 228 eller på basis av EØS-avtalen, avhengig
+av vurdering av EU-kommisjonen. 
+
+Samtidig ble Norge invitert til å delta
+i senterets virksomhet i påvente av en endelig avtale.
+Den 5. november 1997, kort tid etter at min regjering tiltrådte,
+ble det første møtet med EU-kommisjonen vedrørende
+norsk deltakelse avholdt. Fra norsk side ble det igjen fremholdt
+at det primært var ønskelig å få til
+en avtale innenfor rammen av EØS, slik også senterets direktør
+hadde gitt uttrykk for. EU-kommisjonen stilte seg i utgangspunktet avvisende
+til dette.
+
+I februar 1998 gav kommisjonen uttrykk for
+at hovedårsaken var at Norge tilsynelatende stod alene
+på EFTA-siden med ønske om tilknytning til senteret.
+På denne bakgrunn ble det tatt kontakt med Island med sikte
+på å kartlegge eventuell islandsk interesse for
+deltakelse på grunnlag av EØS-avtalen.
+
+Spørsmålet ble tatt opp i
+EFTA-kretsen og med Island en rekke ganger i løpet av 1998.
+Det tok vesentlig lengre tid enn forutsatt å få en
+avklaring av Islands holdning. Først i desember 1998 forelå det
+tilstrekkelig grunnlag for å ta saken opp på nytt
+overfor kommisjonen, basert på en EØS-løsning
+både for Norge og Island.
+
+Den 26. januar i år ble et nytt møte
+avholdt med EU-kommisjonen, som igjen avviste en EØS-løsning,
+denne gangen også i form av et etterfølgende såkalt «non-paper»,
+som først ble kjent for meg etter at jeg hadde vært
+i spontanspørretimen forrige onsdag.
+
+En hovedårsak til at Norge har gått
+inn for EØS-sporet, er at dette best ville sikre norske rettigheter
+som observatør i senterets aktiviteter. Dette ville gi
+rettigheter til deltakelse utover det som fremgår av utkastet
+til bilateral avtale som kommisjonen har fremlagt. I tillegg ville
+det økonomiske bidragets størrelse da blitt lavere
+enn det som hittil er stilt i utsikt fra EU-siden. Dette er grunnen til
+at Regjeringen har holdt på EØS-sporet.
+
+Når vi nå, etter avklaringen
+med Island, har fått skriftlig melding, riktignok såpass
+uformelt som i et «non-paper», om at deltakelse
+innenfor EØS-avtalens ramme ikke er aktuelt, er Regjeringen innstilt
+på å forhandle på et annet grunnlag,
+i form av tredjelandsavtale. Denne holdning varslet jeg også i
+mine svar til Jan Petersen og Haakon Blankenborg i spontanspørretimen.
+Forhandlingsresultatet må så selvsagt vurderes
+på vanlig måte. Inntil vårt framtidige
+forhold blir avklart, kan Norge fortsette det praktiske samarbeidet
+med senteret.
+
+Flere, bl.a. representanter som tok saken opp
+her i Stortinget forrige onsdag, snakket om fullt norsk medlemskap
+i senteret. Det kan virke misvisende. Artikkel 13 i senterets forordning åpner
+for deltakelse i senteret for land utenfor EU på basis
+av avtale inngått mellom partene. Av institusjonelle årsaker
+har EU aldri gått med på at tredjeland får
+samme status som medlemsland i fellesskapets organer eller i institusjoner
+opprettet av fellesskapet. Dette har vi også blitt møtt
+med i Schengen-sammenheng. Det har hele tiden formelt vært
+forutsatt at Norge skal ha observatørstatus med talerett,
+på samme måte som andre deltakende tredjeland.
+Kommisjonens avtaleutkast omtaler derfor også Norges deltakelse
+som observatørdeltakelse.
+
+Norge har i min regjerings funksjonstid, foruten å ha avholdt
+to møter med EU-kommisjonen, fortsatt sitt engasjement
+som observatør i senterets styre, dets vitenskapelige komite
+og i nettverket for nasjonale kontaktorgan. I tillegg har Norge
+fra 1998 vært med i en ekspertgruppe som skal komme fram
+til sammenlignbare anslag over narkotikamisbruk i EU-land og Norge.
+Siktemålet er å få en rapport i løpet
+av året.
+
+Regjeringen har altså ikke lagt saken
+vekk, slik noen hevdet i forrige spontanspørretime.
+
+  Thorbjørn Jagland – til
+oppfølgingsspørsmål.
+
+  Utgangspunktet var jo ikke at noen hevdet
+det, det var at sosialminister Meltveit Kleppa hadde sagt til Bergens
+Tidende at Regjeringen hadde nedprioritert saken, noe som var i
+strid med Stortingets innstilling. Det ble heller ikke redegjort
+for dette i utenriksministerens Europa-redegjørelse.
+
+Statsministeren svarte i spontanspørretimen
+at det ikke var tilfellet at saken var nedprioritert, men skyldte på EU.
+Han sa at EU ikke har avklart sitt syn, og at vi venter på svar.
+
+Dette synes å være i strid
+med de faktiske forhold. James Howat Russel, som er tilknyttet
+EU-kommisjonen, sa til Bergens Tidende i går at det allerede
+i november 1997 og igjen i januar-februar 1998 ble gitt beskjed
+om at en EØS-ramme ikke var mulig. Det synes derfor som om statsministeren
+ikke gav riktige opplysninger da han var her i spontanspørretimen,
+og det er fortsatt uklart hva Regjeringen har gjort. Howat Russel
+sier også at det er EU som hele tiden har tatt initiativ
+til å få avklaringer og møter, så jeg
+ber statsministeren om å forholde seg til det James Howat
+Russel sa til Bergens Tidende i går, om dette er riktige
+opplysninger.
+
+  Svaret på dette skulle fremgå av
+min redegjørelse. 
+
+En hovedbegrunnelse fra EUs side for ikke å akseptere
+at en skulle finne en løsning innenfor EØS-avtalens ramme,
+var tidligere at Norge var det eneste EFTA-land som hadde uttrykt ønske
+om en tilknytning til senteret. Derfor tok Norge, som jeg sa i min
+redegjørelse nå, dette opp i EFTA-kretsen, og
+spesielt med Island for å undersøke dette landets
+interesse.
+
+Avklaringen i forhold til Island kom ikke før
+i slutten av 1998, altså for kort tid siden. På det
+grunnlaget ble det et nytt møte i kommisjonen i januar,
+og vi har nylig fått EU-kommisjonens reaksjon på dette,
+riktignok nokså uformelt i form av et såkalt «non-paper».
+Det er det vi nå forholder oss til, og på det
+grunnlaget har jeg sagt at vi får ta det svaret til etterretning
+og oppta forhandlinger på en annen basis, nemlig en tredjelandsavtale.
+
+  Haakon Blankenborg – til
+oppfølgingsspørsmål.
+
+  Eg har aldri tvilt på at statsministeren
+har vore interessert i eit så tett samarbeid med EU som
+mogleg. Men det er ikkje det som er problemet her. Problemet er
+at det i den førre spørjetimen vart sagt at ein
+venta på EUs avklaring i forhold til EØS.
+
+No er det på det reine at det var
+Noreg og EFTA-sida som forseinka dette. Det var ikkje EU, for EU
+hadde avklart sitt syn på ulike måtar, i alle
+fall frå november 1997, like etter regjeringsskiftet, og
+fram til i dag, så den sida av saka verkar heilt openberr.
+Ansvaret låg på norsk side og på Regjeringas
+side, kanskje også på ei anna EFTA-regjerings
+side.
+
+Dessutan har vi utsegna frå sosialministeren
+om at dette ikkje var ei prioritert sak. Det er så langt
+ikkje kommentert. Eg vil gjerne ha ein kommentar frå statsministeren
+på akkurat det punktet. 
+
+Når statsministeren no seier at han
+vil starte på ny frisk med sikte på maksimal deltaking,
+er vi naturlegvis glade for det.
+
+  Jeg er ikke enig i at Norge forsinket dette,
+for EU brukte som argument at andre EFTA-land ikke var interessert.
+Da måtte vi undersøke om andre EFTA-land 
+
+var
+
+ interessert.
+
+Det som er leitt, er at det gikk så lang
+tid for å få avklart det, spesielt i forhold til
+Island. Men det fikk vi altså avklart i slutten av 1998,
+og etter det ble det raskt et møte. Regjeringen er innstilt
+på raskt å følge opp konsekvensen av
+det møtet, nemlig en beskjed om at fortsatt er EØS-avtalen
+ikke aktuell.
+
+Jeg beklager at EØS-avtalen ikke er aktuell,
+og det tror jeg også Arbeiderpartiet vil erkjenne. Det
+ville vært bedre for Norge både når det
+gjelder institusjonelle løsninger, møtedeltakelse
+og økonomiske bidrag. Det var vel også derfor
+arbeiderpartiregjeringen arbeidet for det.
+
+Jeg må også si når
+det gjelder anklagen om forsinkelse, at to arbeiderpartiregjeringer
+holdt på med denne saken i tre og et halvt år.
+Vi har altså holdt på i knapt halvannet år – så får
+den enkelte vurdere dette. Men vi er interessert i å komme
+med og arbeider med det.
+
+Når det gjelder statsråd
+Meltveit Kleppas uttalelse …(Presidenten klubber.) Får
+jeg ikke anledning til å kommentere det?
+
+ Tiden er dessverre omme.
+
+ Jeg får ta det i svaret til Jan Petersen,
+selv om ikke han spør om det. Eller kanskje han gjør
+det?
+
+ Det vil tiden vise.
+
+Jan Petersen – siste oppfølgingsspørsmål.
+
+  Da er ett av mine spørsmål
+allerede stilt. Siden statsministeren i forrige uke meget langt
+på vei indikerte at statsråd Meltveit Kleppa var
+feilsitert i Bergens Tidende, spør jeg rett og slett: Vil
+statsministeren virkelig fastholde dette etter at samtalen har vært skrevet
+ut i sin helhet for offentligheten?
+
+Når statsministeren i forrige spontanspørretime
+sa at alle har vært enige om EØS-sporet hele tiden, hvilken vekt
+legger han på følgende, som står i narkotikameldingen,
+St.meld. nr. 16 for 1996-97:
+
+«… forhandlinger
+om medlemskap vil innledes 1997.»
+
+Når man allerede så tidlig
+snakket om medlemskap, hvordan kan statsministeren fastholde at
+alle har vært enige om EØS-sporet helt til i dag?
+
+Jeg håper imidlertid at resultatet
+av denne runden vil være at Regjeringen heretter setter
+fullt trykk på dette arbeidet, fordi norsk narkotikapolitikk
+vil ha stor glede av at et samarbeid på dette området.
+
+  Som jeg sa i mitt første svar, er
+uttrykket «medlemskap» i denne sammenhengen misvisende.
+Det var det også selv om det stod i en stortingsmelding
+utarbeidet av en arbeiderpartiregjering, fordi tredjeland kan ikke
+bli fullt medlem i dette senteret. Når også Jan
+Petersen brukte det forrige onsdag, var det faktisk misvisende.
+I senterets forordning snakkes det om deltakelse på basis
+av en avtale. Og det er min oppfatning – og det var også arbeiderpartiregjeringenes
+oppfatning – at å få dette til innenfor
+EØS-avtalen faktisk er bedre for Norge enn det vi nå risikerer.
+Da kunne vi deltatt mer på møter og faktisk betalt
+mindre. Nå må vi trolig betale mer og delta mindre
+på møter. Men vi skal nå slåss
+for en tredjelandsavtale som blir så god som mulig.
+
+Når det gjelder statsråd
+Meltveit Kleppa, har hun i det sitatet som er gjentatt til det kjedsommelige,
+svart på et spørsmål fra journalisten
+som spurte om det var slik at samtalene og arbeidet med dette medlemskapet
+ble stoppet. Og da sa hun: «Jeg gav nok beskjed til embetsverket om
+at denne saken ikke skulle prioriteres høyt» med
+det samme vi kom inn i departementet. (Presidenten klubber.) Hun
+erkjente at hun har uttalt seg uklart på dette punkt, men
+det har vitterlig også en del representanter som har snakket
+om medlemskap, gjort. Men vi …
+
+  Dermed er taletiden omme, og vi
+går videre til første hovedspørsmål. 
+
+  Jeg har følgende spørsmål
+til arbeids- og administrasjonsministeren:
+
+Prognosene for utviklingen på det
+norske arbeidsmarkedet viser at det er grunn til å ta signalene
+om at en økende ledighet er på gang, høyst
+alvorlig. Også på Sørlandet ser vi økende
+problemer ved enkelte større bedrifter. Aviser og medier
+i landsdelen har de siste dagene vært dominert av de dystre
+utsiktene for en del bedrifter i Agder-fylkene, som Bredero Price
+i Vest-Agder, Norton i Aust-Agder og bildelfabrikken A-CMI i Vest-Agder. Flere
+hundre ansatte ved disse bedriftene frykter for sine arbeidsplasser
+dersom dette fører til oppsigelser.
+
+Mitt spørsmål til statsråden
+er: Er statsråden kjent med og vil hun følge med
+i de problemene disse bedriftene og arbeidsmarkedet i denne landsdelen
+står overfor? Vil Regjeringen ta dette som nå skjer,
+(presidenten klubber) på fullt alvor, og se hva man kan
+gjøre med bl.a. de norske skatte- og avgiftsbestemmelsene,
+de tyngende miljøpåleggene og (presidenten klubber)
+de rigide arbeidslivsbestemmelsene som hemmer bedriftene?
+
+ Presidenten ber representantene holde seg
+innenfor den tildelte taletid. Presidenten vil også anmode
+om noe mer ro i salen.
+
+  Jeg vil forsikre representanten at vi følger
+denne utviklingen svært nøye. Vi vil, som vi har
+sagt til Stortinget ved flere anledninger, komme tilbake til Stortinget
+på det tidspunktet det er nødvendig, for eventuelt å se
+på tiltaksnivået. Representanten nevner også andre
+rammebetingelser for næringslivet. Den viktigste forbedring
+i rammebetingelsene for næringslivet, slik vi ser det,
+er at renten går ned. Den går i gunstig retning
+nå. 
+
+I tillegg har vi hatt møter med oljeindustrien
+og verkstedindustrien for spesielt å se på de
+signaler som kommer fra disse områdene. De har også lagt
+en del ønsker og krav om endrede rammebetingelser på statsrådens bord.
+Vi vil se på dette fram til framleggelsen av revidert nasjonalbudsjett,
+og se om det kan foretas endringer i rammebetingelsene som vil være
+fornuftige i den sammenheng. 
+
+Så mitt svar til representanten er
+at dette har vi under full oppsikt, og at vi vil komme tilbake til
+Stortinget når det er tid for det.
+
+  Det er svært kostbart å ansette
+folk. Bestemmelsene i arbeidsmiljøloven er strenge. Utleie
+og formidling av arbeidskraft er i en tilnærmet offentlig
+monopolsituasjon, samtidig som det offentlige beskatter hver arbeidsplass
+mer enn det man gjør i de fleste andre land. Alt dette
+har bidratt til at både næringslivet og arbeidsmarkedet
+mangler de rette rammevilkårene å innrette seg
+etter. Gjør en ikke noe med disse problemene, vil vi se
+at det som nå skjer innen større bedrifter, bl.a.
+på Sørlandet, bare er en begynnelse på en
+nedtur som norsk industri vil kunne få føle enda
+mer tyngende i framtiden. 
+
+Har Regjeringen den nødvendige forståelse
+av og oversikt over kompleksiteten i det som nå er i ferd
+med å skje når det gjelder både rammevilkårene
+for industrien og innrettingen av en norsk arbeidsmarkedspolitikk,
+for å kunne stoppe eller begrense den negative utviklingen
+vi aner er i ferd med å tre fram her?
+
+  Representanten tok opp store deler av det
+som er budsjettforutsetningene for næringslivet. Det har
+vi selvfølgelig også muligheter til å forbedre,
+og vi har en diskusjon om dette i det begynnende arbeidet med neste års
+budsjett. Hvis det er mulig å gjøre noe i år,
+skal vi se om det kan la seg innpasse. 
+
+Når det gjelder forholdene på arbeidsmarkedet – representanten
+nevnte arbeidsleie, men jeg regner med at han kanskje også tenkte
+på arbeidsformidling – har jeg oppfølging
+av Blaalid-utvalgets innstilling under forberedelse til Regjeringen.
+Den saken har Regjeringen lovet at den skal legge fram for Stortinget
+i løpet av vårsesjonen, og det skal vi holde.
+Da vil Stortinget kunne få en diskusjon rundt arbeidsmarkedets
+virkemåte, og i tilfelle det er noe der som ikke er fornuftig,
+har vi mulighet til å rette på det.
+
+  Karin Andersen – til oppfølgingsspørsmål.
+
+  Det for å bedre arbeidsmarkedets
+konkurranseevne, og dermed bedriftene, tror jeg er en stor satsing
+på utdanning og etterutdanning. Men i tillegg til det:
+Næringslivets Ukeavis meldte i forrige uke at svart økonomi
+har økt med 100 prosent, og de anslår
+at 130 mill. kr unndras beskatning. Det er jo
+også en stor belastning for et seriøst arbeidsliv
+og et seriøst næringsliv.
+
+Ser arbeids- og administrasjonsministeren kampen mot
+svart arbeid som en mye viktigere del i kampen for å bedre
+konkurransevilkårene for det seriøse arbeidslivet enn
+f.eks. angrep på faglige rettigheter?
+
+  Jeg vet ikke hva representanten mente med
+angrep på faglige rettigheter. Det er klart at utdannings-
+og kompetansereformen fremover er helt avgjørende for om
+vi kan ta i bruk den arbeidskraften vi har i dette landet, på en
+fornuftig måte. Det vil vi komme tilbake til når
+vi skal diskutere kompetansereformen og i forbindelse med lønnsoppgjørene.
+Jeg er helt sikker på at mye av endringen i kompetansebehovet
+vi har i dag, ikke lar seg løse gjennom arbeidsmarkedskurs, men
+faktisk gjennom omskolering. Så der må vi også ta et
+krafttak. 
+
+Når det gjelder den svarte økonomien,
+er det klart for enhver at en dimensjon som den som ble antydet
+i Næringslivets Ukeavis, ja bare halvparten av
+den, er en kjempedimensjon og en trussel mot det som ellers burde gå til
+våre fellesskapsløsninger. Det kan vi muligens
+gjøre noe med hvis vi styrker Skattedirektoratets mulighet til å ta
+fatt på det problemet.
+
+ Det blir oppfølgingsspørsmål – Signe Øye.
+
+  Det blir litt rart når Fremskrittspartiet kommer
+og ber om mer midler til arbeidsmarkedstiltak og tiltak ellers,
+et parti som har vært med på å hjelpe
+Regjeringen med å skjære ytterligere i arbeidsmarkedstiltakene
+for i år. 
+
+Jeg hører hva statsråden
+svarer, hun sier at hun følger svært nøye
+med. Det er ikke bare i Agder-fylkene det er stadige nedleggelser
+av arbeidsplasser, veldig mange er nå ledige og har ingen
+jobb å gå til. Likevel kommer ikke Regjeringen
+med tiltak. Statsråden sier at de skal komme tilbake når
+det passer. Vi vet at det er 60 000 ledige nå, og
+at det bare er 7 000 som får mulighet til å gå på tiltak
+i år. De andre 50 000 får klare seg selv,
+det er liksom plata. Da må jeg spørre statsråden:
+Er det nå sikkert at statsråden vil komme med
+nye tiltak i revidert nasjonalbudsjett?
+
+(Det foregår høy samtale
+i rotunden)
+
+  Presidenten vil anmode om at de
+representanter som befinner seg i rotunden, henlegger sin konferanse
+enten til annen tid eller til annet sted – og dermed bidrar
+til at det blir ro i salen.
+
+  Jeg har til nå registrert alle permisjonsvarsler
+og varsler om permisjonsvarsler og oppsigelser som kommer. Tallene
+så langt gir oss ikke akkurat noen direkte begrunnelse
+for å øke tiltaksnivået. Vi er klar over
+at noen mener tiltaksnivået burde vært høyere
+enn det er, men om noen av disse permisjonene og eventuelt oppsigelsene
+gir seg utslag i endrede tall for ledige, vil vi komme tilbake til
+Stortinget. Det har vi sagt mange ganger. – Jeg begynner å lyde
+som min egen reprise, men jeg har ikke noe annet svar enn det.
+
+  Vi går videre til neste
+hovedspørsmål.
+
+  Jeg vil stille et spørsmål
+til statsråd Ragnhild Queseth Haarstad.
+
+Kommunal- og regionaldepartementet har nå fordelt 50 mill. kr
+i ekstra skjønnstilskudd til 150 kommuner med udelte og
+fådelte skoler. De ekstra midlene er gått som
+en økning i rammetilskuddet til kommunene, og jeg er i
+tvil om pengene blir brukt slik de er tenkt, når de ikke øremerkes.
+Min erfaring er at de ikke treffer der de skal treffe, nemlig til
+opprettholdelse av grendeskolene. Mitt spørsmål
+til statsråden blir: Hvorfor vil ikke statsråden øremerke
+disse ekstra skjønnsmidlene slik at de kan treffe rett
+og ikke bli lagt til rammetilskuddet, slik at kommunene kan bruke
+dem til alt annet enn å opprettholde grendeskolene?
+
+  Stortinget bevilget 50 mill. kr
+ekstra i skjønnstilskudd som skulle kanaliseres til kommuner
+som hadde det spesielt vanskelig økonomisk, hvor de hadde
+en struktur på skolesystemet som gjorde at det kunne være
+vanskelig å opprettholde grendeskolene. Det skulle dessuten
+tas særlig hensyn til de kommunene som fikk problemer på grunn
+av omleggingen av skattesystemet, ved at selskapsskatten ble gjort
+statlig. De skulle også tilgodeses spesielt. Det vi har gjort
+fra departementets side, er å fordele midlene til de forskjellige
+fylkesmennene etter at vi hadde fått fylkesmennenes vurdering
+av hvilke kommuner som hadde disse spesielle problemene. Fylkesmennene
+har så fordelt midlene ut fra den kunnskap de har om situasjonen
+i de enkelte kommunene, og ikke minst den kunnskap de har om den
+enkelte kommunes økonomi.
+
+Jeg forventer at kommunene som får
+disse ekstra skjønnsmidlene, faktisk bruker de pengene
+til det de er ment å gå til.
+
+  Statsråden vil jo ikke høre
+hva jeg spør om! Når jeg spør hvorfor
+hun ikke øremerker midlene, sier hun at hun håper
+kommunene bruker dem til å opprettholde grendeskolene.
+Jeg tror statsråden forsøker å ri to
+hester på samme tid: Hun prøver seg på distriktspolitikk
+og kommunal frihet, og hun prøver seg på sentral
+fordeling av skjønnsmidler og skolepolitikk – og
+dette går ikke i hop. Spørsmålet mitt
+blir: Hva skal statsråden gjøre hvis det blir
+nedlagt grendeskoler i kommuner som har fått skjønnstilskudd?
+
+  Jeg må få lov å minne
+om at det er Stortinget som vedtar budsjettet. Stortinget har ikke
+vedtatt at disse 50 mill. kr skulle øremerkes
+til grendeskoler. Stortinget vedtok at 50 mill. kr skulle
+brukes som skjønnstilskudd til de kommunene som trengte
+det, som hadde ekstra økonomiske problemer, og kommuner
+som fikk problemer på grunn av at selskapsskatten ble gjort
+statlig. Det er på bakgrunn av den kunnskap den enkelte
+fylkesmann har om kommunene i fylket, pengene er fordelt. Jeg må altså minne
+om at det er Stortinget som vedtar hvorvidt pengene skal være øremerket
+eller være skjønnsmidler. Stortinget har vedtatt
+skjønn.
+
+  Vi går videre til neste
+hovedspørsmål.
+
+  Mitt spørsmål går
+til arbeids- og administrasjonsministeren.
+
+Ved Regjeringens tiltredelse lovet Regjeringen å se
+på arbeidsmarkedets funksjonsevne, særlig utleie-
+og formidlingsbestemmelsene, som er rigorøse i Norge. Økt søkelys
+er nå satt på dette fordi konkurransevilkårene mellom
+Norge og utlandet er kommet mer i fokus på grunnlag av
+bl.a. åpen og fri økonomi. Jeg registrerer at vi
+ikke kommer lenger med å få avklart hva Regjeringen mener,
+enn at den vil varsle en stortingsmelding om Blaalid-utvalget
+i vår, så jeg skal la det ligge. 
+
+Men det er en annen bit av dette hvor statsråden
+nå iallfall kan avklare om Regjeringen har ett eller flere
+syn. Regjeringen har varslet å nedsette et utvalg som skal
+se på overtidsbestemmelsene. I dette utvalget har arbeidstakerorganisasjonene
+gått imot å sitte, og senterpartirepresentanten
+Morten Lund uttaler i Dagsavisen denne uken at han «er
+svært fornøyd med at LO nekter å delta
+i regjeringsutvalget som skal vurdere økt bruk av overtid».
+
+Hva er statsrådens syn på dette?
+
+  Arbeidsmiljølovgivningen ligger under
+kommunal- og regionalministeren, så hvis det tillates er
+hun den rette til å svare på det.
+
+ Med største glede, president.
+
+  Da overlater vi ordet til statsråd
+Ragnhild Queseth Haarstad.
+
+  Jeg kan forstå at representanten
+Foss har litt problemer med å vite hvilke saker som ligger
+i hvilket departement, men jeg skal svare på spørsmålet. 
+
+Det er riktig at vi inviterte alle arbeidstaker-
+og arbeidsgiverorganisasjonene til å være med
+i et utvalg som skulle se på overtid når det gjaldt én
+og fire uker. Dette er i tråd med det som et flertall i
+Stortinget vedtok like før jul.
+
+ Det er riktig at arbeidstakerorganisasjonene
+har sagt nei til å delta. De henviser til at Regjeringen
+nå er i ferd med å opprette et utvalg, som vi
+skal kalle arbeidslivsutvalg, som skal ta for seg bl. a. fleksibiliteten
+i arbeidsmarkedet, hvilke behov vi har for endringer på grunn
+av endringene i arbeidslivet og arbeidstiden framover, bl. a. utviklingen
+av hjemmearbeid, som ser ut til å komme i økende
+grad. Det utvalget har alle organisasjonene sagt seg villige til å delta
+i. Utvalget er i ferd med å bli oppnevnt og skal levere
+sin første delinnstilling allerede til høsten.
+Vi har forventninger om at utvalget også vil kunne se nærmere
+på de spørsmålene som representanten Foss
+tar opp. 
+
+  Dette var ytterligere uklart. Jeg trodde det
+skulle bli klarere når statsråd Queseth Haarstad
+fikk anledning til å korrigere en av sine egne partifeller.
+Det Morten Lund her uttaler, er at den avtalen som regjeringspartiene
+her i Stortinget har inngått med Høyre og Fremskrittspartiet,
+ikke skal realiseres. I den avtalen står det uttrykkelig
+at det skal nedsettes et utvalg for å se på overtidsbestemmelsene,
+og det er ikke slik representanten Morten Lund sier til Dagsavisen: «Det
+er LO som bestemmer. Denne saken taper regjeringen.» 
+
+Jeg vil gjerne be statsråd Queseth
+Haarstad kommentere både det prinsipielle syn, at det er
+LO som bestemmer uansett og at Regjeringen taper, og dernest spørsmålet:
+Holder han avtalens formulering om at et utvalg skal nedsettes for å se
+på overtidsbestemmelsene? Da er det heller ikke slik som
+representanten Morten Lund uttaler, at meningen er at disse overtidsreglene
+skal fastholdes slik som de er nå. 
+
+  Som jeg sa, nedsetter vi nå for det
+første dette arbeidslivsutvalget som skal se på det
+som går på arbeidsmiljø, stillingsvern og
+medbestemmelse. Det skal også se på fleksibiliteten
+i det framtidige arbeidsmarkedet. Det har både alle arbeidstaker-
+og arbeidsgiverorganisasjonene sagt seg interessert i og villige
+til å være med i. Dette utvalget skal da avgi
+en innstilling allerede til høsten.
+
+ En av de oppgavene de også vil få,
+er å se på overtidsbestemmelsene. Det er riktig
+at vi parallelt med dette ønsket å sette ned et
+utvalg som kunne se bare på overtidsbestemmelsene, i tråd
+med det et flertall i Stortinget vedtok før jul. Men det
+sier seg selv at et partssammensatt utvalg hvor ingen av arbeidstakerorganisasjonene ønsker å delta,
+blir litt vanskelig å få gjennomført.
+Det gjør at vi er nødt til å kanalisere
+også dette arbeidet inn i det utvalget hvor alle parter
+sier de skal være med. 
+
+  Lars Arne Ryssdal – til
+oppfølgingsspørsmål.
+
+  Det er ikke lett å fortolke hvordan
+Regjeringen vil forholde seg til dette. Jeg vil be statsråd
+Queseth Haarstad bekrefte at hun ikke deler representanten Morten
+Lunds synspunkt, at når organisasjonene ikke vil delta
+i dette arbeidet, betyr det at Regjeringen ikke vil ta et standpunkt
+og ikke vil utrede dette nærmere.
+
+ Kan statsråden bekrefte at hun vil
+komme frem til et standpunkt i tråd med avtalen som ble
+inngått mellom partiene i Stortinget sist høst,
+og at LO og de andre organisasjonenes fravær ikke vil forsinke
+det arbeidet? 
+
+  Jeg har forsøkt å forklare
+at det ikke bare er LO, men også Akademikerne, AF og YS
+som har sagt nei til å delta i et utvalg som bare skal
+se på overtidsbestemmelsene. Men alle arbeidstakerorganisasjonene
+har sagt ja til å sitte i arbeidslivsutvalget, som skal
+se på økt fleksibilitet i arbeidslivet, og som
+skal vurdere hvilke behov for økt fleksibilitet næringslivet
+har og selvfølgelig også behovet som arbeidstakerne
+har for mer fleksible arbeidstidsordninger. Utvalget vil selvfølgelig
+også ha muligheten til å vurdere overtidsbestemmelsene,
+fordi det ligger i det å få til mer fleksibilitet.
+Utvalget vi er i ferd med å nedsette, skal avgi en delinnstilling
+til høsten. Som representanten sikkert forstår,
+er det vanskelig å få nedsatt et partssammensatt
+utvalg når samtlige arbeidstakerorganisasjoner sier nei
+til å delta. (Presidenten klubber.) Vi må få lov
+til å komme tilbake til dette når vi får
+vurdert nærmere hvordan vi skal gå videre. 
+
+  Presidenten ber om at man holder
+seg innenfor de fastlagte tidsrammer. 
+
+Vi går videre til neste hovedspørsmål.
+
+ Jeg vil få stille følgende
+spørsmål til barne- og familieministeren.
+
+Regjeringen har vært opptatt av å ha
+en meget høg verdiprofil og gjøre seg til talsmann
+for de aller svakeste i vårt samfunn, og Arbeiderpartiet
+ble i regjeringsposisjon gjentatte ganger konfrontert med at vi øker
+forskjellen mellom de fattigste og de rikeste her i landet. I disse dager
+mister 200 000 retten til sykepenger, og det er lavtlønte
+med inntekt under 56 000 kr som mister denne retten. Synes
+ikke statsråden det blir et moralsk spørsmål når
+rike, velstående familier får kontantstøtte,
+mens sosialhjelpsmottakerne mister den? Og jeg må spørre
+hvordan statsråden fortsatt kan sitte helt handlingslammet
+og se på at det skjer en så stor grad av forskjellsbehandling
+i kommunene våre. Er det etter statsrådens oppfatning
+riktig at en i Bergen skal få utbetalt kontantstøtte
+hvis en er sosialklient, mens en i Oslo ikke skal få det?
+Føler ikke barne- og familieministeren et ansvar for en
+ordning hun selv har hastet igjennom?
+
+  Representanten Orheim stilte i grunnen ganske
+mange spørsmål i eitt og same spørsmål.
+Eg skal prøva å svara på det meste av
+det.
+
+Når det gjeld retten til sjukepengeutbetalingar,
+har eg lyst til å minna om at situasjonen er uendra for
+dei to fyrste vekene av ein sjukemeldingsperiode, som då gjeld
+dei fleste. Eg kan gjerne innrømma at det var ikkje det
+lettaste forslaget å bera fram i budsjettet,
+men vi var nøydde til å finna innstrammingar i
+budsjettet for at vi skulle få ned renta. Og då var
+det fleire tiltak der som ikkje var lette å bera fram,
+og dette var eitt av dei. Det har eg ikkje problem med å innrømma. 
+
+Når det gjeld kontantstøtta,
+går den etter vedtaket av statsbudsjettet til både
+rike og fattige – det gjer den – og det gjer òg
+støtta til barnehageplass, den går òg
+til rike og fattige. Når det gjeld den statlege støtta
+til kontantstøttemottakarane, er det akkurat det same systemet
+som for den statlege støtta til barnehageplassane. 
+
+Når det gjeld forskjellshandsaminga
+mellom Oslo og Bergen, er det noko som Regjeringa kjem tilbake til
+når vi skal legga fram stortingsmeldinga om utjamning av
+levekår. Det finst ikkje noka lov i dag som gjer
+meg heimel til å pålegga kommunane å føra
+den same praksisen, men eg reknar med at når stortingsmeldinga
+kjem til Stortinget, har Regjeringa òg tatt standpunkt,
+og vi må då eventuelt fylgja opp dei vedtaka som
+blir fatta.
+
+Eg har òg lyst til å seia
+at det er veldig store skilnader i dag òg i støttebeløpet
+til sosialhjelpsmottakarar, nokon får mindre, og nokon
+får meir. Dermed har kommunane ein fridom til å vurdera
+dette, og eg har – fordi det er så stor skilnad
+frå den eine kommunen til den andre, sagt at det får
+gå, men eg vonar at vi kan få eit likare system
+i alle kommunane våre.
+
+  Kontantstøtten går ikke
+til både fattig og rik så lenge vi ser at kommunene
+praktiserer så ulikt som de gjør. Og det holder
+heller ikke, som statsråden nettopp har gjort i denne saken, å anbefale
+kommunene å ha en lik praksis. Barne- og familieministeren
+har gang på gang blitt konfrontert med denne problemstillingen
+uten at hun har tatt et konkret initiativ. Meningen med kontantstøtten
+var vel ikke at den skulle redusere kommunenes sosialutgifter? Det
+blir i hvert fall ikke en riktig framstilling, slik statsråden
+har gjort gjennom media den siste tiden, når hun virker
+noe overrasket over det som nå skjer i Kommune-Norge. Hun ble
+bl.a. stilt et skriftlig spørsmål om dette den
+22. september i fjor av representanten Signe Øye. Jeg mener at statsråden
+bør handle nå gjennom et forslag til lovvedtak. Det
+nytter ikke å vente til vårparten med å komme
+med en lovendring. Vi vet nok, vi vet at 80  pst. av kommunene
+kutter i kontantstøtten.
+
+  Eg skjønar at representanten er utolmodig.
+Men vi har lagt eit løp her i Regjeringa som eg stiller
+meg fullt ut bak. No veit vi at vi òg i alle åra
+som ligg bak oss, har hatt eit veldig ulikt støttenivå når
+det gjeld sosialhjelpsutbetaling, og det er ein av dei tinga vi
+ynskjer å sjå på i stortingsmeldinga
+om utjamning av levekår. Og så lenge det er såpass
+store skilnader, får vi leva med denne skilnaden òg,
+og eg ynskjer å seia at kommunane sjølve har fridom
+til å vudera om dei ynskjer at kontantstøtteordninga
+skal reknast med eller ikkje reknast med. 
+
+Om eg vart overraska – eg vart vel
+kanskje overraska over tala, ikkje over at det kom til å bli
+forskjellar. Det visste eg, fordi vi ikkje klart sa frå og
+fremma lovforslag om at det skulle vera lik praksis. Men som representanten sikkert
+veit, er det ulik praksis når det gjeld barnetrygda, og
+det har vore slik i alle år utan at den førre
+regjeringa har tatt tak i det. No har vi tatt tak i begge desse
+ordningane for at det skal bli ei jamnare fordeling av støtta,
+og då vonar eg òg at det blir likare i tida som
+kjem.
+
+  Det blir oppfølgingsspørsmål – Inger Stolt-Nielsen.
+
+ Jeg vil gjerne stille statsråden et
+oppfølgingsspørsmål om hva Regjeringen
+egentlig mener, hva den egentlig ønsker. Barne- og familieministeren
+har ved flere anledninger gitt uttrykk for at hun sterkt beklager
+at enkelte kommuner innregner kontantstøtten som en del
+av inntektsgrunnlaget for sosialhjelpsmottagere. Men i rundskriv
+til kommunene sendt ut fra Helse- og sosialdepartementet den 1.
+desember 1998 står det klart at kontantstøtten
+er blant de økonomiske rettigheter som skal innregnes i
+inntektsgrunnlaget før sosialhjelp utbetales. Nå er
+det slik at det stort sett er byråkrater som leser rundskriv,
+og det er stort sett foreldre og andre velgere som leser aviser
+og hører på TV-sendinger, så hvordan
+vil statsråden forklare denne dobbeltkommunikasjonen fra
+Regjeringens side?
+
+  Ja, Sosial- og helsedepartementet har sendt
+ut eit rundskriv, som representanten seier, og der står
+det at kontantstøtta kan reknast inn saman med dei andre
+stønadene. Men vi veit òg at kommunane har full
+fridom med omsyn til om dei vil rekna den inn eller ei. Det er det
+eg prøver å understreka i svara mine. Det kommunale
+sjølvstyret er rådande òg på dette
+området. Grunnen til at eg forsvarer det så langt,
+er at det er så store skilnader mellom kommunane når
+det gjeld kor mykje dei gir i sosial stønad. Eg vonar at
+denne regjeringa skal klara å få til ei jamnare
+fordeling enn vi har hatt til no i samfunnet, og då kjem
+vi med eit klarare råd. 
+
+I det rundskrivet som er sendt ut, er alle
+ulike støtteordningar tatt med. Dei kan kommunane legga
+inn dersom dei ynskjer det. Som eg òg svarte til førre
+spørjar, er det eit tilbakevendande spørsmål
+om barnetrygda skal vera med eller ikkje. Det står òg
+i rundskrivet, og det blir behandla ulikt.
+
+  Oddbjørg Ausdal Starrfelt – til
+oppfølgingsspørsmål.
+
+  Forvirringa vert i grunnen større
+og større for meg når det gjeld dette spørsmålet.
+Eg er glad eg ikkje sit som sosialhjelpsmottakar ute i Noreg og
+lurer på om eg no skal få mellom 2 000
+og 3 000 kr meir i månaden – eller
+ikkje. Eg håpar at nokon kan klargjera det. For det statsråden
+gjorde sist veke, og på ein måte nektar for no,
+var å seia at eigentleg burde alle behalda kontantstøtta.
+No seier statsråden at det får vera opp til kommunane.
+
+Så sa Magnhild Meltveit Kleppa, som
+høyrer til den same regjeringa, på årsmøtet
+i Rogaland Senterparti at ho ikkje var noko opptatt av inntekter
+i forhold til sosialhjelp. Ho var ikkje opptatt av om det skulle
+verta opp mot 3 000 kr – eller kanskje
+dobbelt så mykje dersom ein har to ungar – i forskjell
+mellom folk, men ho ville jobba for minstenormer. Det er greitt
+at ein jobbar for det, men det vert veldig uklare signal. Korleis
+skal klientane oppfatta dette, korleis skal sosialkontora oppfatta
+det, og korleis skal fylkesmannen oppfatta det?
+
+  Det er som eg seier og har sagt mange gonger,
+ulik praksis. Det har òg Regjeringa sagt at det kan vera
+til vi tar eit standpunkt. Det standpunktet kjem i meldinga om utjamning av
+levekår. 
+
+Eg synest faktisk det er viktig å understreka
+her den skilnaden som er kommunane imellom allereie i dag. Eg trur
+derfor det er viktig at vi før vi gir eit eintydig svar, får
+eit meir likt system enn det vi har klart å få til
+i dag.  Når ein då får eit meir likt
+system, er det òg lettare å gi eit klart råd. 
+
+I proposisjonen om kontantstøtta står
+det at dette skal vera ei hjelp til barnefamiliane til å få meir
+tid saman. Då er det klart at det ligg ei grunnhaldning
+der. Men samtidig veit vi at når kommunane skal betala
+ut sosialhjelpsstønaden, ser dei forskjellig på desse
+tinga. Når det er så stor skilnad mellom kommunane,
+har Regjeringa sagt at det får gå, og så får
+vi koma tilbake til dette. Og då vonar eg òg at
+vi har eit system som er meir utjamnande og med mindre skilnader
+enn det systemet vi har i dag.
+
+  Karin Andersen – til siste
+oppfølgingsspørsmål.
+
+  Til denne debatten mellom statsråden
+og Arbeiderpartiet, vil jeg si at forslag som vil virke mer utjevnende,
+vil både Arbeiderpartiet og regjeringspartiene kunne få lov
+til å være med og ta stilling til, for det kommer
+til å bli lagt fram forslag om det når forskjellsmeldinga
+kommer, hvis ikke Regjeringa gjør det sjøl.
+
+Kontantstøtten er slik at det er avkorting
+kun for fattigdom og ikke for rikdom. Statsråden var også ganske klar
+på hvem det var som nå hadde fått betale
+forliket med Fremskrittspartiet og Høyre. Det var bl.a.
+sosialklientene, det var kvinner i «små» stillinger
+som ikke fikk sykelønn – og også egenandelene
+kunne vi jo nevne. 
+
+Men det er uklare signaler her. I Kommunal
+Rapport fra 5. mars i år er det altså en statssekretær
+som uttaler at Sosialdepartementet vil ha lik behandling. I avisen
+de siste dagene har også statsråden uttalt seg
+slik at man får inntrykk av at statsråden mener
+at kontantstøtten ikke skal avkortes. Kan statsråden
+bekrefte eller avkrefte hvilken mening hun egentlig har i denne
+saken?
+
+ Ja, eg trur faktisk eg har sagt det ganske
+klart, og eg meiner det òg står bl.a. i den proposisjonen
+vi sendte til Stortinget, at kontantstøtta skal gå til å betra
+barnefamiliane sine moglegheiter til å ha meir
+tid saman. Så har eg òg sagt klart at så lenge
+det er så store skilnader kommunane imellom som det er
+i dag, har kommunane fridom til å ta det med eller ikkje,
+akkurat som dei har den same fridomen i høve til barnetrygda.
+Regjeringa vil så ta eit endeleg standpunkt når
+meldinga blir lagd fram, og då vil det òg bli fylgt
+opp med eventuelle lovforslag, dersom det blir nødvendig.
+
+  Vi går videre med neste
+hovedspørsmål.
+
+  Jeg har et spørsmål til
+arbeids- og administrasjonsministeren.
+
+I en interpellasjonsdebatt før jul
+om offentlige servicekontorer fortalte statsråden at Regjeringen
+arbeider aktivt med å få til en samordning mellom
+sosialetat, trygdeetat og arbeidskontor i kommuner, og
+der har vært gjort flere forsøk med dette. Det
+syntes jeg var en god idé. Jeg har da til min forbauselse
+fått en rekke henvendelser fra mitt eget fylke, Akershus,
+hvor det fremgår at et prosjekt som tar sikte på nettopp
+dette, mer eller mindre er gått i stå. Kan statsråden
+fortelle hva hun kan gjøre for å få fart i
+dette prosjektet?
+
+  Ja, først vil jeg bre ut dette prosjektet
+om servicekontorer noe. Der er det ment at brukerne skal kunne møte
+hele den offentlige tjenesteyting, ikke bare innenfor sosiale tjenester.
+Så servicekontorene går videre etter det konseptet
+som er lagt opp av Regjeringen, og vi jobber nå med å fjerne
+regler som måtte være hindrende for å få dette
+til mellom kommunale og offentlige etater. 
+
+Så til prosjektet i Akershus, som
+heter STA-prosjektet. Det betyr ikke at noen av oss har vært
+så sta at vi ikke har fått det til. STA står
+faktisk for sosial, trygd og arbeid. Det er en type klienter som
+har behov for støtte og hjelp fra alle disse institusjonene
+eller etatene. Prosjektet i Akershus har definert en koordinering
+av dette arbeidet på en måte som har gjort det
+vanskelig å kunne definere det helt klart som et prosjekt
+som vi kan gå videre med. Det har vært noen runder.
+Jeg har personlig hatt møter med representanter fra Akershus-kommunene
+for å prøve å få dette på plass,
+og de siste signaler jeg har fått gjennom min statssekretær,
+som har ansvaret for å føre dette arbeidet videre,
+er at det nå er god kontakt mellom fylkesarbeidssjef,
+trygdekontor og kommuner om en videreføring av
+dette arbeidet gjennom et prosjekt. Hvis det fortsatt skulle være
+ting som er hindrende, er jeg av den oppfatning at jeg vil gå inn
+i saken igjen for å se om vi kan få dette på plass.
+Det er også en viktig problemstilling i forhold til utjevningsmeldingen,
+fordi dette gjelder personer som ofte er ute av arbeidslivet og
+dermed ytterligere får forverret sine levekår.
+
+  Jeg har akkurat gjennom media fått
+referater fra regjeringskonferansen om budsjettet for år
+2000, og der fremgår det med all mulig tydelighet at Regjeringen
+vil fortsette å holde den stramme linjen for å få rentenivået
+ned. Men det fremgår også der at kostnadene øker
+automatisk, folketrygd, sykelønn osv., i størrelsesorden
+mer enn 5 milliarder kr i året. Det betyr at vi må kutte
+kostnader, og jeg ser også på dette offentlige servicekontorprosjektet
+og STA-prosjektet i Akershus som ett av flere virkemidler for å få senket
+kostnadene. Jeg vil håpe statsråden kan bidra
+til å sette fart i dette, for med en statsadministrasjon
+som nå koster oss over 80 milliarder kr i året,
+bør det være mulig å oppnå samordningseffekter
+som også vises på kostnadssiden.
+
+  Ja, jeg kunne komme med gripende beskrivelser
+fra Halvorsbøle – det skal jeg ikke gjøre.
+Men jeg tror at innenfor dette STA-prosjektet er det ikke alltid
+penger som trengs, det er rett og slett samhandlingen mellom statlige
+og kommunale etater som kan bli bedre. Gjennom en slik forbedring
+av selve prosessen, kanskje også en sterkere forpliktelse,
+kan vi hjelpe disse personene til å få avklart
+sin arbeidsevne og til å komme ut i arbeid, og få til
+opplegg for dem med en kombinasjon av trygd og lønnet arbeid.
+Det er en helt klar målsetting. Det vil igjen, som sagt,
+styrke livskvaliteten for personene, og det vil være bra
+for de offentlige budsjettene.
+
+  Vi går til siste hovedspørsmål.
+
+  Jeg skal få stille spørsmål
+til utenriksministeren.
+
+I den prosessen som nå pågår
+med en mulig utvidelse av NATO, stilles det en rekke krav til medlemslandene. Utgangspunktet
+er at vi ser NATO som en allianse som skal forsvare demokratiets
+interesser. Derfor stilles det krav om at det i nye medlemsland
+skal være politisk kontroll med militæret og ikke
+militær kontroll med politikken, og vi stiller krav om
+at disse landene skal være rettsstater. Da er det et paradoks
+at et av medlemmene i alliansen i dag, dvs. Tyrkia, ikke innfrir
+noen av de kravene vi stiller til nye medlemmer. Tyrkia er ikke
+en rettsstat, og i Tyrkia er det militær kontroll med politikken
+mer enn det er politisk kontroll med militæret.
+
+Jeg vil derfor spørre utenriksministeren:
+Den tyrkiske ledelsen er veldig vestvendt, veldig opptatt av å bli
+en del av det gode selskap i Vesten, bl.a. i NATO og EU. På hvilken
+måte har Norge brakt  calan-saken og kravet om en rettferdig
+rettssak opp i NATO? Og på hvilken måte vil Norge
+bruke NATOs organer til å sørge for at det blir stilt
+de samme krav til Tyrkia som de vi nå stiller til nye potensielle
+medlemsstater i NATO?
+
+  Når det gjelder menneskerettighetssituasjonen
+i Tyrkia, vil representanten Solheim være kjent med at
+dette er spørsmål som vi drøfter i multilaterale
+fora, men også bilateralt. Spesielt har man brukt Europarådet,
+som har et spesielt ansvar for menneskerettigheter i lys av at de
+administrerer Menneskerettighetskonvensjonen, hvor også Tyrkia
+er medlem, og har tiltrådt denne konvensjonen. Men vi har
+også intensivert den bilaterale dialogen med Tyrkia når
+det gjelder menneskerettigheter. Menneskerettighetsministeren besøkte
+i den egenskap bl.a. Tyrkia i fjor, og vil fortsette den dialogen.
+
+Når det gjelder spørsmålet
+om NATOs rolle i forbindelse med menneskerettigheter, er det ingen
+tvil om at vi også har drøftet menneskerettigheter.
+Vi drøfter godt styresett mer generelt innad
+i NATO, og det er riktig at når man ser på det
+nye strategiske konseptet, vil også en rekke saker av politisk
+art når det gjelder godt styresett og demokrati, være
+med i det. Men jeg mener vi har en rekke andre organer, både
+multilaterale og bilaterale, som er bedre egnet til både å drøfte
+menneskerettighetsspørsmål og å legge
+press på land i menneskerettighetssaker, enn akkurat NATO.
+
+  Jeg er selvsagt helt enig med utenriksministeren
+i at det ikke er snakk om å boikotte Tyrkia eller så å si
+støte dem ut av det vestlige samarbeid, men om en dialog
+og et press på Tyrkia. Og da mener jeg NATO er særlig
+velegnet av flere grunner, delvis fordi Tyrkia selv legger så stor
+vekt på NATO og de tunge vestlige institusjonene, men også fordi
+dette dreier seg om NATOs eget moralske grunnlag. Foran det strategiske
+konsept og drøftingene i Washington er det jo fra amerikansk
+side krav om at NATO skal være en organisasjon som forsvarer
+demokratiet over hele kloden. Hvordan skal man på noenlunde
+trygt moralsk grunnlag kunne gjøre det, i det hele tatt
+diskutere å gjøre det, så lenge man i
+sine egne rekker har et land som eklatant bryter helt opplagte ting,
+som krav om advokat, krav om å velge sin egen advokat,
+krav om internasjonale observatører ved rettssaker etc.? 
+
+Derfor vil jeg gjenta spørsmålet
+om ikke nettopp NATO er stedet for nå å legge
+tydeligere press på Tyrkia om en rettferdig rettssak for
+ calan.
+
+  I forbindelse med sitt tilleggsspørsmål
+kom kanskje representanten Solheim i skade for å komme
+med en del påstander som ikke nødvendigvis er
+helt riktige. Meg bekjent har vi heller ikke i Norge anledning til å ha
+internasjonale observatører ved rettssaker, så jeg
+er noe usikker på om det er så veldig stor forskjell
+på Norge og Tyrkia i den konkrete saken. Det er også min
+forståelse at  calan har fått rett til å velge
+sine advokater. Utgangspunktet for spørsmålet
+er derfor muligens ikke helt korrekt. Men vi bruker, som jeg sa,
+NATO, for vi er ikke fornøyd med menneskerettighetssituasjonen
+i Tyrkia, og det er derfor vi har satt i gang en dialog med Tyrkia.
+Den har vi intensivert bilateralt. Jeg tror personlig at Europarådet
+og det bilaterale er mer hensiktsmessig, men vi bruker, som jeg
+sa, også NATO i denne sammenheng, i en bredere sammenheng når
+det gjelder menneskerettigheter.
+
+ Det blir oppfølgingsspørsmål – Ågot Valle.
+
+  Retten til å velge sine egne advokater
+blir nokså illusorisk når advokatene blir utsatt
+for trusler, slik at de blir tvunget til å trekke seg. 
+
+Men jeg vil komme litt videre inn på  calan
+og hans skjebne. Da  calan ble kidnappet og ført til Tyrkia,
+hadde han forsøkt å få innpass i flere
+vestlige land, og han hadde med seg et fredsinitiativ. Ingen vestlige
+land ville ta imot ham, og ingen ville vurdere den fredsplanen han ville
+diskutere.  calan signaliserte at tida nå var inne for en
+politisk løsning på den langvarige krigen mellom
+den tyrkiske staten og kurderne.
+
+Det har kommet fram at  calan også ville
+ha innpass i Norge og prøve å få Norge
+til å være med på å diskutere denne
+fredsplanen. Jeg vil gjerne vite om det stemmer at Norge har fått
+denne henvendelsen, og hvis  calan har fått nei, vil jeg
+gjerne også vite hva grunnene er til at Norge ikke ville
+ta på seg denne lederrollen.
+
+  La meg først si at vi er opptatt
+av  calans rettssak, som representanten Valle vil være
+kjent med, og følger den nøye.
+
+Når det gjelder spørsmålet
+om  calan har bedt om politisk asyl i Norge, er jeg ikke kjent med
+det. Jeg har sett dette i mediene, og jeg er blitt konfrontert med
+det av spesielt Klassekampen. Jeg har aldri mottatt en slik henvendelse,
+og har sagt at vi ikke har vurdert dette, fordi det ikke er kommet
+en henvendelse til oss med en slik anmodning. Så mitt svar
+på det er at det ikke har vært vurdert, fordi
+vi ikke har fått en slik henvendelse.
+
+ Tiden for den muntlige spørretimen
+er nå omme.
+
+
+
+
+
+                    
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Dermed er dagens kart ferdigbehandlet. Forlanger
+noen ordet før møtet heves? – Carl I.
+Hagen, vær så god.
+
+Ad saksbehandlingen
+
+  Jeg ber om ordet i forbindelse med § 37
+a første ledd i forretningsordenen for å påpeke noe
+jeg mener er en feil i saksbehandlingen. Det gjelder stemmeforklaringene
+til sak nr. 5. Der kom det en lang rekke stemmeforklaringer som
+i realiteten var nye innlegg i debatten, og som inneholdt konkrete
+feilopplysninger. Så ble det klubbet da det ble gitt svar
+på disse feilopplysningene. Det mener jeg var korrekt,
+men det burde vært klubbet tidligere når flere
+av dem som gav stemmeforklaring, i realiteten kom med innlegg. 
+
+Jeg tror det ville være fornuftig
+om Presidentskapet så litt på dette med stemmeforklaringer,
+slik at man kanskje fikk vite hva en stemmeforklaring skal inneholde – og enda
+viktigere, hva den 
+
+ikke 
+
+skal inneholde.
+For det kan ikke være slik at noen skal tillates å komme
+med nye debattinnlegg, mens de som angripes, ikke gis anledning
+til å forsvare seg. 
+
+Jeg anmoder derfor Presidentskapet om å drøfte
+dette med stemmeforklaringer, slik at de stort sett blir veiledning
+til egne representanter og korte begrunnelser for hvorfor man har
+inntatt et standpunkt, og ikke det som skjedde i forbindelse med
+stemmeforklaringene under sak nr. 5.
+
+ Presidenten har merket seg det som
+ble sagt. Flere har ikke bedt om ordet.
+
+
+
+
+
+                    
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+	
+
+
+		
+
+Forrige sak
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ Representantene Liv Marit 
+
+Moland
+
+, Sverre 
+
+Myrli
+
+,
+Terje 
+
+Johansen
+
+, Harald 
+
+Hove
+
+,
+Helene Falch 
+
+Fladmark
+
+, Jan 
+
+Johnsen
+
+, Unn 
+
+Aarrestad
+
+ og
+Kjellaug 
+
+Nakkim
+
+, som har vært
+permittert, har igjen tatt sete.
+
+Følgende innkalte vararepresentanter
+har tatt sete:
+
+For Akershus fylke: André 
+
+Kvakkestad
+
+For Buskerud fylke: Frank Willy 
+
+Larsen
+
+For Finnmark fylke: Kirsti 
+
+Saxi
+
+For Hedmark fylke: Erling 
+
+Brandsnes
+
+For Møre og Romsdal fylke: Dagfinn 
+
+Ripnes
+
+For Troms fylke: Arne 
+
+Bergland
+
+For Vestfold fylke: Harald 
+
+Solberg
+
+Det foreligger fem permisjonssøknader:
+
+		fra representanten Gunnar 
+
+Skaug
+
+ om permisjon i dagene 10. og 11.
+mars for å delta i et seminar i regi av Den nordatlantiske
+forsamling, i Bulgaria
+
+		fra representanten Steinar 
+
+Bastesen
+
+ om
+permisjon i dagene 16. og 17. mars for etter invitasjon å delta
+i en konferanse ved Det norske handelskammer i Bangkok i Thailand
+
+		fra representanten Fridtjof Frank 
+
+Gundersen
+
+ om
+permisjon i tiden fra og med 16. mars til og med 18. mars for å delta
+i møter i regi av Den vesteuropeiske unions parlamentariske
+forsamling i Paris og Brussel
+
+		fra Arbeiderpartiets stortingsgruppe om permisjon for representanten
+Hill-Marta 
+
+Solberg
+
+ i tiden fra og med 16.
+mars til og med 19. mars for å delta i en studiereise til
+England
+
+		fra representanten Lars Gunnar 
+
+Lie
+
+ om
+permisjon i tiden fra og med 16. mars til og med 19. mars for å delta i
+en konferanse ved Wilton Park i Steyning i England.
+
+Etter forslag fra presidenten ble enstemmig
+besluttet:
+
+1.	Søknadene behandles straks
+og innvilges.
+
+2.	Følgende vararepresentanter innkalles for å møte
+i permisjonstiden:
+
+For Akershus fylke: André 
+
+Kvakkestad
+
+For Nordland fylke: Bjørnar 
+
+Olsen
+
+ og
+Arvid 
+
+Falch
+
+For Sogn og Fjordane fylke: Gunn 
+
+Steinhovden
+
+For Østfold fylke: Morten 
+
+Olsen
+
+  Morten Olsen er til stede og vil
+ta sete.
+
+Statsråd Ragnhild
+Queseth Haarstad overbrakte 2 kgl. proposisjoner (se under
+Referat).
+
+  Representanten Jan Simonsen vil
+fremsette et privat forslag.
+
+  På vegne av stortingsrepresentant
+Kristin Krohn Devold og meg selv setter jeg frem et forslag om tilleggsbevilgning
+til politibudsjettet for 1999 for å opprettholde uendret
+driftsbudsjett i politidistriktene.
+
+  Representanten Børge Brende
+vil også fremsette et privat forslag.
+
+ På vegne av representanten Per-Kristian
+Foss og meg selv fremmer jeg et forslag om innføring av
+bindende forhåndstilsagn i skattesaker.
+
+  De fremsatte forslag vil bli behandlet
+på reglementsmessig måte.
+
+
+
+
+
+                    
+                    
+                    
+
+
+                
+
+
+            
+
+
+
+            
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste sak
+
+
+	
+
+
+    
+
+
+
+        
+
+
+    
+
+
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+

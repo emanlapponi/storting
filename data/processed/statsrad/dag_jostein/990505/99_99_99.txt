@@ -1,0 +1,528 @@
+ I henhold til postforskriften av 1. juli 1997
+skal Samferdselsdepartementet kun godkjenne portotakster for prioriterte
+brev innenlands. Dette innebærer at styret for Posten som
+et ledd i sin ordinære forretningsvirksomhet kan fastsette
+alle andre porto- og gebyrsatser. Dette gjelder også gebyret
+for tollbehandling av varer fra utlandet. Det følger av
+dette at hjemmelen for innkreving ligger i styrets beslutningsmyndighet
+i den ordinære forretningsvirksomheten.
+
+Som en service for privatpersoner sørger
+Posten automatisk for å få fortollet sendinger
+fra utlandet. Fra 1. mars 1999 ble dette arbeidet, som en konsekvens
+av endringer i merverdiavgiftsreglene for postordresendinger, utvidet
+til også å gjelde sendinger med verdi under 200 kr.
+For dette arbeidet kreves et gebyr på 80 kr pr. sending uavhengig
+av varens verdi. Jeg har ikke problemer med å skjønne
+at dette kan føles urimelig dersom varens verdi er lav,
+men de faktiske kostnader for Posten ved fortollingsarbeidet er
+uavhengig av varens verdi. Ifølge Posten er gebyret på 80
+kr knapt nok til å dekke kostnadene ved arbeidet, men Posten
+anser dette som en viktig service for kundene.
+
+Det er også viktig å understreke
+at personer som synes gebyret er for høyt, kan gi beskjed
+til sitt lokale tollkontor om at man ønsker å gjøre
+arbeidet selv. Kundene må da selv reise til nærmeste
+tollsted og sørge for fortolling.
+
+  Det er riktig som representanten Terje Johansen
+understreker, at her er det to ulike vinklinger ute og går.
+Men Posten opptrer her etter mitt syn som speditør, slik
+at man forholder seg til de vanlige speditørvirksomhetene
+og  -vilkårene, som bl.a. inkluderer gebyrer for håndtering
+av sendinger fra utlandet. 
+
+Jeg har fått opplyst, sist på morgenen
+i dag, at dette gebyret før ble satt til 80 kr for tjenester
+over 200 kr ettersom håndteringen også medførte
+mer arbeid. Ved en reell fortolling for varer under 200 kr, innførte
+man tilsvarende gebyr for hele prosessen, i og med, som jeg sa i mitt
+første svar, at arbeidsomfanget i denne sammenheng er det
+samme. Dette må altså ses langt utover en ren
+merverdihåndtering.
+
+  Statsråden har selvfølgelig
+ikke noe imot å ta kontakt med Finansdepartementet, og
+det vil da også bli gjort. Det som igjen er viktig å understreke,
+er at dette gebyret er fastsatt av Postens styre, som har nødvendige
+fullmakter til å fastsette takster og gebyrer utover enhetsportoen,
+eller det som Samferdselsdepartementet etter Stortingets pålegg skal
+bestemme. 
+
+Jeg skjønner godt reaksjonen når
+en pakke har veldig liten verdi i forhold til gebyrets størrelse.
+Men jeg har vanskelig for å se at Samferdselsdepartementet
+eller Stortinget, etter at Postens styre har fått de nødvendige fullmakter,
+kan overprøve gebyrstørrelsen. Derimot, hvis det
+er misforståelser knyttet til gavespørsmålet,
+størrelsen på gaven etc., er det helt naturlig
+at Finansdepartementet lager en avklaring på akkurat dette. 
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+

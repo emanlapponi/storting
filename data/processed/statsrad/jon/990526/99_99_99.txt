@@ -1,0 +1,2326 @@
+  Prestegardane er eigde av Opplysningsvesenets
+fond, eit eige rettssubjekt, og forvaltninga skal drivast på forretningsmessig
+best mogleg vis. Prestebustaden i Jostedal har stått tom
+i fleire år utan interesse for leige, og det har ikkje
+budd prest i bustaden sidan 1974. Då departementet etter
+synfaring i 1997 tok ei avgjerd om sal, var dette med eit ynske
+om at interesserte kunne setje huset i stand og busetje seg der.
+Jorda på garden har vore leigd ut som tilleggsjord til
+naboeigedommar sidan 1950-talet. Driftsbygningen står på eit
+jorde eit stykke unna prestebustaden, og har ikkje vore i bruk sidan den
+vart bygd i 1949. Den er i dårleg stand og tilfredsstiller
+ikkje dei krava som vert stilte til driftsbygningar i dag. Prestebustad
+og driftsbygning har ikkje felles tun.
+
+Sett i samanheng meinte vi at manglande vedlikehald på bygningane
+og dårleg driftsapparat ikkje gjorde det tenleg å selje
+garden som ei driftseining. Eit samla sal ville i tillegg krevje
+utgreiing av felles utmarksrettar, noko som i så fall ville
+trekkje salet ut i tid. Av omsyn til tilstanden på bygningane
+såg vi ikkje det tilrådeleg.
+
+Ved sal av prestegardar til paktarar har paktar
+førerett til kjøp, og i desse tilfella vert gardane
+selde som ei eining. I tilfellet Jostedalen prestegard er det ingen
+paktar. Eit delt sal vil samstundes kunne styrkje eksisterande bruk
+med tilleggsjord.
+
+Eg er nyleg blitt kjend med at det etter at
+delingssøknad vart send kommunen, har meldt seg ein søkjar
+til heile eigedomen. Departementet vil vurdere denne søknaden
+mot dei andre omsyna eg har gjort greie for. Eg vil vidare avvente
+kommunen si handsaming av saka. Men eg meiner at løysinga
+med delt sal kan vere med på å sikre
+busetjinga i bygda gjennom å gje ein familie tilbod om bustad,
+samtidig som ein tryggjer levekåra for eksisterande bruk.
+
+  Sjølvsagt er det statsråden som
+er ansvarleg for forvaltninga av Opplysningsvesenets fond, og det
+ansvaret er todelt. Ein skal ta seg av fondet og forvaltninga av
+det i samsvar med dei vedtaka som Stortinget har gjort som hovudretningslinje,
+men ein skal òg sjølvsagt innafor det mandatet
+sjå til å oppfylle dei måla som representanten
+Nistad snakkar om. Det som heilt klart har vorte eit nytt moment
+for statsråden i saka, er dette ynsket frå 
+
+ein 
+
+kjøpar. Eg tykkjer då det
+er veldig trygt at kommunen sine landbruksmyndigheiter kjem til å behandle
+kva det er som tener busetjinga best, anten ei deling og tilleggsjord
+til nokon, eller eitt bruk. Det vil vi då få svar
+på, og det svaret kjem til å verte svært
+avgjerande for mi endelege vurdering av saka.
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+ Det er framleis eit mål at dei barna
+som har behov for det, skal ha tilbod om plass i skulefritidsordninga.
+Den nye § 42 d i grunnskulelova, som tredde i kraft ved
+nyttår, gjev kommunane plikt til å ha eit skulefritidstilbod.
+Forskrifta til lova avgrensar gjennom sjølvkostprinsippet
+kor stor del av totalkostnadene foreldrebetalinga skal kunne dekkje. 
+
+Våren 1999 har snautt 109 000 barn
+plass i skulefritidsordninga. Dette er ein reduksjon på 6,1
+pst. sidan skulestart, men likevel er det fleire barn
+i skulefritidsordninga no enn det var på tilsvarande tid
+i fjor. Tilsvarande reduksjon frå haust til vår
+i fjor var på 4,5 pst.
+
+Departementet har ikkje informasjon som tyder
+på at situasjonen for skulefritidordninga er vesentleg
+endra. Eg vil likevel fylgje utviklinga i tilbodet nøye
+i tida som kjem.
+
+Øyvind Korsberg hadde
+her overtatt presidentplassen.
+
+  På initiativ frå Stortinget,
+i eit spørsmål, innhenta departementet informasjon
+frå utdanningsdirektørane på eit tidlegare
+tidspunkt enn det den vanlege tilbakemeldingsprosedyren tilseier.
+Det var dei tala eg gav, og dei viser ikkje vesentleg endring. Der
+er altså fleire i systemet i år enn i fjor, men
+der er ein litt større nedgang frå haust til vår. 
+
+Avisoppslag har tydd på at det har
+vore ein atskilleg verre situasjon, noko som dokumentasjonen så langt ikkje
+viser. Men ut frå same initiativ frå Stortinget
+og ut frå Regjeringa sine interesser for å fylgje
+det opp har vi bede utdanningskontora om framleis systematisk å melde tilbake
+om utviklinga, og det var det som låg i svaret mitt, at
+eg vil fylgje denne saka nøye fram igjennom.
+
+  Som representanten Dørum sa, er det
+enno berre eit år sidan Stortinget behandla lova og korleis
+skulefritidsordninga skulle organiserast. Eg meiner at den må få høve
+til å verke litt lenger og så evaluerast før
+det vert gjort endringar på generelt grunnlag med omsyn
+til bemanning, lokalitetar og liknande, som representanten Dørum
+no tok opp.
+
+Når det gjeld utviklinga i vår,
+som representanten Dørum skildrar, vil vi fylgje med i
+den, og det vil vi gjere gjennom våre utdanningsdirektørar.
+Det vil vere ein del av det grunnlaget som vi vurderer situasjonen
+på i arbeidet med statsbudsjettet for neste år.
+Difor skal vi fylgje nøye med. Tala og tilbakemeldingane
+så langt er samla sett slik som eg sa innleiingsvis, men
+vi skal også få ei tilbakemelding når
+våren er slutt. 
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Eg seier meg lei for at denne saka ikkje har
+vore løyst tidlegare. Eg kan opplyse representanten Reikvam
+om at saka endeleg er løyst. Det har allereie gått
+brev til fylkeskommunane med kopi til partane om den praktiske ordninga
+med utskriving av kompetansebevis. Sentralregisteret for
+Yrkesbevis på Braskereidfoss skal stå føre
+den praktiske ordninga rundt kompetansebevisa. Krava for å få kompetansebevis
+er at lærlingen har bestått vidaregåande
+kurs I transportfag og gjennomført modul 1 Trafikksikkerhet
+i læreplan for opplæring i bedrift, yrkessjåførfaget.
+Bevisa gjeld fram til lærlingen fyller 21 år.
+
+Etter Kjøre- og hviletidsforskriften
+kan lærlingar under 21 år utan kompetansebevis
+køyre tunge køyrety over 7 500 kg innanfor
+ein radius på 50 km frå heimstaden til køyretyet.
+Skal lærlingen køyre tunge køyrety utanfor denne
+radiusen, må dei ha kompetansebevis.
+
+Som sagt: Saka er altså løyst.
+
+  Eg skal ikkje dra ut dette spørsmålet,
+men berre seie fylgjande i tillegg til det representanten Reikvam
+sa: Det har teke for lang tid. Saka kan opplagt forklarast, men
+ikkje forsvarast. Difor: Saka er no løyst.
+
+  Prosjekta «Delkompetanse» og «Brukertilpasset
+opplæring for voksne» har vore treårig
+utviklingsarbeid i fem fylkeskommunar initierte av departementet.
+Prosjekta vert no avslutta, og evalueringa vil liggje føre
+i juni 1999. Dokumentasjon og verdsetjing av vaksne sin realkompetanse
+har vore eit sentralt element i begge desse prosjekta. Gjennom arbeidet
+er det vunne verdifull erfaring om korleis fylkeskommunane kan vurdere
+realkompetanse ved opptak, «innfasing» og tilrettelegging
+av opplæringa. Erfaringane frå prosjekta er i
+prosjektperioden gjorde kjende gjennom konferansar og evalueringsrapportar.
+Dei samla erfaringane frå prosjekta vil ved prosjektslutt
+verte spreidde til fylkeskommunane.
+
+Departementet fylgjer no opp Stortinget sitt
+vedtak om dokumentasjon av realkompetanse gjennom eit treårig
+prosjekt. Prosjektet tek sikte på å hjelpe alle
+fylkeskommunane i arbeidet med å vidareutvikle verdsetjinga av
+realkompetanse og få ei mest mogleg lik praktisering nasjonalt,
+og fylka er inviterte til ein startkonferanse i september.
+
+Eit system for dokumentasjon og verdsetjing
+av realkompetanse må ha truverd både i arbeidslivet
+og utdanningssystemet. Planane for dette prosjektet er difor utvikla
+i nært samarbeid med partane i arbeidslivet, utdanningssystemet
+og andre som tilbyr utdanning, og desse er med i ei sentral prosjektgruppe
+for det vidare arbeidet. Målet for arbeidet er eit nasjonalt
+system som gjev vaksne rett til å dokumentere
+sin realkompetanse utan å måtte gå vegen
+om tradisjonelle prøveordningar.
+
+Prosjektplanane er m.a. baserte på dei
+kunnskapar og erfaringar som er tileigna gjennom dei to prosjekta, «Brukertilpasset
+opplæring for voksne» og «Delkompetanse».
+Men eg kjenner òg til at fleire fylkeskommunar har tileigna
+seg kompetanse gjennom eigne prosjekt, og at andre ligg i startgropa
+med prosjektplanar. Departementet har difor i informasjonsbrev til
+fylkeskommunane bedt om opplysningar om relevante prosjekt og erfaringar,
+slik at dei kan inngå i eit samla erfaringsmateriale. Frist
+for innsending er 10. juni 1999.
+
+Departementet har alt teke imot fleire enkeltsøknader om
+støtte til prosjekt knytte til dokumentasjon og verdsetjing
+av realkompetanse, m.a. frå seks fylkeskommunar. Mellom
+desse er Akershus, Nord-Trøndelag og Oppland, som har arbeidd
+med dei nemnde prosjekta «Delkompetanse» og «Brukertilpasset
+opplæring for voksne». Eg oppfattar representanten
+Reikvam slik at han er oppteken av at desse fylka får fylgje
+opp arbeidet sitt så raskt som råd er, gjennom
+dei nye prosjekta. Eg har forståing for det, og departementet
+vil gjere dei vurderingar som trengst, for å finne ut om
+desse kan vidareførast raskt.
+
+  Eg forstår godt at representanten
+Reikvam ynskjer at eg skal vere noko meir konkret. Eg er alltid
+noko tilbakehalden med å saksbehandle frå Stortingets
+talarstol, men etter at representanten Reikvam tok opp dette, har
+eg sett på denne saka spesielt. 
+
+Sidan vi skal ha ein startkonferanse i september,
+der ein skal leggje det totale grunnlaget, har ein vel tenkt å behandle
+saka slik at det er klart innan den tid. Men ettersom det her er
+nokon som har vore i gong med prosjekt og som allereie har planar
+om å halde fram, og som då kan vinne inn tid for
+oss, er eg innstilt på å invitere desse fylkeskommunane
+nokså omgåande og prøve å kome fram
+til ei løysing før sommarferien, slik at dei kan
+få klarsignal til å gå vidare. Eg håpar
+likevel representanten Reikvam har forståing for at eg
+ikkje kan gje noko tal o.l. før vi har vore gjennom ei
+behandling i lag med fylkeskommunane. 
+
+  Artikkelen i Skolefokus som representanten
+Tveiten viser til, er basert på eit omfattande forskingsarbeid
+i samband med forsøksordninga med fellesspråklege
+lærebøker i samfunnslære. Forskinga har både
+ei samfunnsvitskapleg og ei språkvitskapleg tilnærming.
+At forskingsinnsatsen på dette feltet er låg,
+er eg difor ikkje samd i.
+
+Konklusjonar i rapportane viser m.a. at bokmålselevane
+ikkje har god nok kjennskap til den norske språksituasjonen
+og forholdet mellom dei to skriftspråka. Det går òg
+fram at lærarar med ei positiv haldning til ordninga med
+fellesspråklege lærebøker i større
+grad har elevar som er positive til nynorsk.
+
+Vi står her overfor ei problemstilling
+med mange sider. Eg er oppteken av at opplæringa i skulen – både grunnskulen
+og den vidaregåande skulen – må leggjast opp
+slik at elevane får kunnskap om den særeigne norske språksituasjonen
+og samstundes utviklar språkleg toleranse. Lærarane
+sine haldningar og val av arbeidsmetodar er viktige for å stimulere
+elevane til å bruke nynorsk, både skriftleg og
+munnleg.
+
+Eg vil informere lærarutdanningsinstitusjonane
+om forskingsarbeidet og konklusjonane i rapportane og be dei fylgje
+dette opp i lærarutdanninga.
+
+  Det som representanten Tveiten skisserer som
+problem, er statsråden heilt samd i, men ikkje at vi ikkje
+etter kvart veit meir om det. Det som eg dokumenterte her, var at
+vi har sett i gang forsking, m.a. den som er presentert i den rapporten
+som ho sjølv viste til. Men det må vidareførast
+i den praktiske kvardagen. Her er det eit stort haldningsarbeid å utføre.
+
+Lærarane er utgangspunktet. Difor
+er det at vi no prøver i samband med forskingsrapportane å få lærarutdanningsinstitusjonane
+til å fylgje opp. Vidare kan eg nemne for representanten
+Tveiten at vi akkurat har hatt eit møte med Det Norske
+Samlaget om læremiddel. Vi har innskjerpa i forhold til
+forlaga og kjem til å fylgje endå strengare opp
+at dei må liggje føre til rett tid, og vi er i gang
+med eit arbeid i forhold til nye, elektroniske læremiddel.
+
+  Eg må nok seie at eg treng meir enn
+eitt minutt til det. 
+
+Det kan hende at representanten Tveiten og
+eg er samde om at det å verte kalla «bondsk» fordi
+vi brukar eit folkeleg språk, er noko vi kan leve med.
+Men eg ser at det kanskje ikkje er fullt så lett for tenåringar å få same nemninga.
+
+Reint konkret for å fylgje opp når
+det gjeld elektroniske læremiddel, har vi sett ned ei arbeidsgruppe
+mellom departementet, Samlaget og Forleggerforeningen for å rette
+opp dei tinga som representanten Tveiten nemner. Eg vil òg
+nemne ein gledeleg ting som skjer akkurat i dag. Det er at i Rita
+Tveitens heimfylke, Hordaland, på Voss, vert Nordisk Språkteknologi
+opna, eit stort, kommersielt selskap som heilt opplagt vil gjere
+desse spørsmåla mykje enklare.
+
+Eg er rimeleg optimistisk. Eg vil erkjenne
+at vi ikkje har vore flinke nok, men vi vert stadig flinkare.
+
+  Fagleg og pedagogisk utvikling, tilpassing
+til endra søkjarmønster og samfunnet sine krav
+har gjort omstilling til ein kontinuerleg og heilt naturleg del
+av verksemda ved universiteta. Dei seinare åra har auka
+omfang av oppdrag innanfor forsking og undervisning, samt internasjonal
+konkurranse, auka behova for omstilling.
+
+Universiteta har, som eg reknar med representanten Norvoll
+er kjend med, fremja forslag om ein felles femårs tiltakspakke
+for omstilling, med ei samla ramme på 600 mill. kr.
+
+Prinsippa om rammebudsjettering og institusjonane sitt
+sjølvstyre gjer at universiteta er gjevne stor fridom til sjølve å prioritere
+mellom ulike oppgåver og til sjølve å avgjere
+korleis dei vil løyse dei. Departementet har likevel eit
+ansvar for å leggje tilhøva til rette for at institusjonane
+skal ha eit handlingsrom som set dei i stand til å konkurrere
+på rimelege vilkår med både innanlandske private
+aktørar og med utanlandske lærestader. Spørsmål knytte
+til regelverk og organisering av oppdragsverksemd er handsama av
+Mjøs-utvalet som la fram ei delutgreiing om dette i april.
+Departementet har sendt denne på høyring og vil
+kome tilbake til Stortinget med forslag om vidare oppfølging
+av utvalet si innstilling.
+
+I St.meld. nr. 36 for 1998-99 Om prinsipper
+for dimensjonering av høgre utdanning, som er til handsaming i
+Stortinget, er ulike tiltak drøfta. Mellom anna har eg
+i stortingsmeldinga varsla ei vurdering av institusjonane sin rett
+til sjølve å opprette studietilbod, at departementet skal
+avklare om det er grunnlag for å gjeninnføre ei
+ordning med seniorstipend eller bistilling i kombinasjon med pensjon,
+og om det i større grad enn no kan nyttast tilsetjing i
+mellombels stilling for tilsette med hovudstilling utanfor universiteta.
+I forslaget til endring av universitets- og høgskulelova
+som vart lagt fram i førre veke, er det, slik Stortinget
+har bede om, føreslått å gje høve
+til forsøksverksemd m.a. med nye styringsordningar.
+
+I samband med statsbudsjettet for 1999 prioriterte
+Regjeringa – og Stortinget gav si tilslutning til det – å leggje til
+rette for at høgskulane og universiteta kan gjennomføre
+planlagde omstillingsprosessar. Det er difor ikkje teke ut full
+heilårsverknad av reduksjonane i studieplassar. Det er òg
+prioritert å setje av eit beløp på 10 mill. kr
+til institusjonar med særskilde omstillingsbehov.
+
+Samla sett vurderer eg desse tiltaka som veleigna
+til å gje universiteta betre tilhøve for omstilling,
+slik at dei m.a. kan konkurrere på rimelege vilkår
+med både innanlandske private aktørar og med utanlandske
+lærestader når det gjeld forsking og undervisning.
+Når det gjeld den særskilde tiltakspakka for omstilling
+som universiteta har fremja forslag om, er dette forslag av eit
+slikt omfang at det må handsamast i samband med statsbudsjetta.
+
+  Eg vil til ein viss grad reservere meg mot
+at det kan oppfattast på den måten at eg i mitt
+svar uttrykte meg som om eg ikkje synest det kan vere viktig med
+ei slik omstillingspakke. Det eg gjorde, var å vise til
+kva Regjeringa og Stortinget i fellesskap har sett i verk av tiltak
+som vil betre situasjonen på både kort og lang
+sikt. 
+
+Så er ein dimensjon ved den omstillingspakka
+som det er bede om, at det ikkje berre gjeld kva eg synest ville
+vere viktig, og kva eg synest kunne vere bra å få til,
+men at det òg er noko som må sjåast i
+ein total økonomisk samanheng. 
+
+Eg synest at representanten Norvoll på ein
+nyansert og god måte omtalte utfordringane som ligg innanfor
+universitet og høgskular, og eg tek det med meg. Men eg
+må nok stå fast på og konkludere i forhold
+til det som universiteta og høgskulane har bede om, at
+det må vi kome tilbake til seinare. 
+
+  Dei forskingsbaserte offentlege institusjonane
+er ryggraden i vårt utdannings- og forskingssystem,
+og det er viktig at dei framleis kjem til å vere det. Difor
+må dei setjast i stand til å ta desse utfordringane.
+Eg synest at dei siste åra har vist at det som kunne verke
+tilstivna, likevel har vist monaleg evne og vilje til endring. Difor
+er eg ganske optimistisk med omsyn til at dei skal kunne spele ei
+sentral rolle når det gjeld kompetansereforma, slik som
+representanten Norvoll no tok opp. 
+
+Så skal eg ta med meg den uroa som
+representanten Norvoll gjev uttrykk for. Eg håper at det
+som vi skal diskutere i fellesskap når vi legg fram statsbudsjettet,
+samla sett kan gje optimisme i forhold til framtida til norsk høgare
+utdanning og forsking. 
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+  Det har alltid vore eit jamt tilsig av søknader
+om godkjenning av nye private skular og spørsmål
+om utvidingar ved eksisterande skular. Departementet har for tida
+til behandling 26 søknader om å få opprette
+nye skular med rett til tilskott. Av desse er det elleve grunnskular,
+ein kombinert grunnskule og vidaregåande skule og 14 vidaregåande
+skular. 
+
+Sidan i fjor sommar har departementet godkjent
+12 nye private grunnskular og tre nye private vidaregåande skular.
+Det måtte gjerast ei prinsipiell avklaring av læreplanane
+før seks av grunnskulane vart godkjende. Dette har ført
+til at elleve vart godkjende i 1999. I 1998 vart berre ein grunnskule
+godkjend. 
+
+Departementet har sidan i fjor sommar godteke
+26 søknader om utvida tilbod ved eksisterande skular. Dei fleste
+utvidingane galdt vidaregåande skular. 
+
+Eg meiner at dei private skulane er eit viktig
+supplement og alternativ til den offentlege skulen. Privatskulane
+avlastar det offentlege skulesystemet innanfor vidaregåande
+opplæring og medverkar også til utprøving av
+pedagogiske alternativ. Dei religiøse alternativa er med
+på å sikre gjennomføringa av Noregs menneskerettslege
+plikter. Eg viser til at foreldra skal gjevast rett til å sikre
+barna sine ei religiøs og moralsk undervisning som er i
+samsvar med deira eiga overtyding. 
+
+Når departementet vurderer den einskilde
+søknaden, kan det leggjast vekt på omsynet til
+den offentlege skulen. Det skal likevel mykje til før slike
+omsyn fører til at skulen ikkje blir godkjend. Foreldreretten
+må etter mi meining stå like sterkt i ei lita
+bygd som i ein stor by.
+
+Når det gjeld spørsmålet
+om godkjenning kan svekkje «det offentlege skuletilskottet»,
+vil eg fyrst vise til at kommunen finansierer den offentlege skulen
+gjennom sine frie inntekter, dvs. rammetilskott og skatteinntekter. Kommunen
+skal dekkje utgiftene til grunnskuleopplæring for alle
+barn som høyrer heime i kommunen. Når somme av
+barna går i private skular, vert overføringane til
+kommunen korrigerte, slik at heimkommunane til elevar i private
+skular får eit trekk i rammeoverføringane frå staten.
+Dei midlane som vert trekte inn, vert fordelte på alle
+kommunane i samsvar med talet på innbyggjarar i skulepliktig
+alder.
+
+Korreksjonsordninga påverkar difor
+ikkje dei samla overføringane til kommunesektoren, men
+er ei omfordeling frå kommunar som har mange elevar i private
+skular, til kommunar som har få eller ingen elevar i private
+skular. Det er difor ikkje grunnlag for å seie at godkjenning av
+nye privatskular totalt sett svekkjer finansieringa av dei offentlege
+skulane. 
+
+  Eg klargjorde det som er grunnlaget for saksbehandling
+i forhold til eit lovverk om private skular. Representanten Knudsen
+og statsråden er heilt samde om at det offentlege skuletilbodet,
+einskapsskulen, er berebjelken i norsk utdanningssystem.
+Slik ynskjer eg at det framleis skal vere. Samstundes ynskjer eg å ta
+vare på toleranse og foreldrerett. 
+
+Når det gjeld påstanden om
+at fleire privatskular svekkjer den offentlege skulen, må vi
+setje ting inn i ein proporsjon. Det er altså slik at det
+i dag er ca. 1,5 pst. av elevane i grunnskulen som har
+private tilbod. Kanskje vil det kunne auke ein tidel eller to ut
+frå det som har skjedd det siste året. Samanlikna
+med alle andre europeiske land er dette utruleg små tal,
+og difor synest eg at ein ikkje skal overdramatisere det, men sjå på det
+som ein del av foreldreretten og den demokratiske retten.
+
+  Eg er sjølvsagt villig til når som
+helst, men ved eit eigna høve i tilknyting til eit dokument, å diskutere
+desse prinsipielle problemstillingane i forhold til norsk utdanningspolitikk.
+Sjølvsagt er det grunn til kontinuerleg å diskutere
+det som er berebjelken. Samstundes kan ein òg velje ein
+annan innfallsvinkel her, og det er at nokre foreldre ut frå vedtak
+som vert gjorde av storsamfunnet, finn at dei av samvitsgrunnar, anten
+det gjeld å få ein eksamensfri skule eller det
+gjeld å få ei meir profilert livssynsundervisning
+eller andre ting, ynskjer å etablere alternativ. Det kan
+vere storsamfunnets vedtak som gjer at enkelte foreldre vil det,
+og det må dei òg leggje ein eigeninnsats i. Eg
+trur at så lenge vi ynskjer å vere det demokratiske
+samfunnet vi er, må desse moglegheitene liggje
+føre. 
+
+Men eg gjentek, sjølvsagt er statsråden
+villig til å kome tilbake til Stortinget og drøfte
+dette på brei basis. 
+
+
+
+
+
+                
+
+
+             
+
+
+        
+
+
+        
+
+
+
+
+    
+	
+
+
+		
+
+Forrige spørsmål
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+    
+	
+
+
+		
+
+Neste spørsmål
+
+
+	
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+
+                
+                
+                    
+
+
+
+    
+
+
+        
+    
+
+
+
+
+
+
+                
+            
+
+
+            
+
+
+                
+
+
+
+Om Stortinget
+
+
+
+
+
+    
+
+
+        
+                
+
+
+            
+                
+
+English
+
+
+            
+                
+
+Undervisning
+
+
+            
+                
+
+Nettstedskart
+
+
+            
+                
+
+Ordbok
+
+
+            
+                
+
+Stilling ledig
+
+
+            
+                
+
+Hjelp
+
+
+            
+                
+
+Om nettstedet
+
+
+            
+                
+
+Personvern på www.stortinget.no
+
+
+            
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+            
+
+
+            
+            
+
+
+            
+            
+
+
+            
+        
+
+
+    
+
+
+    
+
+
+        
+
+
+            
+
+
+        
+
+
+    
+
+
+    
+
+
+        
+        
+
+
+            
+
+Postadresse:
+
+Stortinget, 0026 Oslo
+
+postmottak@stortinget.no
+
+Sentralbord:
+
+ 23 31 30 50
+
+
+            
+
+Kontakt oss
+
+
+            
+
+
+            
+
+Ansvarlig redaktør:
+
+ Siv Nordrum
+
+Nettredaktør:
+
+ Lars Henie Barstad
+
+web@stortinget.no
+
+
+            
+        
+
+
+
+    
+
+
+
+    
+
+
+
+
+            
+
+
+
+            
+
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+                    
+                    
+                    
+                
+                
+    
+    
+    
+
+    
+
+                
+            
+            
+
+
+
+
+
+
+
+
+
+        
+
+
+    
+
+
+
+window.jQuery || document.write('<script src="/Web/FrontEnd/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+                    $('[data-search-form-query]').autocomplete({
+                        html: true,
+                        delay: 70,
+                        appendTo: '[data-search]',
+                        select: function (event, ui) {
+                            $(this).val(ui.item.value);
+                            window.location = 'http://sok.stortinget.no/?aid=185&amp;querytext=' + ui.item.value + '&amp;l=no';
+                        },
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "https://ac-st.essens.no/queryservices-ng/autocomplete",
+                                dataType: "jsonp",
+                                data: {
+                                    term: request.term,
+                                    limit: 10
+                                },
+                                success: function (data) {
+                                    var highlightedData = [];
+                                    $(data).each(function () {
+                                        highlightedData.push({ label: this.replace(request.term, "\x3Cstrong>" + request.term + "\x3C/strong>"), value: this.toString() });
+                                    });
+                                    response(highlightedData);
+                                }
+                            });
+                        },
+                        minLength: 2
+                    });
+			
+
+
+                        var responsHeight,
+                            responsWidth;
+                        $(window)
+                            .on('load', function () {
+                                window.pageSurvey = new StortingetSurvey();
+                                window.pageSurvey.initialize();
+
+                                var responseInit = function () {
+                                    responsHeight = ($('.feedbackresponse').outerHeight() * -1) + 'px';
+                                    responsWidth = $('.feedbackcontainer').parent().width();
+                                    $('.feedbackcontainer').css({
+                                        'bottom': responsHeight,
+                                        'width': responsWidth
+                                    });
+                                };
+                                setTimeout(responseInit, 1000);
+
+                                $('.feedbacktop')
+                                    .on('click', function (event) {
+                                        if ($(this).hasClass('isdown')) {
+                                            $('.feedbackcontainer').animate({ bottom: '0px' }, 200);
+                                            $(this).removeClass('isdown');
+                                        }
+                                        else {
+                                            $('.feedbackcontainer').animate({ bottom: responsHeight }, 200);
+                                            $(this).addClass('isdown');
+                                        }
+
+                                        event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                        return false;
+                                    })
+                                    .on('keyup', function (e) {
+                                        if (e.which === 13) {
+                                            e.preventDefault();
+                                            $(this).trigger('click');
+                                        }
+                                    });
+
+                                $('.feedbacksubmit').on('click', function (event) {
+                                    var noChecked = $('.radio-toolbar').find('input:radio:checked').length == 0,
+                                        overMaxChars = $('#PageSurveyAnswerComment').length > 255;
+
+                                    if (noChecked) {
+                                        alert('Du må velge et svar!');
+                                    }
+                                    else {
+                                        if (overMaxChars) {
+                                            alert('Svaret er for langt. Det får bare være 255 tegn');
+                                        }
+                                        else {
+                                            $('.form').hide();
+                                            $('.end').show();
+                                        }
+                                    }
+
+                                    event.preventDefault ? event.preventDefault() : event.returnValue = false;
+                                    return false;
+                                });
+                            })
+                            .on('resize', function () {
+                                responsWidth = $('.feedbackcontainer').parent().width();
+                                $('.feedbackcontainer').css('width', responsWidth);
+                            });
+                    
+
+
+                        $(window).load(function () {
+                            $('textarea[maxlength]').on('keyup blur', function () {
+                                // Store the maxlength and value of the field.
+                                var maxlength = $(this).attr('maxlength');
+                                var val = $(this).val();
+
+                                // Trim the field if it has content over the maxlength.
+                                if (val.length > maxlength) {
+                                    $(this).val(val.slice(0, maxlength));
+                                }
+                            });
+                        });
+
+                        $(document).ready(function () {
+
+                            if (!("placeholder" in document.createElement("input"))) {
+                                $("input[placeholder], textarea[placeholder]").each(function () {
+                                    var val = $(this).attr("placeholder");
+                                    if (this.value == "") {
+                                        this.value = val;
+                                    }
+                                    $(this).focus(function () {
+                                        if (this.value == val) {
+                                            this.value = "";
+                                        }
+                                    }).blur(function () {
+                                        if ($.trim(this.value) == "") {
+                                            this.value = val;
+                                        }
+                                    });
+                                });
+
+                                // Clear default placeholder values on form submit
+                                $('form').submit(function () {
+                                    $(this).find("input[placeholder], textarea[placeholder]").each(function () {
+                                        if (this.value == $(this).attr("placeholder")) {
+                                            this.value = "";
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    
+
+
+        var jspath = '/Web/FrontEnd/assets/js/';
+
+
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20877829-1', 'auto');
+    ga('set', 'anonymizeIp', true);    ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
