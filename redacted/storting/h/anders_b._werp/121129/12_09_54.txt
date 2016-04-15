@@ -1,0 +1,164 @@
+ I et moderne samfunn er vi avhengige av tillit til telekommunikasjonssystemene og leverandørene av disse. Samfunnskritiske funksjoner, næringslivet og privatlivet berøres nesten kontinuerlig av disse systemene. Samtidig vet vi at disse digitale systemene er under konstant angrep fra hackere, kriminelle og ulik spionvirksomhet.
+
+
+
+
+Alle brukere og eiere av digitale informasjonssystemer har et selvstendig ansvar for å ivareta sikkerheten og integriteten på sine pc-er, sin mobiltelefon eller sitt nettbrett. Men forsvaret mot disse digitale angrepene blir vanskelig og kanskje umulig dersom vi ikke kan stole på kjernen, selve infrastrukturen, som binder disse komplekse teknologisystemene sammen. Blir sikkerheten kompromittert her, hjelper det ikke om den enkelte pc eller nettbrett har verdens beste sikkerhetsprogrammer, eller at brukeren følger alle sikkerhetsregler. Derfor er sikkerhet i kritisk, digital infrastruktur svært viktig. Dette har blitt tydeligere og tydeligere de siste årene. Derfor mener Høyre at kontrollen av sikkerheten her er et myndighetsansvar.
+
+
+
+
+Denne interpellasjonen dreier seg om hvorvidt regjeringen i tilstrekkelig grad ivaretar dette ansvaret. Høyre mener regjeringen ikke gjør det.
+
+
+
+
+For noen måneder siden anbefalte en enstemmig etterretningskomité i Representantenes hus i USA å utelukke kinesiske telekomselskaper fra å levere komponenter til landets infrastruktur.
+
+
+
+
+Australia har nylig ekskludert det kinesiske selskapet Huawei fra å konkurrere om visse kontrakter vedrørende utbyggingen av deres nasjonale bredbåndsnettverk.
+
+
+
+
+Storbritannia har implementert kostbare sikkerhetsprosedyrer for de delene av deres infrastruktur som bygger på utstyr fra Huawei.
+
+
+
+
+Tysklands nasjonale forsknings- og utdanningsnettverk har utelukket Huawei fra å delta i konkurransen om å oppgradere deres nettverk.
+
+
+
+
+Hvorfor går flere og flere land til det skrittet å utelukke kinesiske telekomselskaper fra sin kritiske infrastruktur?
+
+
+
+
+Kinesisk lovgivning gir kinesiske myndigheter svært kraftige og inngripende fullmakter til overstyring av og innsikt i landets telekomselskaper. Dette er særlig knyttet til to forhold. For det første skal alle selskaper i Kina ha en komité oppnevnt av kommunistpartiet, hvis oppgave er å ivareta såkalte nødvendige forhold for aktiviteter i regi av kommunistpartiet. For det andre kan kinesiske myndigheter kreve ubegrenset inspeksjon og utlevering av informasjon og utstyr fra selskaper, organisasjoner og enkeltpersoner.
+
+
+
+
+Kina er verdens største diktatur og en kommunistisk ettpartistat. Kinesiske myndigheter står helt fritt til å bruke virkemidler slik de selv bestemmer, ut fra de nevnte lovparagrafene, et trusselbilde og en behovsanalyse som kommunistpartiet selv definerer. Det som er definert av partiet, blir ikke overprøvd av en kritisk presse, en folkevalgt forsamling eller et uavhengig rettsvesen. Derfor er de to nevnte virkemidlene viktige og bekymringsfulle. Dette skiller kinesisk telekomindustri fra konkurrerende selskaper med opprinnelse i demokratiske land.
+
+
+
+
+Men det er ikke de kinesiske selskapene som er hovedsaken i denne interpellasjonen, heller ikke de kinesiske myndigheters muligheter og virkemidler til å overstyre selskapene og til å hente ut samfunnskritisk informasjon om andre lands informasjonssystemer – selv om dette er grunnen til at stadig flere land stiller grunnleggende spørsmål ved om kinesiske selskaper bør levere komponenter til kritisk infrastruktur eller andre samfunnskritiske systemer. Hovedsaken i denne interpellasjonen er fraværet av sikkerhetsfokus i regjeringen når det gjelder utøvende informasjonssikkerhet.
+
+
+
+
+Sentrale deler av det norske mobilnettet er levert av det kinesiske telekomselskapet Huawei. Både Telenor og NetCom bruker denne leverandøren i kjernen av sine mobilnett. Mobilnettet er en del av vår kritiske infrastruktur.
+
+
+
+
+De samme kritiske spørsmålene som stilles i mange andre land, ble ikke stilt av den norske regjeringen ved etableringen av ny teknologi i vårt mobilnett. De samme kritiske spørsmålene er fortsatt ikke stilt av regjeringen. Dette føyer seg inn i et mønster hvor regjeringen mangler fokus og helhetlig tilnærming til informasjonssikkerhet. For eksempel er Nasjonal strategi for informasjonssikkerhet datert helt tilbake til 2003. Nasjonale retningslinjer for informasjonssikkerhet gikk ut i 2010. Ansvaret for informasjonssikkerheten i Norge er fordelt på hele elleve departementer.
+
+
+
+
+Høyre mener også det er alvorlig at regjeringen ikke har foretatt en gjennomgang av om sikkerhetsloven er godt nok tilpasset dagens sikkerhetsmessige utfordringer og den teknologiske utviklingen.
+
+
+
+
+La meg utdype: På spørsmål fra Høyre framgår det nemlig at Forsvarsdepartementet, som forvalter sikkerhetsloven, overhodet ikke har foretatt en sikkerhetsvurdering ved etableringen av den nye teknologien i mobilnettet. Svaret fra statsråden er:
+
+
+
+
+
+
+
+«Konkrete anskaffelser til mobilnettet, og sikkerhets- og risikovurderinger fra nasjonale sikkerhetsmyndigheter i denne sammenheng, ligger derfor utenfor mitt ansvarsområde.»
+
+
+
+
+
+
+
+Forsvarsministeren henviser til Justis- og beredskapsdepartementet, men forsikrer:
+
+
+
+
+
+
+
+«Sikkerhet og risiko knyttet til samfunnets bruk av informasjons- og kommunikasjonsteknologi er noe norske myndigheter tar meget alvorlig.»
+
+
+
+
+
+
+
+Høyre stilte derfor det samme spørsmålet til Justis- og beredskapsdepartementet. Vi observerte undrende at spørsmålet ble sendt videre fra Justisdepartementet til Samferdselsdepartementet. Undringen og bekymringen økte kraftig da vi leste svaret derfra. Samferdselsdepartementet har nemlig heller ikke på noe punkt vurdert om bruk av kinesisk teknologi i mobilnettet var problematisk når det gjelder lov om elektronisk kommunikasjon, den såkalte ekomloven. Det henvises tvert imot til tilbydernes ansvar i dette spørsmålet. Men også denne statsråden forsikrer:
+
+
+
+
+
+
+
+«Sikkerhet i nett og tjenester er noe som norske myndigheter tar svært alvorlig.»
+
+
+
+
+
+
+
+Disse forsikringene fra regjeringen tror ikke lenger Høyre noe på. Fagre ord gir ikke trygghet og robusthet i vår kritiske infrastruktur. Det er kun handling og aktiv oppfølging som gjør det. Regjeringen har verken utvist handling eller oppfølging.
+
+
+
+
+La meg utdype og klargjøre ytterligere: Stortingets kontroll- og konstitusjonskomité sendte nylig et brev med flere kritiske spørsmål om samme sak til Justis- og beredskapsdepartementet. Svaret forelå 13. november. Her framkommer det at Nasjonal sikkerhetsmyndighet, NSM, allerede i 2010 vurderte om sikkerhetsloven og ekomloven hadde mekanismer til å redusere risiko, som beskrevet. NSMs konklusjon var at det forelå en risiko, men at ingen av regelverkene var anvendelige.
+
+
+
+
+Så skriver justisministeren i det nevnte brevet fra november, nesten tre år etterpå:
+
+
+
+
+
+
+
+«Dette er en problemstilling jeg vil se nærmere på.»
+
+
+
+
+
+
+
+Ingenting ble gjort av regjeringen for å redusere risikoen. Ingenting er gjort av regjeringen for å risikere risikoen.
+
+
+
+
+Jeg kan allerede høre svaret fra regjeringen i denne debatten og i andre innlegg i denne debatten: Vi har jo økt bevilgningene. Ja, på noen områder og med Høyres fulle støtte. Og det er mange medarbeidere i systemet som gjør en fremragende og dedikert innsats, men bevilgninger alene bedrer ikke informasjonssikkerheten når de ikke følges opp av handlinger fra regjeringen – slik eksemplene med Huawei og regjeringens manglende oppfølging av NSMs vurdering av sikkerhetsloven og ekomloven dessverre viser.
+
+
+
+
+Fortsatt er Nasjonal strategi for informasjonssikkerhet formulert helt tilbake i 2003, nasjonale retningslinjer for informasjonssikkerhet gikk ut i 2010, og ansvaret er fordelt på elleve departementer.
+
+
+
+
+Det er på denne bakgrunn Høyre stiller følgende spørsmål: Hvordan vurderer statsråden dette fraværet av sikkerhetsmessig myndighetskontroll av kritisk infrastruktur?
+
+
+
+

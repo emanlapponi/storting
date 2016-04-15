@@ -1,0 +1,140 @@
+ Vi lever i et velorganisert og trygt land. Det skal vi være glade for. De aller fleste har tillit til at staten har kontroll over vitale samfunnsfunksjoner og kritisk infrastruktur. Det skal vi også være glade for. Men vi må ikke være naive og tro at vitale systemer, med stor praktisk og sikkerhetsmessig betydning for enkeltmennesker og samfunn, ikke kan svikte.
+
+
+
+
+Den teknologiske utviklingen gir mulighet for effektivisering og en enklere hverdag for oss alle. Men med stadig mer avanserte og sammensatte systemer øker også behovet for tilsyn og effektive backupsystemer.
+
+
+
+
+Brannen på Oslo sentralstasjon viste med all tydelighet konsekvensene, og ikke minst mulige konsekvenser, når det utenkelige skjer. En debatt om samfunnssikkerhet og sårbarhet er derfor svært viktig. For det er det dette handler om: trygghet for at systemene fungerer som de skal, trygghet for at det offentlige til enhver tid gjør det som trengs for å sikre landets infrastruktur. Togene sluttet å gå. Men når telefoni, bredbånd og til og med norsk kriseberedskap ble berørt av en enkel kabelbrann på Oslo S, må vi gå grundig igjennom både organisering og ansvarsforhold knyttet til samfunnssikkerhet. Innbyggerne i dette landet skal føle seg trygge på at noe slikt ikke skjer igjen, og da kanskje med enda større konsekvenser.
+
+
+
+
+I 2006 skrev Riksrevisjonen at en brann som rammer virksomheten ved politiets datasentral, vil føre til at store deler av politiets informasjonssystemer settes ut av drift. Ifølge Dagsavisen uttalte Politidirektoratet da at sannsynligheten for en slik hendelse er liten, men at konsekvensene er alvorlige hvis det allikevel skulle skje. Nå har vi sett at det kan skje. Oslo S er spesielt sårbar fordi det er knutepunktet for all sentral kommunikasjon på Østlandet, både når det gjelder persontransport og data- og telekommunikasjon.
+
+
+
+
+Hendelsen viste også at et av landets mest kompliserte knutepunkter har ekstra utfordringer ved at det er svært mange ulike aktører på ett og samme sted, både offentlige og private, men ingen overordnet «stasjonsmester» som har kontrollen når krisen er et faktum
+
+
+
+
+Dette er en sak som hører inn under begrepet «samfunnssikkerhet og beredskap», og den gir en pekepinn om hvor langt, eller hvor kort, vi har kommet i forhold til Regjeringens hovedmål i St.meld. nr. 17 for 2001-2002 Veien til et mindre sårbart samfunn. Der var formuleringene:
+
+
+
+
+
+
+
+
+
+
+Effektiv forebygging av kriser og alvorlig svikt i samfunnskritiske funksjoner
+
+
+
+
+
+
+
+Effektiv håndtering av kriser
+
+
+
+
+
+
+
+God organisering av samfunnets beredskapsapparat
+
+
+
+
+Samferdselsdepartementet har det overordnede ansvaret for sikkerhet og beredskap på sitt område.
+
+
+
+
+I rørgaten under Oslo S var det strømførende kabler - fem stykker, Jernbaneverkets ledninger til radiosamband og trafikkontrollen for hele Østlandet, flere kabler til private firmaer, bl.a. BaneTele, som fører fiberkabel for telefoni og internettbruk over store deler av landet. Det meste av det som lå på samme sted, ble påført skader i brannen.
+
+
+
+
+Når vi summerer opp hvor ansvaret ligger, viser denne hendelsen at seks departement og fem underliggende etater deler ansvaret for innholdet som brant i kulverten på Oslo S. I tillegg kommer Jernbaneverket og strømleverandøren, som var Hafslund, inn i bildet.
+
+
+
+
+Det er kjent at Regjeringen skal legge fram en stortingsmelding om samfunnssikkerhet og beredskap denne våren. Vil statsråden påse at det blir en helhetlig langtidsplan med synlige tiltak for de departementer og underliggende etater som var involvert i hendelsen på Oslo sentralstasjon?
+
+
+
+
+Det er kjent at sårbarheten på Oslo S kom fram under Øvelse Oslo 2006, som ble arrangert av Direktoratet for samfunnssikkerhet og beredskap. I tillegg har direktoratet tidligere pekt på at en del av infrastrukturen i Norge er gammel, og at det er et stort etterslep når det gjelder fornyelse av eldre utstyr. Direktoratet har pekt på at det settes av for lite midler til vedlikehold av kritisk infrastruktur. Vil statsråden følge opp de påpekninger som direktoratet som tilsynsmyndighet har kommet med?
+
+
+
+
+Det er tidligere satt spørsmålstegn ved praksisen med samlokalisering av samfunnskritiske kabler, og spørsmålet er: Hva har Samferdselsdepartementet gjort i saken?
+
+
+
+
+Det skal ha vært utført mange analyser, bl.a. sårbarhetsanalyse for Oslo S i 1998, i tillegg til, som jeg har nevnt, Øvelse Oslo 2006, som også avslørte sårbarhet. Hendelsen på Oslo S kan enten tyde på at sårbarhetsanalysene ikke var gode nok, eller at tiltakene ikke har blitt iverksatt. Ifølge media har Jernbaneverket sagt at det er for kostbart å lage en reserveløsning som kan sikre Oslo S med strøm og samband.
+
+
+
+
+Samferdselsdepartementet har lagt opp til at tildeling av bevilgninger til oppgaver og tiltak innen samfunnssikkerhet og beredskap i samferdselssektoren skal prioriteres innenfor etatens ordinære budsjett, men dette kan ikke være en sak bare for Jernbaneverket. Saken angår landets sikkerhet, og den angår egentlig hele østlandsområdet. Etter Kristelig Folkepartis mening er alle utsagn om at det er for dyrt å finne robuste løsninger og prioritere samfunnssikkerhet og beredskap en form for ansvarsfraskrivelse. Er statsråden enig i at det er slik?
+
+
+
+
+Kristelig Folkeparti har merket seg det i NOU 2006:6 Når sikkerheten er viktigst, framsettes kritikk mot manglende plassering av ansvar:
+
+
+
+
+
+
+
+«Ansvaret for kritisk infrastruktur er således ikke skilt ut som et eget fagområde løsrevet fra det øvrige ansvar innenfor en sektor. Det foreligger altså ikke et «helhetsprinsipp» for organiseringen av sikkerhets- og beredskapsarbeidet som innebærer at et departement skal ivareta helheten på tvers av fagdepartementene.»
+
+
+
+
+For Kristelig Folkeparti er det to forhold som er helt avgjørende i denne sammenhengen: For det første at vi som innbyggere kan ha full tillit til at det offentlige gjør det de kan for å ivareta sikkerheten. Da må vi være trygge på at kritisk infrastruktur fungerer som den skal. For det andre at det offentlige har effektive systemer som sikrer nødvendig koordinering mellom sektorene.
+
+
+
+
+Statsråden var raskt på banen da det brant på Oslo S. Det vil vi i Kristelig Folkeparti gi honnør for. Jeg vil også gi ros til alle som akutt stilte opp for å avhjelpe en vanskelig situasjon. Men denne saken handler om mer enn en brann på Oslo S. Den handler om hvilke systemer vi har for å forhindre og minimere kjedereaksjoner når en ulykke inntreffer og lammer deler av vår samfunnskritiske infrastruktur. Den handler om at folk skal føle seg trygge. Den handler om hver enkelt innbyggers daglige sikkerhet, og da må vi spørre om koordineringen mellom sektorene, slik den er i dag, er god nok. Er ansvarsfordelingen tydelig nok? Er det f.eks. slik at kaoset som oppstod på Oslo S, oppstod delvis fordi det var så mange ulike aktører involvert, slik Jon Lea i Direktoratet for samfunnssikkerhet og beredskap antydet til NTB 28. november?
+
+
+
+
+Med ny teknologi får svikt ett sted dominokonsekvenser vi kanskje ikke ser for oss. Samfunnet utvikler seg raskt, og en av statens aller viktigste oppgaver er å ivareta innbyggernes sikkerhet. Vi må alltid spørre oss om koordineringen er godt nok organisert og ansvarsforholdene tydelig nok plassert. Hvilke endringer ser statsråden for seg, slik at vi sikrer optimal og effektiv organisering?
+
+
+
+
+Direktoratet for samfunnssikkerhet og beredskap var ikke klar over at Jernbaneverket har både høyspentledninger, lavspentledninger og signalkabler i samme kulvert, samme rørgate. Direktoratet var ikke i den aktuelle kulverten da de hadde tilsyn. Da er spørsmålet: Hvordan kan direktoratet som tilsynsmyndighet styrkes?
+
+
+
+
+I min interpellasjon spør jeg om hva Regjeringen vil gjøre for å sikre vitale samfunnsfunksjoner, herunder systemer knyttet til trafikkavviklingen på Oslo S, slik at ikke noe tilsvarende skal skje igjen. En debatt om samfunnssikkerhet og sårbarhet handler ikke bare om Oslo S, den handler om hele vår kritiske infrastruktur. Den handler om at vi som innbyggere skal føle oss trygge i hverdagen.
+
+
+
+
+Solveig Horne hadde her tatt over presidentplassen.
+
+
+
+

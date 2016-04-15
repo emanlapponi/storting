@@ -1,0 +1,51 @@
+ Interpellanten tar opp et særdeles viktig og aktuelt spørsmål.
+
+
+17. desember 2010 la Justisdepartementet fram meldingen om organisert kriminalitet. Utfordringene knyttet til cyberkriminalitet og cyberangrep er også beskrevet der. Som det framgår i meldingen, anses cyberkriminalitet og -angrep å være en type organisert kriminalitet som øker, både mot enkeltpersoner, næringsliv, organisasjoner og stater.
+
+
+NorCERT – Norwegian Computer Emergency Response Team – er Norges nasjonale senter på området og koordinerer håndteringen av alvorlige dataangrep mot samfunnskritisk infrastruktur og informasjon. I tillegg drifter og organiserer NorCERT et nasjonalt sensornettverk på Internett – VDI – varslingssystem for digital infrastruktur.
+
+
+NorCERT er en avdeling i Nasjonal sikkerhetsmyndighet – NSH – som skal forebygge alvorlige angrep på samfunnskritisk infrastruktur, varsle om alvorlige hendelser, trusler og sårbarheter. NorCERT fungerer som Norges kontaktpunkt mot tilsvarende organisasjoner i utlandet og opp mot sektorvise responsmiljøer. De samarbeider også med andre lands myndigheter og mot norske statlige og private bedrifter med kritisk infrastruktur.
+
+
+For å få en samlet vurdering og beskrivelse av trusselbildet på IKT-området er det etablert en egen koordineringsgruppe for IKT-risikobilde bestående av NSM, PST og Etterretningstjenesten. NSM anbefaler at de ulike sektorene etablerer egne responsmiljøer med kontaktflate opp mot NorCERT – faste kontaktpunkter og prosedyrer for varsling i egen sektor. Dette vil kunne bidra til at man raskt får oversikt over om et IKT-angrep er rettet mot en enkelt virksomhet eller mot en sektor som helhet. Samtidig vil man også raskt kunne få oversikt over om hendelser rammer flere sektorer eller flere land.
+
+
+Det er igangsatt et arbeid med å etablere et responsmiljø for justissektoren – JustisCSIRT. Dette vil styrke IKT-sikkerheten og samarbeidet mellom Justisdepartementet og underliggende etater når hendelser rammer våre egne systemer. Det at flere enheter samarbeider og deler informasjon knyttet til IKT-hendelser, vil gi et godt bidrag til riktig og raskere reaksjon ved uønskede hendelser. Med flere slike sektorvise responsmiljøer som knytter seg opp mot det nasjonale NorCERT, vil man tidlig kunne få oversikt over hvor stort omfang angrepet har. Jeg har ved flere anledninger oppfordret til dette.
+
+
+Sikkerhet i og tillit til IKT-systemer er en vesentlig forutsetning for å holde samfunnshjulene i gang. Regjeringen har utgitt nasjonale retningslinjer for å styrke informasjonssikkerheten, slik interpellanten viste til. Disse er nå under revidering. Fornyings-, administrasjons-, og kirkedepartementet er samordningsansvarlig for forebyggende IKT-sikkerhet. Justisdepartementet, Forsvarsdepartementet og Samferdselsdepartementet er medutstedere av disse retningslinjene. De reviderte retningslinjene vil foreligge til våren og skal dekke hele spekteret fra grunnleggende IKT-sikkerhet til beskyttelse av de mest samfunnskritiske informasjonssystemene, og tydeliggjøre ansvarsdelingen mellom departementene på IKT-området.
+
+
+I meldingen om organisert kriminalitet ble Nasjonal sikkerhetsmyndighets forslag til nasjonal strategi for cybersikkerhet omtalt. Denne strategien vil sammen med høringsinnspillene inngå som en viktig del av grunnlagsmaterialet til utformingen av retningslinjene.
+
+
+Regjeringen har også igangsatt flere andre tiltak: Kripos vil i år bli styrket med 15,28 mill. kr for å kunne forebygge og bekjempe internettrelatert kriminalitet bedre. Kripos’ datakrimavdeling har et sentralt ansvar for å forebygge, avdekke, etterforske og iretteføre kriminalitet på Internett. Avdelingen utfører datakrimetterforskning og metodeutvikling innen datatekniske undersøkelser, sporing og sikring av bevis.
+
+
+Politiet er også avhengig av å få tips fra publikum. Som et ledd i dette har politiet etablert sider på nettet hvor barn og unge ferdes, med en tipstjeneste kalt «Rød knapp». Jeg er opptatt av polititilstedeværelse på Internett, både i det forebyggende arbeidet og som ledd i etterforskningen.
+
+
+Politidirektoratet og riksadvokaten har opprettet en arbeidsgruppe som skal foreta en utredning omkring etterretning og etterforskning av IKT-kriminalitet. Arbeidsgruppen skal kartlegge både dagens situasjon, utviklingen av et elektronisk politi og utnyttelse av elektroniske spor i politiet. Den vil legge fram sin rapport i juni. Stortinget vil bli orientert om rapporten på egnet måte.
+
+
+Politiets sikkerhetstjeneste har også en viktig rolle i politiets innsats mot nettverksangrep og nettverksoperasjoner mot Norge og norske interesser. PST er derfor styrket i årets budsjett med bl.a. 20 mill. kr for å videreutvikle den etablerte Åpne kilder-enheten – en enhet som gjør det mulig for PST å foreta dypdykk og analysere opplysninger fra åpne kilder på nettet. PST har også igangsatt et prosjekt som skal se nærmere på eget ansvar og egen rolle ved nettverksangrep og nettverksoperasjoner. Resultatet av dette arbeidet vil også foreligge til våren.
+
+
+Som Stortinget har blitt varslet om tidligere, er det igangsatt et arbeid for å gjennomgå politiets oppgaver og organisering, Resultatreformen – videreutvikling av politi- og lensmannsetaten. Et sentralt område omtalt under politiets oppgaver vil være cyberkriminalitet. Vi vil gjennomgå lovverket, organisering av forebygging, etterretning og etterforskning, kompetanse og kompetansebehov og rolleavklaring og samarbeid med andre aktører.
+
+
+Politiets egen IKT-infrastruktur trenger oppgradering. Det er derfor bevilget 80 mill. kr utover det som avsettes innenfor årets ordinære budsjett, til videreutvikling av IKT-tiltak i politiet.
+
+
+Vi har i dag ikke en tilstrekkelig sikker, utbredt og brukervennlig løsning for å identifisere personer på nettet. Særlig er dette en utfordring for private tjenester som brukeren oppretter selv, uten at identiteten kontrolleres. Regjeringen har over noe tid arbeidet med et nasjonalt ID-kort, med offentlig utstedt eID på høyt sikkerhetsnivå tilsvarende nivået for pass. Stortinget vil bli holdt orientert om det videre arbeidet på egnet måte.
+
+
+Den 11. november i fjor varslet statsministeren at Justis- og politidepartementets ansvar for samfunnets sikkerhets- og beredskapsfunksjoner i fredstid skulle styrkes og tydeliggjøres. Departementets rolle som pådriver for at offentlige virksomheter følger opp sitt beredskapsansvar, vil bli styrket. Departementet bærer fra 1. januar i år navnet Justis- og beredskapsdepartementet.
+
+
+Jeg har opprettet en egen prosjektgruppe som innen utgangen av måneden skal levere en rapport til meg med en vurdering av departementets beredskapsoppgaver og organiseringen av disse. Dette vil også kunne innvirke på ansvar og oppgaver innenfor cyberområdet. Når avklaringen omkring disse forhold foreligger, vil også Stortinget bli nærmere orientert på egnet måte.
+
+

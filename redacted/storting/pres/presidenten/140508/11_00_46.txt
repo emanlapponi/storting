@@ -1,0 +1,106 @@
+ Presidenten har ikke registrert at danske dronning Margrethe har gått ut av tiden, og vil bare presisere at det kanskje var en ordbruk som var litt vanskelig.
+
+
+ Den 24. mars i år kunngjorde Nets at det var inngått avtale om salg av selskapet til et konsortium bestående av selskapene Advent International, ATP og Bain Capital. Advent International og Bain Capital er amerikanske «private equity»-selskaper, mens ATP er et dansk pensjonsfond.
+
+
+Jeg vil først kort gjøre rede for selskapsstrukturen i Nets-konsernet og hvilke tjenester Nets leverer i Norge, før jeg kommer nærmere inn på detaljene i representantens spørsmål om norske myndigheters rolle. Opplysningene om Nets bygger på offentlig tilgjengelige opplysninger om selskapet.
+
+
+Nets er et internasjonalt konsern med hovedkontor i Danmark og med virksomhet hovedsakelig i de nordiske landene. Nets er i dag eid av danske og norske banker, med noe overvekt av danske eierinteresser. I Norge er norske banker, i tillegg til å være eiere av Nets, også kunder av selskapet. Nets tilbyr en rekke viktige tjenester til bankene gjennom sitt norske datterselskap Nets Norway AS. Avtalene om leveranse av disse tjenestene er mellom Nets og bransjeorganisasjonen Finans Norge på vegne av bankene. Tjenestene Nets leverer til norske banker, er bl.a. drift av Norwegian Interbank Clearing System, NICS, BankID, fellesfunksjonen for BankAxept, AvtaleGiro og eFaktura. Nets har opplyst at de bruker dataservere i Norge for å levere disse tjenestene, men det er likevel slik at CSC Denmark i København benyttes for å operere enkelte tjenester.
+
+
+Det er norske banker og Finans Norge, og ikke Nets, som eier de systemene som Nets leverer tjenester til i Norge. Eierskapet til systemene vil etter det jeg har fått opplyst, forbli hos norske banker og Finans Norge etter salget av Nets. Nets besitter likevel en særlig kompetanse når det gjelder drift av slike systemer, som ikke uten videre lar seg erstatte på en enkel måte. Nets’ rolle består i å tilby tjenester for drift av systemene i henhold til avtalen med Finans Norge. Nets er eier av den tekniske infrastrukturen som brukes for å levere tjenester i Norge. Finanstilsynet har derfor henvendt seg til norske banker og Finans Norge for å sikre at norske banker kan levere sikre og stabile betalingstjenester. Avtalene mellom Finans Norge og Nets har derfor også nylig blitt reforhandlet, med det resultat at det skal være enklere for Finans Norge å velge en annen leverandør av drift av disse tjenestene i fremtiden, dersom bankene ønsker det. Det er likevel en utfordring at det er få tjenestetilbydere i dette markedet.
+
+
+Jeg vil nå kommentere spørsmålet om norske myndigheters rolle i vurderingen av transaksjonen. Transaksjonen forutsetter myndighetsgodkjenning, men fordi Nets er et dansk konsesjonsbelagt foretak, er det danske myndigheter som er konsesjonsmyndighet. Nets Norway AS, som er et datterselskap av Nets, er ikke et konsesjonsbelagt foretak. Norske myndigheter skal derimot godkjenne endring i eierstrukturen i det konsesjonsbelagte datterselskapet Teller, som har konsesjon fra Norges Bank til å drive virksomhet som betalingsforetak etter finansieringsvirksomhetsloven. Norske myndigheters formelle rolle i forbindelse med selve transaksjonen er dermed begrenset, men vi har vært orientert om prosessen, og Finanstilsynet følger opp bankenes ansvar. Sikre og stabile betalingssystemer er et viktig element for å opprettholde finansiell stabilitet, og norske myndigheter stiller derfor strenge krav til bankene på dette området.
+
+
+Jeg vil så kommentere spørsmålet om personvernet for norske brukere av betalingssystemer. Banker håndterer gjennom sin virksomhet en stor mengde sensitive personopplysninger. Det er viktig at personvern ivaretas på en god måte. Spørsmål om personvern reguleres i hovedsak gjennom personvernloven, som hører inn under justisministerens konstitusjonelle ansvar. Jeg har derfor forelagt representanten Tetzschners spørsmål til justisministeren, som har bidratt med følgende svar:
+
+
+Det fremgår av pressemeldingen om salget at det ikke blir noen endringer i den eksisterende reguleringen av Nets. Nets vil fortsatt være underlagt kontroll av de respektive danske, norske og finske finanstilsyn og konkurransemyndigheter. Det samme vil gjelde kravene til databeskyttelse, som blir upåvirket av endringer på eiersiden, og det fremgår at konsortiet også vil iverksette ytterligere tiltak for å sikre Nets’ håndtering av databeskyttelse og personvern.
+
+
+Justis- og beredskapsdepartementet har vært i kontakt med Datatilsynet om saken. Datatilsynet har bekreftet at Datatilsynets direktør Bjørn Erik Thon avholdt et møte med representanter fra Nets 3. april 2014 om de personvernmessige konsekvensene av salget. Basert på møtet med Nets så Datatilsynet ingen rettslige hindringer i veien for oppkjøpet.
+
+
+Det følger av personopplysningloven § 4 at loven gjelder for behandlingsansvarlige som er etablert i Norge. For å være «etablert» kreves det at man har en forretningsmessig virksomhet. Her må tre kumulative vilkår være oppfylt:
+
+
+Det må utøves en aktivitet i Norge
+
+
+Aktiviteten må skje gjennom en fast organisatorisk infrastruktur og
+
+
+for et ubestemt tidsrom
+
+
+Den behandlingsansvarlige er den som bestemmer formålet med behandlingen av personopplysninger og hvilke hjelpemidler som skal brukes, jf. personopplysningloven § 2 nr. 3. I denne konkrete saken er det de norske bankene som tilbyr sine kunder bruk av ulike betalingstjenester, som er å betrakte som behandlingsansvarlige. Den norske personopplysningsloven regulerer derfor behandlingen av opplysninger om bankens kunder. Denne lovforståelsen legges til grunn av Datatilsynet, og den ble for øvrig også bekreftet av representanter fra Nets i nevnte møte. Nets er således kun å betrakte som en databehandler, som behandler personopplysningene på vegne av den behandlingsansvarlige, altså bankene, jf. personopplysningloven § 2 nr. 4. En databehandler kan ikke behandle personopplysninger på annen måte enn det som er skriftlig avtalt med den behandlingsansvarlige, og bankene må derfor sørge for å ha et adekvat avtaleverk med databehandleren. Opplysningene kan heller ikke uten avtale overlates til noen andre for lagring eller bearbeidelse, jf. personopplysningsloven § 15.
+
+
+Dersom data skal overføres fra Norge til utlandet, må vilkårene i personopplysningsloven kapittel V være oppfylt. Utgangspunktet etter personopplysningsloven § 29 er at personopplysninger kan overføres til land som sikrer en «forsvarlig behandling» av opplysningene, mens det i § 30 første ledd oppstilles en rekke unntak fra denne hovedregelen. En eventuell overføring til USA vil vurderes etter § 30. Det følger av personopplysningsloven § 30 annet ledd at Datatilsynet kan tillate overføring selv om vilkårene i unntaksbestemmelsene i § 30 første ledd ikke er oppfylt, dersom den behandlingsansvarlige gir «tilstrekkelige garantier» for vern av den registrertes rettigheter. Datatilsynet fikk opplyst at Nets’ infrastruktur i Norden vil opprettholdes, at informasjonen vil lagres i servere her, og at det uansett er klausuler i avtaleverket som forhindrer overlevering av data til USA uten norske myndigheters godkjenning.
+
+
+Bankene vil for øvrig fortsatt være behandlingsansvarlige ved et eventuelt videresalg av selskapet til nye kjøpere.
+
+
+ Jeg vil takke finansministeren for et grundig svar, særlig når det gjelder de formelle strukturer som Nets arbeider innenfor i dag.
+
+
+Jeg vil imidlertid tillate meg å minne om at problemstillingen kanskje ikke går så mye på Nets’ rolle i Norden, men det som oppstår når et ikke-europeisk selskap, som er underlagt en annen jurisdiksjon, som, for å si det mildt, ikke er på linje med norsk, nordisk eller europeisk personvernrett.
+
+
+For øvrig vil det heller ikke være begrensende for dem som er under amerikansk lovgivning, at serverne er i Norden, som det ble vist til her. Dessuten kan jeg også legge til den interessante tilleggsopplysning at allerede i dag er en del av de servere som Nets benytter seg av, plassert utenfor Norden – idet jeg tillater meg å si at Estland ikke direkte er et nordisk land.
+
+
+Det som selvfølgelig er riktig, er at norske tilsynsmyndigheter må følge opp de norske bankene, og det er selvfølgelig også riktig at vårt finanstilsyn stiller strenge krav, og skal stille strenge krav, til bankene. Men det vesentlige er om disse strenge kravene stilles videre, og at man ikke, gjennom det faktum at man selger ut landets finansielle struktur, gir fra seg råderetten juridisk til å gripe inn og regulere, hvis man ser at utviklingen krever det.
+
+
+Det er der jeg blir litt mer i tvil og kanskje må be finansministeren, i litt kortere setninger, gi en garanti for at norske brukere av finansielle tjenester ikke får svekket sitt personvern, ut fra det lovverket vi selv har i dag. Jeg synes det hadde vært et godt utfall av denne interpellasjonen hvis vi kunne få en slik utvetydig garanti.
+
+
+Så innser jeg at det kanskje skal gjøres mer juridisk hjemmearbeid for å få det på plass. Men jeg tror det er av stor offentlig betydning at norske bankbrukere vet at det er norske personopplysningsregler som verner deres personopplysninger på en bedre måte i fremtiden, og at det faktisk også er en del mangler å rette opp i det selskapet som nå selges.
+
+
+ La meg først si at jeg er veldig glad for at representanten Tetzschner reiser denne interpellasjonen. Det er viktig for mange i denne sal å fokusere på personvernet. Regjeringen er også svært opptatt av personvern i mange ulike sammenhenger, og jeg kan forsikre om at både Finansdepartementet og Justis- og beredskapsdepartementet følger opp på sine respektive ansvarsområder.
+
+
+Mange av de oppfølgingsspørsmålene som representanten Tetzschner kom med i sitt andre innlegg, tilligger dog justisministerens konstitusjonelle ansvarsområde. Jeg vil derfor be ham om å gi et utfyllende svar til representanten og Stortinget, slik at eventuelle spørsmål kan bli besvart gjennom ham.
+
+
+ Jeg vil si at det andre svaret fra finansministeren gledet meg enda mer enn det grundig forberedte svaret, fordi jeg tror at det svaret også inneholdt en erkjennelse av at man stadig må oppjustere regelverket i pakt med den teknologiske utviklingen og ta lærdom av slike hendelser som Nets har vært igjennom. Men det er ikke bare snakk om enkeltepisoder fra utro medarbeidere. Det viser seg nå, ifølge det som er blitt offentlig kjent i Danmark, at Nets har ligget i en blindsone mellom det lokale danske datatilsynet og det danske finanstilsynet. Det viser seg altså at det danske tilsynet, som har det nærmeste tilsynsansvaret for de tekniske løsningene som velges, ikke har hatt interesse for Nets på flere år. Det har vært unnlatelsessynder, og derfor er det viktig at det i forbindelse med salget blir innskjerpet hvilket regime man kan forvente seg, og at vi selvfølgelig også kommer tilbake til de avklaringer som finansministeren gledeligvis sa at hun gjerne ville gå inn i sammen med justisministeren. Det synes jeg er løfterikt, og det ser jeg frem til.
+
+
+ Dermed er debatten i sak nr. 2 avsluttet.
+
+
+I og med at kulturministeren ikke er i salen, ser ikke presidenten noen annen måte å håndtere det på enn å heve møtet midlertidig. – Det anses vedtatt.
+
+
+Møtet avbrutt kl. 11.23.
+
+
+--------------
+
+
+Stortinget gjenopptok sine forhandlinger kl. 11.26
+
+
+Marit Nybakk
+
+ Kulturministeren er kommet inn i salen, og det betyr at Stortingets møte igjen er lovlig satt.
+
+
+Vi tar fatt på sak nr. 3 på dagens kart.
+
+
+
+
+
+
+                    
+                    
+                    
+

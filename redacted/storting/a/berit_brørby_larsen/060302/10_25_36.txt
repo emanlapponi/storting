@@ -1,0 +1,95 @@
+ 
+
+(ordfører for saken):
+
+ Det er svært positivt at Riksrevisjonen har undersøkt myndighetenes arbeid med å sikre IT-infrastruktur, både i forhold til å bedre IT-sikkerheten og i forhold til tiltak for å bedre telesikkerheten.
+
+
+
+
+Formålet med undersøkelsen har vært å vurdere dette arbeidet opp mot Stortingets vedtak og forutsetninger. Organiseringen av arbeidet, plan og gjennomføringsprosessene og de tiltak som er iverksatt, er vurdert.
+
+
+
+
+Vi har alle daglig fordeler av de enorme tekniske framskritt knyttet til datateknikk og elektronikk som har funnet sted i løpet av de siste 50 årene. Den teknologiske utviklingen har gitt oss et helt nytt materielt grunnlag for tilværelsen. Men det er et paradoks at ved å ta i bruk de mulighetene den teknologiske utvikling gir, utvikles samfunns- og leveforhold som er langt mer sårbare enn før. Dette er fordi bruk av høyteknologi er avhengig av mange ulike faktorer, og konsekvensene kan bli svært vidtrekkende om noen ikke fungerer. Mulighet for sabotasje, internasjonal kriminalitet, spionasje eller brudd i telesamband, elektrisitetsforsyning eller betalingssystemer viser til fulle hvor sårbart samfunnet vårt er blitt.
+
+
+
+
+Det er bred enighet om at IT-sikkerhet skal være et virksomhetsansvar. Dette ble slått fast under Stortingets behandling av St.meld. nr. 17 for 2001-2002 om samfunnssikkerhet og er blitt fulgt opp gjennom organiseringen av arbeidet. Det er bra. Men når det gjelder ansvarsfordelingen for koordinering og tverrgående tilsynsoppgaver innen IT-sikkerhet, mangler fortsatt grunnleggende avklaringer. Hva ligger det f.eks. i at Justisdepartementet skal ha ansvaret for kritisk infrastruktur, og hvilket ansvar mener departementet det vil ha i en krisesituasjon? Det er ikke beroligende når Justisdepartementet opplyser at det ikke er en klar, entydig og tverrsektoriell oversikt over hva som er samfunnskritisk IT-infrastruktur. Og selv om det ifølge undersøkelsen er satt i gang noe arbeid for å definere hva som er samfunnskritisk infrastruktur, synes det så langt ikke å ha fått tilstrekkelig prioritet.
+
+
+
+
+Det kan ikke være tvil om at det er nødvendig å ha klare prosedyrer dersom det skulle oppstå en krisesituasjon. Da må aktørenes roller være helt krystallklare. Med det som bakteppe er det urovekkende når Riksrevisjonen også avdekker uklarhet når det gjelder forståelsen av ansvaret for IT-sikkerhetsarbeidet, mellom Samferdselsdepartementet og Moderniseringsdepartementet, nå Fornyingsdepartementet. Dette er en uklarhet Regjeringen er nødt til å ta tak i. Jeg har merket meg at Moderniseringsdepartementet, nå Fornyingsdepartementet, har nedsatt en arbeidsgruppe for å avklare de ulike departementenes rolle, og det er bra.
+
+
+
+
+Jeg synes også det er alvorlig når Riksrevisjonen viser at Varslingssystem for digital infrastruktur og Senter for informasjonssikring, som skal fange opp informasjon om trusler og sårbarhet i IT-infrastrukturen, ikke har nådd vesentlige mål for virksomheten. Forsvarsdepartementets så vel som Moderniseringsdepartementets – altså nå Fornyingsdepartementets – kommentarer til Riksrevisjonen styrker dette inntrykket. Jeg forutsetter at alle implisert prioriterer arbeidet med å avklare ansvar og sikre en organisering som ivaretar de oppgaver som skal utføres.
+
+
+
+
+Jeg finner også grunn til å uttrykke forbauselse over at departementene fram til mai 2005 ikke hadde tatt kontakt med de utvalgte bransjeorganisasjonene som i henhold til Nasjonal strategi for informasjonssikkerhet er gitt et medansvar for å ivareta viktige funksjoner. Det har hele tiden vært en forutsetning, og jeg kan ikke se at det er gitt noen god begrunnelse for manglende samarbeid.
+
+
+
+
+Videre synes tidligere uenighet rundt plasseringen av en myndighetsforankret CERT, Computer Emergency Response Team, å ha medvirket til manglende framdrift. Komiteen har imidlertid merket seg at Moderniseringsdepartementet i sitt svar til Riksrevisjonen uttaler at
+
+
+
+
+
+
+
+«Regjeringen 29. august 2005 vedtok å etablere et permanent nasjonalt koordinerende CERT (Computer Emergency Response Team). CERT skal legges til Varslingssystem for digital infrastruktur (VDI) hos Nasjonal Sikkerhetsmyndighet (NSM), og skal ivareta varsling, rådgivning, assistanse og analyse for kritisk infrastruktur/samfunnsviktige funksjoner».
+
+
+
+
+Og videre i brev av 24. oktober 2005:
+
+
+
+
+
+
+
+«I føreliggande St.prp. nr. 1 (2005-2006) ligg det inne eit forslag om å styrke den operative IT-sikringa ved å etablera ein eigen eining – CERT (Computer Emergency Response Team), ved Nasjonal sikkerhetsmyndighet. Eininga skal handtere alvorlege dataangrep retta mot kritisk infrastruktur på nasjonalt plan. Den nasjonale CERT skal integrerast mot det eksisterande VDI (Varslingssystem for digital infrastruktur). Den nasjonale CERT/VDI vil bli pålagt å samvirke og utveksle informasjon med tilstøytande verksemder i IT-sikringsfeltet som til dømes Post- og teletilsynet, Senter for informasjonssikring (SIS) mv.»
+
+
+
+
+En samlet komite understreker viktigheten av at spørsmål om ansvar og forhold til andre aktører snarest blir avklart.
+
+
+
+
+Det er også alvorlig når Riksrevisjonen viser at plandokumentene for oppfølgingen av Nasjonal strategi for informasjonssikkerhet har vært utilstrekkelige, at de som har hatt ansvaret for samordning, er gitt for få virkemidler, at finansieringen av tverrsektorielle tiltak har vært undervurdert, og at regelverket ikke i tilstrekkelig grad har vært samordnet. Dette krever aktiv oppfølging fra myndighetenes side.
+
+
+
+
+Riksrevisjonen retter særskilt søkelyset på telesikkerhet og -beredskap. At bare et fåtall av de vedtatte tiltak i St.meld. nr. 47 for 2000-2001 om telesikkerhet og -beredskap i et telemarked med fri konkurranse er satt ut i livet, er bekymringsfullt.
+
+
+
+
+Jeg har merket meg departementenes svar, og registrerer at det er en rekke tiltak på gang. Det er positivt. Det avgjørende er imidlertid om den innsatsen som settes inn, er tilstrekkelig, om den er strukturert, og om den er helhetlig. Jeg forutsetter at både departementet og Riksrevisjonen har et fokus spesielt på dette, og forutsetter at Stortinget vil bli holdt orientert om utviklingen.
+
+
+
+
+La meg avslutningsvis peke på at en samlet komite ber Regjeringen i løpet av 2006 komme tilbake med en redegjørelse til Stortinget om arbeidet med å avklare de overordnede ansvarsforholdene mellom departementene når det gjelder IT-sikkerhet. Komiteen forutsetter at redegjørelsen inneholder en vurdering av krisehåndtering, status for arbeidet med å fange opp trusler og avdekke sårbarhet. Samtidig må det stilles tilstrekkelige ressurser til rådighet slik at arbeidet med å sikre en tilfredsstillende kriseberedskap og IT-infrastruktur kan gis nødvendig prioritet.
+
+
+
+
+Helt til slutt: I tillegg vil min oppfordring til de berørte statsråder være at dette arbeidet må intensiveres også på nordisk plan.
+
+
+
+

@@ -1,0 +1,21 @@
+ Den nye kriminaliteten, cyberkriminaliteten – grenseoverskridende organisert kriminalitet – skjer ikke bare på landjorda, den skjer vel så mye via IKT og nye medier. Cyberkriminalitet er en av de største utfordringene samfunnet vil stå overfor i framtiden. Interpellanten viste i sitt innlegg til hendelser som så absolutt synliggjør alvorlighetsgraden av disse angrepene.
+
+
+I Nasjonal sikkerhetsmyndighets strategi for cybersikkerhet står det at politiet er kjent med utfordringen, men per i dag har vi ikke det verktøyet på plass som trengs for å imøtegå disse utfordringene. EOS-tjenestene mener at trusselnivået knyttet til IKT-baserte virkemidler har økt betraktelig de siste årene. Erfaringer fra NorCERT underlagt NSM, vår nasjonale sikkerhetsmyndighet, viser at dette er mer og mer alvorlig og vanskeligere og vanskeligere å håndtere.
+
+
+Inntrengere har flere hensikter. De kan være ute etter å få tak i informasjon, tømme bankkontoen din eller det er et ID-tyveri, eller de kan ønske datakraft for å kunne bruke den enkeltes pc til å angripe andre, såkalt botnet, med flere pc-er som da er samkjørte. Da fjernstyres man av en ondsinnet avsender. Pc-armadaen benyttes til å angripe en annen bruker og kan raskt sette store, viktige bedrifter ut av spill.
+
+
+Utenforstående kan altså i dag bryte seg inn og styre f.eks. oljeproduksjonen fra en plattform i Nordsjøen eller kraftproduksjonen fra et vannverk. Samfunnet vårt har blitt utrolig sårbart. Enkle IT-problemer kan forårske store ulykker, og det er mulig for kriminelle å gjøre stor skade. Hver dag året rundt blir våre bedrifter og offentlige organer utsatt for hacking og informasjonsuthenting og i noen tilfeller forsøkt manipulert eller angrepet. Flere sektorer innenfor det norske samfunnet er attraktive etterretningsmål, og aktiviteten til utenlandske staters etterretningstjenester er høy mot Norge og norske interesser. Hvis man fordyper seg i cyberkrimverdenen, vil man fort se alvorlige hendelser, som f.eks. Stux Net og andre, som preger debatten. Vi ser også at det registreres alvorlige IKT-hendelser i forbindelse med de fleste internasjonale sikkerhetspolitiske konflikter, som alle utgjør en trussel mot samfunnet.
+
+
+Våre allierte samarbeidspartnere ser på truslene på nett med økende bekymring. NATOs parlamentarikerforsamling har framstilt cyberangrep, sammen med terrorisme og spredning av kjernevåpen, som en av de mest alvorlige truslene alliansen og medlemsstatene står overfor.
+
+
+Ut fra erfaringene er det grunn til å framheve etterretning og organisert kriminalitet som de viktigste truslene i Norge i dag, sier NorCERT, som dermed bekrefter det Fremskrittspartiet her tar til orde for.
+
+
+Vi må ha en rekrutteringsstrategi for å sikre oss at de flinkeste av de flinke, de såkalt kloke hodene, blir rekruttert til å jobbe i det offentlige sikkerhetssystemet. Senest i dag har forskere ved NUPI vært i media og påpekt behovet for en bedre samkjøring og informasjonsflyt mellom Forsvarets sikkerhetstjeneste, E-tjenesten, Nasjonal sikkerhetsmyndighet, NSM, og PST, hvor det i tråd med Fremskrittspartiets forslag fra debatten om Meld. St. 7, org.krim-meldingen, påpekes at det bør opprettes en kommandosentral og en paraplyorganisasjon innenfor dette området. Herunder er opprettelsen av et nasjonalt cybersenter viktig, i tråd med retningslinjene gitt i strategien for cybersikkerhet. Vi har også fremmet forslag om å opprette en gruppe for faglig støtte i kampen for cybersikkerhet til Justisdepartementet og Forsvarsdepartementet, i tråd med ønskene i strategien. Men dessverre ble vi stående alene om disse forslagene. Heller ikke Høyre og interpellanten Werp støttet oss, dessverre.
+
+

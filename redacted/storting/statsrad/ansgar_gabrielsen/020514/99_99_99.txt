@@ -1,0 +1,426 @@
+     Informasjonsteknologi spiller en stadig viktigere rolle for økonomisk vekst og verdiskaping og for samfunnsutviklingen generelt. Men utviklingen går ikke av seg selv. Denne erkjennelsen har mange industrialiserte land tatt innover seg, og IT har blitt løftet høyt opp på den politiske dagsordenen. EU har innenfor Lisboa-strategien og handlingsplanen 
+
+e
+
+Europe som mål å bli den mest dynamiske, konkurransedyktige og bærekraftige kunnskapsøkonomi i verden innen år 2010. Utvikling og anvendelse av informasjonsteknologi er et sentralt virkemiddel for å oppnå dette. Også Norge ønsker å utnytte de mulighetene IT gir for økt velstand, konkurranseevne og verdiskaping. Og Norge har de beste forutsetninger for å ligge i front i denne utviklingen.
+
+
+
+
+Norge er blant de ledende land i verden når det gjelder utbredelse av PC, Internett og mobiltelefon. Hele 62 pst. av befolkningen er regelmessige Internett-brukere. Nesten 70 pst. har nå tilgang til Internett, og hele 1,2 millioner nordmenn er Internett-bankkunder. Den eldre delen av befolkningen har tradisjonelt ligget etter, men nå viser det seg at også de over 60 bruker nettet stadig mer. Mange bedrifter ligger langt fremme når det gjelder å ta i bruk IT til bedre, mer effektive og nye tjenester. Norske forskningsmiljøer har høstet internasjonal anerkjennelse for epokegjørende nyvinninger gjennom den anerkjente Turing-prisen i år – IT-verdenens nobelpris – til professorene Ole-Johan Dahl og Kristen Nygaard ved Universitetet i Oslo. Tar vi i tillegg med vårt høye velstandsnivå og allmenne utdanningsnivå har Norge et svært godt utgangspunkt for å møte IT- og kunnskapssamfunnets utfordringer.
+
+
+
+
+Men på flere områder viser det seg at Norge ikke ligger så godt an. Det gjelder evnen til å ta teknologien i bruk, utnytte mulighetene og ta ut samfunnsøkonomiske gevinster.
+
+
+
+
+Når det gjelder anvendelse av IT i næringslivet, befinner vi oss på et mellomnivå i europeisk sammenheng, og utviklingen går tregere i Norge enn i de øvrige nordiske land. For eksempel hadde 12 pst. av alle foretakene i Sverige og Danmark i 2000 inntekter fra handel via Internett. I Norge er det bare 8 pst. av foretakene som har tilsvarende inntekter. Norge stiller også svakt når det gjelder teknologirelatert utdanning. Dette kan bli en ulempe med tanke på det digitale samfunns særegne utfordring: Arbeidsplasser og velstand skapes gjennom stadig fornyelse og innovasjon.
+
+
+
+
+IT-revolusjonen dreier seg ikke bare om teknologi, men også om dyptgripende samfunnsmessige og økonomiske forandringer. I stedet for å fokusere ensidig på teknologi skal IT-politikken begrunnes ut fra hvordan ny teknologi kan skape verdi, for den enkelte, for virksomheter, for organisasjoner og for samfunnet som helhet. Derfor er utfordringen innenfor IT-politikken å sikre at våre mål innen viktige samfunnsområder nås – om det er bedre helsevesen, en bedre skole eller utvikling av et kunnskapsbasert næringsliv.
+
+
+
+
+Senere i dag legger jeg frem 
+
+e
+
+Norge 2005, en plan som beskriver målene og overordnet strategi for Regjeringens IT-politikk frem til år 2005. Gjennom 
+
+e
+
+Norge-arbeidet skal Regjeringen føre en offensiv IT-politikk som forholder seg til viktige samfunnsutfordringer, og synliggjør IT-politiske problemstillinger.
+
+
+
+
+Regjeringen har tre overordnede mål for IT-politikken. Det første er 
+
+verdiskaping i næringslivet
+
+. Utvikling og bruk av informasjonsteknologi skal bidra til verdiskaping gjennom økt innovasjon og konkurransekraft i norsk næringsliv. Bruk av IT kan redusere avstandsulemper og gir næringslivet muligheter til å konkurrere uavhengig av avstand til markeder. Det kan også bidra til mer effektive produksjonsprosesser og endringer i etablerte verdikjeder. Men skal gevinstene og mulighetene realiseres, kreves det betydelige investeringer i kunnskap i bedriftene og organisasjonsutvikling.
+
+
+
+
+Det andre overordnede målet er 
+
+effektivitet og kvalitet i offentlig sektor
+
+. Informasjonsteknologi skal brukes til å effektivisere offentlig sektor og tilby nye og bedre tjenester til brukerne. Vår enestående posisjon når det gjelder bruk av PC og Internett, tilsier at samfunnet, bedrifter og enkeltpersoner har forutsetninger for og vil forvente gode og tilpassede elektroniske tjenester fra offentlig sektor. Men det er ingen selvfølge at investeringer i IT uten videre bidrar positivt. Det forutsetter bl.a. organisasjonsendringer, motivasjon og kunnskap blant ledere og ansatte. Det kreves en bevisst og målrettet satsing på flere områder.
+
+
+
+
+Det tredje forholdet er 
+
+deltakelse og identitet
+
+. Alle skal kunne utnytte informasjonsteknologiens muligheter, og IT skal bidra til å bevare og videreutvikle vår kulturarv, identitet og våre språk. IT har gitt oss et mangfoldig og lett tilgjengelig tilbud av underholdning, nyhetskilder, faglitteratur, utdanning og mye mer. Tilgangen til offentlig informasjon har vel aldri vært bedre. På ulike måter har Internett blitt et integrert verktøy i de fleste menneskers liv. Samtidig kan dette bety at konsekvensene ved ikke å ha tilgang blir store, og det blir viktig å sørge for at alle får anledning til å utnytte elektroniske tjenester til et bedre og enklere liv.
+
+
+
+
+Myndighetene skal ikke detaljstyre utviklingen, men legge forholdene til rette og være etterspørrer og pådriver for bruk av informasjonsteknologi i alle deler av samfunnet. Samtidig skal dette ikke gå på bekostning av grunnleggende prinsipper som ytringsfrihet, forbrukervern, personvern og barn og unges rettigheter. Regjeringen vil i sin IT-politikk spesielt vektlegge betydningen av å utnytte samspillet mellom innhold, infrastruktur og kompetanse.
+
+
+
+
+Regjeringen har valgt å rette innsatsen for å nå de overordnede IT-politiske målene mot fem hovedområder:
+
+
+
+
+
+
+
+
+
+
+gode rammebetingelser for 
+
+e
+
+Norge
+
+
+
+
+
+
+
+tilgjengelighet og sikkerhet
+
+
+
+
+
+
+
+kompetanse for endring
+
+
+
+
+
+
+
+attraktivt innhold
+
+
+
+
+
+
+
+en moderne offentlig sektor
+
+
+
+
+Myndighetene skal skape gode rammebetingelser for 
+
+e
+
+Norge gjennom et tilpasset regelverk, gode økonomiske ordninger og tilrettelegging for økt innovasjon og forskning på IT-området. Som et ledd i dette skal vi kartlegge hindringer for elektronisk innrapportering og utveksling av personopplysninger mellom offentlige etater. Der det er relevant, skal lovgivningen gjennomgås. Det skal åpnes for at næringslivet kan tilby personrettede tjenester basert på forbrukerens informerte samtykke om bruk av personopplysninger. Regjeringen vil ikke svekke personvernet, men ønsker heller ikke at reguleringer skal være til hinder for utvikling av tilbud fra offentlige og private tjenesteytere. I tillegg er Regjeringen i ferd med å gjennomgå virkemiddelapparatet for å se om det fungerer effektivt og er tilpasset næringslivets behov. Både nye og eksisterende virkemidler vil bli vurdert.
+
+
+
+
+I opptrappingen av forskningen skal IT ha høy prioritet, og resultatene skal i størst mulig grad kommersialiseres. IT-forskning er et område der det ofte er kort vei fra grunnforskning til kommersiell utnyttelse. I så måte har Regjeringen store forventninger til Simulasenteret, som nylig ble åpnet på Fornebu. Senteret har som målsetting å drive grunnforskning på høyt internasjonalt nivå og bidra til innovasjon og nyskaping i næringslivet.
+
+
+
+
+En annen viktig forutsetning er at informasjonssystemer, tjenester og nett blir sikre og tilgjengelige. Regjeringen vil bidra til dette og samtidig være pådriver for anvendelse av bredbånd, elektroniske betalingsløsninger og infrastruktur for sikker kommunikasjon.
+
+
+
+
+Etter hvert som mer og mer av vår samhandling foregår elektronisk, blir kravene til sikkerhet og tilgang stadig viktigere. Økt bruk av IT gjør både enkeltvirksomheter og samfunnet som helhet mer sårbare. Dette er nærmere omtalt i St.meld. nr. 17 for 2001-2002, om samfunnssikkerhet, som nylig er lagt frem, hvor det foreslås en rekke tiltak knyttet til økt IT-sikkerhet
+
+
+
+
+Som et ledd i sikkerhetsarbeidet og i tråd med St.meld. nr. 17 har jeg nylig etablert et Senter for informasjonssikring, som et treårig prøveprosjekt. I forsøksperioden vil senteret bli lokalisert hos SINTEF i Trondheim. Formålet er at senteret på sikt kan få ansvar for nasjonal koordinering av oppgaver innen hendelsesrapportering, varsling, analyse og erfaringsutveksling når det gjelder trusler mot viktige IT-systemer.
+
+
+
+
+Effektiv og sikker bruk av elektronisk kommunikasjon både i forretnings- og i dagligliv forutsetter i mange tilfeller at papirbasert skriftlig signatur erstattes av elektronisk signatur. Elektronisk signatur innebærer bl.a. sikkerhet for at dokumenter ikke ulovlig endres, at avsenderen er den han eller hun utgir seg for å være og den som virkelig står bak dokumentet. For å utnytte mulighetene fullt ut og utløse anvendelser i stor skala har Regjeringen satt som mål at innen utgangen av 2005 skal forholdene være lagt til rette for allmenn bruk av standardbasert elektronisk signatur. Jeg mener at en større satsing på stabile og sikre elektroniske signaturer er nødvendig for å skape tillit til elektroniske transaksjoner, ikke minst er det en viktig forutsetning for å utløse effektiviseringsgevinster og nye anvendelser, også bredbåndstjenester.
+
+
+
+
+Kompetanse er en forutsetning for å kunne utnytte informasjonsteknologiens potensial og ta ut mulige gevinster. Samtidig er kompetansekravene vi stilles overfor, høyere i dag enn for noen tiår siden. Bibliotek og skoler har en viktig rolle i å tilby både IT-tilgang og opplæring. Vi trenger kompetanse på alle nivåer, fra bred brukerkompetanse i alle deler av befolkningen til spisskompetanse, kanskje spesielt innen real- og teknologifag. Regjeringen legger stor vekt på at arbeidslivet får tilgang på IT-kompetanse. I samarbeid med næringslivet vil Regjeringen gjennomgå utdanningskapasiteten og kvaliteten på IT-fag ved norske høyskoler og universiteter.
+
+
+
+
+IT kan øke kvaliteten i undervisningen og gi en bedre tilpasset læringssituasjon for den enkelte. Over lang tid er det bygd opp forventninger om utnyttelse av IT i utdanningen gjennom betydelige investeringer både i kommunene og fra statlig side. Nå er det på tide at man setter alt inn på å få en mer forpliktende utnyttelse av disse investeringene og mulighetene. For å møte denne utfordringen vil Regjeringen
+
+
+
+
+
+
+
+
+
+
+satse betydelige midler på utvikling av digitale læremidler
+
+
+
+
+
+
+
+sette inn midler for å sørge for et bredbåndsløft i norsk skole
+
+
+
+
+
+
+
+opprette en nasjonal utdanningsportal, hvor en viktig oppgave er å stimulere til mer utdanning i alle lag av befolkningen og bidra til økt kvalitet i utdanningssystemet
+
+
+
+
+
+
+
+sørge for at 40 000 lærere får tilbud om etterutdanning i pedagogisk bruk av IT fra høsten 2002
+
+
+
+
+Regjeringen vil dessuten bidra til å øke tilgangen på attraktivt elektronisk innhold tilrettelagt for norske forhold. Offentlig elektronisk innhold skal bli lettere tilgjengelig for både private og profesjonelle brukere, og det offentlige har et ansvar for å digitalisere og gjøre vår felles kulturarv tilgjengelig.
+
+
+
+
+Gjennom en målrettet og bevisst bruk av IT skal vi skape en moderne offentlig sektor som både er mer kostnadseffektiv og tilbyr nye og bedre tjenester. Den elektroniske markedsplassen, en innkjøpsportal for offentlig sektor, skal være i drift fra juni i år. Markedsplassen forventes å bidra til å redusere offentlige innkjøpskostnader og effektivisere offentlige rutiner. Samtidig vil markedsplassen inspirere private aktører til effektivisering av sine prosesser og gi private aktører nye muligheter.
+
+
+
+
+Regjeringen vil gjøre Norge enklere. Derfor skal offentlig innrapportering forenkles vesentlig, og innen utgangen av 2004 skal alle offentlige etater kunne motta elektroniske innrapporteringer fra næringslivet. Det skal bl.a. fokuseres på løsninger som kan integreres i bedriftenes egne IT-systemer.
+
+
+
+
+Offentlig forvaltning skal tilpasses kundenes behov. Den elektroniske selvangivelsen er et godt eksempel på god utnyttelse av IT. Responsen fra publikum har vært god. Nesten 524 000 nordmenn leverte sin selvangivelse over Internett i år, og det er 129 000 flere enn i fjor, en økning på over 30 pst.
+
+
+
+
+Men nå må vi komme videre fra de mange gode enkelteksemplene og pilotprosjektene over til å høste gevinster i større skala. Derfor skal det offentlige satse på å tilby kundene de tjenestene de forventer å få, hvor målet skal være en enklere og lettere hverdag. Regjeringen viderefører gjennomføringen av IT-tiltaksplanen «Si@», som skal bidra til elektronisk samhandling i sosial- og helsesektoren. Prosjekter som bidrar til at man kommer videre fra pilotfasen over til rutinemessige anvendelser, vil bli prioritert.
+
+
+
+
+I denne redegjørelsen vil jeg gå nærmere inn på Regjeringens politikk for bredbånd og elektronisk innhold. Begge områdene henger nært sammen. Begge områdene er på mange måter forutsetninger for at vi fortsatt skal kunne ha ambisjoner om å være blant de fremste IT-nasjonene internasjonalt og kunne møte de utfordringene vi står overfor nasjonalt. Jeg viser også til Dokument nr. 8-forslag fra stortingsrepresentantene Marit Arnstad og Odd Roger Enoksen om at Stortinget får seg forelagt en egen sak om bredbåndspolitikken.
+
+
+
+
+Bredbåndsnett- og tjenester er en viktig forutsetning for å oppnå produktivitetsgevinster av IT og for å kunne realisere viktige politiske mål på mange samfunnsområder. Samtidig vil det, etter hvert som flere og flere av oss benytter avanserte nettjenester i våre daglige liv, bli flere som ønsker og krever høyere hastighet og bredbåndskapasitet. Men her har vi store utfordringer.
+
+
+
+
+Til tross for stor aktivitet i det norske bredbåndsmarkedet og et mangfold av gode prosjekter rundt om i bedrifter, kommuner og offentlige etater går utviklingen senere enn tidligere antatt. Det er flere grunner til det. Både generell usikkerhet om nytten av bredbåndsanvendelser, relativt få bredbåndskrevende tjenester, lite konkurranse i markedet, endret økonomisk klima for investeringer i IT og bredbånd og ikke minst begrenset etterspørsel har bidratt til en tregere utvikling, i Norge som i andre land.
+
+
+
+
+Fra de to siste årene har vi lært at finansieringsevnen og -viljen hos teleoperatørene har endret seg raskt. Hvis vi ser enda et par år tilbake, minnes vi både en voldsom optimisme og en senere nedtur. Bildet er det samme i de fleste andre land. Mitt utgangspunkt er derfor at det fortsatt ikke er mulig å slå fast hva som vil bli dekket av markedet. Dette gjelder både kommersielle, organisatoriske og tekniske hindringer for utbyggingen. Markedets evne til å fylle bredbåndsbehov avhenger av etterspørselen i det aktuelle markedet. Regjeringen vil derfor styrke etterspørselen ved å legge til rette for at offentlige virksomheter i økende grad etterspør bredbånd og bredbåndstjenester. Som min forgjenger selv har slått fast, vil trolig ikke den tidligere Stoltenberg-regjeringens mål om gode markedstilbud for bredbånd til alle skoler, kommuneadministrasjoner, sykehus og bibliotek innen utgangen av 2002 kunne nås. Det er også usikkert hvorvidt målet om gode markedstilbud om bredbånd til alle husstander innen utgangen av 2004 vil bli oppfylt. Med unntak for sykehusene var målene trolig for optimistiske, men jeg mener likevel at hovedtrekkene i strategien er de rette. Utbygging av infrastrukturen skal være markedsbasert. Denne tilnærmingen har det da også vært bred politisk enighet om.
+
+
+
+
+Myndighetenes rolle er å sikre konkurransen i markedet og stimulere utbyggingen ved å være en aktiv etterspørrer av bredbånd og bredbåndstjenester for å fylle behovene for en moderne offentlig forvaltning. I områder hvor det ikke er kommersielt grunnlag for utbygging, vil Regjeringen vurdere å sette i verk særskilte tiltak. Markedet må imidlertid gis anledning til å virke ennå en stund før eventuelle særskilte tiltak settes inn.
+
+
+
+
+Regjeringen har revurdert målene for bredbåndsarbeidet:
+
+
+
+
+
+
+
+«Det skal være gode markedstilbud om bredbånd i alle deler av landet. I løpet av 2005 skal alle grunnskoler, folkebibliotek og kommuneadministrasjoner ha tilbud om bredbåndstilknytning til konkurransedyktige priser. Innen utgangen av 2003 skal alle videregående skoler ha slikt tilbud. Videre skal alle sykehus ha bredbåndstilknytning til helsenett i løpet av 2002.»
+
+
+
+
+Parallelt med utbyggingen til disse institusjonene vil bredbåndsnett også bli tilgjengelig for husstandene i de områdene som bygges ut. Vi forventer at utbredelsen av et bakkebasert nett for digital-TV også vil bidra til bredbånd til husstandene.
+
+
+
+
+Regjeringen vil vurdere ulike tiltak for å fremme utbyggingen og anvendelsen av bredbånd og bredbåndskrevende tjenester.
+
+
+
+
+Konkurransen i telemarkedet er betydelig styrket siden liberaliseringen i 1998, men er fortsatt ikke tilfredsstillende. Telemyndighetene vil fortsatt arbeide aktivt for å styrke konkurransen. For å få rammebetingelser som er bedre tilpasset teknologi- og markedssituasjonen i årene fremover, vil Regjeringen høsten 2002 legge frem forslag til ny lov om elektronisk kommunikasjon. Her vil det bli foreslått endringer som bl.a. vil gi grunnlag for å styrke konkurransen på området.
+
+
+
+
+I disse dager legger Regjeringen frem en stortingsmelding om situasjonen i det norske mobilmarkedet. I meldingen fokuseres det på tiltak for å sikre en bærekraftig konkurranse i mobilmarkedet i årene fremover.
+
+
+
+
+I tillegg er det behov for å samordne eksisterende virkemidler med vekt på aggregering av etterspørsel. Regjeringen ser det som en utfordring å skape en mer konsentrert regional etterspørsel etter bredbånd, f.eks. gjennom kommunale og interkommunale samarbeidsprosjekter og gjennom de sektorvise satsingene på IT. Hovedfokuset vårt er på skolene, men i tillegg vil kommuneadministrasjoner, bibliotek, primærhelsetjenesten og ikke minst næringslivet være naturlige å trekke med for å samle etterspørsel og dermed styrke forhandlingskraften og fremme en rask og helhetlig utbygging.
+
+
+
+
+Regjeringen har videreført HØYKOM-ordningen som er en tilskuddsordning for å stimulere offentlige etater til å anvende moderne høyhastighets-, informasjons- og kommunikasjonsnettverk. I 2002 skal prosjekter rettet mot skoler, sykehus, kommuner og bibliotek prioriteres, med særlig vekt på skole- og helsesektoren. Videre er det planer om å satse på foregangskommuner som skal fungere som kompetansesentre for bredbånd i distriktene. Totalt sett er HØYKOM-ordningen for 2002 tildelt 53,5 mill. kr. Av denne bevilgningen skal minst 7,5 mill. kr anvendes til prosjekter i Finnmark.
+
+
+
+
+Bredbåndsutbyggingen i kommunene varierer sterkt. Det er et sterkt behov for veiledning til kommunene og andre om hva bredbånd kan brukes til, og hvordan de bør organisere en utbygging i sitt distrikt. Samferdselsdepartementet har gitt ut en veileder om dette temaet, og det vil bli fulgt opp videre, som f.eks. gjennom Fiberskoleprosjektet i Utdannings- og forskningsdepartementet.
+
+
+
+
+Ordningen med skattefradrag via arbeidsgiver for utgifter knyttet til hjemme-PC har vært en nasjonal suksess. Ordningen omfatter også kostnader til bredbånd for PC-bruk, som hittil ikke har vært utnyttet. Hjemme-PC-ordningen har ført til en raskere utbredelse av PC-utstyr i husstandene, og jeg venter at det samme vil være tilfellet for tilknytning til bredbånd. Ordningen ble forsøkt fjernet av Stoltenberg-regjeringen like før den forlot regjeringskontorene, men ble gjeninnført av Samarbeidsregjeringen. Samarbeidsregjeringen vil sørge for at ordningen gis en formell regelfesting gjennom forskriftsendring eller eventuelt lovendring.
+
+
+
+
+Skolene og folkebibliotekene er gode eksempler på institusjoner som kan benytte bredbånd til å heve kvaliteten på sine tilbud. Digitale læremidler er et viktig supplement til andre læremidler, og utnyttelse av slike læremidler krever bredbånd. 96 pst. av norske skoler er i dag tilknyttet Internett, mens mindre enn 20 pst. av skolene er tilknyttet med det man kan kalle bredbåndshastigheter. Dette betyr at det er behov for en betydelig oppgradering for at skolene skal kunne utnytte moderne multimedietjenester.
+
+
+
+
+Tilgang til IT i folkebibliotekene er viktig. Det sikrer tilgang for mange som ikke har tilgang hjemme, og ikke minst veiledning og utnyttelse av bibliotekarens unike kompetanse. Bredbånd i folkebibliotekene setter dermed folkebibliotekene enda bedre i stand til å fylle sine viktige oppgaver som kunnskapssentre. Statistikk viser at antall besøk i bibliotekene øker, mens antall bokutlån går noe ned. Dette forklares med at bibliotekbrukerne i større grad etterspør andre medier og tjenester.
+
+
+
+
+Regjeringen vil følge utviklingen på bredbåndsfeltet nøye. Vi vil evaluere utbyggingen og kartlegge status for målsettingene i handlingsplanen for bredbåndskommunikasjon ved slutten av dette året.
+
+
+
+
+Etterspørselen etter og anvendelsen av nye elektroniske tjenester er økende, ikke minst blant de unge. I Norge illustreres dette bl.a. av at den samlede tellerskrittbruken har gått ned, og elektroniske tjenester som e-post og SMS-meldinger har tatt over. Bruken av taletelefoni går ned, og i økende grad kommuniserer vi skriftlig.
+
+
+
+
+Det er derfor et stort potensial for å utvikle og ta i bruk nye tjenester og nye produkter. Med vår IT-interesse og velutstyrte befolkning og næringsliv har vi derfor forutsetninger for å være langt fremme når det gjelder anvendelser og produksjon av elektronisk innhold. Vi mener derfor at tiden nå er moden for å se nærmere på rammebetingelsene for innholdsproduksjonen. Vi må sørge for gode rammebetingelser for norsk industri som skal utnytte nettets muligheter, fra programvareutvikling til e-handel. Det er bakgrunnen for at Regjeringen den 9. april fremla sin strategi for elektronisk innhold.
+
+
+
+
+Internett har gitt nye møte- og markedsplasser og nye normer for menneskelige relasjoner – et nytt, globalt og virtuelt offentlig rom som utfordrer vår kultur, vår væremåte, og som skaper muligheter for næringsutvikling. Det er selve innholdet i dette nye offentlige rommet som danner grunnlaget for begrepet «elektronisk innhold». Med elektronisk innhold menes her hele verdikjeden, fra basisdata til avledede tjenester for private og profesjonelle brukere basert på digital teknologi. Digitale kart, arkiv, museumsmateriale, elektroniske pasientjournaler og nettaviser er alle eksempler på elektronisk innhold.
+
+
+
+
+Næringsutvikling er et overordnet mål for strategien for elektronisk innhold. Men det handler også om å sikre vår kulturarv og videreutvikle vår identitet og vårt språk og å sikre medvirkning i demokratiske prosesser. Modernisering av offentlig sektor står også sentralt. Ikke minst er utviklingen av og etterspørselen etter digitalt innhold nært knyttet til bredbåndsutviklingen, siden mange nye innholdstjenester forutsetter bredbåndstilknytning.
+
+
+
+
+Noen av utfordringene som står sentralt i strategien for elektronisk innhold, vil være:
+
+
+
+
+Det langsiktige målet for de økonomiske rammebetingelser er likebehandling av elektroniske og andre medier, dersom andre målsettinger eller vilkår ikke gir saklig grunnlag for ulik behandling. Det langsiktige målet om likebehandling bør derfor ikke forstås slik at det på kort sikt skal være en målsetting å utvide eksisterende støtteordninger.
+
+
+
+
+Pris og betalingsmekanismer er kritiske faktorer for at markedet for elektronisk informasjon skal fungere. Som et ledd i å overkomme disse skal offentlig sektor som krevende kunde bidra til effektive betalingsløsninger og stimulere til produksjon av elektronisk innhold. Markedet må sørge for god avkastning, og innholdsleverandørene er selv de rette til å sette fokus på og teste ut løsninger om inntektsproblematikken.
+
+
+
+
+Vi må sikre konkurranse og mangfold i alle ledd i produksjonen og spredning av elektronisk innhold i Norge. Opphavsretten skal sikres gjennom enkle og forutsigbare ordninger.
+
+
+
+
+Offentlig sektor besitter store mengder basisdata som f.eks. arkivert materiale, kartdata og helsedata. Disse har økende kommersiell interesse. Problemstillinger knyttet til statens rolle som eier og utvikler og statens prispolitikk i denne forbindelse er kompliserte og skal utredes. Det er nødvendig å veie tilrettelegging for konkurranse og næringsutvikling opp mot behovet for kostnadsdekning og eventuelle utviklingsoppgaver i gjeldende offentlige etater.
+
+
+
+
+For å unngå ulovlig og uønsket innhold skal vi prioritere bevisstgjøringsarbeid og etablering av tipslinjer. Regjeringen vil etablere et ressurssenter på Internett for tryggere bruk av nettet, og tar sikte på å starte et bevisstgjøringsprosjekt rettet mot barn og unge om ulovlig og skadelig innhold.
+
+
+
+
+Hensynet til de offisielle språk og målformer i Norge – bokmål, nynorsk og samisk – må ivaretas, og det må sondres mellom tiltak for å ivareta Norges språklige mangfold og tiltak for grupper med særlige behov.
+
+
+
+
+Vi må sørge for at de offisielle språkene i Norge, begge de norske målformene og samisk, ikke forsvinner i en utvikling stadig mer preget av det engelsk-amerikanske. Vi må også sørge for at kulturarven i Norge er tilgjengelig og videreutvikles gjennom digitalisering og tilgjengeliggjøring av eksisterende materiale.
+
+
+
+
+Grupper med ulike behov skal sikres tilgang på viktig elektronisk innhold for deres deltakelse i samfunnet. Tilgang sikres som oftest mest effektivt gjennom universell utforming i stedet for spesiell tilrettelegging for ulike grupper.
+
+
+
+
+Mulighetene innen mobilt innhold vil bli fulgt opp i senere utgaver av strategien.
+
+
+
+
+Regjeringen vil også vurdere å igangsette flere pilotprosjekter, sett i sammenheng med allerede igangsatte initiativ, med sikte på å få fremdrift og større klarhet i potensialet innen spesielt viktige områder. Pilotprosjektene vil bidra til å avklare problemområder som hittil har skapt vanskeligheter for det norske innholdsmarkedet. Eksempler på aktuelle problemområder er tilgang til elektroniske kartdata, språkteknologi, norske kunnskapskilder, gjenfinning og gjenbruk og samisk IT.
+
+
+
+
+At innhold gjøres elektronisk tilgjengelig, er ikke lenger et avgrenset perifert forhold for kultur og forskning, det er langt på vei en forutsetning for videre produksjon og utvikling. Digitaliseringen medfører store muligheter, men reiser også betydelige utfordringer når det gjelder spørsmål om hva som skal digitaliseres, og hvordan en skal sikre lesbarheten av opprinnelig digitalt materiale i et langsiktig perspektiv. Digitaliseringen fører også til omforming av statens tradisjonelle måter å stille kunnskap og kultur til disposisjon på for befolkningen gjennom utdannings- og biblioteksektoren.
+
+
+
+
+Et lite land med et lite språk vil ikke kunne konkurrere på det internasjonale kunnskapsmarkedet, selv ikke innenfor sitt eget språkområde. Tilgjengeliggjøring av forskning, arkiver og kultur er dermed ikke bare et avgrenset innholdsproblem, det dreier seg om premissene for fremtidig produksjon.
+
+
+
+
+IT-revolusjonen handler ikke bare om store teknologiske fremskritt, men også om dyptgripende samfunnsmessige og økonomiske forandringer. Utviklingen bidrar til at sosiale og kulturelle mønstre endres, lover og reguleringer utfordres og nye produkter og tjenester utvikles og tas i bruk. Fremveksten av det digitale samfunn bærer i seg store utviklingsmuligheter som krever målbevisst innsats for å kunne realiseres. Regjeringen vil mer systematisk vektlegge og utnytte samspillet mellom tilgjengelighet og sikkerhet, kompetanse og innholdsutvikling innenfor konkurransedyktige rammebetingelser. En viktig arena for disse virkemidlene er også offentlig sektor.
+
+
+
+
+Regjeringens visjon for IT-politikken er at informasjonsteknologien kan bidra til økt verdiskaping i næringslivet, en mer moderne offentlig sektor og bidra til å styrke menneskers tilhørighet og deltakelse i samfunnslivet – kort sagt gi oss en bedre hverdag. Dette er de overordnede målene for 
+
+e
+
+Norge-planen og Regjeringens IT-politikk. Og dette er mål som forplikter. Regjeringen vil legge en offensiv og målrettet IT-politikk for de neste årene gjennom 
+
+e
+
+Norge-satsingen.
+
+
+
+

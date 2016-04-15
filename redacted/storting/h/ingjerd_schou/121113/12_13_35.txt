@@ -1,0 +1,25 @@
+ Jeg er også helt sikker på at det er veldig mange gode eksempler fra bruk av nødnettet. Det er både å forvente og bra, men det underkjenner allikevel ikke de erfaringene som tilsier at forbedringer må til. Siden det er så bra i alle andre land som bruker dette, kan det jo tyde på at det er i Norge problemet ligger. Det er altså ingen andre som bruker TEDS, utviklingsprosjektet, og da blir det heller ikke et nøkkelferdig opplegg, som Stortinget forutsatte. 
+
+
+
+
+Bestillingen fra Stortinget var også at vi skulle ha en teknologinøytral konkurranse som leverte nettopp et nøkkelferdig robust nødnett, etter flere spesifikasjoner på nødvendig kvalitet, og vi er i ferd med å få på plass et kryptert nødnett som gjør at beredskapsenhetene våre har bedre muligheter til kommunikasjon med hverandre. Det er gode eksempler, men det er også ting som må forbedres. Men vi har altså endt opp med å knytte oss til en enkeltleverandør i et utviklingsprosjekt som ikke har den robusthet, den kvalitet, den pris eller den gjennomførbarhet i tid som ble forutsatt i vedtakene. Nøklene til systemet passer rett og slett ikke helt ennå etter seks år. Fortsatt driver direktoratet og Motorola med mekking og filing, og håper at de vil passe til slutt. Tålmodigheten er i ferd med å renne ut. Fakta må på bordet, uavhengige evalueringer må foreligge, og vi som lovgivere må også få tilgang til disse. 
+
+
+
+
+Det kreves en grundig gjennomgang av nødnettet som nå er i ferd med å komme på plass. Vi må vite om dette rett og slett er godt nok. Er det godt nok for de operative beredskapsmannskapene? Holder det vann for vårt samfunn i store katastrofer? Er nødnettet fremtidsrettet, slik at det kan integreres med den nye teknologien som har kommet siden dette først ble vedtatt i 2005? 
+
+
+
+
+I Høyre mener vi at det ville være nyttig å se nærmere på hvilke løsninger som er mulig for å få til forbedringer av systemet, som løsningen det norske forskningslaboratoriet Simula er i ferd med å teste ut, med et nytt SIM-kort som gjør at nødradioene ikke bare kan bruke TETRA-nettet, men også Telenor, NetCom, Ice eller andre ved behov. 
+
+
+
+
+Det statsråden har sagt om nødnettet og dets utvikling, er så langt ikke svar på alle de utfordringene som brukerne kommer med. Jeg tror det er viktig at statsråden forsikrer at dekningsgraden, som statsråden sier skal være slik Stortinget har forutsatt, også blir etterlevd av Direktoratet for nødkommunikasjon, og at det ikke finnes hemmelige dokumenter som tilsier at dekningsgraden skal være på 57 pst. i Sogn og Fjordane eller i andre deler av landet vårt, hvor dekningsgraden er betydelig lavere enn forutsatt. 
+
+
+
+

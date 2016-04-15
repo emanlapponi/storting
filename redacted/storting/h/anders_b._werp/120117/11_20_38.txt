@@ -1,0 +1,60 @@
+ I 2007 ble det utarbeidet Nasjonale retningslinjer for å styrke informasjonssikkerheten 2007–2010. Disse skulle gjelde fram til 2010. Fire departementer sto bak disse retningslinjene. Det var Justisdepartementet, Forsvarsdepartementet, Samferdselsdepartementet og det daværende Fornyings- og administrasjonsdepartementet. Som årstallet indikerer, er retningslinjene nå på overtid. Jeg forutsetter at det er satt i gang et arbeid for å gjennomgå retningslinjene.
+
+
+Vi vet alle hvor avhengig dagens samfunn er av datateknologi og digital infrastruktur. Teknologien er forutsetningen for mange gode tjenester og tilgang på mye viktig informasjon. Men dette er teknologi og nettverk som også har mange svakheter, og som potensielt er svært sårbart for kriminell utnyttelse og angrep som setter systemet helt eller delvis ut av spill.
+
+
+Cyberkriminalitet har vokst kraftig de siste årene, og det er flere internasjonale kriminelle organisasjoner som er svært aktive. Vi snakker om enorme verdier i denne sammenhengen. Det finnes ikke eksakte tall som beskriver omfanget, men anslagene indikerer at vi i global sammenheng snakker om årlige forretningstap som følge av cyberkriminalitet på rundt 1 000 mrd. kr – og det øker.
+
+
+NorCERT, Norges nasjonale senter for håndtering av alvorlige dataangrep, melder om en årlig vekst på 33 pst. i antall saker de håndterer.
+
+
+Vi kan nesten daglig lese om dataangrep og datainnbrudd. Forsvaret merket det kort tid etter at norske jagerfly startet sitt oppdrag i Libya i fjor, da flere hundre ansatte i Forsvaret mottok en e-post med et godt kamuflert datavirus. I mars 2009 ble deler av politiets datasystem satt ut av spill av et datavirus.
+
+
+I 2007 ble store deler av Estlands datanettverk satt ut av spill som følge av dataangrep. Det samme skjedde i Georgia to år senere – i 2009.
+
+
+En brann i en kabelgrøft på Oslo sentralstasjon i 2007 førte til 20 timers stans i all togtrafikk på Østlandet og bortfall av tele- og datatrafikk for et stort antall kunder i 10 timer.
+
+
+Eksemplene er mange – dette er kun et lite knippe – men de viser at dette kan ramme overalt. Motivene for dataangrep kan være ulike, men konsekvensene er store dersom angrepene lykkes og infrastrukturen går ned.
+
+
+I dagens redegjørelse om trusselsituasjonen av sjefen for Politiets sikkerhetstjeneste framgikk det at det er en økende aktivitet fra andre lands etterretningstjenester og private selskaper rettet mot Norge. Internettbasert etterretning brukes i stadig større grad, og stadig mer sensitiv informasjon ligger tilgjengelig på nettet. I tillegg er ekstremvær en trussel mot den kritiske infrastrukturen som binder datasystemene sammen. Det så vi senest i romjulen, særlig med stormen Dagmar, som slo ut deler av det norske telenettet.
+
+
+På toppen av dette vet vi at det slett ikke er alle hendelser av datainnbrudd og dataangrep som blir rapportert. Dette skyldes for det første at bedriften eller organisasjonen aldri oppdager at noen har vært inne i deres systemer. For det andre er det mange som unnlater å rapportere hendelsen av frykt for tap av omdømme.
+
+
+Da går jeg tilbake til Nasjonale retningslinjer for å styrke informasjonssikkerheten 2007–2010, som ble utarbeidet, som nevnt, av fire ulike departementer. Retningslinjene bygger på Nasjonal strategi for informasjonssikkerhet, fra 2003, utarbeidet av Forsvarsdepartementet, Nærings- og handelsdepartementet og Justis- og politidepartementet under Bondevik II-regjeringen. I den nasjonale strategien fordeles ansvaret for oppfølging av strategiene på hele elleve departementer.
+
+
+Status er altså slik, så langt jeg i alle fall har klart å finne ut: Vi har en nasjonal strategi for informasjonssikkerhet fra 2003 – snart ni år gammel. Vi har nasjonale retningslinjer for å styrke informasjonssikkerheten som utgikk på dato for over ett år siden. Ansvaret for arbeidet med informasjonssikkerhet er fra myndighetenes side fordelt på elleve departementer.
+
+
+De nevnte dokumentene var i sin tid sikkert utmerkede styringsdokumenter, og mange medarbeidere har fulgt opp med god innsats etterpå. Høyre vil likevel stille et kritisk spørsmål ved om dette er tilstrekkelig oppdatert til å møte de nye utfordringene som har kommet nærmest kontinuerlig siden 2003 og 2007. Ikke minst vil vi spørre om regjeringen er godt nok koordinert til å møte og gjennomføre vedtatte planer og til å møte dagens og ikke minst morgendagens cyberkriminalitet og cyberangrep på en effektiv måte.
+
+
+For Høyre står noen emner sentralt i utformingen av politikken på dette området i arbeidet med en nasjonal strategi for bedre informasjonssikkerhet. For det første mener vi det er overordnet viktig med god koordinering og tydelig plassering av ansvar og myndighet i dette arbeidet. Det er lett å si at alle har et ansvar for informasjonssikkerheten for sin virksomhet. Det er en selvfølge. Men det kan synes som om koordineringsansvaret departementene og etatene imellom ikke er like selvsagt å plassere. Her må regjeringen bli tydeligere. En strategi bør plassere koordineringsansvaret og tilhørende myndighet tydelig og hos én instans. Jeg vil presisere at dette åpner for etablering av fagmiljøer flere ulike steder i offentlig forvaltning, både i sivil og militær sektor, men det skal ikke være tvil om hvor det overordnede ansvaret ligger for at ressurser og kompetanse blir brukt på en mest mulig målrettet og effektiv måte.
+
+
+En strategi må også beskrive samarbeidet mellom privat og offentlig sektor. I det norske næringslivet er det flere kompetansemiljøer av topp internasjonal klasse. En strategi for økt informasjonssikkerhet bør omhandle hvordan man kan organisere et samspill basert på felles interesser, herunder gjerne etablere et gjensidig og forpliktende samarbeid. I denne sammenheng er også tilgang på kompetanse og forskning viktig.
+
+
+En strategi for informasjonssikkerhet må beskrive ønsket nivå for utholdenhet og robusthet i samfunnskritiske datasystemer ut fra kjente trusler fra cyberkriminalitet og belastning som følge av cyberangrep. Nivået for utholdenhet og robusthet må beskrives for opprettholdelse av tjenestetilbud, opprettholdelse av den fysiske maskinparkens funksjonalitet og ikke minst opprettholdelse av den digitale infrastrukturens kommunikasjonsevne.
+
+
+Videre må en strategi være offensiv når det gjelder å delta i et bredt internasjonalt samarbeid. Målrettede datakriminelle og hackere opererer helt uten hindring av geografiske landegrenser. Det foregår mye arbeid som er viktig og nyttig, særlig i NATO, men også i EU. Jeg registrerer for øvrig med undring at Norge ikke deltar som partner i NATO Cooperative Cyber Defence Centre of Excellence. Det ble opprettet i 2008. Det hadde vært interessant å høre statsrådens kommentar til dette særskilt, ut fra at hun tidligere har vært forsvarsminister.
+
+
+En gjennomgang og vurdering av lovverket er også nødvendig i utarbeidelsen av en strategi, for å se om dette er tilpasset de aktuelle utfordringene og truslene mot informasjonssikkerheten. I løpet av de senere år har det kommet en tilleggsdimensjon til dette. I internasjonal rett er det nemlig en diskusjon og en økende styrke i argumentasjonen for at man på nasjonalt nivå kan bli gjort indirekte medansvarlig dersom man ikke har iverksatt tilstrekkelige tiltak for å hindre cyberangrep, f.eks. at en hackergruppe i ett land kompromitterer en norsk server og fjernstyrer denne til å utføre et cyberangrep mot et tredjeland. Dermed kan Norge bli indirekte ansvarlig for hendelsen. Alle konklusjoner er ikke trukket i denne diskusjonen, men diskusjonen aktualiserer betydningen av de juridiske virkemidlene i vårt land for å styrke informasjonssikkerheten.
+
+
+På bakgrunn av disse momentene stiller jeg følgende spørsmål til statsråden: Hva er regjeringens strategi for å forsterke innsatsen innen forebygging, oppdagelse og hendelseshåndtering, innen informasjonsdeling, etterretning og etterforskning av hendelser på dette området? Hvordan vil regjeringen sikre kritisk, digital infrastruktur mot dagens og framtidige trusler?
+
+
+Marit Nybakk hadde her overtatt presidentplassen.
+
+

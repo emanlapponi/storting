@@ -1,0 +1,35 @@
+ Pasientjournalen er av avgjørende betydning når forsvarlig helsehjelp skal ytes til pasienten. Tidligere sykdomshistorie og kartlegginger av symptomer, risikofaktorer, familiære forhold og prøvesvar har stor betydning for hvilken behandling som skal iverksettes. Særlig for pasienter som ikke kan redegjøre for egen sykehistorie, er dette avgjørende.
+
+
+
+
+Videre spiller pasientjournalen en viktig rolle i å dokumentere hvilken behandling som er gitt, til hvilket tidspunkt, og av hvem. Disse forholdene stiller store krav til at journalen må være tilgjengelig for dem som trenger den i behandlingen. På den annen side bidrar tilgjengelighet til at uvedkommende som ikke skal ha innsyn i journalen, kan få det.
+
+
+
+
+Opplysningene i pasientjournalene er av sensitiv karakter. Ofte er opplysningene gitt i en situasjon basert på tillit mellom behandler og pasient. Derfor har vi strenge regler om taushetsplikt. Pasientopplysninger på avveie kan ha store konsekvenser for den det gjelder. Ikke minst synliggjøres det i debatten om hvilket innsyn forsikringsselskaper skal ha i folks pasientjournaler. Det er derfor viktig at pasientjournaler behandles deretter.
+
+
+
+
+Overgangen fra papirbasert pasientjournal til elektronisk journal bidrar til å redusere et ikke uvanlig problem med papirbaserte journaler, nemlig at de kommer på avveie. Tilgjengelighet til journalen når det gjelder, er et gode for pasienten og letter arbeidet for helsepersonellet. Likevel er oppslag i avisene om at uvedkommende kan lese journaler uten at disse har rett til det, alarmerende.
+
+
+
+
+Rapport fra tilsyn med konfidensialiteten og tilgjengeligheten til elektronisk pasientjournal ved Akershus universitetssykehus, utført av bl.a. Statens helsetilsyn og Datatilsynet i 2006, er i så måte alarmerende. Tilsynet avdekket to avvik. Det ene viste at Akershus universitetssykehus ikke sikrer at taushetsbelagte personopplysninger i det elektroniske pasientjournalsystemet DIPS er forsvarlig vernet mot innsyn fra ansatte som ikke har legitimt behov for opplysningene. Blant annet kom det fram at systemene for å avdekke tilfeldig kikking i journaler var omstendelige og tidkrevende. Det andre avviket viste at sykehuset ikke hadde gjennomført systematiske risikovurderinger i forhold til sikring av elektronisk pasientjournal. DIPS er det elektroniske journalsystemet Helse Øst har valgt å satse på for sykehusene i regionen. Helsetilsynet i Oslo og Akershus mottok bekymringsmelding i 2004 om at systemet ikke var sikret mot uautorisert tilgang. Det har videre vært meldt om gjentatte episoder hvor hele systemet har vært nede, og journalopplysninger har som følge av dette vært utilgjengelige for behandlende personell.
+
+
+
+
+Helsehjelp skal ytes på en måte som ivaretar kravet til både faglig forsvarlighet og taushetsplikt. Taushetsplikten etter helsepersonelloven § 21 innebærer at helsepersonell og virksomheter har en aktiv plikt til å hindre at andre får tilgang til pasientopplysninger. Helseregisterloven § 16 stiller krav om at den databehandlingsansvarlige gjennom planlagte og systematiske tiltak sørger for tilfredsstillende informasjonssikkerhet med hensyn til konfidensialitet, integritet, kvalitet og tilgjengelighet.
+
+
+
+
+Jeg er glad for at representanten Lønning har rettet fokus mot at personvernet må sikres bedre når det gjelder pasientjournaler. Det er av avgjørende betydning at syke mennesker kan få hjelp uten å frykte for at sensitive, men likevel viktige opplysninger om dem kommer på avveie.
+
+
+
+

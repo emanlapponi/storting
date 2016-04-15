@@ -1,0 +1,9 @@
+ La meg først si at jeg er veldig opptatt av behovet for trygg og sikker datalagring, uavhengig av hvilke formål det er, og hva begrunnelsen er. Jeg er også veldig opptatt av å ivareta personvernet. Derfor er jeg personlig veldig glad for å ha den ordningen vi har, for da kan vi være med å påvirke utviklingen.
+
+
+For å ivareta personvernet innføres det ved gjennomføringen av datalagringsdirektivet i norsk rett strenge regler for oppbevaring og uthenting av data. Det stilles krav til kryptering av lagringspliktig data, det er krav til lagringsmåte, og det er krav til sikring av lagringssted for data. Det er også restriksjoner på hvem som kan hente ut informasjon fra datalagringen. De kravene vi har i Norge, er blant de strengeste i Europa.
+
+
+Gjeldende regelverk er ikke til hinder for at lagringspliktige data kan lagres utenfor landets grenser, så framt angitte konsesjonsvilkår oppfylles og Datatilsynet har mulighet til å føre tilsyn med dette. Sånn sett prøver en å ivareta dette uavhengig av hvor på kloden det ligger lagret. Datatilsynet vil kunne trekke tilbake konsesjon hvis de norske strenge vilkårene for lagring ikke oppfylles.
+
+

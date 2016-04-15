@@ -1,0 +1,9 @@
+ Nå er vel ikke Edward Snowden amerikansk journalist. Han var en amerikansk IT-tekniker som jobbet i et privat selskap, og var innleid til arbeid for NSA. Således hadde han tilgang til den informasjonen han siden har lekket til ulike journalister.
+
+
+I likhet med representanten er jeg opptatt av behovet for trygg og sikker datalagring. Det er på det rene at store samlinger av lagrede data også kan innebære en risiko for at de samme dataene kan komme på avveier. De norske reglene stiller imidlertid strenge krav både til hva slags data som kan lagres, hvor lenge de kan lagres, og hvem som kan ha tilgang til dem. Videre er det gitt strenge regler om autorisering av personell og kryptering.
+
+
+Det norske regelverket rundt lagringen av data er strengere enn hos mange andre land i Europa. I den sammenheng vil jeg også bemerke at de nye reglene i Norge i større grad ivaretar hensynet til personvernet på det området enn det dagens rett gjør. Som eksempel lagres opplysningene i dag i de enkelte ekom-tilbydernes ulike databaser uten at det er stilt særskilte krav til sikkerhet og tilgang. Utover det forholder regjeringen seg til Stortingets vedtak om implementering av datalagringsdirektivet.
+
+

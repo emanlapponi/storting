@@ -1,0 +1,153 @@
+ Elektronisk ID - eID - er en god idé, og derfor har jeg i dag lyst til å fokusere nettopp på den egentlig store revolusjonen dette kan bli innenfor offentlig forvaltning. 
+
+
+
+
+Stadig flere blir komfortable med å bruke elektroniske tjenester. De fleste nordmenn har tilgang til Internett og bredbånd, og de fleste benytter seg av PC når de skal betale regninger i bank. Med andre ord, nordmenn er allerede langt inne i den digitale verden. 
+
+
+
+
+Min interpellasjon i dag er et uttrykk for utålmodighet. Vi må ha offentlige etater som ligger i front når det gjelder å bruke og å legge til rette for bruk av moderne kommunikasjonsverktøy. Etter at tidligere statsråd Morten Andreas Meyer lanserte tanken om Minside for over tre år siden, har det gått smått. Minside er opprettet, men den er på ingen måter det den var tenkt å være, eller det den var tenkt å skulle bli. En del informasjon finnes der, men siden er i liten grad interaktiv. Det er altfor få tjenester som kan utføres, det er mest snakk om å hente skjemaer og å sjekke opplysninger om seg selv. Jeg har selv registrert meg som bruker på Minside, og jeg fant noen egentlig ikke veldig spennende opplysninger om at jeg hadde en bil, og at jeg hadde en fastlege, men jeg fant veldig lite som jeg kunne svare på, veldig få skjemaer jeg kunne søke og kvittere på. Det skyldes jo at vi mangler en nasjonal eID. 
+
+
+
+
+En fornyingsminister burde hatt større ambisjoner enn dette, og det vet jeg at ministeren har, men tempoet har manglet. Det Høyre anser som det absolutt avgjørende skrittet, er å innføre en nasjonal eID, eller en nasjonal elektronisk signatur, om man vil. Det at man fortsatt må få tilsendt skjemaer og dokumenter i posten, for så å returnere dem til samme etat, burde vært historie. En sikker identifisering på nettet er framtiden, og framtiden burde vært her nå! 
+
+
+
+
+Det er skuffende å konstatere at andre land har kommet lenger enn Norge på dette området. Eller det er kanskje mer riktig å si at andre land har kjørt forbi Norge og kommet lenger på dette området nå. I Danmark har man innført e-signatur, og når man går inn på hjemmesidene deres, viser det seg at over 170 etater, bedrifter og frivillige organisasjoner er tilsluttet og gir borgerne i Danmark adgang til å utføre tjenester ved bruk av e-signatur. 
+
+
+
+
+
+
+
+Hva er så en e-signatur? Danskene har følgende forklaring:
+
+
+
+
+«Den digitale signatur er din personlige underskrift på internettet. Du kan bl.a. bruge signaturen til at ordne selvangivelsen, logge på e-boks (…), skrive dit barn ind i en daginstitution, se dine sundhedsdata m.m. Og du kan underskrive dokumenter og blanketter, mens du er online. Over 1 million danskere har en digital signatur.»
+
+
+
+
+Og danskene har også svar på hvorfor man bør bruke e-signatur: 
+
+
+
+
+
+
+
+«Digital signatur sikrer den digitale kommunikation mellom borgere, virksomheder og myndigheter. Det giver en række fordele: 
+
+
+
+
+Borgerne 
+
+
+
+
+Man har mulighed for at kommunikere sikkert med det offentlige 24 timer i døgnet, få hurtigere svar og få et bedre overblik over informationer med den digitale signatur - én kode er nok til mange offentlige elektroniske services. Desuden kan man springe over de tidskrævende praktiske omstændigheter, der er ved at skrive og sende et fysisk brev med konvolut og frimærker. 
+
+
+
+
+Myndighederne 
+
+
+
+
+For myndighederne kan en sikker digital kommunikation give besparelser og færre fejl. Hvad der er sparet på et område, kan bruges på et andet, f.eks. i form af bedre service. 
+
+
+
+
+Virksomhederne 
+
+
+
+
+For virksomheder, der handler via internettet, kan den digitale signatur give sikkerhed for, at der ikke kan laves fupbestillinger» - altså feilbestillinger eller falske bestillinger - «af varer.» 
+
+
+
+
+Dette er sitater fra den danske hjemmesiden. 
+
+
+
+
+Når danskene har fått på plass et slikt system, kan jeg ikke skjønne at vi i Norge fortsatt venter på at staten skal få på plass en løsning. 
+
+
+
+
+Et av de kritiske momentene ved innføring av e-signatur er sikkerhet. I Danmark er det det danske datatilsynet som går god for sikkerheten. De påpeker at det spesielt er tre verdier som skal ivaretas ved en e-signatur: 
+
+
+
+
+
+
+
+
+
+
+Autentisitet, som betyr at mottakeren av en beskjed har sikkerhet for at den stammer fra den personen som har sendt den. 
+
+
+
+
+
+
+
+Integritet, som betyr at det ikke er mulig å endre beskjeden underveis fra avsender til mottaker. 
+
+
+
+
+
+
+
+Fortrolighet, som betyr at ingen uvedkommende kan få kjennskap til innholdet i beskjeden. 
+
+
+
+
+I Danmark lagde myndighetene kravene til e-signaturen, sendte dem ut på anbud, et anbud som TDC vant, og TDC ser ut til å levere en tjeneste som brukerne og det offentlige er fornøyd med. 
+
+
+
+
+Fordelene ved en eID er mange. Jeg regner med at statsråden har svar på hvilke besparelser utstrakt bruk av dette vil gi samfunnet. Det har jo vært nevnt milliardbeløp når det gjelder besparelser, ikke bare for den enkelte innbygger, men også for de offentlige etatene, som slipper en masse papirarbeid, som slipper betjening i skranker, og som slipper betjening ved sentralbord og telefon. Dette er besparelser som kan settes inn på andre og mer prioriterte offentlige oppgaver. 
+
+
+
+
+I budsjettet for 2008 skriver departementet at det høsten 2007 skal legges fram en strategi for elektronisk ID og signatur i offentlig sektor. Hovedsporet er å utarbeide et nasjonalt ID-kort som skal kunne brukes som eID. I dag registrerer jeg at departementet har lagt ut to pressemeldinger om eID-relaterte temaer på sine hjemmesider. Det tyder på at det hjelper å fokusere på saken gjennom denne interpellasjonen. Jeg regner med at statsråden kommer inn på den siste utvikling i saken i sitt svar til meg. Svaret er jo gitt på departementets hjemmesider og i Aftenposten i dag, men jeg later som jeg ikke har sett det, og imøteser statsrådens svar. 
+
+
+
+
+I Norge vet vi at bankene, Posten og Norsk Tipping har løsninger for elektroniske transaksjoner som har svært mange brukere. Jeg forventer at staten nå går fra ord til handling og lyser ut anbud på en nasjonal eID. Jeg håper videre at statsråden ikke er innstilt på å finne opp kruttet på nytt, dvs. at staten skal utvikle en løsning helt fra bunnen av når det gjelder en nasjonal eID, men heller ta utgangspunkt i de ulike standarder og praktiske løsninger som finnes i dag, og bygge på dem. 
+
+
+
+
+Jeg håper videre at statsråden nå vil sette fart på dette arbeidet, slik at departementet kan vise at de i hvert fall på ett område kan leve opp til navnet sitt - Fornyingsdepartementet.
+
+
+
+
+Eirin Faldet hadde her overtatt presidentplassen. 
+
+
+
+
