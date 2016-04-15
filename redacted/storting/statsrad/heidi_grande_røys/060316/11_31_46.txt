@@ -1,0 +1,68 @@
+ Eg er glad for desse innlegga som har vore i Stortinget i dag, som understrekar Datatilsynet sitt viktige og gode arbeid, og ikkje minst, som òg representanten Åge Starheim understreka, at Datatilsynet har Stortinget si fulle støtte og tillit i det arbeidet dei gjer. Det er viktig at Datatilsynet har det, for Datatilsynet har ei viktig rolle òg i mediedebatten. Det stormar innimellom noko kraftig både frå aust og vest, og då kan det vere greitt å vite at ein har full tillit blant landets øvste parlamentarikarar. Det er viktig, og det er eg glad for.
+
+
+
+
+Eg tenkte eg skulle kommentere eit par forhold som saksordføraren og komiteen har teke opp i si innstilling. Komiteen skriv:
+
+
+
+
+
+
+
+«Komiteen mener det er all grunn til å rette oppmerksomhet mot de grensedragninger og uklarheter som eksisterer i nåværende regelverk både når det gjelder innhenting, bruk og lagring av data, deriblant e-post. Behovet for klarere regler er i høy grad til stede.»
+
+
+
+
+Det er eg samd med komiteen i. Arbeidsgivar vil kunne ha rettkomen interesse og lovpålagd plikt til å ha visse innsyn i elektroniske verktøy som er stilte til dei tilsette sin disposisjon. Dette kan m.a. vere krav om å vareta informasjonssikkerheita i verksemda, det kan vere dokumentasjonsplikt i samhøve med lov og/eller avtale, eller det kan vere å vareta verksemda si drift i samband med dei tilsette sitt fråvær.
+
+
+
+
+Arbeidstakaren på si side har òg ei rettkomen interesse og ein lovheimla rett til å ha ein viss privat sfære òg på jobben. Det er òg nedfelt i Den europeiske menneskerettskonvensjon artikkel 8 nr. 1. I samband med arbeidet med ny arbeidsmiljølov vart det konkludert med at det var trong for eit meir konkret regelverk som regulerer arbeidsgivar sin innsynsrett i elektronisk utstyr som er stilt til arbeidstakaren sin disposisjon. Dette burde vurderast teke inn i personvernregelverket.
+
+
+
+
+Arbeidet med etterkontroll av personvernopplysningane, personopplysningslova, starta opp i 2005, og i samband med det har Justisdepartementet, Datatilsynet og mitt departement arbeidd med forskriftsforslag vedkomande arbeidsgivar sin innsynsrett i elektronisk kommunikasjon. På grunn av den store etterspørselen etter eit regelverk som knyter seg til innsyn i e-post, har vi funne det rett å forsere dette arbeidet i forhold til etterkontrollen elles. Vi satsar no på å få sendt ut eit forskriftsforslag på brei høyring no i vår, og saka vil verte lagd fram for Stortinget, fordi forskriftsforslaget gjer det nødvendig med lovheimel i personopplysningslova. Ut frå det vi no jobbar ut ifrå, kjem Stortinget til å få det før sommaren. Det er svar på spørsmålet frå saksordføraren.
+
+
+
+
+Arbeidsgruppa har i forskrifta forsøkt å vekte omsyna både til arbeidstakar og til arbeidsgivar, på best mogleg måte. Verksemdene og deira behov er likevel noko ulike, slik at vi ser for oss at forskriftene må tilpassast den enkelte verksemda. Forskriftene vil difor høgst sannsynleg verte utforma slik at dei på dei fleste område kan fråvikast gjennom ein verksemdtilpassa instruks.
+
+
+
+
+Eg vil understreke at Datatilsynet allereie har ei slags rettleiing til ein type instruks på området på sine heimesider. Dei har òg førebiletleg lagt ut den instruksen dei sjølve har laga for sine tilsette. NHO har ein instruks liggjande på sine nettstader, og eg veit at NHO vert kontakta av mange bedrifter om det. NHO og Datatilsynet er ganske like. Eg har sjølv hatt møte med NHO om dette, for det er viktig at ikkje berre arbeidstakarsida, men også arbeidsgivarsida har eit bevisst forhold til dette. Eg har snakka med NHO om det, og eg har òg snakka med hovudsamanslutningane i staten om det. Sidan eg òg er statleg arbeidsgivar, er eg oppteken av at vi i staten òg skal få på plass eit regelverk. Når forskrifta er på plass, kjem eg til å fullføre det arbeidet i lag med hovudsamanslutningane i staten, slik at vi får på plass eit regelverk med utgangspunkt i den sentrale forskrifta, og så tilpassar vi det til vår forskrift.
+
+
+
+
+Så til at komiteen er oppteken av at det er naudsynt å fokusere på kor grensene for den private sfæren skal gå. Fleire har òg vore inne på det i sine innlegg. Etterkontrollen av personopplysningslova, som ligg under Justisdepartementet, har starta opp. Endringane i teknologisk utvikling, i samfunnsforhold og i trusselbiletet har gjort at det er ynskjeleg å sjå på enkelte av føresetnadene i lova i lys av utviklinga etter at lova vart vedteken. I etterkontrollen vil Regjeringa m.a. sjå på om føresetnadene som vart lagde til grunn for lova, framleis er haldbare. To sentrale tema her er gjennomgang av konsesjonsinstituttet og ei vurdering av rettane som vart gitt til enkeltpersonar i forhold til å vareta sitt eige personvern. Det hjelper ikkje med klåre grenser for personvernet dersom det likevel er enkelt å stele eller misbruke identiteten til andre på ulovleg vis, jamfør debatten om identitetstjuveri som har vore i media i det siste, seinast – som saksordføraren var inne på – i Aftenposten i dag. Eg kjem til å ta kontakt med dei ulike departementa som har ansvar på området, for å få opplysningar om ulike tiltak som no er sette i verk eller planlagde sette i verk for å møte utfordringane med omsyn til identitetstjuveri. Av eigne tiltak, som er under mitt departement sitt ansvarsområde, kan eg nemne NorSIS og NorCERT, som m.a. har som oppgåve å overvake utviklinga når det gjeld identitetstjuveri på Internett, og så å rapportere jamleg om utviklinga. Vi har òg Koordineringsutvalg for IT-sikkerhet, KIS, som departementet mitt leier, og som Nasjonal sikkerheitsmyndigheit er sekretariat for. Dei diskuterer utviklinga med tanke på å koordinere myndigheitene sitt arbeid på feltet, og driv erfaringsutveksling.
+
+
+
+
+Vi jobbar med elektronisk ID og elektronisk signatur. Vi trur at det kan bidra til at det vert mykje vanskelegare å misbruke ein identitet på Internett. Her kan vi vise til arbeidet med elektronisk ID og Sikkerheitsportalen og til dei kvalitetskrava som vert stilte til elektronisk ID gjennom kravspesifikasjon for elektronisk ID og signatur i offentleg sektor. Vidare er sjølvdeklarasjonsordninga etablert i Post- og teletilsynet viktig. Det er òg naturleg å nemne Justisdepartementet si interdepartementale arbeidsgruppe, som utgreier nasjonale ID-kort. Gruppa skal, som eit ledd i mandatet sitt, kome med ei vurdering av problematikken når det gjeld ID-tjuveri, og kartleggje årsaksforhold. Det er Justisdepartementet sitt område, og vi får følgje det opp nærare overfor Justisdepartementet. Så her er fleire ting på gang – noko er sett i gang – for nettopp å gripe fatt i desse problemstillingane.
+
+
+
+
+Vidare kan eg fortelje at eg til hausten vil fremje ei stortingsmelding om IKT-politikk. Det vert transport- og kommunikasjonskomiteen som får den saka. Eitt av dei tema vi kjem til å ta opp då, er ei brei drøfting av dette med personvern og informasjonssikkerheit.
+
+
+
+
+Fleire har vore inne på at representanten Dørum frå Venstre her i Stortinget i dag har levert eit privat forslag om ein uavhengig personvernkommisjon. Det vil gjere det mogleg både i regjeringsapparatet og her i Stortinget å drøfte desse utfordringane vidare. Eg kan vise til at ein i Sverige har sett ned ein parlamentarisk samansett komite. Den komiteen skal kartleggje og analysere lovføresegner som gjeld den personlege integriteten, og vurdere om ein bør grunnlovfeste personvernet. Det synest eg òg er spennande, og det er eit tiltak som òg kan vurderast i Noreg. Både ytringsfridomen og menneskerettane meir generelt har fått sin plass i Grunnlova. Med det presset som i dag er på personvernet, kan det vere grunn til å vurdere om personvernet bør få same vern. Det er eit tema som kan verte lyfta inn i debatten rundt Dørum sitt private forslag og den stortingsmeldinga vi skal leggje fram.
+
+
+
+
+Eg vil så til slutt berre seie at dette har vore ein god og viktig debatt. Og som fleire har vore inne på: Det er viktig at fleire enn Datatilsynet er synlege i media og i den offentlege debatten om desse spørsmåla, ikkje minst for å gjere kvar enkelt meir merksam på det ansvaret vi sjølve har for ikkje å gi frå oss opplysningar som kan misbrukast av andre.
+
+
+
+

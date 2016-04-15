@@ -1,0 +1,26 @@
+ La meg få starte med ei presisering når det gjeld Aftenposten si fyrsteside 19. mars 2009. Overskrifta var «Regjeringens nettsider sprer virus», og ho kan skape eit inntrykk av at det er Regjeringas offisielle sider som spreier virus. I artikkelen er 
+
+saka
+
+ riktig framstilt, men overskrifta og oppslaget sin karakter gjer det nødvendig å presisere at det 
+
+ikkje
+
+ er sider på regjeringa.no som er ramma av ulovleg hacking.
+
+
+Det var dei gamle heimesidene til eit prosjekt som vart infisert med virus. Prosjektet sine sider har aldri vore plasserte på regjeringa.no-plattforma, men hos ein ekstern leverandør. Det har like fullt vore ei lenkje frå Barne- og likestillingsdepartementet sine nettsider til prosjektet. Etter at Barne- og likestillingsdepartementet vart gjort merksam på at sidene var infiserte med virus, sette departementet i verk tiltak for å få stengt sidene. Barne- og likestillingsdepartementet er einig i at sidene burde ha vore fjerna på eit tidlegare tidspunkt, men no er dei altså lagde ned.
+
+
+Så tek representanten Arne Sortevik opp eit svært viktig tema, som han òg refererer til at han har teke opp i ein skriftleg korrespondanse med meg tidlegare, og det er viktig at dette vert debattert. Som eg svarte skriftleg til representanten Sortevik i fjor, er ei av dei største utfordringane våre at det er manglande forståing for informasjonstryggleik hos brukarane. Mange verksemder og einskildindivid undervurderer risikoen ved dårleg informasjonstryggleik. Vi ser ofte at dårleg informasjonstryggleik kjem av manglande forankring hos leiarar og prioritering hos leiarar i ei verksemd. Her er det behov for meir kunnskap og merksemd rundt det å ha ein god og solid informasjonstryggleik i verksemdene, men òg hos oss som enkeltbrukarar. Eg er difor glad for at Arne Sortevik igjen tek opp spørsmålet.
+
+
+Så vedtok Regjeringa nasjonale retningsliner for å styrkje informasjonstryggleiken i 2007, og der slår vi fast at ansvarsprinsippet skal verte følgt, dvs. at kvart einskilt departement har ansvar for å følgje opp dei områda som det er peika på når det gjeld sitt ansvarsområde.
+
+
+Ei av utfordringane vi har, er at det er stor dynamikk på området. Dei som utviklar virusa, er ofte eit hestehovud eller eit hovud framfor systemutviklarar og programutviklarar, og dei finn svakheiter og feil i operativsystema. Hackarane leiter heile vegen etter nye feil, og utnyttar dei nettopp til å spreie virus. Mottiltaket er difor å ha ein god tryggleikskultur og ei kontinuerleg utvikling av den tryggleikskulturen – ikkje tru at når ein har gjort det ein gong, så har ein gjort det ein gong for alle – og utvikle tryggleiksrutinar både hos verksemder og hos den enkelte brukar av IT.
+
+
+Som eit av fleire oppfølgingstiltak frå mitt departement har eg i tildelingsbrevet til Direktoratet for forvaltning og IKT no i 2009 bedt om at dei innan september i år skal ha utarbeidd ein plan for korleis «Nasjonale retningslinjer for informasjonssikkerhet 2007–2010» skal setjast i verk i offentleg sektor.
+
+

@@ -1,0 +1,96 @@
+ Utgangspunktet for denne muntlige redegjørelsen er Aftenpostens oppslag før jul om mulig falske basestasjoner og risiko for overvåking. På bakgrunn av disse oppslagene har flere partier i Stortinget bedt om en muntlig redegjørelse for Stortinget i plenum, som jeg naturligvis vil etterkomme.
+
+
+Jeg gjør oppmerksom på at det er igangsatt etterforskning i saken, og at det derfor er begrenset informasjon jeg som statsråd kan gi om den siden av saken. Den uavhengige påtalemyndigheten sikrer etterforskning på ordinær måte, og det er etterforskningen som eventuelt vil avdekke om ulovlig virksomhet har funnet sted. Det kan også være deler av informasjonen knyttet til dette sakskomplekset som jeg ikke kan omtale i Stortinget i plenum.
+
+
+Jeg vil først gå gjennom de faktiske forholdene i saken slik jeg nå kjenner dem. Dette er informasjon som kan endre seg underveis i arbeidet med saken videre. Jeg vil også redegjøre nærmere for ansvarsforholdene når det gjelder sikkerhet i våre mobilnett. Jeg gjør oppmerksom på at redegjørelsen ikke bare er avgrenset til mitt konstitusjonelle ansvarsområde på dette punkt, men innholdet i redegjørelsen på disse punktene er avklart med samferdselsministeren som er rette vedkommende.
+
+
+Videre vil jeg si noe om enkelte tiltak som har vært iverksatt for å forebygge ulovlig overvåking av viktige samfunnsinteresser, og avslutningsvis vil jeg komme inn på noen konkrete tiltak som vi vil iverksette fremover.
+
+
+En falsk basestasjon er en teknisk installasjon som opptrer som om den var en ordinær basestasjon i mobilnettet. Ved hjelp av en IMSI-fanger fanges identiteten til sim-kort opp. Operatøren av den falske basestasjonen kan på denne måten identifisere mobiltelefoner som er i nærheten. Operatøren av den falske basestasjonen kan dermed få kontroll på mobiltelefonene den har kapret, og avlytte samtaler, lese tekstmeldinger og se noe av datatrafikken mellom mobiltelefonen og det legitime nettet.
+
+
+På bakgrunn av informasjon som fremkom under Aftenpostens arbeid med saken, også før den ble publisert, gjorde Nasjonal sikkerhetsmyndighet undersøkelser ved bruk av forskjellige metoder og teknisk verktøy. Undersøkelsene foregikk i perioden 5.–14. desember. Problemstillingen ble diskutert i et møte med Nasjonal sikkerhetsmyndighet og Politiets sikkerhetstjeneste den 9. desember. Det ble da enighet om å gjennomføre felles målinger. Disse målingene ble gjennomført av NSM og PST 12. desember, før Aftenpostens publisering samme dag. Utelukkende basert på Nasjonal sikkermyndighets målinger vurderes det som mulig at det har vært benyttet falske basestasjoner i Oslo sentrum.
+
+
+Politiets sikkerhetstjeneste besluttet å iverksette etterforskning søndag 14. desember i fjor. I etterforskningen får Politiets sikkerhetstjeneste bistand fra Nasjonal sikkerhetsmyndighet og Etterretningstjenesten. Oslo politidistrikt har også satt i gang etterforskning for de forhold som måtte omhandle ikke-statlige anliggender, og nedsatte et eget etterforskningsteam i saken. Det er et nært samarbeid mellom Oslo politidistrikt og PST under etterforskningen. PST koordinerer de tekniske undersøkelsene. I tillegg har Oslo politidistrikt etablert samarbeid med Nasjonal sikkerhetsmyndighet via PST og med Nasjonal kommunikasjonsmyndighet på det teknisk-faglige området.
+
+
+Politiets sikkerhetstjeneste har etter anmodning fått et omfattende grunnlagsmateriale fra Aftenposten. Dette materialet samt eget innhentet materiale vil bli bearbeidet og analysert, og ytterligere etterforskingsskritt er også iverksatt. Politiets sikkerhetstjeneste har opplyst at det forventes at etterforskningen vil ta noe tid fordi det er et omfattende materiale som skal innhentes og analyseres.
+
+
+Arbeidet med å forebygge og håndtere uønskede hendelser krever samvirke mellom flere myndigheter og private aktører. Det er avgjørende at dette samarbeidet og samvirket fungerer godt, at alle parter er godt kjent med sitt ansvar og sine roller, og at de arbeider godt sammen. Dette krever operasjonell kompetanse og kapasitet samtidig som det krever en aktiv holdning fra de kontrollansvarlige.
+
+
+Justis- og beredskapsdepartementet er som kjent tillagt en koordinerende rolle for samfunnssikkerhetsspørsmål, og i de tilfellene hvor samvirket mellom ulike aktører ikke fungerer godt nok, skal Justis- og beredskapsdepartementet sørge for å avklare og påpeke ansvarsforhold samt identifisere områder hvor det er behov for samordning. Dette koordineringsansvaret endrer imidlertid ikke på de konstitusjonelle ansvarslinjene, hvor hver enkelt statsråd er konstitusjonelt ansvarlig for samfunnssikkerhet innen eget ansvarsområde.
+
+
+På bakgrunn av dette har Justis- og beredskapsdepartementet i budsjettproposisjonen for 2015, del III, kapittel 5, utarbeidet en oversikt for å tydeliggjøre ansvar på samfunnssikkerhetsområdet. I oversikten er det nå utpekt ett overordnet ansvarlig, samordnende departement for hvert ansvarsområde. Det overordnede ansvarlige, samordnende departementet skal sørge for samordning og nødvendig avklaring mellom involverte aktører.
+
+
+Det fremgår av denne oversikten at Samferdselsdepartementet og deres etat, Nasjonal kommunikasjonsmyndighet, tidligere Post- og teletilsynet, er ansvarlig for elektronisk kommunikasjonsnett og -tjenester. Andre sentrale offentlige aktører på dette området er Direktoratet for nødkommunikasjon og Forsvaret. I samme oversikt fremgår det at Justis- og beredskapsdepartementet er ansvarlig for IKT-sikkerhet i sivil sektor og nasjonal sivil sikkerhet. Her er det bl.a. Nasjonal sikkerhetsmyndighet, Politiets sikkerhetstjeneste og politiet som er sentrale aktører.
+
+
+Basert på det som er fremkommet i media i denne saken, med tilhørende kommentarer, er det forsøkt å skape et inntrykk av at det er uklarheter rundt hva de ulike departementene og tilhørende virksomheter har ansvar for. Jeg mener det ikke er grunnlag for en slik påstand, men bildet er komplisert, og vi skal alltid være oppmerksomme på eventuelle behov for enda bedre samordning og ansvarsavklaring. Jeg kommer tilbake til det under omtalen av tiltak.
+
+
+La meg kort beskrive de ulike ansvars- og myndighetsforholdene. Tilbyderne av mobilkommunikasjon, som Telenor, NetCom og andre, skal etter ekomloven sørge for kommunikasjonsvern, konfidensialitet, taushetsplikt og forsvarlig sikkerhet og beredskap for brukerne i ekomnettene. Hva som er forsvarlig sikkerhet, er en avveining mellom funksjonalitet og kostnader på den ene siden og teknologi og sikkerhet på den andre. I Norge har sikkerhet veid tungt i disse vurderingene, og de norske 2G-nettene har, etter det jeg får opplyst, det høyeste nivået for kryptering for GSM i dag. Likevel har den globale GSM-standarden noen iboende sårbarheter som kan utnyttes, f.eks. ved bruk av slike falske basestasjoner i kombinasjon med IMSI-fangere. 3G- og 4G-nettet har bedre sikkerhet og kryptering. Samferdselsdepartementet er ansvarlig departement.
+
+
+Nasjonal kommunikasjonsmyndighet er et tilsynsorgan for elektronisk kommunikasjon i Norge og fører tilsyn med tilbydernes oppfølging av krav etter ekomloven. Disse kravene skal bl.a. bidra til å sikre at brukerne har tilgang til robuste, sikre og pålitelige elektroniske kommunikasjonsnett og -tjenester. Samferdselsdepartementet er ansvarlig departement.
+
+
+Nasjonal sikkerhetsmyndighet er administrativt underlagt Forsvarsdepartementet og rapporterer til Justis- og beredskapsdepartementet for saker i sivil sektor. Nasjonal sikkerhetsmyndighet har ansvaret for oppfølging av og tilsyn med sikringen av informasjon og objekter som er skjermingsverdige etter sikkerhetsloven. Dette er informasjon om objekter som må beskyttes av hensyn til rikets sikkerhet eller andre vitale samfunnsinteresser. I tillegg skal Nasjonal sikkerhetsmyndighet bistå med undersøkende tjenester på området. NSM støtter Justis- og beredskapsdepartementet i arbeidet med IKT-sikkerhet i sivil sektor og er den koordinerende enheten for håndtering av IKT-angrep på samfunnskritiske funksjoner. Justis- og beredskapsdepartementet er i sivil sektor ansvarlig departement.
+
+
+Politiets sikkerhetstjeneste har ansvaret for å forebygge og etterforske fremmede staters etterretningsvirksomhet mot Norge og norske interesser. Fremmede staters bruk av falske basestasjoner er således en del av Politiets sikkerhetstjenestes ansvarsområde. Justis- og beredskapsdepartementet er ansvarlig departement. Hva gjelder etterforskning og påtale, er påtalemyndigheten naturligvis helt uavhengig.
+
+
+Etterretningstjenesten skal innhente, bearbeide og analysere informasjon om fremmed etterretningsvirksomhet mot Norge og norske interesser. Innhenting av opplysninger om fremmed etterretningsvirksomhet i Norge skal skje gjennom eller etter samtykke fra PST. Forsvarsdepartementet er ansvarlig departement.
+
+
+Politiet har ansvaret for å forebygge og etterforske IKT-kriminalitet. Politiet etterforsker der det er mistanke om kriminelle handlinger i eller gjennom ekomnettet, og der det er ikke-statlige aktører, som f.eks. organiserte kriminelle, som står bak. Justis- og beredskapsdepartementet er ansvarlig departement. Hva gjelder etterforskning og påtale, er påtalemyndigheten naturligvis helt uavhengig.
+
+
+Som nevnt er det avgjørende at samarbeid og samvirke mellom de nevnte aktørene fungerer godt. Vi vil i det fortsatte arbeidet med saken ettergå om samarbeidet er godt nok og eventuelt initiere tiltak.
+
+
+I forbindelse med Aftenpostens oppslag har det vært stilt spørsmål ved hva norske myndigheter tidligere har gjort for å forebygge slik overvåking. Politiets sikkerhetstjeneste opplyser at de de siste årene har hatt en bekymring for fremmede staters avlytting av mobiltelefontrafikk, da spesielt rettet mot politikere og norske beslutningsprosesser. Slik avlytting kan foregå ved bruk av forskjellige metoder, herunder IMSI-fangere og tilleggsutstyr.
+
+
+Politiets sikkerhetstjeneste har i flere tilfeller i løpet av de siste årene, både i Oslo og på andre steder i landet, foretatt tekniske undersøkelser over lengre tidsrom for å undersøke hvorvidt falske basestasjoner er i bruk. Til undersøkelsene er det naturligvis brukt avansert teknisk utstyr. Politiets sikkerhetstjeneste har gjennom disse avgrensede undersøkelsene ikke avdekket falske basestasjoner. Undersøkelsene har vist at det foreligger mange feilkilder som kan indikere unormal basestasjontrafikk. Et eksempel på feilkilde kan være at teleoperatører oppjusterer styrken på basestasjonene ved høy belastning på nettet for å opprettholde god dekning. Dette kan gi utslag ved målinger. Et annet eksempel på feilkilder kan være såkalte repeatere, som monteres i områder med dårlig dekning, f.eks. inne i en bygning. Disse repeaterne vil også kunne gi utslag ved målinger.
+
+
+For å forebygge og motvirke fremmede staters avlytting av mobiltrafikk har Politiets sikkerhetstjeneste i tillegg prioritert utadrettet forebyggende virksomhet og advart mot faren for avlytting. Dette er gjort bl.a. overfor regjeringen, departementene og partigrupper på Stortinget. Videre er også utvalgte forsknings- og utdanningsinstitusjoner og bedrifter gitt orienteringer og forebyggende sikkerhetsråd.
+
+
+Nasjonal kommunikasjonsmyndighet, som ligger under Samferdselsdepartementet, stiller krav til og følger opp teleselskapene etter ekomlovens bestemmelser om bl.a. kommunikasjonsvern, konfidensialitet, sikkerhet og beredskap. Nasjonal kommunikasjonsmyndighet koordinerer en etablert møteplass mellom Etterretningstjenesten og sikkerhetstjenestene og de viktigste ekomtilbyderne for utveksling av trussel- og sårbarhetsinformasjon på gradert nivå. Teleselskapene har et selvstendig ansvar for at infrastrukturen deres til enhver tid er sikret i henhold til gjeldende krav og det aktuelle trusselbildet og veid opp mot kostnadene knyttet til tiltakene.
+
+
+Nasjonal kommunikasjonsmyndighets frekvenskontroll påviser og retter ulovlig frekvensbruk som følge av radioamatører, elektriske anlegg m.m. Frekvenskontrollen er i hovedsak en reaksjonsstyrke som rykker ut når de får melding om at det er konstatert et problem. Falske basestasjoner er imidlertid konstruert for ikke å bli oppdaget og for i så liten grad som mulig å forstyrre trafikken i mobilnettet. Nasjonal kommunikasjonsmyndighet opplyser at ingen av mobiloperatørene har rapportert om problemer i nettene med falske basestasjoner.
+
+
+Jeg vil i denne sammenheng også gjøre oppmerksom på at Justis- og beredskapsdepartementet har sendt på høring et forslag om endring i politiloven og ekomloven. Forslaget er å gi politiet en begrenset adgang til å hindre bruk av elektronisk kommunikasjon der det er nødvendig for å beskytte liv og helse, eller der det er tungtveiende samfunnsmessige hensyn, eksempelvis for å hindre fjernutløsning av en bombe. Videre er det foreslått en adgang til å etablere mobilregulerte soner for å kunne identifisere om det er enheter som sender eller mottar signaler i området, samt at det skal kunne etableres mobilregulerte soner i helt spesielle tilfeller, f.eks. kidnappingssituasjoner.
+
+
+Regjeringen er svært opptatt av å avdekke om ulovlig overvåking har skjedd, og av å beskytte befolkningen mot ulovlig overvåking i fremtiden. Sikkerhet er svært viktig for regjeringen, og det vil fortsatt ha høy prioritet. Jeg har også store forventninger til de respektive tjenestenes arbeid med disse problemstillingene fremover. Av tiltak som dels er og dels vil bli iverksatt fremover, vil jeg i oppsummeringen nevne at Nasjonal sikkerhetsmyndighet, som nevnt, har gjort flere undersøkelser i anledning Aftenpostens oppslag. NSM har oversendt sin rapport Justis- og beredskapsdepartementet, Forsvarsdepartementet og Politiets sikkerhetstjeneste for videre behandling. Politiets sikkerhetstjeneste har som kjent startet etterforskning for å undersøke om opplysningene rundt falske basestasjoner dreier seg om ulovlig etterretningsvirksomhet til fordel for fremmede stater. Nasjonal sikkerhetsmyndighet og Etterretningstjenesten vil bistå Politiets sikkerhetstjeneste. Oslo politidistrikt har som kjent startet etterforskning av saken, og PST og Oslo politidistrikt samarbeider nært om etterforskningen.
+
+
+Nasjonal kommunikasjonsmyndighet opprettet 16. desember i fjor en arbeidsgruppe med deltakere fra Nasjonal kommunikasjonsmyndighet, NetCom, Telenor, Tele2 og Nasjonal sikkerhetsmyndighet. Arbeidsgruppen skal se på både netteiers muligheter for å avdekke falske basestasjoner i nettene og mer langsiktige tiltak for å øke sikkerheten ytterligere. Dette er felles problemstillinger som deltakerne ønsker å finne gode løsninger på. Nasjonal kommunikasjonsmyndighet leder gruppen, og Nasjonal sikkerhetsmyndighet bidrar med faglig rådgivning.
+
+
+Justis- og beredskapsdepartementet vil i samarbeid med Samferdselsdepartementet nedsette en arbeidsgruppe som bl.a. skal se på grensesnitt og ansvarsforhold mellom de offentlige aktørene og de private aktørene, hjemmelsgrunnlag samt vurdere behovet for større grad av aktiv monitorering av mobilnettene. Øvrige deltakere i arbeidsgruppen vil være Nasjonal kommunikasjonsmyndighet, Nasjonal sikkerhetsmyndighet, Politiets sikkerhetstjeneste og Politidirektoratet.
+
+
+I tillegg vil jeg minne om at regjeringen sommeren 2014 nedsatte et utvalg som skal kartlegge samfunnets digitale sårbarheter. Sårbarheter innen kritisk infrastruktur, deriblant elektronisk kommunikasjon, skal spesielt belyses nærmere. Utvalget skal vurdere effekt sett opp mot kostnader og ulemper ved risikoreduserende tiltak samt hvilken grad av sårbarhet samfunnet bør være beredt til å leve med. Jeg forutsetter at saken med mulige falske basestasjoner vil inngå som et viktig sakskompleks i utvalgets arbeid, og det vil antakelig utgjøre en del av bakgrunnen for utvalgets anbefalinger. Utvalget skal levere sin utredning til Justis- og beredskapsdepartementet innen utgangen av september 2015.
+
+
+Jeg vil for ordens skyld minne om det ansvar ulike myndighetsorganer og arbeidsgivere generelt har for å beskytte sine ansattes kommunikasjon på en hensiktsmessig måte. Det er tilgjengelig teknologisk utstyr som ved bruk vil bidra til å redusere risikoen for å bli avlyttet eller overvåket på annen måte. Jeg berører ikke dette nærmere i denne redegjørelsen.
+
+
+Til slutt: Aftenpostens opplysninger om mulig falske basestasjoner har rettet oppmerksomheten mot en sårbarhet som kan treffe svært mange, og som er svært uheldig. Dersom Aftenpostens opplysninger er riktige, er situasjonen alvorlig. Regjeringen arbeider målrettet for å redusere denne sårbarheten. Vi må allikevel erkjenne at dagens situasjon er slik at med mindre man bruker egnet krypteringsutstyr, må man ta høyde for at andre kan høre og lese det man sier og skriver. Denne erkjennelsen er i seg selv en viktig del av det forebyggende arbeidet, sammen med andre sårbarhetsreduserende tiltak.
+
+

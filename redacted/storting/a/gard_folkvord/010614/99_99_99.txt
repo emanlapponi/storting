@@ -1,0 +1,52 @@
+ 
+
+(ordfører for saken): 
+
+I løpet av det siste halvannet året har Stortinget behandlet flere store telesaker. Jeg tenker da særlig på reduksjonen av statens eierandel i Telenor og tilretteleggelsen av tredje generasjons mobiltelefoni i Norge, UMTS. Felles for diskusjonen rundt disse sakene har vært at moderne telekommunikasjon stadig sterkere integreres i vårt samfunn, og at denne teknologien i praksis er vår store kommunikasjonskanal. Denne utviklingen har gjort oss svært sårbare overfor forhold som kan forstyrre eller hindre trafikken i telenettet. Å sikre operativitet i telenettet under alle forhold blir derfor i et totalforsvarsperspektiv svært viktig. Det sier seg selv at dette er krevende. Kompleksiteten er stor i et telemarked i fri konkurranse, der mange aktører opererer. Telenettet preges i tillegg av at teknologien blir stadig mer avansert, og at trafikken er sterkt voksende. 
+
+
+
+
+I St.meld. nr. 47, om telesikkerhet og teleberedskap i et telemarked med fri konkurranse, drøftes både utfordringer og virkemidler knyttet til dette på en svært grundig måte. Som det fremgår av meldingen, vil dette sikkerhetsarbeidet for telenettene være krevende. Dette skyldes bl.a. at Internett gjør det mulig å innføre et utall nye tjenester, tjenester vi i dag ikke har. I det tradisjonelle telenettet er det ikke teknisk lagt til rette for tilsvarende muligheter. 
+
+
+
+
+Utviklingen vil mest sannsynlig føre til at Internett får en økende betydning som kommunikasjonskanal for en rekke tjenester, som i gitte situasjoner vil være av avgjørende betydning for å opprettholde samfunnsviktige funksjoner. Dette tilsier at samfunnet, ut fra risiko- og sårbarhetshensyn, har et behov for å øke Internetts robusthet mot alvorlige tekniske feil, fysisk sabotasje og ikke minst såkalte logiske angrep fra stater eller organisasjoner med tilgang til etterretningsinformasjon, kunnskap og teknologi. 
+
+
+
+
+I framtiden kan det følgelig bli behov for å iverksette særskilte sikringstiltak for Internett tilsvarende det vi i dag gjør for øvrige deler av telesektoren. Post- og teletilsynet må derfor overvåke utviklingen i bruken av Internett og fortløpende vurdere behovet for sikkerhetstiltak. 
+
+
+
+
+Sammenfattet kan vi si at truslene mot telenettenes operativitet enten ligger i fysiske anslag mot teknisk utstyr og infrastruktur, eller i såkalte logiske angrep. Dette dreier seg om at en ved hjelp av til dels avansert teknisk utstyr forstyrrer eller ødelegger trafikken i telenettene. 
+
+
+
+
+Når det gjelder trusselen om fysiske angrep eller ødeleggende elektromagnetisk stråling, kan en bare gardere seg mot dette ved å plassere vitalt telekommunikasjonsutstyr i fjellanlegg. Telenor har ti slike anlegg i dag, og det såkalte TIFKOM-prosjektet foreslår at staten overtar disse anleggene, og at det i tillegg bygges fem nye. Forslaget har en kostnadsramme på 1,9 milliarder kr. Bare i liten grad vil slik lokalisering i fjellanlegg gi beskyttelse mot såkalte logiske angrep. Samferdselsdepartementet mener imidlertid at det omfanget av samlokalisering i fjellanlegg som TIFKOM-prosjektet skisserer, er for omfattende og for ressurskrevende i forhold til den nytten man kan forvente å få ut av et slikt tiltak. Dette synet stiller en samlet komite seg bak. 
+
+
+
+
+Jeg vil bemerke at St.meld. nr. 47 er av utpreget teknisk art. Meldingen inneholder følgelig en rekke faguttrykk, både norske og fremmedspråklige, som for en del av oss kan framstå som lite kjente. Det blir derfor viktig at departementet i utformingen av en slik meldingstekst søker å forklare disse uttrykkene på en lettfattelig måte. Det har Samferdselsdepartementet gjort i denne stortingsmeldingen, og det vil jeg gi departementet honnør for. På side 18 i meldingen heter det:
+
+
+
+
+
+
+
+«Utviklingen innen våpenteknologien går mot avstandsleverte våpen med stor presisjon og høy penetrasjonsevne. Det vil forenklet si at en treffer det en sikter på …»
+
+
+
+
+Som saksordfører er jeg glad for at all mulig tvil som tidligere har hersket rundt forståelsen av dette punktet, nå effektivt er feid til side.
+
+
+
+

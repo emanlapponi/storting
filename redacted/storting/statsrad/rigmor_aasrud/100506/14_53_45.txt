@@ -1,0 +1,93 @@
+ Jeg takker representanten Astrup for et viktig og veldig aktuelt spørsmål, og takk for et interessant og utdypende innlegg. 
+
+
+
+
+IKT er, som representanten sier, en sentral muliggjører i klimapolitikken. Estimater viser at IKT-industrien kan bidra til å fjerne utslipp av 7,8 milliarder CO
+
+2
+
+-ekvivalenter innen 2020, i resten av samfunnet. Det er ca. fem ganger så mye som forventet samlet utslipp fra IKT-industrien. Svært mye av potensialet ligger i smarte bygg, smart transport og smarte energinett. Bruk av IKT på disse områdene bidrar til å modellere, synliggjøre og styre hvordan vi bruker ressursene, slik at vi dermed kan bruke dem vesentlig mer effektivt. Samtidig kan vi erstatte en god del av den fysiske transporten og produksjonen med digitale varer og tjenester. 
+
+
+
+
+Tiltakene vil handle om å gjøre verktøyene for slik styring, modellering og synliggjøring mer attraktive og tilgjengelige, og å stimulere til mer bruk av elektroniske varer og tjenester som kan erstatte de fysiske. 
+
+
+
+
+Det er anslått at bruk av IKT i seg selv står for ca. 2 pst. av CO
+
+2
+
+-utslippene i Europa. Det er omtrent like mye som flytrafikken. Som ansvarlig for Regjeringens IKT-politikk, er jeg den første til å peke på at IKT også er en del av klimaproblemet. Forbruket og anvendelsen av IKT er dessuten i sterk vekst. Om vi ikke regner inn forventet energieffektivisering og teknologitiltak fra industrien, kan veksten i utslipp bli femdoblet innen 2020. Samtidig kan ikke lavutslippssamfunnet realiseres uten smart bruk av IKT. 
+
+
+
+
+Utfordringer knyttet til å få ned klimautslippene er altså todelte. Vi må rette oppmerksomheten mot klimakonsekvenser av IKT-produktenes fulle livsløp, og sette inn tiltak der det monner mest. Og vi må framfor alt se på hvordan vi kan nyttiggjøre oss teknologi for å virkeliggjøre lavutslippssamfunnet. 
+
+
+
+
+Så hva vil Regjeringen gjøre? Miljøpolitikken er jo sektorbasert. Min rolle i denne sammenhengen er samordning av Regjeringens IKT-politikk, knyttet også opp mot klimaspørsmål. Jeg vil her peke på noen av de viktigste virkemidlene og tiltakene som det arbeides med i departementene. 
+
+
+
+
+Det første jeg vil trekke fram, er fornyingspolitikken. Fornyingspolitikk er også klimapolitikk. Spissformulert kan man si at gode klimatiltak er fornying, samtidig som fornying av offentlig sektor, må være bra for klimaet. Mye av det vi gjør for å fornye offentlig sektor, handler om overgangen fra å flytte atomer, f.eks. papir og mennesker, til å flytte bits, som elektroniske skjemaer og videosignaler. Dette sparer tid, penger og miljøet. Arbeidet med å digitalisere tjenester for næringsliv og befolkningen har pågått lenge, og det fortsetter med full styrke. 
+
+
+
+
+Jeg vil spesielt nevne Altinn, arbeidet med elektronisk faktura, felles elektronisk ID for offentlige tjenester og det påbegynte arbeidet med eID for virksomheter. Bare det å bytte ut papirbeskjeder med SMS-meldinger fjerner unødvendig mye transport av papir, og det er bra. Systematisk tilgang til offentlige data er viktig for at næringslivet skal kunne lage gode, smarte løsninger, løsninger som f.eks. kan brukes til å planlegge mer energieffektive nybygg eller tilby smartere persontransport. 
+
+
+
+
+Økt bruk av videokonferanser er et eksempel på et fornyingstiltak som også er klimavennlig. Hittil har vi ikke vært flinke nok til å ta i bruk det i offentlig sektor, men vi må bli bedre. 
+
+
+
+
+Et annet eksempel på klimavennlig fornying er telemedisin. Vi kan spare både penger og klima ved å unngå å frakte pasienter til og fra spesialistbehandling – behandling som i mange tilfeller kan utføres ved hjelp av telemedisin. Da sparer vi også pasientene for tidkrevende og ofte anstrengende transport. 
+
+
+
+
+Et annet virkemiddel er offentlige innkjøp. Det offentlige er en stor innkjøper, og de krav som det offentlige stiller, vil ha vesentlig betydning for samfunnet generelt. Difi, Direktoratet for forvaltning og IKT, utformer miljøkriterier for utvalgte produktgrupper som en hjelp i anskaffelsesprosesser. Et eksempel på dette er et krav om transportplanlegging og logistikk i de nye miljøkriteriene for kjøp av drosjetjenester. 
+
+
+
+
+Innkjøp er også et viktig virkemiddel for at nye bygninger blir mer energieffektive. Å redusere bygningers energiforbruk er helt vesentlig for klimapolitikken i et langsiktig perspektiv. God bruk av IKT gir en helt unik mulighet til å styre og planlegge byggeprosesser. Statsbygg har sammen med en rekke andre samarbeidspartnere utviklet BIM, digitale bygningsinformasjonsmodeller bygd på åpne standarder. Verktøyet gir oversikt over bl.a. miljøeffekten av konstruksjonsvalg. Statsbygg krever nå at dette systemet skal benyttes ved alle større byggeprosjekter, slik det bl.a. ble gjort ved planleggingen av Nasjonalmuseet. Bruk av offentlige innkjøp til leverandørutvikling som sporer an til smart bruk av IKT, bør kunne gi gode klimaeffekter i tiden framover. 
+
+
+
+
+Mangler på allment aksepterte standarder er et vesentlig hinder for vid bruk av teknologier. Jeg har gitt Difi i oppdrag å se på standarder som kan brukes til å fremme grønn IKT og smart grønn vekst. Standardarbeid kan til tider være et ganske langsomt arbeid som krever internasjonal koordinering. Vi har et eksempel på det når det gjelder bruk av smarte elektrisitetsmålere, der ansvaret ligger hos NVE. NVE venter nå på at europeiske standarder blir avklart, slik at vi kan komme videre med dette arbeidet i Norge. 
+
+
+
+
+Regjeringen og det offentlige må legge til rette for at alle samfunnsaktører kan bidra til smart grønn bruk av IKT. Mitt departement har finansiert eller delfinansiert flere prosjekter knyttet til smart grønn vekst og grønn IKT i regi av næringslivet. Vi har hatt et nært samarbeid med kunnskaps- og IT-bransjen, for å fremme kunnskap og bevissthet om temaet gjennom flere år. I bygg- og anleggsbransjen har vi gjennom Statsbygg bidratt til å gjøre BIM til et bredt industrisamarbeid. Samferdselsdepartementet har på lignende måte bidratt til bransjearbeidet ved å fremme intelligente transportsystemer, bl.a. ved å støtte ITS Norge, og lanserte i mars en strategi for å fremme intelligente transportsystemer. 
+
+
+
+
+I tillegg er det en del grunnleggende infrastrukturer som må på plass for å kunne ta ut klimapotensialet knyttet til smart bruk av IKT. Bredbånd er en forutsetning for så å si alle de løsningene vi skisserer, enten det er mobilt eller kablet bredbånd. Regjeringens vedtak om å tilby ledige frekvenser for mobilt bredbånd til kommersielle aktører har spesiell betydning for tilgang til smarte løsninger overalt. Regjeringen vil sørge for at et bredbåndstilbud i hele landet, med tilstrekkelig kapasitet, også vil være der i framtiden. 
+
+
+
+
+Klimaproblemene er dessuten grenseoverskridende og krever til dels grenseoverskridende løsninger. Mitt departement deltar derfor i et internasjonalt arbeid på områdene IKT og klima, spesielt gjennom OECD og EU. 
+
+
+
+
+Klimakrisen er vår tids største utfordring. Men det er jo ofte slik at god innovasjon begynner med en krise. Omstillingen til lavutslippssamfunnet kan bli en stor mulighet for IKT-næringen. Det vil åpne seg et stort innovasjonspotensial for utvikling av smarte IKT-løsninger for mange sektorer, som transport, bygg og energi, i tiden framover. 
+
+
+
+

@@ -1,0 +1,6 @@
+ Jeg er kjent med at Sentralskattekontoret for utenlandssaker – SFU – endret sin IT-løsning for utskrifter av skattekort i 2010. Skattedirektoratet har opplyst at det i den forbindelse var enkelte oppstartproblemer. Innføringen av den nye IT-løsningen medførte at flere skattytere ble rapportert med utenlandsk arbeidsgiver og dermed automatisk lagt inn i SFUs manntall. De berørte skattyterne fikk da utskrevet skattekort fra SFU med for høyt skattetrekk. Dette førte til at de fikk en trekktabell som forutsetter skattetrekk i tolv måneder, i stedet for en ordinær trekktabell som er beregnet ut fra et skattetrekk på 10,5 måned.
+
+
+Jeg har fått opplyst av Skattedirektoratet at feilen ble rettet opp like etter at den ble avdekket. Det ble samtidig innført manuelle rutiner som sikrer at korrekt skattekort utskrives. Erfaringen er at problemet nå kun oppstår unntaksvis. Men dersom det fortsatt er skattytere som mener de får feil skattekort, vil de ved henvendelse til sitt skattekontor få rettet dette opp.
+
+

@@ -1,0 +1,25 @@
+ En av de mest sentrale pådriverne, debattforumene og bidragsyterne i denne viktige teknologispørsmålsdebatten er Teknologirådet. Rådet ble opprettet av Bondevik I-regjeringen etter initiativ fra Stortinget i 1999. I mandatet til rådet heter det at det skal gi råd til Stortinget og øvrige myndigheter om muligheter og konsekvenser ved ny teknologi samt stimulere til offentlig debatt og medvirkning.
+
+
+
+
+I april 2002 ble mandatet utvidet og presisert. Det demokratiske perspektivet og den folkelige synsvinkelen kom mer inn, men hovedfokus ble beholdt. Blant temaene som rådet jobber med nå, er IKT og personvern, programvarepolitikk, åpne standarder, åpne kildekoder, stamceller, kloning og innovasjon. Tidligere har man bidratt i behandlingen av synspunkter rundt digital-TV. Som IKT-politiker har jeg hatt stor glede av mange av deres innspill, og det er det også andre i Stortinget som har hatt.
+
+
+
+
+Det står enorme utfordringer for døren teknologisk sett. Nanoteknologi, nye materialer, gjennomgripende modernisering av offentlig sektor med bruk av IKT, hydrogen- og gassteknologi, osv. Danmark, Nederland, England m.fl. har lignende institusjoner som de norske, og de fortsetter satsingen, men Regjeringen foreslår i statsbudsjettet å kutte bevilgningene med 34 pst., 2,1 mill. kr, uten noen form for begrunnelse. Her mener jeg at det er noe som ikke rimer. Hvis vi skal satse på IKT og demokrati, folkelighet, ser jeg det som vanskelig å overlate debatten til lederne av Microsoft og andre store firmaer og redusere den aktiviteten som skjer i Teknologirådet. Jeg kunne godt tenke meg at statsråden kommenterte disse synspunktene.
+
+
+
+
+For øvrig synes jeg det var et utmerket svar. Jeg føler meg beroliget når det gjelder MinSide, at man har tatt høyde for at det må gjøres et arbeid, og at kanskje 8 mill. kr ikke er tilstrekkelig. Jeg deler også statsrådenes syn at det er vesentlig for moderniseringen i offentlig sektor å bruke IT.
+
+
+
+
+Jeg har et spørsmål i forhold til dette med felles IT-arkitektur i det offentlige, jeg vil gjerne vite litt mer konkret hva det handler om. Handler det bare om kravspesifikasjoner, PKI osv.? En av hovedutfordringene i den offentlige sektor i forhold til den private er utveksling av informasjon. Jeg kunne godt tenke meg å få vite litt om hva statsråden har tenkt rundt åpne standarder og et eventuelt prøveprosjekt med åpne kildekoder.
+
+
+
+

@@ -1,0 +1,72 @@
+ Det er dessverre ikke noe nytt at store, offentlige IKT-investeringer sprekker med tanke på både tid og penger. Forsvaret, politiet, nytt nødnett, Nav, Statens vegvesen – det mangler ikke på eksempler. Elektronisk meldingsutveksling kommer neppe til å bli det siste eksemplet.
+
+
+«Politiet slakter sin egen datasatsing» – det var overskriften i Bergens Tidende den 8. august 2013. Ingressen fortsatte med:
+
+
+«Politiet har brukt milliarder på datasystemer, men vet ikke hva pengene er brukt på. Det fastslår en ny politianalyse.»
+
+
+Den rød-grønne regjeringa nedsatte i november 2012 et utvalg for å analysere utfordringene i norsk politi. I den endelige rapporten som ble lagt fram i slutten av juni 2013, fikk Politidirektoratet knallhard kritikk for manglende styring av investeringene innen IKT-sektoren.
+
+
+Analysen avdekker at milliardene har rent ut uten at en har hatt kontroll på hva en har brukt pengene på. Totalt er det brukt 4,3 mrd. kr på IKT de siste fem årene – altså fram til 2013. Av dette har 1,3 mrd. kr gått til investeringer.
+
+
+Roar Fosse, som i 2013 var hovedtillitsvalgt i Politiets Fellesforbund i Hordaland, sa:
+
+
+«Et av hovedproblemene er at systemene ikke snakker med hverandre. Vi må derfor bruke tid på å registrere de samme opplysningene både tre og fire ganger.»
+
+
+Hvis vi går litt ut av landet, er dette heller ikke ukjente utfordringer. Allerede i 2001 hadde Danmark et lignende antall erfaringer med statlige IKT-prosjekter i utakt som det vi har hatt i Norge de siste årene. Det såkalte Bonnerup-utvalget i Danmark la i 2001 fram rapporten «Erfaringer fra statslige IT-projekter – hvordan gør man det bedre?». I rapporten heter det, noe profetisk:
+
+
+«De store offentlige IT-projekters tid er med andre ord først lige begyndt. Dermed har vi også kun set toppen af de problemer, projekterne risikerer at støde ind i.»
+
+
+Det er vel der vi er i Norge. Vi støter på mange utfordringer knyttet til IKT-prosjekter. Ett av problemene er samhandling mellom aktører som er på helt forskjellige digitale planeter og plattformer, slik som kommuner og sykehus, eller fastleger og sykehus. Innen helsesektoren er en del av utfordringen, eller problemet, også et stort antall aktører eller interessenter.
+
+
+Dessverre er pasientens interesse ikke så lett å få øye på eller å høre i dette aktørbildet. Derimot er det et svært stort antall statlige interessenter. Hør bare hvilke statlige aktører som er med i den såkalte E-helsegruppen som skal bidra til mer informerte beslutninger, samling om store satsinger og tydelig forankring av ansvar og gjennomføring innenfor IKT-tiltak i helse- og omsorgssektoren: Det er Helse- og omsorgsdepartementet ved departementsråd, det er toppledere fra Kommunal- og moderniseringsdepartementet, Helsedirektoratet, Nasjonalt folkehelseinstitutt, Direktoratet for forvaltning og IKT, de fire regionale helseforetakene, Norsk Helsenett SF, Nasjonal IKT og Nasjonalt senter for samhandling og telemedisin, og det er KS, som representerer 428 kommuner. Nå har vi i tillegg fått Helse Vest RHF, som har fått et overordnet nasjonalt ansvar for IKT i sykehussektoren. Det er altså et utall aktører og interessenter.
+
+
+Mange av utfordringene og problemene ved offentlige IKT-prosjekter springer ut av vilkårene som prosjektene skal fungere innenfor, og i liten grad av selve teknologien. Lover, regler, organisering, finansiering og fragmentering er noen av utfordringene vi snakker om. Representanten Lundteigen tok opp ledelse og organisering, og det er flere som har snakket om det. Vi politikere må nok ta en del av ansvaret for utfordringene og problemene. Vi er i høyeste grad en del av ledergruppen her.
+
+
+En annen del av utfordringsbildet er anskaffelsesregelverket og praktiseringen av det. Vi har en ganske stiv norsk fortolkning av EUs anbudsregler, og det er også en av hemskoene for effektivitet i offentlige IKT-prosjekter. En utfordring knyttet til dette er også de årlige statlige budsjett- og bevilgningssystemene som vi har, som gjør det krevende å gjennomføre langsiktige og tverrgående IKT-prosjekter. Her må vi utfordre oss selv til å bli bedre til å bruke anskaffelsesregelverket og ulike konkurranseformer som konkurransepreget dialog, prosjektkonkurranser og doble anbud, der det i større grad blir fokusert på design og innovasjon i tidlig fase.
+
+
+En tredje betydelig utfordring innenfor det vi snakker om her – helsesektoren – er standardisering. Tekniske standarder for IKT-utstyr og digital infrastruktur er selvfølgelig en del av dette, men innenfor helsesektoren er en svært sentral del den medisinske terminologien. Australia var et av landene som grunnla den medisinske fagterminologien og sikret den. De har registrert mer enn 300 000 fagord i helsesektoren. Det er klart at når vi skal gå inn i et teknisk paradigmeskifte fra papirbasert til digital kommunikasjon, er det helt grunnleggende og vesentlig at medisinsk terminologi og praksis i størst mulig grad er registrert, avklart og entydig for digital bruk.
+
+
+Her har vi fortsatt en lang vei å gå i Norge når det gjelder å strukturere den medisinske fagterminologien. Ikke minst ser vi det innenfor elektronisk pasientjournal, hvor det står en betydelig jobb igjen med å strukturere den terminologien.
+
+
+Danmark er et annet eksempel – jeg har nevnt Australia og også vært innom Danmark. Det er to av de landene som har kommet lengst innenfor digitalisering av helsesektoren og digitalisering generelt i offentlig sektor, og som det er noe å lære av. Danskene har fortsatt etter 2001 med å legge fram rapporter i offentlig sektor om IKT-prosjekter. Det er ganske interessant å lese at de vil prøve å være mer offensive når det gjelder å ta mer risiko, satse mer på forandring og gjennomføre litt større paradigmeskifter.
+
+
+Jeg ser at vi også i Norge har hatt politiske ambisjoner om det, men at vi ikke har rigget organisasjoner, direktorater, departementer og andre aktører for det. Det er en debatt jeg ønsker velkommen: at vi, både i denne sal og rundt om i kommunestyrer og andre offentlige politiske organer, tar debatten om hvor offensive vi kan være med tanke på å skaffe brukerne bedre verktøy, og også på å skaffe oss selv mer effektivisering.
+
+
+Men det de også sier i Danmark, er at de i for stor grad har fokusert politisk på kontroll, og at det skaper et for stort og detaljert mønster av kravspesifikasjoner, noe som også virker hemmende og ikke utviklende. Man peker også på behovet for en mer sentral beslutningskompetanse, og det er nok viktig også i Norge at vi etterstreber en større grad av beslutningskompetanse og skaffer oss en mer helhetlig IKT-arkitektur for Norge, hvor en digital helsearkitektur er særlig viktig.
+
+
+Ledelse og utdanning er også en del av dette, og der må vi som politikere også diskutere hvilket lederskap vi skal være med på å utøve, og hvilke lover, regler og finansieringssystemer vi skal legge til rette for, for at det skal være mulig å oppnå de ambisjonene vi har.
+
+
+Jeg ser at komiteen har brukt mye tid på å diskutere incentiver, men lite tid på å diskutere sanksjoner. Hvorfor kommuner ikke har innført dette, er en av diskusjonene som jeg synes at komiteen har gått for lite inn på. Samhandlingsreformen har elementer av sanksjoner i seg, bl.a. ved at når utskrivningsklare pasienter blir liggende i sykehus, må kommunene betale 4 000 kr. Lignende sanksjoner kan en også vurdere innenfor IKT-sektoren.
+
+
+Tilbake til Australia: Helse- og omsorgskomiteen var på besøk der i høst, og en av suksessfaktorene jeg vil si at vi opplevde i Australia, var at de har en veldig stram ledelse og beslutningskompetanse for sin satsing på e-helse. De bruker et statlig direktorat for å drive fram både teknologi og kompetanseverktøyene for dem som skal ta i bruk teknologien. Det er også lite diskutert i komiteens innstilling – hvordan vi skal utdanne alle i helsesektoren som skal ta i bruk disse verktøyene. De brukte i stor grad simulatorer for å utdanne sitt helsepersonell, og bl.a. fastlegene fikk ikke ta i bruk ny teknologi før de hadde vært gjennom en simulator. De fikk da heller ikke tilgang til de økonomiske virkemidlene.
+
+
+I Australia er det også sånn at NEHTA, som er det statlige direktoratet, har eierskap til all kritisk nasjonal infrastruktur når det gjelder elektronisk helse. De bruker da i stor grad private for å bidra, men det er altså NEHTA – dette australske direktoratet – som faktisk selv programmerer og setter standardene, mens de slipper inn de private etter anbud for å gjøre utviklingsjobber for seg. I Norge har vi gjort det tilnærmet omvendt: Vi har lyst ut på anbud til private aktører både utviklingsjobbene og – nærmest – politikkutviklingen, så løper vi etter for å samordne. Og hvis de private aktørene har programmert seg inn i monopoler, står vi overfor en stor utfordring. Særlig innenfor kommunehelsetjenesten opplever vi noen av disse utfordringene, men det gjør vi til dels også i sykehussektoren, der vi nå har to aktører innenfor de fire forskjellige helseforetakene som sentrale systembærere.
+
+
+Vi står overfor en god del utfordringer knyttet til dette, og det å ta på seg den nasjonale ledertrøya er i høyeste grad et politisk ansvar. Jeg føler ikke at vi foreløpig er i mål med å ta de diskusjonene i Norge og finne det aktørbildet som fører til gjennomføringskraft. Og for å nevne det: Australia er fullt på høyde med Norge når det gjelder å ta i bruk elektronisk pasientjournal, men de har valgt ikke å fase inn alle pasienter i det. De mener at sikkerhetsrisikoen for det er altfor stor, og vil bruke de tre neste årene på å utvikle systemet med et begrenset antall pasienter inne i det.
+
+
+Her har vi god grunn til å følge med på andre land som har de samme utfordringene, som er kommet omtrent like langt som oss, men velger å gjøre det på andre måter. Vi har også gode eksempler i Norge. Skatteetaten og Altinn er et eksempel på en betydelig suksess i norsk IKT-forvaltning. Hvorfor vi på tvers ikke greier å lære av gode eksempler, er også en liten gåte. Og når vi har et direktorat for IKT og anskaffelser, burde vi i større grad greie å bruke det til å løse disse store utfordringene.
+
+

@@ -1,0 +1,157 @@
+ Nødnettet skal være grunnmuren i Norges beredskapsevne. Et robust felles nødnett basert på moderne teknologi er en viktig satsing på samfunnssikkerhet og styrket beredskap i Norge. 
+
+
+
+
+Investeringen i nødnettet er betydelig – den er kostbar – men det er også en riktig satsing hvis dette betyr at en oppnår merverdien som Stortinget opprinnelig bestilte. 
+
+
+
+
+Vi, Høyre, har snakket med brannfolk, spanere, livvakter, legevaktsfolk og ambulansepersonale som jevnlig risikerer sine liv i arbeidet sitt. En røykdykker på arbeid i en brennende bygning – ja, da er sambandet navlestrengen hans. Det er helt avgjørende å komme i kontakt med sentralen og kollegene på stedet for at han skal kunne gjøre jobben sin og være mest mulig sikker på at han kommer seg uskadet ut fra oppdraget. 
+
+
+
+
+Når vi som samfunn ber enkeltpersoner ta på seg et oppdrag på våre vegne, må vi også være sikre på at vi, i vår rolle, har gjort det vi kan for å gi dem mest mulig trygghet i arbeidet som skal gjøres. Tilbakemeldingene vi får nå – fra brannfolk, ambulansetjenestepersonale og ansatte i politiet – gjør meg urolig for om dette arbeidet er gjort godt nok. 
+
+
+
+
+Direktoratet for nødkommunikasjon og statsråden synes å tilbakevise enhver form for kritikk. I forslaget til statsbudsjett for 2013 presenteres de generelle rammene for utbyggingen, men det sies lite eller ingenting om kladdeføret for prosjektet. 
+
+
+
+
+Det hevdes at den valgte TETRA-standarden er ulik standarden i resten av Europa, kalt TEDS. Dette fremstår som underlig, fordi Stortinget har forutsatt i tidligere behandling at nytt nødnett skulle være et nøkkelferdig produkt og ikke et utviklingsprosjekt. 
+
+
+
+
+Høyre er urolig for om utbyggingen av nødnettet er valgt på uriktig grunnlag og om den videre prosessen er godt nok planlagt. Det er flere grunner til denne bekymringen. I opprinnelig bestilling for Stortinget i St.prp. nr. 30 for 2006–2007 blir det forsikret om flere forhold som var viktige for Høyre, under kapitlet «Sentrale egenskaper ved det nye nettet»: 
+
+
+
+
+
+
+
+«Ved landsdekkende utbygging vil nødnettets radiosendere/mottakere dekke om lag 80 % av landets areal og nær 100 % av befolkningen.» 
+
+
+
+
+NRK avslørte tidligere i høst at det skal eksistere en hemmelig avtale mellom direktoratet og leverandøren, Motorola, om at dekningsgraden blir redusert. For oss i Høyre ser det ut som om direktoratet kan ha gått med på en gjennomsnittlig dekningsgrad som er ca. 10 pst. under Stortingets bestilling, eller enda mindre. Stemmer dette, er dette riktig? Vi har også fått informasjon om at Troms fylke bare skal ha en dekningsgrad på 57 pst. Dette er ikke som bestilt, og denne reduksjonen kan innebære forskjellen på liv og død. 
+
+
+
+
+«Det vil bli spesielt god dekning i byer og tettsteder, også innendørs», ble det sagt fra regjeringen. Dette har blitt redusert til: «I tettbygde strøk skal det være en viss innendørs dekning, noe som krever noe høyere tetthet av basestasjoner.» 
+
+
+
+
+Dette betyr at ambisjonene har blitt noen helt andre. Med dette blir det nye nødnettet nærmest et utendørsnett, mens ambulansepersonellet som skal hjelpe den fødende kvinnen i boligblokken hun bor i, må basere seg på mobiltelefon underveis eller eventuelt løpe ut på gaten når de trenger kontakt med jordmor. 
+
+
+
+
+Spaneren som fotfølger den kriminelle voldsmannen, må håpe på det beste når hun forfølger den mistenkte inn på Oslo S eller på T-banen i Oslo, fordi sambandet ikke fungerer godt nok her. Livvaktene som passet på Sør-Koreas statsleder på statsbesøk i Norge, har vi fått opplyst ikke hadde dekning inne på Grand Hotel. Flere brannstasjoner holder fast på det gamle sambandet, fordi deres egne interne tester viser en klasseforskjell i dekningen innendørs. 
+
+
+
+
+Enda merkeligere blir denne reduksjonen i kvalitet når vi vet at TETRA-brukere i våre naboland ikke sliter med samme dekningsproblemer innendørs. Årsaken til dette skal være at deres radioer er utstyrt med såkalt Gateway repeatere som forsterker signalet betydelig, mens dette skal ha falt ut fra kravspesifikasjonen underveis i det norske innkjøpet. Hvorfor lå ikke dette inne som krav i det norske anbudet? Dette var det flere leverandører som kunne levere allerede i første norske anbudsrunde. At Motorola på dette tidspunktet ikke hadde dette i sine radioer, har det spilt en rolle? 
+
+
+
+
+
+
+
+«I startfasen vil datatjenester ha en overføringsrate på maksimalt 28,8 kb/s. Dataoverføring med hastighet opp til 163 kb/s er tenkt innført i byer, tettsteder og langs europaveier, riksveier og fylkesveier fra 2009.» 
+
+
+
+
+Dette sa regjeringen i 2006. Nå sies det at det er vanskelig med datatrafikk på nettet. Brukerne er avhengige av mobiltelefonene sine, noen steder brukes iPad, ambulansetjenesten har måttet bruke et separat kartsystem, og mulighetene til å sende EKG over det krypterte nødnettet, som også ble lovet, er fortsatt bare en drøm. Siste anslagene som Høyre har hørt, er at dette kanskje kan innføres mellom 2025 og 2030, hvilket betyr nok et brudd på Stortingets forutsetninger. 
+
+
+
+
+«Nødnettet vil kunne brukes i helikopter og fly opptil 8 000 fot over havet,» var bestillingen. Fakta har vist at politihelikoptrene som har patruljert i Oslo-området i høst, var uten dekning i luften i seks uker. Merkelig nok skal dette ha begynt å virke igjen først samme uke som justisministeren og jeg sist møttes i denne sal og diskuterte spørsmålet i en spørretime. Forhåpentligvis er dette nå på plass for fremtiden. 
+
+
+
+
+Samtidig ser vi at Høyres forutsetning om at også redningshelikoptrene skulle koples på nødnettet, ikke er med likevel. Er det meningen at disse skal med etter hvert, eller har man gitt opp dette? 
+
+
+
+
+Nytt nødnett skal ha: «god kapasitet ved ulykker og i den daglige operative tjeneste». Det var regjeringens beskrivelse av forhandlingsresultatet i 2006. Vi ser at nødsambandets kapasitet er sprengt i hovedstaden og hovedstadens sentrum hver uke, og at det har kollapset i flere kritiske situasjoner. Eksempler er stormen Dagmar, en husbrann på Hasle, midt i Oslo, og en øvelse på Ila landsfengsel. 
+
+
+
+
+Et robust nett som virker under strømbrudd og når andre nett ligger nede, var et hovedargument for nytt nødnett. Det vi ser i dag, kan være et nødnett som er enda mer sårbart enn mobilnettet, fordi det har langt færre basestasjoner. Det er ikke beroligende å høre at Direktoratet for nødkommunikasjon ikke deltar i beredskapsøvelsen heller – den såkalte og omtalte TYR, som nylig ble gjennomført. Samtidig hører vi at basestasjonene bare skal ha åtte timers reservetid ved strømbrudd. Regjeringen sier i proposisjonen som vedtok igangsettelse av bygging: 
+
+
+
+
+
+
+
+«Stor brukermedvirkning anses som et viktig risikoreduserende tiltak i prosjektet.» 
+
+
+
+
+Samtidig sier beredskapspersonellet at de ikke blir hørt. Tidligere helsedirektør sier at dårlig dekning og talekvalitet har vært rapportert i flere år, uten at man har sett noen plan for å forbedre dette. De opplever at brukererfaringene deres ikke når fram, og at direktoratet baserer evalueringsrapporter på analysering av statistikk fra datasystemet eller spørreundersøkelser hos ledelsen i departementene. Til og med i Direktoratet for nødkommunikasjons egenevaluering etter 22. juli-terroren var det ikke snakket med dem som var operative under politiaksjonen. Det henvises i evalueringsrapporten til at dette skal skje i den videre oppfølgingen, men slik Høyre har forstått dette, venter politifolkene fortsatt på en slik henvendelse. 
+
+
+
+
+Statsråden har sagt at ved utarbeidelsen av spesifikasjonen for nødnettet ble det lagt stor vekt på å gjøre denne teknologinøytral. 
+
+
+
+
+Det står i proposisjonen at: 
+
+
+
+
+
+
+
+«det påhviler leverandøren å levere et nøkkelferdig system». 
+
+
+
+
+Hvorfor er det ikke krevd såkalt gateway repeater-funksjon i radioene? 
+
+
+
+
+Spørsmålet blir enda mer sentralt når vi samtidig har fått dokumentert at det i den hemmeligstemplede kravspesifikasjonen, som lå til grunn for anbudsrunden, ble krevd at leverandøren skulle levere radioterminaler som støtter TETRA-standarden TEDS. 
+
+
+
+
+Hvordan kunne Justisdepartementet kreve TEDS-standard når dette ikke var teknologinøytralt, og at dette på denne tiden bare var på utviklingsstadiet hos Motorola? Jeg spør igjen: Hvordan kunne man? 
+
+
+
+
+I tillegg skjønner vi ikke hvordan man kunne velge leverandør overhodet, når det viser seg at heller ikke Motorola kunne levere produkter og løsninger basert på denne standarden før i mai inneværende år – seks år etter at de vant kontrakten. 
+
+
+
+
+Denne delen av saken har en lukt som vi i Høyre ikke er komfortable med. At Direktoratet for nødkommunikasjon innrømmer at Motorola har sittet på flere sider av bordet og deltatt i utformingen av anbudskriteriene allerede gjennom den første anbudsprosessen, vitner om at utfallet ikke var teknologinøytralt, slik Stortinget ble forsikret om. Det er sterkt beklagelig at prosessen har blitt gjennomført slik at Klageorganet for offentlige anskaffelser har konkludert med brudd på regelverket, og at avtaleoverdragelsen fra Nokia Siemens til Motorola kan være ulovlig. 
+
+
+
+

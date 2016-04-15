@@ -1,0 +1,531 @@
+ Mye tyder på at fremtidens historikere vil se tilbake på tiden mellom 1980 og 2020 som en epoke da menneskene reorganiserte viktige deler av sitt arbeidsliv, organisasjonsliv og samfunnsliv rundt et nytt verktøy – en ny idé. Disse fire tiårene markerer overgangen til den digitale tidsalder – fra en æra drevet av maskiner til en æra drevet av databrikken, den lille elektroniske hjernen som finnes i alt fra biler og kjøleskap til mobiltelefoner og datamaskiner.
+
+
+
+
+Det danske Instituttet for Fremtidsforskning har pekt på fire drivkrefter bak de store endringene vi nå er midt oppe i:
+
+
+
+
+
+
+
+
+
+
+digitalisering
+
+
+
+
+
+
+
+globalisering
+
+
+
+
+
+
+
+individualisering
+
+
+
+
+
+
+
+verdiorientering
+
+
+
+
+Disse kreftene påvirker måten vi samhandler på – uavhengig av geografi og avstand. Mange grunnleggende deler av vårt samfunn endrer seg – selve institusjonene, bedriftene, bosettingsmønsteret, organisasjonene, forvaltningen, familien og økonomien.
+
+
+
+
+Digitaliseringen har potensial i seg til å endre virkeligheten – geografisk og fysisk – og vår virkelighetsoppfatning. Den nye, digitale teknologien øker tempoet i globaliseringen og individualiseringen av våre samfunn.
+
+
+
+
+Globaliseringen bidrar til at både nasjoner, bedrifter og enkeltindivider påvirkes mer og mer av de samme utviklingstrekkene, enten de er av økonomisk, politisk eller kulturell art. Verden forandres ved at varer, tjenester og kapital lettere krysser landegrensene. Holdninger, verdier og ideer spres både lenger og raskere. Vi får nye og globale sammenlikningsgrunnlag for lønn, arbeidsinnsats og livsstil.
+
+
+
+
+I globaliseringens forlengelse ligger et stadig sterkere fokus på lokal identitet, fordi digitaliseringen gir muligheter for skreddersydde tilbud.
+
+
+
+
+Individualiseringen av samfunnet gjør seg gjeldende gjennom stadig sterkere krav til skreddersydde løsninger. Dette utfordrer ikke minst den offentlige forvaltningen. Når nettbanken er tilgjengelig døgnet rundt, hvorfor skal ikke forvaltningen være det samme? Dessuten er det store besparelser som kan gjøres ved bruk av digitale løsninger. I så måte skaper digitaliseringen flere ringer i vannet.
+
+
+
+
+For et par måneder siden besøkte jeg Widerøe Internet AS. Dette norske flyselskapet er blitt en pioner også når det gjelder bruk av Internett. Hovedkontoret for internettsatsingen ligger i Mosjøen, og tjener som et godt eksempel på at den nye teknologien opphever geografi, men søker kunnskap.
+
+
+
+
+Widerøe Internet illustrerer også hvordan nye og internettbaserte løsninger skaper mer krevende brukere. Når du kan gå inn i flyselskapenes datasystemer for å bestille flyreisen din selv, hvorfor skal du ikke kunne gjøre det samme med barnehageplassen? Når du kan bruke WAP-telefonen til å finne ut om flyet ditt er i rute, hvorfor skal du ikke på samme måte kunne sjekke hos kommunen om byggesøknaden din er i rute?
+
+
+
+
+Regjeringens IT-politikk er derfor en viktig del av arbeidet nettopp med å fornye offentlig sektor, som arbeids- og administrasjonsminister Jørgen Kosmo vil komme tilbake til i sin redegjørelse torsdag.
+
+
+
+
+Verdiorienteringen i forhold til produkter og tjenester blir også sterkere. Tenk bare på den oppvoksende slekt, som er den mest kommunikative generasjonen noensinne. Dette vil også påvirke holdningene til disse generasjonene.
+
+
+
+
+For oss godt voksne er f.eks. papiravisen et selvfølgelig gode, men mon tro om ikke dagens SMS-generasjon etter hvert kommer til å stille kritiske spørsmål ved selve ressursbruken knyttet til avisproduksjon, når de allerede i dag selv mottar informasjonen i digital form. Med dette vil jeg si at nye generasjoner nok kommer til å vurdere mange slike forhold på en helt annen måte enn det vi i dag er vant til.
+
+
+
+
+De som tror at dotcom-døden er spikeren i kisten for IT-revolusjonen, tar alvorlig feil. Ferske tall viser at det digitale Norge fortsatt utvikler seg med høy hastighet. Kompetanse, erfaring og teknologi er ikke borte – tvert imot. Det er når den nye teknologien og de nye løsningene etter hvert blir allemannseie, at vi vil oppleve de største endringene.
+
+
+
+
+Over halvparten av landets husstander har nå internettilknytning, og to av tre nordmenn har nettilgang hjemme eller på jobb. Dette plasserer oss i verdenstoppen. Også når det gjelder bruk av Internett, er økningen markant. Over 1 million nordmenn bruker nettbank, og i år har nesten 400 000 nordmenn levert selvangivelsen sin over Internett.
+
+
+
+
+Ifølge deres egne tall er IT-næringen Norges nest største landbaserte næring, med 220 milliarder kr i omsetning i 2000. Verdiskapingsdelen har vi ikke eksakte tall for, men Statistisk sentralbyrå oppgir en gjennomsnittlig verdiskapingsandel på 30 pst. i 1998.
+
+
+
+
+Da Arbeiderpartiet overtok regjeringskontorene for litt over et år siden, innså vi at det var behov for en enda sterkere koordinering av IT-politikken. Det var tatt mange gode initiativer, men de lå i forskjellige departementer og manglet en felles overordnet strategi – eller driver. Samtidig arbeidet EU med å utarbeide eEurope, en handlingsplan for IT, for å møte utfordringene fra USA og Asia.
+
+
+
+
+På bakgrunn av dette omorganiserte vi departementet, etablerte en egen avdeling for IT-politikken og startet, som varslet i min redegjørelse 9. mai i fjor, arbeidet med å utarbeide en eNorge-plan. I debatten etter redegjørelsen ble det understreket at Norge burde følge opp eEurope, og 14 dager etter lanseringen av eEurope, lanserte vi versjon 1.0 av eNorge.
+
+
+
+
+eNorge-planen er basert på rammeverket i eEurope, men tilpasset norske forhold. Formelt er Norge innlemmet i EUs arbeid med sammenlignende statistikk – benchmarking – av eEurope. Jeg legger om få dager frem et supplement til en EU-rapport som viser hvor Norge står i forhold til andre land på hele IT-området.
+
+
+
+
+eNorge-planen er blitt godt mottatt fra mange hold, spesielt fordi den er et forpliktende dokument som stadig skal fornyes. Internasjonal interesse har da også ført til at neste versjon av planen også vil foreligge på tysk, engelsk og fransk. I EU-kommisjonens rapport til ministermøtet i Nice i desember var eNorge den eneste nasjonale IT-planen som var nevnt spesielt.
+
+
+
+
+eNorge er en prosessplan som rulleres hvert halvår. eNorge versjon 2.0 kom i desember, og versjon 3.0 lanseres i juni. 16 departementer bidrar, og målet er å få med alle. I versjon 3.0 vil vi også videreutvikle og konkretisere miljødimensjonen ved en bærekraftig IT-politikk.
+
+
+
+
+Hver måned rapporterer Regjeringens eKoordinator – statssekretær Tore O. Sandvik i Nærings- og handelsdepartementet – direkte til statsministeren om utviklingen i eNorge. Selve rapporteringen skjer sammen med den statsråd som er ansvarlig for månedens hovedtema. På denne måten forankrer og synliggjør vi IT-satsingen i hvert departement. Den åttende rapporten i rekken ble lagt frem i går, i samarbeid med Kommunal- og regionaldepartementet, hvor temaet var elektronisk byggesaksbehandling. 
+
+
+
+
+I versjon 2.0 av eNorge deltok også HSH, LO, NHO og KS med egne vedlegg. Dette partnerskapet utvikler vi nå videre. Vi har laget et eget eNorge-partnermerke som tilfaller dem som oppfyller bestemte kriterier. Dette partnerskapet skal også omfatte kommuner og fylkeskommuner.
+
+
+
+
+Målet med eNorge-planen er å bidra til å skape et informasjonssamfunn for alle. Dette er et verdimål. Vi ønsker at alle skal være med, og vi vil bruke den nye teknologien til å utvikle kunnskapssamfunnet i en miljøvennlig retning.
+
+
+
+
+eNorge bygger på tre søyler: 
+
+
+
+
+
+
+
+
+
+
+tilgang
+
+
+
+
+
+
+
+kompetanse 
+
+
+
+
+
+
+
+tillit
+
+
+
+
+Vi har sagt at alle skal være med. Dermed må vi også sikre alle tilgang til den nye teknologien. Det hjelper imidlertid lite med tilgang om vi ikke forstår hvordan vi skal bruke den, eller ikke ser nytten av den. Kompetansebyggingstiltak er derfor viktige, slik som SNDs e-handelsprogram VeRDi eller vår støtte til den store SeniorSurf-dagen, der landets seniorer får innføring i bruk av Internett.
+
+
+
+
+Regjeringens handlingsplan for bredbånd er også viktig for å sikre tilgang til alle. Den kommer jeg tilbake til. Forumet «e- for alle», nedsatt av Nærings- og handelsdepartementet, spiller også en viktig rolle, bl.a. med å foreslå tiltak i forbindelse med rullering av eNorge-planene.
+
+
+
+
+Tillit er viktig. IT-tjenestene skal være sikre og tilgjengelige for alle, uavhengig av status eller kompetansenivå. Det er etablert en bredt sammensatt arbeidsgruppe som skal ta for seg sikker bruk av Internett i skolen. 
+
+
+
+
+Tillit henger nøye sammen med sikkerhet og sårbarhet. Vi er i dag så avhengige av informasjons- og kommunikasjonsteknologien at selv en enkel svikt kan få konsekvenser for energiforsyning, telekommunikasjon, drivstofforsyning, betalingsformidling, næringsliv og helse.
+
+
+
+
+Sårbarhetsutvalgets innstilling, «Et sårbart samfunn», peker bl.a. på at dagens samfunn er mer sårbart enn før, at sikkerhetsutfordringene er betydelig forandret, og at trusselbildet forskyves fra det manuelle til det elektroniske.
+
+
+
+
+Regjeringen vil følge opp Sårbarhetsutvalgets forslag og legger frem en stortingsmelding om samfunnssikkerhet og beredskap innen utgangen av dette året. Som et ledd i den oppfølgingen vurderer Nærings- og handelsdepartementet å etablere et senter for informasjonssikring i samarbeid med næringslivet og berørte myndigheter.
+
+
+
+
+Teknologien må aldri bli selve målet. Derimot er IT et kraftfullt verktøy som kan benyttes for å nå større politiske mål. Men uten styring vil den teknologiske utviklingen falle oss i ryggen og drive oss inn i et samfunn vi ikke ønsker.
+
+
+
+
+Regjeringen vil rydde opp i helsevesenet. Vi vil sikre gode tilbud i alle deler av landet, kutte ventelister til sykehusbehandling og sørge for bedre organisering slik at sykehuspasienter får god behandling og slipper å ligge på gangen. Dette kan ikke datamaskiner gjøre for oss, men de kan hjelpe oss et godt stykke på veien, slik at f.eks. helsepersonell får mer tid til pasientene. 
+
+
+
+
+Regjeringen vil ha et arbeidsliv for alle. Det skal være gode muligheter for å kombinere familie og jobb. Eldre og arbeidstakere med redusert arbeidsevne skal få mulighet til å kombinere arbeid og trygd.
+
+
+
+
+Folk må få mulighet til jobb der de bor. I distriktene ligger det store muligheter for verdiskaping og store muligheter for nye og trygge arbeidsplasser, bl.a. ved å utvikle havbruk, økologisk landbruk og foredling gjennom bruk av den nye teknologien.
+
+
+
+
+Ved hjelp av bredbånd og andre kommunikasjonsformer har vi nå fått bedre muligheter til å gi utdanning gjennom hele livet, samtidig som geografi blir mindre viktig. Nye teknologiske løsninger gjør at flere mennesker med funksjonshemninger kan få en ny sjanse på arbeidsmarkedet, og at Norge kan dra nytte av flere uoppdagede talenter.
+
+
+
+
+Den norske skolen skal være i front internasjonalt, også innen bruk av ny teknologi. Elevene driver mye av dette selv, men ved hjelp av digitale læremidler og satsing på lærerne vil vi bygge fremtidens skole. 
+
+
+
+
+Med økende bruk av Internett og nye og mer krevende anvendelser øker kravene til overføringskapasitet eller båndbredde, som ekspertene kaller det. Bredbånd betyr altså ikke noe annet enn høy overføringskapasitet, noe som er spesielt viktig ved overføring av lyd og bilder. 
+
+
+
+
+Effekten av bredbånd vil bl.a. gjøre seg gjeldende ved at oppgaver innenfor helsevesenet kan løses på nye måter, f.eks. når det gjelder konsultasjoner og kontroll. Pasient, pasientdata og lege kan befinne seg på tre forskjellige steder. Samtidig gir bredbånd muligheter for nye metoder i kunnskapsutviklingen, bl.a. ved bruk av multimedia i undervisningssituasjoner. 
+
+
+
+
+God bredbåndsdekning er viktig for effektiviteten i næringsliv og forvaltning. Det er viktig for graden av nyskaping og viktig for å utjevne sosiale og regionale forskjeller i landet.
+
+
+
+
+Regjeringens mål er
+
+
+
+
+
+
+
+
+
+
+gjennom styrket konkurranse og offentlig etterspørsel å medvirke til gode markedstilbud om tilknytning til bredbåndsnett til alle grunn- og videregående skoler, folkebibliotek, sykehus og kommuneadministrasjoner innen utløpet av 2002
+
+
+
+
+
+
+
+gode markedstilbud om tilknytning til bredbåndsnett for alle norske husstander innen utløpet av 2004
+
+
+
+
+Stortinget har sluttet seg til strategien om at det er markedsaktørene som skal stå for utbygging av nødvendig infrastruktur. For å få dette til må det imidlertid stimuleres til konkurranse på alle nivåer i markedet.
+
+
+
+
+Utviklingen i dag er dynamisk, og markedsaktørene foretar store investeringer både i oppgradering og bygging av ny infrastruktur. Det er viktig å følge nøye med i markedets utbyggingstakt for bredbåndsnett, bl.a. som grunnlag for å ta stilling til hvilke områder som markedet ikke kan dekke med bredbåndsnett, og bredbåndstjenester til rimelige priser og innen rimelig tid. For å bidra til å øke utbyggingstakten ser Regjeringen det som en utfordring å skape en mer konsentrert regional etterspørsel, f.eks. gjennom kommunale og interkommunale samarbeidsprosjekter og gjennom sektorvise satsinger.
+
+
+
+
+Gjennom Norges forskningsråds HØYKOM-program er det satt i gang pilotprosjekter for å vinne erfaring med forskjellige modeller for utbygging av bredbånd og bredbåndstjenester. Erfaringene så langt viser at det er relativt små statlige tilskudd som skal til for å utløse betydelige midler både fra kommunalt og lokalt hold og også fra lokalt næringsliv.
+
+
+
+
+Bredbåndsutbyggingen i kommunene varierer sterkt, og noen kommuner er kommet lenger enn andre når det gjelder bredbåndsutbyggingen og bruk at IT generelt.
+
+
+
+
+Gloppen kommune er et godt eksempel. En god idé, en god plan og et tilskudd på 900 000 kr fra HØYKOM-ordningen har gitt en svært god avkastning. Sommeren 2000 var 34 virksomheter eller institusjoner knyttet til nettet, og flere stod på vent. HØYKOM-satsingen har utløst over 50 mill. kr fra privat sektor i tillegg til over 2 mill. kr som er kommet fra offentlig sektor.
+
+
+
+
+Interkommunalt samarbeid kan også være en effektiv måte å samle etterspørselen i en region på. Et eksempel på dette er «Ryfylkeprosjektet», hvor seks kommuner samarbeider om utbygging av høyhastighetsnett for tele- og datakommunikasjon. Dette samarbeidet har gitt Ryfylke-regionen bredbånd til samme pris som Stavanger by. Prosjektet er eksempel på en sentral strategi i bredbåndsplanen, nemlig å stimulere til utbygging av bredbånd gjennom markedsmekanismen, med økt offentlig etterspørsel som innsats.
+
+
+
+
+I 2001 er det satt av 15 mill. kr til satsing på bredbånd i folkebibliotekene. Innsatsen mot bibliotekene tar sikte på å styrke folkebibliotekenes funksjon som ressurssenter for lokaladministrasjonen og det lokale næringslivet, bl.a. ved at de skal kunne legge til rette for fjernundervisning og videokonferanser.
+
+
+
+
+Bredbåndssatsingen overfor folkebibliotekene er basert på visjonen om at folkebibliotekene vil kunne spille en ny og utvidet rolle som formidlingsarena for store befolkningsgrupper. Bredbånd i folkebibliotekene må også ses i et sosialt utjevningsperspektiv.
+
+
+
+
+Den samlede innsatsen i år og til neste år vil bli helt avgjørende for om den første målsettingen i handlingsplanen for bredbånd vil bli realisert. Skal vi nå disse målene, er det nødvendig med et felles løft, hvor myndigheter, organisasjoner og næringsliv arbeider sammen, både nasjonalt og i regionene. I denne forbindelse er det viktig å bruke de kommunene hvor det går bra, som modeller og gode eksempler til etterfølgelse.
+
+
+
+
+I januar la Sosial- og helsedepartementet frem en ny IT-tiltaksplan for elektronisk samhandling i helsevesenet. I løpet av 2001-2003 skal alle sykehus, leger og helsepersonell i pleie- og omsorgstjenesten ha tilgang til et elektronisk helsenett for å utveksle informasjon. Utbygging av bredbånd inngår i denne planen.
+
+
+
+
+Det er et betydelig innsparingspotensial ved bred anvendelse av elektronisk samhandling og informasjonsutveksling. For eksempel vil trygdeetaten alene kunne frigjøre nærmere 200–300 årsverk ved å motta elektroniske legeregninger, sykemeldinger og erklæringer om arbeidsuførhet.
+
+
+
+
+Telemedisinske konsultasjoner mellom sykehus og primærhelsetjenesten kan bidra til reduksjon av reiserefusjon over trygdebudsjettet, og pasienter i pleie- og omsorgstjenester kan slippe en besværlig reise til spesialist der telemedisin kan gi en like god tjeneste. Det handler også om bedre livskvalitet og trygghet.
+
+
+
+
+Det er anslått at man samlet for sektoren kan spare om lag en milliard kroner i året. 
+
+
+
+
+Innhold og leverandører av innhold forventes i tiden fremover å få en avgjørende betydning i økonomien og i utviklingen av informasjonssamfunnet. Stimulering av norsk innholdsindustri vil være nødvendig bl.a. for å ivareta og videreutvikle vårt eget språk og vår kulturelle arv.
+
+
+
+
+Bredbåndsutbyggingen og konvergensutviklingen åpner for helt nye muligheter i forhold til produkt- og tjenesteutvikling. En infrastruktur for elektronisk kommunikasjon vil kunne brukes til kringkasting og interaktiv kommunikasjon og bl.a. formidle bilde, lyd og tekst. Derfor er det nødvendig med økt fokus fra oss på innhold og anvendelse etter hvert som bredbåndet bygges ut. Etterspørsel etter innhold generelt, og norsk innhold spesielt, er kanskje den aller viktigste drivkraft for bredbåndsutbyggingen.
+
+
+
+
+Det ligger et betydelig potensial for næringsutvikling på innholdsområdet dersom Norge skal ligge i forkant av utviklingen av produkter og verdiøkende tjenester. Overgang til bredbånd og økende behov for digitale rådata, f.eks. språkbank og kartdata, indikerer at forutsetningene for å ligge i forkant også endrer seg.
+
+
+
+
+Norge ligger langt fremme når det gjelder bruk av geografisk informasjon. Koblingen mellom digitale kart og andre typer informasjon utgjør et stort vekstpotensial, hvor Norge kan utvikle tjenester som er markedsledende. Eksempler er mobile tjenester og sikker transport på land, på sjøen og i luften.
+
+
+
+
+For å bidra til å stimulere til en sterk norsk innholdsindustri vil Regjeringen vurdere en samlet strategi bl.a. gjennom å kople industrien opp mot satsingsområder som geodata, læring, språkteknologi og kultur.
+
+
+
+
+Norge skal delta i EU-programmet eContent. Dette er et fireårig program, hvor målet er å ivareta Europas språklige og kulturelle mangfold, styrke kapitaltilgangen for små- og mellomstore innholdsprodusenter og lette tilgangen til offentlig informasjon for disse bedriftene. En proposisjon om dette behandles i Stortinget senere denne uken.
+
+
+
+
+E-læring er et område hvor det forventes en eksplosiv vekst. Utviklingen bidrar til å gjøre utdanning til en internasjonal handelsvare, samtidig som det finnes et betydelig næringsmessig potensial som må utnyttes. Dette utfordrer norske forsknings- og utdanningsmiljøer både når det gjelder å utvikle og ta i bruk digitale læremidler, skape nye læringsmiljøer og å forske på undervisningsmetoder tilpasset nye medier, ikke bare overføre det gamle til det nye. Dette forutsetter også en omfattende innsats når det gjelder kompetanseheving for lærere og undervisningspersonale.
+
+
+
+
+Ved skolestart 2001 skal det foreligge tilbud til elever i videregående opplæring om digitale læremidler innen minst ett av de felles allmenne fag. Videre skal det utarbeides en plan for et langsiktig arbeid med utvikling av digitale læremidler for perioden 2001-2003. I inneværende år skal det organiseres et koordinert opplegg for tilbud om etter- og videreutdanning innen IT for lærere i grunnskole, videregående skole og lærerutdanning.
+
+
+
+
+Norsk kulturarv inneholder mye verdifullt materiale, både for et nasjonalt og et internasjonalt publikum. Med de nye teknologiske mulighetene handler det om å løfte denne arven inn i et nytt medium. Ikke minst vil NRK spille en viktig rolle. Når innholdet er rikt og engasjerende, vil også de teknologiske løsningene etterspørres.
+
+
+
+
+Digitaliseringen og globaliseringen åpner de kulturelle arenaene for flere og gir nye typer kulturelle inntrykk. Man kan publisere egenprodusert film, dikt, prosa eller musikk, enten man bor i Hollywood eller i Kjøllefjord. Kultur møter teknologi og blir tilgjengelig overalt samtidig. Dette kommer til å påvirke både musikk-, film- og bokbransje. Kultur møter teknologi, men kultur møter også kultur.
+
+
+
+
+Norge kan finne sine nisjer innenfor denne utviklingen og teknologien, og den 15. mai arrangerer vi derfor sammen med Kulturdepartementet et samråd om nettopp kultur- og næringspolitikk.
+
+
+
+
+Det blir vanskeligere for musikk-, film- og bokforlagene å bestemme hva som er god og dårlig kultur. Trendene skapes på nye arenaer. De tradisjonelle monopolene settes under press, samtidig som nye informasjonsmonopoler vokser frem. 
+
+
+
+
+Denne utviklingen vil nok forsterke seg i årene som kommer, og da blir det viktig å hindre at kapitalmakten undergraver demokratiet. Om vi ikke regulerer deler av denne utviklingen, kan vi få alvorlige tilbakeslag i forhold til både person- og forbrukervern og  interesser som opererer på tvers av folket og demokratiet. 
+
+
+
+
+På denne arenaen trenger vi politikk og politikere som tør stå imot den anarkistiske grunnidéen som på flere områder hersker på Internett. Skal innholdsindustrien blomstre, må også de opphavsrettslige rammene være på plass. Musikk, film, bilder, tidsskrifter, aviser og litteratur formidles i økende grad over Internett. Opphavsretten gjelder på elektroniske veier like mye som i den «analoge» verden.
+
+
+
+
+Blant de utfordringene lovgiverne står overfor når det gjelder opphavsretten både nasjonalt og internasjonalt, er hvor langt eneretten skal gå, og hvem som eventuelt skal kunne holdes ansvarlig for ulovlig distribusjon av vernet materiale. 
+
+
+
+
+Det elektroniske markedet er internasjonalt, og Norge kan bare være i forkant på e-handelsområdet dersom vi er konkurransedyktige internasjonalt. Det er derfor viktig å følge opp samarbeidet om etablering av internasjonale kjøreregler. 
+
+
+
+
+Myndighetene har en viktig rolle når det gjelder å redusere hindringer for e-handel i Norge. Et eksempel er eRegelprosjektet som skal fjerne unødige rettslige hindringer for elektronisk kommunikasjon i dagens regelverk. Arbeidet er kommet langt, og Regjeringen vil allerede i august legge frem en samleproposisjon hvor det foreslås en rekke lovjusteringer. 
+
+
+
+
+Videre vil lov om elektronisk signatur tre i kraft 1. juli i år. Loven har som mål å øke tilliten til og bruken av elektroniske signaturer. Tilgangen til å sikre elektroniske signaturer vil være en viktig faktor for at vi skal være villige til å ta i bruk elektronisk kommunikasjon. 
+
+
+
+
+Det offentlige har også en viktig oppgave i å være et forbilde når det gjelder elektronisk handel som et hovedvalg når det gjelder innkjøp. Et program i regi av Arbeids- og administrasjonsdepartementet legger til rette for elektronisk handel i offentlig sektor. 
+
+
+
+
+Regjeringen la for kort tid siden frem en stortingsmelding om SND. Meldingen legger vekt på at SND skal være en del av en helhetlig næringspolitikk. Sentrale mål er at vi skal ha et næringsliv med høy nyskapingsevne og et høyt kompetansenivå. 
+
+
+
+
+Derfor er ikke IT bare et fenomen for IT-bransjen. Det er i fremste rekke et fenomen for hele vårt etablerte næringsliv og for det næringslivet som ennå ikke er etablert. Store som små bedrifter, høy- eller lavteknologi – uten at disse bedriftene tar i bruk den nye teknologien og de mulighetene denne gir, vil utviklingen overmanne dem. 
+
+
+
+
+I den globaliserte økonomien må vi utvikle og tiltrekke oss den beste kompetansen innenfor de områdene vi vil satse på. Derfor har Regjeringen nå fremmet forslag om oppmyking i bestemmelsene for arbeidsinnvandring. I langtidsprogrammet er det uttalt at reglene for arbeidsinnvandring bør forenkles og liberaliseres. Blant annet foreslås et årlig tak for hvor mange spesialister/fagutdannete som innvilges arbeidstillatelse uten en individuell arbeidsmarkedsmessig vurdering av søknaden. I tillegg er det foreslått at det kan innvilges tre måneders jobbsøkervisum til fagutdannete og spesialister som ønsker seg arbeid i Norge. 
+
+
+
+
+Økt arbeidsinnvandring er viktig, men vi må heller ikke sette oss i den situasjonen at vi bare utnytter halvparten av befolkningen. Derfor ønsker Regjeringen å legge forholdene bedre til rette for at kvinner i større grad enn i dag kan gjøre seg gjeldende også innen IT-bransjen. Det er derfor grunn til å gi ros til interesseorganisasjonen IKT Norge som har satt i gang en egen mentorordning for jenter i IT-næringen for å hjelpe dem opp og frem.
+
+
+
+
+Et ønske som ble fremmet under et nylig avholdt samråd med kvinner i den nye økonomien, var at finansieringsordningene for nyetablererne må bli bedre. Det hjelper ikke at SND kan gi etablererstipend dersom de ikke også har mulighet til å følge opp med ytterligere finansiering. For at SND i større grad enn i dag skal hjelpe til også for de kvinnelige gründere, har vi derfor foreslått at det skal være et spesielt fokus på kvinnelige etablereres behov. Vi har også lagt vekt på at kjønnsperspektivet skal bli en integrert del av hele SNDs virksomhet. 
+
+
+
+
+I februar la Regjeringen frem en egen strategi for eksport og internasjonalisering av IT-næringen. Regjeringens mål er å medvirke til at næringen opparbeider en offensiv holdning til sine internasjonale utfordringer og muligheter. Samtidig skal vi arbeide videre med å bygge eNorge som en sterk merkevare og oppmerksomhetsfanger i de markeder, regioner og land som er interessante for Norge. 
+
+
+
+
+Ifølge tall fra OECD er det 94 millioner Internett-servere i hele verden. 95,4 pst. av disse er å finne i OECD-landene. Dette er et paradoks. Samtidig som IT globaliserer økonomien, ser vi også at veksten er konsentrert til de rike landene, og at forskjellene mellom nord og sør nå bare blir større og større.
+
+
+
+
+Under statsministerens India-besøk ble det lansert en samarbeidsavtale mellom det norske utviklingsselskapet InSpire og to indiske dataselskaper, det ene for samarbeid om e-læring, med et første prosjekt som skal gi IT-trening til funksjonshemmede i samarbeid med norske FunkWeb, stiftet av FFO, Funksjonshemmedes Fellesorganisasjon, det andre for kommersialisering av en norsk skjermteknologi opprinnelig utviklet av PolyDisplay i Sandefjord for Forsvaret, som skal brukes i et prosjekt kalt Simputer. 
+
+
+
+
+Forskere på Institute of Science i Bangalore har utviklet en håndholdt «talende» PC for fattige landsbyinnbyggere og for analfabeter. Den norske skjermteknologien vil her gjøre det mulig å bruke datamaskinen i fullt dagslys, og dette kan gi et stort gjennombrudd. 
+
+
+
+
+Dette er eksempler på internasjonalt samarbeid som både har viktige næringsutviklingspotensialer og samtidig bidrar til å redusere de digitale, sosiale skillelinjene som vi nå ser. 
+
+
+
+
+Skal vi utvikle en sterk nasjonal kunnskapsbase som gjør det mulig å anvende og utnytte de mulighetene IT-utviklingen gir for nærings- og samfunnslivet, er det nødvendig å satse på forskning. Derfor er IT et av de prioriterte områdene i norsk forskningspolitikk, nedfelt i Stortingets dokumenter. Målet med forskningen er å stimulere til utvikling og bruk av IT i næringslivet, i offentlig sektor og i samfunnet for øvrig. Det arbeides nå med en strategi for IT-forskningen i Norge. En hovedutfordring er å bygge bro og styrke samspillet mellom forskningen i næringslivet og forskningsaktiviteten ved universiteter og institutter.
+
+
+
+
+Det er også gledelig at det nå går fremover i utbyggingen på Fornebu. Senteret for fremragende forskning, som har fått tilnavnet Simula Research Laboratories, er i virksomhet. Spørsmålet om transportløsning er i ferd med å bli avklart i Stortinget. Telenors nybygg vil senere i år ta imot sine første ansatte. IT Fornebu er i gang. Nå vil vi snart kunne se en begynnende konkretisering av de visjonene som Stortinget la til grunn i sine vedtak.
+
+
+
+
+Når vi skal forstå den nye økonomien og de endringene som foregår rundt oss, må vi også ta i betraktning at de nye generasjonene er mer kommunikative enn noensinne før. Morgendagens ledere, dvs. våre barn og ungdommer, opplever en hverdag som gir begrepene kommunikasjon og tilgjengelighet en helt ny mening. Barn og unge tilhører en generasjon som tar det som en selvfølge å være tilgjengelige. De opererer uavhengig av tidssoner og geografi. 
+
+
+
+
+Og det er disse som skal skape fremtidens verdier i Norge. Samtidig må vi sørge for at hele befolkningen får ta del i de nye mulighetene som teknologien gir oss. 
+
+
+
+
+Norge ligger langt fremme i denne utviklingen. Vi har ambisjoner om fortsatt å være blant de fremste. Når nye IT-bedrifter skal etableres, må vi sørge for at Norge i enda større grad velges som lokaliseringsland og som testland.
+
+
+
+
+Vi skal sørge for at vi utvikler et informasjons- og kunnskapssamfunn hvor alle deltar. Det er ingen liten ambisjon; det er meget krevende. Vi må sørge for å dra full nytte av de mulighetene som ligger i den nye teknologien, det være seg i privatlivet, i jobben, på skolen og i offentlig sektor. For håpet er at vi får en bedre og enklere hverdag, hvor vi også kan få mer tid til hverandre.
+
+
+
+
+IT-revolusjonen er ikke død. Det er nå det begynner for alvor. Vår utfordring er å få med alle, gamle som unge, i sentrum og periferi, og fortsatt være blant de ledende land i verden.
+
+
+
+
+eNorge er og skal være en nasjonal dugnad som vi må være sammen om.
+
+
+
+

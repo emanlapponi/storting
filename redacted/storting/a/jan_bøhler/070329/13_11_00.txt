@@ -1,0 +1,80 @@
+ Ved forskjellige besøk og ulik kontakt med deler av helsevesenet har jeg fått beskrevet en situasjon når det gjelder IKT-utviklingen, som byr på store utfordringer. For eksempel skal det ikke være mulig å sende elektroniske journaler direkte mellom sentrale sykehus som Rikshospitalet og Ullevål universitetssykehus. Det er ikke mulig å sende journaler, selv når det haster, fra Legevakten i Oslo til Ullevål til akuttbehandling der. Det er lokalsykehus som ikke kan få sendt journaler direkte til de sentrale universitetssykehusene, f.eks. mellom sykehuset i Narvik og universitetssykehuset i Tromsø. Det er problemer med å få sendt epikriser og journaler elektronisk fra sykehus til f.eks. sykehjem eller rehabiliteringssteder, og det vil da kunne ta lang tid før nødvendig informasjon om pasienten foreligger.
+
+
+
+
+Det er også kommet fram gjennom media og andre steder at det er vanskelig, og mange steder ikke mulig, å sende informasjon mellom røntgeninstitutter/røntgenlaboratorier og sykehus eller mellom andre deler av helsevesenet, så det brukes mye penger på å sende dette i papirutgaver med drosje og andre framkomstmidler.
+
+
+
+
+Til og med innenfor det enkelte sykehus kan det være problemer med den elektroniske kommunikasjonen mellom avdelingene når pasienter sirkulerer. Dette er bare noen eksempler på situasjoner jeg har fått beskrevet, men det kan ligge alvor i dem.
+
+
+
+
+Folk oppholder seg mer og mer på forskjellige steder i landet – de er mobile i forbindelse med arbeid og utdanning osv. For pasienter kan det bety at når man er i en akutt sykdomstilstand, vil det kunne være forbundet med livsfare at man ikke straks kan få tilgjengelig pasientinformasjon der man blir behandlet. Selv ved planlagte inngrep kan det gå for tregt med å få fram den nødvendige pasientinformasjonen.
+
+
+
+
+Det kan også være mangler i journalene fordi det ennå finnes blandingssystemer. Sykehus har f.eks. til dels innført elektroniske journaler, men gjennomfører det ikke fullt ut, slik at en del opplysninger også ligger i papirjournaler, en del på huskelapper osv. Som sagt kan det ta altfor lang tid før epikrisene, opplysninger om pasienten, kommer ut i kommunehelsetjenesten igjen eller til rehabiliteringsinstitusjonene hvor pasienten skal være etter behandling.
+
+
+
+
+Det kan også være et problem for pasientene at det systemet vi har i dag, som er en hybrid av papirutgaver og elektroniske systemer, ikke har strenge standarder og kvalitetssikring. Det kan også føre til at personvernet for pasientene kan være svakere enn ved et sterkt utviklet felles system med strenge standarder når det gjelder pålogging, autorisasjon og registrering av hvem som har vært innom og sett i journalene.
+
+
+
+
+Det kan for pasientene også bety at man får dårligere service av helsevesenet. Det kan ta for lang tid før prøveresultater kommer og diagnoser blir stilt. Det er vanskelig uten et elektronisk system å kunne gå inn og bestille tjenester selv. Man kunne via god elektronisk kommunikasjon fått mye opplæring ut til pasientene om hvordan man skal leve med egen sykdom, og pasientene kunne fått mye bedre tilgang på telemedisin. Man kunne da f.eks. slippe å reise, slippe innleggelser, og man kunne f.eks. ved dialyse av nyrepasienter bruke telemedisin og dermed få bedre service, mer hjelp og en enklere hverdag.
+
+
+
+
+For personalet kan også det at man ikke har kommet langt nok i IKT-utviklingen by på store problemer. Fremdeles bruker personalet mye tid på å lete etter, hente, rydde, lagre papirjournaler i de sykehusene og på de institusjonene der man har blandingsløsninger eller fortsatt i hovedsak har papirløsninger. På et større sykehus kan opp til et par hundre av personalet være innom og ha oppgaver i forhold til en pasient i løpet av et sykehusopphold – faser gjennom forskjellige avdelinger – og det kan fort bli et uoversiktlig system også for personalet, med beskjeder, huskelapper og bruk av tavler osv. for å formidle nødvendig informasjon om pasientens sykdomsforløp. Det er behov for å bygge opp en elektronisk journal som alle holder seg til, der det er et fast rutinemessig system, hvor man vet at alt av det man trenger å vite når man kommer på vakt, er lagt inn. Dette kan nå gjøres veldig effektivt. Vi kjenner til at f.eks. på Ullevål universitetssykehus tar de nå i bruk språkteknologi. Det betyr at man kan snakke inn det som skal legges inn i journalen. Det skrives inn ved hjelp av språkteknologi, og det blir dermed mye mer effektivt enn slik vi gjør det i dag.
+
+
+
+
+Når det gjelder IKT-utviklingen, har det også stor betydning for personalet å kunne få tilgang på videokonferanser og dermed spesialisthjelp fra andre steder i landet, for å få rask tilgang på analyser, røntgenbilder, undersøkelser osv. og ikke gå å vente på dette i timevis eller dagevis.
+
+
+
+
+Så det ville være et stort potensial for pasientene og for personalet – og for samfunnet – å få mer sving på IKT-utviklingen. Jeg kan nevne at jeg på et stort sykehus forhørte meg om dette og spurte om hvor mye ressurser de brukte på å håndtere denne blandingen av papirjournaler og elektroniske journaler. Svaret jeg fikk, som selvsagt ikke trenger å være representativt, var at på en stor avdeling på et stort sykehus mente de at de kunne bruke opp til 18 årsverk på å sortere, lagre, finne, hente, ordne, skrive inn i disse journalene. Så det er store ressurser å tjene på å ta grep her. Jeg har også fått analyser som viser at for kronikerne i landet kan det være opp til 63 pst. reduksjon i sykehusopphold når det gjelder å foreta kontroller samt utføre løpende behandling, hvis man brukte IKT, telemedisin osv. på en gjennomført måte.
+
+
+
+
+Man kunne samle tekniske funksjoner. Veldig mange steder rundt i landet kunne man sluppet å foreta f.eks. analyser av røntgenbilder, hvis man gjennomførte samlede elektroniske grep på det området.
+
+
+
+
+Det gjøres framskritt. Det er åpenbart, og vi har eksempler på det. Sykehuset Arendal fjernet allerede i 2001 1 600 hyllemeter papirjournaler, og har gjennomført et fullstendig elektronisk system. Mange sykehus har kommet etter, men det er mange steder også en blanding. For eksempel er det bare 28 pst. som sender ut epikriser elektronisk. Norsk Helsenett er et høyhastighetsnett som når alle helseforetak, alle sykehus, men det er fremdeles slik at man må si at det bare er i startgropen. For eksempel er 12 pst. av kommunene med, og 12 pst. av avtalespesialistene er med. Det er bedre når det gjelder fastleger. Der er 55 pst. med.
+
+
+
+
+Vi kan si at vi har kompetansesentre, og vi har et nasjonalt råd. Ting er på gang, men vi har problemer med framdriften. Jeg tror noe skyldes lovsituasjonen. Det er slik at man for å kunne kommunisere foretakene imellom når det gjelder f.eks. pasientjournaler, må man be om lov. Man må ha en prosedyre for hva man skal ha utlevert. Det kan ta altfor lang tid, f.eks. i akutte situasjoner.
+
+
+
+
+Så vil jeg bringe inn spørsmålet om å få til en slags nasjonal kjernejournal. Jeg skjønner at ikke all informasjon om detaljert pasientbehandling og ømfintlige opplysninger skal inn i en nasjonal kjernejournal, men spørsmålet er om man kunne lage en standard for ting som det er absolutt nødvendig å vite, og legge dette inn i et system som med streng autorisasjon og strenge sikkerhetsregler er tilgjengelig samme hvor man er i landet, samme hvilken del av helsevesenet man oppholder seg i når man trenger hjelp, når de som behandler, trenger tilgang på dette.
+
+
+
+
+Det er også mye uklarhet om finansieringen av telemedisin, og hvor utgiftene skal tas, fordi det ligger på forskjellig nivå. Telemedisinen er jo finansiert via spesialisthelsetjenesten, mens man også kanskje kan gi hjelp ute i kommunehelsetjenesten, og derved ikke får koblet finansieringen mellom de to leddene.
+
+
+
+
+Det er mange problemstillinger knyttet til dette, men jeg ser fram til å høre hvordan statsråden vurderer problemstillingen, og hva som bør gjøres.
+
+
+
+

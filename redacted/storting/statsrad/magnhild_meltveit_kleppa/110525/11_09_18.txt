@@ -1,0 +1,12 @@
+ Eg veit at eg har gjeve uttrykk for at eg er uroa over tryggleiken til lagring av trafikkdata innanfor elektronisk kommunikasjon. Etter Stortinget sitt vedtak om å innføra datalagringsdirektivet, skal det i framtida lagrast ei enorm mengd data hos over 200 tilbydarar av elektronisk kommunikasjon. Mange av dei har rutinar for lagring og sletting av data, men fleire av dei har det ikkje, fordi dei til no ikkje har hatt noka plikt til å lagra data. Eg er ikkje i tvil om at alle tilbydarane vil gjera det dei kan for å oppfylla krava i lova, men bekymringa mi er at dei små tilbydarane ikkje har dei same ressursane som dei store til å oppfylla krava. Det å få på plass gode system for lagring og tryggleik for data kan bli økonomisk krevjande for dei små.
+
+
+Posten sine tiltak for tryggleik i samband med digitale tenester er eg derimot ikkje uroa over. Posten er ein stor aktør med ressursar til å handtera store mengder data på ein trygg måte.
+
+
+Digipost er eit nytt digitalt postsystem for viktig post, og gjennom løysinga skal det være mogleg å senda alle typar dokument. Løysinga er difor utvikla med eit svært høgt nivå for tryggleik. Digipost er lansert med den same tryggleiken som i nettbankane. Det er kryptert tilgang til å lesa brev, og alle brev og personoppslysningar blir lagra i tråd med krav gjevne i personopplysningsregelverket. Posten har ein god dialog med Datatilsynet, og dei rådfører seg med tilsynet ved alle større endringar knytte til tryggleik.
+
+
+Om den nye tenesta Digipost skal bli ein suksess for Posten, er det heilt nødvendig at dei tek tryggleiken på alvor. Det har eg stor tru på at dei gjer, og Posten seier sjølv at tryggleik er det aller viktigaste ved utvikling av Digipost.
+
+

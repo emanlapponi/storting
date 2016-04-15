@@ -1,0 +1,89 @@
+ 
+
+(ordfører for saken):
+
+ Som saksordfører vil jeg først gjøre oppmerksom på at komiteen leverer en delt innstilling i denne saken. Jeg forutsetter at opposisjonspartiene, som for øvrig utgjør et flertall i komiteen, vil redegjøre for sin innstilling. Jeg vil derfor primært redegjøre for Arbeiderpartiet, SV og Senterpartiet sine standpunkter.
+
+
+
+
+La meg først si at forskning og kunnskapsinnhenting generelt betyr mye for kvaliteten i behandlingstilbudet. Spesielt gir utviklingen innen IKT nye og fantastiske muligheter til å bedre pasientbehandlingen – både direkte i behandlingen og indirekte ved å tilrettelegge for bedre forskning, f.eks. gjennom tilgang til nøyaktig og sikker informasjon i pasientregistre.
+
+
+
+
+Det er viktig at Stortinget legger til rette for å ta disse mulighetene i bruk, til pasientenes beste, samtidig som behovet for forskning må balanseres mot ivaretakelse av personvernet. Pasientene skal føle seg trygge på at sensitive opplysninger en gir i fortrolighet til helsepersonell, behandles og oppbevares på en sikker måte. Med den utviklingen som i dag skjer innen IKT, har vi etter mitt skjønn muligheten til å benytte elektroniske registre som et redskap for å bedre pasientbehandlingen, samtidig som en ivaretar personvernhensyn.
+
+
+
+
+Bakgrunnen for at vi har ulike registerformer er at man skal kunne velge den registerformen som til enhver tid medfører best mulig personvern for den registrerte, samtidig som formålet med registeret skal ivaretas. Derfor behøver ikke alle registre å være personidentifiserbare, og alle registre behøver heller ikke å være pseudonyme, siden det for enkelte registre er tilstrekkelig at de er avidentifiserte for å ivareta registerets formål.
+
+
+
+
+Hvilken registerform som passer best for det enkelte register, må avgjøres konkret. Og det er ikke riktig å fastsette én registerform for alle helseregistre, verken i forhold til forskningshensyn eller i forhold til personvernhensyn. For å vurdere dette konkret må en være tydelig på hva formålet med det enkelte registeret er.
+
+
+
+
+Landsdekkende helseregistre gjør det mulig å beskrive helsetilstanden i befolkningen, finne årsaker til sykdom, måle effekten av behandlingstiltak og bedømme kvaliteten på helsetjenesten.
+
+
+
+
+Senere i dag skal Odelstinget gjøre vedtak i sak om Norsk pasientregister, som etter min mening er en av de viktigste helsepolitiske sakene som skal behandles i denne stortingsperioden. Jeg har en sterk tro på at et slikt register vil bidra til informasjon som kan bedre pasientbehandlingen – og til og med redde liv.
+
+
+
+
+Jeg er selvsagt enig med forslagsstillerne i at det er avgjørende at helsevesenet har tillit i befolkningen. Derfor er det viktig å understreke at en ikke kjenner til at opplysninger har kommet på avveie, verken fra noen av de norske personidentifiserbare helseregistrene eller fra noen i andre nordiske land, og det innføres både tekniske og organisatoriske hindre av høyeste kvalitet for å unngå misbruk.
+
+
+
+
+Men kryptert personidentifikasjon er i seg selv ikke tilstrekkelig for å ivareta personvernet. Derfor er det utviklet et omfattende lovverk, regler, forskrifter og rutiner for å sikre personvernet i databaser som inneholder både fødselsnummer og helseopplysninger.
+
+
+
+
+Kryptering bidrar til å styrke personvernet i databaser med mange opplysninger om hver enkelt pasient. Tilstrekkelig sikring av personvernet forutsetter at kryptering ikke brukes alene, men i kombinasjon med andre personvernfremmende tiltak. Arbeiderpartiet, SV og Senterpartiet ser det derfor som lite hensiktsmessig at Regjeringen fremmer særskilt forslag om at registeropplysninger skal lagres med kryptert identitet.
+
+
+
+
+Jeg er ydmyk for at det alltid vil finnes et minimum av usikkerhet knyttet til elektroniske registre så vel som alle andre former for oppbevaring av sensitiv informasjon, skriftlig så vel som elektronisk. Det skal vi ta på alvor. Samtidig representerer elektroniske pasientregistre på mange måter en kraftig sikkerhetsforbedring hvis vi ser det i forhold til oppbevaring av skriftlig materiale. IKT gir oss nye utfordringer, men også nye muligheter – også til å sikre personvern.
+
+
+
+
+Det har blitt sagt at debatten om ekstern eller intern kryptering handler om hvorvidt registrene skal ha én eller to låser. Det er et godt bilde, men bildet kommer nærmere virkeligheten hvis vi sier at debatten handler om hvorvidt vi skal ha f.eks. 27 eller 28 låser.
+
+
+
+
+Registre som Norsk pasientregister er allerede blant de sikreste registrene i verden. Uavhengig av debatten om ekstern eller intern kryptering, mener jeg at registrene er bundet opp av svært strenge sikkerhetsrutiner, og at det er viktig å kommunisere ut, slik at vi som politikere ikke bidrar til å spre unødig usikkerhet rundt disse registrene.
+
+
+
+
+Jeg forstår godt at begrepet «personidentifiserbart register» kan være misvisende. Forskere får ikke utlevert fødselsnummer annet enn etter tillatelse fra Datatilsynet og andre. Skulle opplysningene i helseregistrene bli misbrukt eller komme på avveie, vil dette bli straffet. Derfor er det viktig med god informasjon om den lange rekken sikkerhetstiltak som iverksettes for å beskytte slike opplysninger.
+
+
+
+
+Jeg stiller spørsmål ved om det vil være riktig ressursbruk å foreta krypteringene eksternt, når vi samtidig har andre og vesentlig større utfordringer for å ivareta personvernet, f.eks. i forhold til de skriftlige pasientjournalene på sykehusene. Dessuten er det ikke slik at ekstern kryptering utelukkende representerer en sikkerhetsforbedring. Ekstern kryptering medfører også nye sikkerhetsrisikoer.
+
+
+
+
+Den ene institusjonen som skal kryptere, og den andre institusjonen som skal benytte informasjonen, må overføre informasjon seg imellom via Internett, noe som kan representere en sikkerhetsrisiko. I tillegg vil jeg påpeke at hvis ekstern kryptering forutsetter at oppdraget jevnlig må konkurranseutsettes, slik at vesentlig flere mennesker på sikt vil arbeide med informasjonen, vil det trolig svekke befolkningens tillit og legitimitet til personidentifiserbare registre. Dessuten vil en ekstra instans nødvendigvis innebære en ekstra kilde til feil i forskningen, selv om personidentifiserbare registre med ekstern kryptering i utgangspunktet kan ivareta forskningsformål på samme måte som personidentifiserbare registre med intern kryptering.
+
+
+
+
+Jeg tar derfor opp forslaget fra Arbeiderpartiet, SV og Senterpartiet, og ber om at Stortinget gjør vedtak i samsvar med dette.
+
+
+
+

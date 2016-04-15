@@ -1,0 +1,99 @@
+ Jeg er enig med representanten Lønning i at taushetsplikt er en bærebjelke i vår helsetjeneste. Hele formålet med denne taushetsplikten er å verne pasientens integritet og sikre befolkningens tillit til vårt helsevesen. Det må være helt klart at pasienter skal kunne oppsøke helsetjenesten når de har behov for helsehjelp, uten å være redd for at opplysningene bringes videre til folk som ikke trenger å vite noe om det. Det vil rett og slett ikke være mulig å drive en forsvarlig helsetjeneste dersom det blir slik at helsepersonell ikke fører nødvendige opplysninger inn i journalen, eller at pasienten unngår å gi nødvendige opplysninger av frykt for at uvedkommende skal tilegne seg disse.
+
+
+
+
+Det er bakgrunnen for at helsepersonelloven har så strenge bestemmelser om taushetsplikt. Alle pasientopplysninger som samles inn i helsetjenesten, er underlagt nettopp disse bestemmelsene. Det gjelder også mellom helsepersonell. Det betyr at pasientopplysninger bare kan gis eller utleveres til andre når det er uttrykkelig fastsatt i lov, eller klart forutsatt i lov eller i medhold av lov at taushetsplikt ikke skal gjelde. Alle unntak fra taushetsplikt er således fastsatt ved lov, som Stortinget selvsagt kjenner til, og er begrunnet i viktige hensyn.
+
+
+
+
+Lovbestemte unntak fra taushetsplikten innebærer enten at helsepersonell har rett til å gi opplysninger videre, eller at de har plikt til det. Jeg vil nevne noen eksempler på unntak fra reglene om taushetsplikt.
+
+
+
+
+En viktig type unntak fra taushetsplikten er når helsepersonell samarbeider om behandlingen av en pasient. Samarbeid mellom helsepersonell er i pasientens interesse og kan skje uten hensyn til taushetsplikt.
+
+
+
+
+En annen type unntak er begrunnet i statlige myndigheters behov for kontroll og tilsyn. I slike tilfeller er det ikke hensynet til pasienten som gjelder, men at kontrollmyndigheten eller tilsynsmyndigheten skal kunne utføre sine oppgaver på en forsvarlig måte. Statens helsetilsyn og Riksrevisjonen er eksempler på tilsynsorganer som har tilgang til pasientopplysninger uten hensyn til taushetsplikt. Men unntaket fra taushetsplikten i folketrygdloven § 21-4 er begrunnet med at NAV trenger helseopplysninger for å kontrollere om en person har rett til en trygdeytelse og for å kunne avsløre eventuelt misbruk av slike ytelser.
+
+
+
+
+En tredje type unntak er ulike typer opplysningsplikter som er gitt for å avverge nødssituasjoner, for å avverge alvorlige straffbare handlinger eller for å ivareta unger som lever under grov omsorgssvikt.
+
+
+
+
+Regelverket inneholder dessuten ulike meldeplikter, bl.a. meldeplikt til sentrale helseregistre. Vi har i dag 13 sentrale helseregistre. Alle er etablert med hjemmel i helseregisterloven, herunder Norsk pasientregister og e-resept, som representanten viser til.
+
+
+
+
+Alle helseregistrene har klart definerte formål som sier hva opplysningene kan benyttes til, og hvem som skal bruke dem. Helseregisterloven krever at enhver bruk av helseopplysninger skal ha et uttrykkelig angitt formål, og at en bare skal behandle opplysninger som er relevante og nødvendige for det formålet. Opplysninger skal fortrinnsvis behandles uten personidentifiserbare kjennetegn. Det skal alltid begrunnes dersom det er nødvendig med personidentifiserbare opplysninger. Den som behandler opplysninger i sentrale helseregistre, har taushetsplikt etter helsepersonelloven og forvaltningsloven.
+
+
+
+
+De fleste helseregistrene våre har et forskriftsfestet forbud mot bruk av opplysninger til nærmere bestemte formål. Jeg tar sikte på at forskrift om Norsk pasientregister vedtas før jul. Det foreslås i forskriften at opplysninger fra Norsk pasientregister ikke skal kunne brukes i forsikringsøyemed, av påtalemyndighet eller domstol, eller av arbeidsgivere. En viktig hensikt med forbudet er at ingen skal føle seg presset til å be om innsyn i registeret med det formål å gi opplysninger videre til bruk i forsikringsøyemed, av påtalemyndighet eller domstol.
+
+
+
+
+Norsk pasientregister er som kjent et personidentifiserbart register. Det betyr 
+
+ikke 
+
+at personidentifiserbare data ligger åpent tilgjengelig i registeret. Direkte personidentifiserbare opplysninger skal lagres kryptert i registeret. Det framgår tydelig av lovteksten. Pasienter er ikke registrert med navn i registeret. Det er bare et lite antall medarbeidere i Norsk pasientregister som har tilgang til opplysninger i registeret, og bare i den grad det er nødvendig for vedkommendes arbeid. Medarbeidere som kan utføre sitt arbeid uten direkte tilgang til opplysninger i registeret, har ikke tilgang. Alle som behandler opplysninger i Norsk pasientregister, har taushetsplikt om alt de får kjennskap til. Blant de svært få personene som kan ha tilgang til opplysninger i Norsk pasientregister, er det enda færre som kan få tilgang til de personidentifiserbare opplysningene. All behandling av opplysninger er regulert gjennom tilgangskontroller, sikkerhetsklarering, logging, elektroniske spor og krav om autorisert tilgang. Datatilsynet skal i tillegg ha forsterket tilsyn med registeret.
+
+
+
+
+Jeg mener at et personidentifiserbart register gir bedre mulighet for å sikre god kvalitet på opplysningene som samles inn, enn det som er mulig i et anonymt register. Det er også en viktig side ved person- og pasientvernet.
+
+
+
+
+Når det gjelder den elektroniske Reseptformidleren, vil den i henhold til det forskriftsutkastet som nylig har vært ute på høring, formidle reseptopplysninger mellom aktører som har rett til å få slike opplysninger. Det har de også i dagens ordning. Etableringen av Reseptformidleren antas derfor ikke å innebære noen endring av taushetsplikten.
+
+
+
+
+NAV kan ikke få utlevert opplysninger fra Reseptformidleren. Men NAV vil fortsatt ha adgang til å få opplysninger fra apotekene for å kontrollere at refusjonsvilkårene for blåresept er oppfylt. Adgangen til en slik informasjon gjelder uavhengig av om apoteket mottar resepten som papirresept eller som elektronisk resept fra Reseptformidleren.
+
+
+
+
+Jeg ser svært alvorlig på opplysningene om at pasientinformasjon fra NAV er kommet på avveie, slik det er formidlet i pressen. Som jeg sa innledningsvis, kan ikke helsetjenesten drive forsvarlig dersom folk ikke har tillit til at pasientopplysninger behandles konfidensielt. Folketrygdloven § 21-4 som regulerer dette, ligger som kjent under arbeids- og inkluderingsministerens ansvarsområde. Jeg har vært i kontakt med arbeids- og inkluderingsministeren om håndtering av taushetsbelagte opplysninger i Arbeids- og velferdsetaten, NAV.
+
+
+
+
+Etter det jeg har fått opplyst, er det sjelden at NAV har behov for innsyn i fullstendige pasientjournaler. NAV sier også at de ser svært alvorlig på de påstander som er rettet mot etaten i den seinere tida. Arbeids- og inkluderingsdepartementet har derfor bedt Arbeids- og velferdsdirektoratet om å sette i gang nødvendige tiltak for å sikre at etaten etterlever kravene i loven. Normen er at det bare er «nødvendige opplysninger» som kan samles inn. Det skal alltid begrunnes dersom det er nødvendig å samle inn personidentifiserbare opplysninger.
+
+
+
+
+Jeg synes også det er viktig å være klar over at stadig flere lovbestemte unntak kan innebære en uthuling av taushetsplikten. I verste fall kan dette føre til at personer som har behov for helsehjelp, ikke kontakter helsetjenesten eller at de gir færre opplysninger enn det som er nødvendig for å få nødvendig og riktig behandling. Slik jeg ser det, bør hensynet til å kunne opprettholde en helsetjeneste som pasientene har tillit til, veie tyngst når vi skal vurdere unntaksbestemmelser. Lovbestemte unntak fra taushetsplikten bør derfor være meget godt begrunnet. I den forbindelse er det verdt å merke seg at taushetsplikten som hovedregel ikke er til hinder for at opplysninger kan gis videre dersom pasienten samtykker i dette. Å innhente samtykke kan derfor være et godt alternativ til å gjøre unntak fra taushetsplikten.
+
+
+
+
+Så tilbake til spørsmålet om hvorvidt jeg mener taushetsplikten og tilliten til konfidensialitet i helsevesenet blir godt nok ivaretatt slik taushetsplikten praktiseres i dag. Jeg mener nok at reglene i seg sjøl er tydelige nok, men uansett hvordan regelverket er, er vi helt avhengig av at folk følger det regelverket som faktisk er der.
+
+
+
+
+I dagens bestemmelser om taushetsplikt står det ikke i klartekst at det er forbudt å søke informasjon i taushetsbelagte pasientopplysninger med mindre det er behov for opplysninger for å få utført tjenesten. Det mener jeg er en svakhet ved dagens lov, som jeg ønsker å gjøre noe med. Regjeringa vil derfor innen utgangen av dette året legge fram en proposisjon for Stortinget med forslag til lovendringer i helsepersonelloven og helseregisterloven, som tydelig slår fast at det er forbudt å tilegne seg pasientopplysninger og helseopplysninger uten at en har behov for det i tjenesten – altså et uttrykkelig forbud mot pasientjournalsnoking.
+
+
+
+
+Jeg mener vi må håndtere disse problemstillingene på en slik måte at alle pasienter kan søke helsetjenesten i trygg forvissning om at uvedkommende ikke får tilgang til opplysninger om deres personlige forhold. Jeg viser også til kontakten som er etablert med arbeids- og inkluderingsministeren om håndteringen av taushetsbelagte opplysninger i NAV, slik at pasientenes rettssikkerhet kan ivaretas.
+
+
+
+

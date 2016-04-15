@@ -1,0 +1,18 @@
+ Den foreløpige rapporten fra Det Norske Veritas, DNV, forelå hos Nærings- og handelsdepartementet i oktober 2011. Straks etter ba departementet Brønnøysundregistrene om å følge opp og vurdere evalueringene fra DNV av Altinn II-plattformen og gjøre en foreløpig vurdering av mulige tiltak. Næringsdepartementet mottok den i desember 2011.
+
+
+Da selvangivelsen ble lagt ut den 22. mars 2011, gikk løsningen ned på grunn av ulike problemer. Brønnøysundregistrene opplyste at problemet lå på tre steder: innloggingsløsningen, portalserverne i Altinn II-delen av løsningen og databasen. Problemet relaterte seg til parallellkjøring mellom Altinn I og Altinn II. Selvangivelsen går fortsatt på Altinn I.
+
+
+Det ble besluttet å gjennomføre en evaluering av Altinn II-plattformen, og etter en anbudsrunde ble DNV tildelt kontrakten den 21. juni 2011. Det som i mediene av og til blir omtalt som «den hemmelige rapporten», var altså en rapport som vi selv hadde bestilt, og det var også velkjent at den var lyst ut på anbud.
+
+
+Av de tiltakene som var spesifisert i kartleggingen fra Brønnøysundregistrene fra 2012, er noen allerede gjennomført, noen er påbegynt, men ikke avsluttet, og noen tiltak er foreløpig ikke påbegynt.
+
+
+De tiltakene som er gjennomført, er de som på kort sikt var mulig å gjennomføre, men også nødvendige for å få informasjon om hva som må gjøres på lengre sikt. Det har vært bl.a. å analysere flaskehalser, skifte ut og oppdatere maskinvare samt etablere nærmere retningslinjer for hva som er gode tjenester. I tillegg er det behov for å kunne gjennomføre oppgraderinger i løsningen uten å lukke systemet. Det vil styrke brukervennligheten og kvaliteten av testinger hvis Altinn kan være i drift 24 timer i døgnet hele året, til tross for at store oppgraderinger gjøres.
+
+
+Vi jobber tett med Brønnøysundregistrene for at Altinn-løsningen skal være god nok og gi den servicen man forventer og ikke minst driftssikkerhet. Det synes nå som om at de problemene vi hadde i 2012, er andre enn dem vi hadde i 2011, og heller ikke problemer som det var lett å kunne lese ut av rapporten fra DNV. Men det skal selvsagt ikke skje, at personopplysninger kommer på avveier. Vi kommer til å jobbe tett også framover med både strategiarbeidet for Altinn og organiseringen og kvalitetssikringen av Altinn-systemet.
+
+

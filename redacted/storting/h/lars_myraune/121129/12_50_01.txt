@@ -1,0 +1,35 @@
+ Representanten Anders B. Werp fokuserer med denne interpellasjonen på en svært viktig del av infrastrukturen i et moderne samfunn. Vi opplever i dag at kommunikasjon utgjør en stadig viktigere del av hverdagen vår. Det gjelder kommunikasjon mellom enkeltindivider, og det gjelder mellom bedrifter og etater – kort sagt: hele samfunnet. Vi er blitt mer og mer avhengig.
+
+
+
+
+Vi opplever også at denne nye kommunikasjonen går over det mobile nettverket. Det som før gikk på en kobberledning, går i all hovedsak nå over fiber eller det mobile nettverket, og enda mer blir det når det 4G-nettverket som Telenor og NetCom holder på med, blir utbygd. Det er derfor viktigere enn noen gang at det nettet er så sikkert som mulig. Det gjelder med hensyn til avlytting, men også med hensyn til manipulasjon. Vi må simpelthen ha tillit til dette nettverket. Den utbyggingen blir utført av Huawei, som det har vært snakk om tidligere i dag, som er et kinesisk selskap. Det er ingen tvil om at det er et kompetent selskap. Det er et av verdens største på telekommunikasjonssiden, og det er konkurransedyktig. Anders B. Werp og jeg var på besøk hos selskapet på Fornebu for noe tid siden, og vi fikk et svært godt inntrykk av selskapet, både når det gjelder deres kompetanse og deres evne til å se utbyggingen her i Norge i lys av vårt land.
+
+
+
+
+Imidlertid har det i den senere tid vært fokusert på det faktum at kinesiske myndigheter har omfattende fullmakter til å overstyre, og tilnærmet ubegrenset mulighet til å hente ut informasjon fra telekomselskaper. Det er det som bekymrer oss. Vi vet at kinesiske myndigheter har millimeterkontroll med informasjonsflyt i eget land. Vi vet også, som det har vært referert til tidligere i dag, at både USA, Australia, Canada og Tyskland har sagt nei til at dette selskapet skal få lov til å operere og bygge ut kritisk kommunikasjonsnettverk i landene deres.
+
+
+
+
+Det som bekymrer oss aller mest her, er at vi synes norske myndigheter ikke – og jeg hører hva statsråden sier – har fokusert nok på den kritiske infrastrukturen. Vi vet at PST påpekte at informasjonssikkerhet har lav prioritet i mange norske statlige og private institusjoner. Det synes vi er beklagelig, for dette blir det enda mer fokusert på i et moderne samfunn.
+
+
+
+
+Vi vet at samferdselsministeren sa at hun har tillit til at tilbyderne gjør de nødvendige risiko- og sårbarhetsanalyser ved valg av leverandør. Ja, kanskje snakker vi om en annen type sårbarhetsrisiko i dette tilfellet, for vi snakker ikke om en vanlig risiko knyttet til et produkt. Vi snakker om risikoen for at en annen stats politiske myndigheter kan gjøre inngripen, og det er det vi føler ubehag ved. Vi vet at Storbritannia har innført kostbar analysesoftware som skal forhindre at dette kan gjøres. Med den erfaringen fra programmeringstjenester som jeg hadde over noen år, vet jeg godt at det skal bare noen få linjer i et «statement» i en programvare til for at man enten kan «blanke» ut nettet fullstendig, eller at du kan hente ut informasjon knyttet til enkeltpersoner eller til etater.
+
+
+
+
+Problemstillingen er sektorovergripende, som statsråden sier. Ja, i høyeste grad – dette er en del av cybersikkerheten. Statsråden sier også at hun vil følge nøye med i tiden framover. Det setter vi veldig stor pris på, for det blir viktig. Men hva er gjort for å minimalisere risikoen i dette tilfellet? Det har vi ikke egentlig fått noe svar på. Grenseoppgangen mellom de ulike departementene har statsråden tatt opp. Ja, det er også viktig, men vi føler at det må være en statlig etat, et departement som har ansvaret for å sørge for at dette kommer på plass. Representanten Jan Bøhler sier at dette ikke er knyttet opp mot et spesifikt selskap, men mot noe generelt. Ja, det er generelt også, men i dette tilfellet er det ganske så spesielt.
+
+
+
+
+Vi setter pris på at statsråden sier at hun vil fokusere på det i framtiden, men samtidig vil vi understreke at vi ikke er fornøyd med det fokuset som de ulike statsrådene har hatt fram til nå.
+
+
+
+

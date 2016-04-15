@@ -1,0 +1,6 @@
+ Jeg er i grunnen veldig glad for det spørsmålet, for det indikerer at den forrige regjeringen ikke fikk opp farten! Men jeg kan forsikre representanten om at vi jobber veldig hardt med dette, ikke minst fordi Justis- og beredskapsdepartementet har det koordinerende ansvaret for IKT-sikkerhet. Vi legger nå en strategi for hvordan dette skal følges opp gjennom de ulike departementene. Det er hvert enkelt departement som har sektoransvar – etter sektoransvarsprinsippet – for IKT-sikkerheten i sin sektor, men det er vår jobb å se på de utfordringene – og de er mange – som går på tvers av de ulike sektorene.
+
+
+Jeg deler i veldig stor grad virkelighetsbeskrivelsen til representanten. Jeg er enig i at dette er en kjempestor utfordring, og jeg tror det har vært en undervurdert utfordring, hvor mange nok har tenkt på at dette er IT-avdelingens problem. Men det er det ikke, det er et stort samfunnsproblem. Utfordringen med å få oversikt over sårbarheter er at de ofte ikke er så åpenbare at de er lett å få oversikt over. Det er sårbarheter som ofte dukker opp underveis, eller på en eller annen måte som man på en måte ikke har strukturert opp – det kan være gjennom angrep eller andre ting. Derfor er det viktig at vi har en helhetlig tilnærming til hele denne problemstillingen.
+
+

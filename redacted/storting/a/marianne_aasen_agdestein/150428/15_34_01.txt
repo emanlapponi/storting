@@ -1,0 +1,60 @@
+ Det er få som lykkes med å spå om framtida. Likevel drister jeg meg til å påstå at vi står foran noen store utfordringer hva gjelder kompetanse i IKT-næringen i årene som kommer.
+
+
+Vi er midt i en digital revolusjon, en teknologisk revolusjon som endrer så å si alt omkring oss: produksjon av varer og tjenester, måten vi kommuniserer på, måten vi arbeider på, og måten vi lærer på. Jobber forsvinner, nye dukker opp. Bransjer opplever dramatiske endringer på kort tid, og mulighetene synes formidable.
+
+
+På 1960-tallet var de fremste ekspertene overbevist om at disse selvstyrte, elektroniske siffermaskinene var det ingen som ville ha inne i sitt eget hus. Et marked på noen få i hele USA, kanskje? I dag går vi alle rundt med en svært kraftig datamaskin i lomma og attpåtil med en telefon som en del av hele pakka.
+
+
+Alle deler av samfunnet vil være en del av og avhengig av IKT. Privat og offentlig sektor, alle bedrifter og offentlige etater må ha driftssikre IKT-systemer. Som beboere i et høykostland som vårt vet vi at det er i digitalisering de store produktivitetsgevinstene kan tas ut. Det gjelder helsesektoren, politiet, Forsvaret, Nav, skatteetaten, kommunesektoren osv. Det sies at en henvendelse på papir koster 80 kr, på telefon 40 kr, digitalt 4 kr. Besparelsene er enorme og nødvendig å gjennomføre.
+
+
+En del etater har gått foran. Selvangivelsen skal leveres innen to døgn, og den skal leveres på nett. Mange av oss husker fortsatt køen av biler som leverte konvolutter i luka på det lokale likningskontoret før midnatt. Nå ligger selvangivelsen i den digitale postkassa – og vi tar det som en selvfølge. Lånekassa er et annet godt eksempel på en etat som ligger foran i digital utvikling. Men fortsatt er det massivt med systemer som skal og bør digitaliseres. For det skannes fortsatt masse skjemaer, hvilket betyr store unødvendige kostnader. Og selv om vi som brukere fyller ut et skjema på nett, printes det ut i den andre enden fordi mottakersystemene ikke er på plass. Historiene om helsejournaler som sendes i drosje mellom sykehus, er også et skrekkeksempel på feil ressursbruk i en helsesektor som burde drives mer effektivt.
+
+
+I privat sektor ligger et stort vekstpotensial og nye muligheter for ny næringsvirksomhet. Diskusjonen om hva vi skal leve av etter oljen, går jevnt og trutt. Noen ganger kan man få inntrykk av at dette «noe» må være noe helt annet og spesielt enn det vi driver med i dag. Det tror jeg ikke helt på. Overgangen her vil være glidende, og mange av de jobbene vi skal ha i framtida, er her også i dag. Ikke minst gjelder det IKT-bransjen. Men da må vi ha kompetente folk. I dag er det slik at bedrifter mister oppdrag på grunn av mangel på IKT-kompetanse.
+
+
+Situasjonen er derfor denne: På grunn av mangel på IKT-folk trues produktivitets- og konkurranseevnen, og nødvendig omstilling og utvikling på viktig samfunnsområder vil ikke være mulig å gjennomføre.
+
+
+Det er ingen ny problemstilling jeg tar opp. Senest i høringen i Stortinget i forbindelse med statsbudsjettet sist høst var dette et tema. Kommunal- og moderniseringsdepartementet sitter dessuten på en eksternt laget rapport som forteller om at Norge styrer mot en kritisk mangel på kompetanse innen IKT. Underdekningen er på et sted mellom 24 og 113 pst., hvilket betyr at i beste fall vil én av fire stillinger være ubesatt.
+
+
+Jeg er spent på å høre hva statsrådens vurdering av dette er, og hva han har tenkt å gjøre for å bøte på situasjonen.
+
+
+Men hva mener så vi i Arbeiderpartiet? En god start er å opprette studieplasser innen IKT- og teknologifagene. Søkerne er der. I år er det drøye to førstevalgssøkere per studieplass på bachelornivå ved Universitetet i Oslo. Også NTNU kan tilby flere studieplasser, og også de har flust med søkere. Her er det grunn til å være litt oppmerksom, for vi har sett det før: Studieetterspørselen går i bølger, og det er ikke uproblematisk med for rask oppbygging i enkelte fag i UH-sektoren. Det blir fort vanskelig dersom søkningen reduseres. Det har med finansieringssystemet å gjøre. Men da bør vi spille på kompetansen vi finner utenfor UH-sektoren.
+
+
+Forskningsrådets evaluering av denne typen teknologi viser at noen av de sterkeste fagmiljøene innenfor IKT befinner seg utenfor UH-sektoren. Evalueringen tar også til orde for å stimulere til mer samarbeid mellom de ledende fagmiljøene i instituttsektoren og universitetene og høyskolene. Ledig kapasitet, erfaring med tett kontakt med arbeidslivet i instituttsektoren kan bidra til dette ved å ta større del av veiledningen, noe som vil avlaste universitetene, som har opplevd svingninger når det gjelder fagene før.
+
+
+Dernest bør digitale ferdigheter inn i hele utdanningsløpet – fra barnehage, grunnskole, videregående skole til både studiespesialisering og yrkesfag. Her er det verd å nevne prosjektet Lær Kidsa Koding, som jeg vet at statsråd Røe Isaksen har sett og opplevd i et klasserom. Det bør også inn i fagskolen og bachelor- og masterutdanning, selvfølgelig, særlig innenfor profesjonsstudiene. Det er liten vits i å stimulere gründere til å bidra med ny velferdsteknologi om ikke sykepleierne eller helsefagarbeiderne bruker teknologien fordi de ikke har opplæring i den.
+
+
+Mange beslutningstakere i offentlig sektor er nødt til å ha kompetanse nok til å håndtere bestillerfunksjonen bedre enn det vi ser i dag når det gjelder IKT-systemer. Det har vært nok av debatter i stortingssalen om store budsjettoverskridelser knyttet til IKT.
+
+
+En rekke artikler, bl.a. i Dagens Næringsliv, har pekt på denne typen problemstilling og hvilke utfordringer vi har knyttet til mangel på kompetanse innen IKT. Det har også vært et tema at mange jobber legges til India, Baltikum, Ukraina og andre land med en til dels høyt utdannet befolkning og lavere lønninger. Det vil vi nok fortsatt se i framtida. Men for det første er ikke en slik utvikling ønskelig, og dessuten er det ikke fullt ut mulig å la utenlandsk arbeidskraft ta disse jobbene. Hvordan skal en IT-konsulent i India kunne skreddersy løsninger for Nav, politiet eller Forsvaret? Spesielle miljøer som krever sikkerhetsklarering, som FFI, f.eks., Forsvarets forskningsinstitutt, har i lengre tid slitt med å få tak i nok kompetent arbeidskraft, for de kan ikke ansette utenlandske statsborgere, som ofte har denne typen realfagskompetanse. Mange nordmenn mangler den.
+
+
+Lærerutdanningen må nevnes spesielt. Teknologi gir uante muligheter både for tilpasset opplæring, mer variert og motiverende undervisning og for å klare å begrense byråkratiet i skolen. Det er ny teknologi som er det eneste som virkelig vil lykkes med å fange tidstyvene. Da må også IKT være en del av etter- og videreutdanningen av lærere. Matematikk er vel og bra, og Arbeiderpartiet støtter etter- og videreutdanningsløftet. Men vi gjør en stor feil om vi overlater til den enkelte lærer hvordan ny teknologi skal brukes i skolen.
+
+
+Her haster det med å få lærerutdanningene på banen. De kan ikke være bekjent av at det er de nyutdannede som ligger lengst etter når det gjelder bruk av ny teknologi i skolen. Fagskolene representerer kun 6 pst. av studentmassen, men de produserer 13 pst. av kandidatene. De jobber tett på arbeids- og næringsliv, tettere enn universitets- og høyskolesektoren. Kandidater derfra har viktige roller knyttet til drift av IT-systemer og velferdsteknologi. Fagskolene fanger raskere opp endringer i behov, de integrerer innen relevante fag, og de jobber veldig tett med næringslivet. Derfor er de viktige i en oppbygging av IKT-utdanningene.
+
+
+Tiden strekker ikke til til å nevne alle typer utdanninger på alle nivåer, men jeg må nevne et eksempel fra yrkesfag. Det er nemlig foruroligende å høre at læreplanen i IKT for service og samferdsel er totalt irrelevant, for å bruke fagfolks ord. Det er et annet område vi må gjøre noe med.
+
+
+Så må det selvfølgelig satses på forskning. Teknologi er vesentlig, både i forskningsmeldingen og i langtidsplan for forskning. Vi skal satse der. Og det er fulgt opp med mer ressurser, bl.a. til ledende miljøer som Simula på Fornebu. Men også IKT-miljøene ved utvalgte høyskoler er viktige. Her har jeg lyst til å nevne Gjøvik og Halden som eksempler på dette, hvor næringslivet rundt blomstrer nettopp fordi vi har fått en satsing på IKT.
+
+
+Vi må fortsette dette arbeidet og intensivere det. Dette er ett av svarene på hva vi skal leve av framover. Dessuten er produktivitetsgevinsten for næringslivet formidabel på dette. Det er store forenklingsbehov i offentlig sektor som kan løses på denne måten, og dessuten trenger vi arbeidskraft til de mange oppgavene som det ikke er mulig å digitalisere – innen undervisning og innen helse og omsorg særlig.
+
+
+Regjeringen er blitt gjort oppmerksom på dette siden den flyttet inn i regjeringskontorene, men vi har sett veldig lite til tiltak, ikke minst på studieplasser. Vi har ikke fått en eneste ny studieplass i de budsjettene som regjeringen Solberg har lagt fram. Nå er jeg spent på hvordan statsråden ser for seg å jobbe videre og strategisk med denne store utfordringen vi har i Norge.
+
+

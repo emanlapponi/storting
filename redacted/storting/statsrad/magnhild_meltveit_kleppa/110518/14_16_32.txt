@@ -1,0 +1,9 @@
+ Eg vil altså fyrst kunna koma tilbake når det er meir klargjort kva som skal krypterast. Men lat meg seia at Teleplan har anslått kostnadene for å innføra datalagringsdirektivet til mellom 200 og 250 mill. norske kroner over ein femårsperiode utan krav om kryptering. Visse viktige kostnadselement som inngår i eit krav om kryptering, er programvare, harddiskar, serverar, lisensavgift, drift og vedlikehald. Telenor har antyda at eit krav om kryptering vil kunna føra til at investeringskostnadene aukar med opptil 100 mill. kr. Men beløpet er altså usikkert. Det vil vera avhengig av om ein kan bruka standardkomponentar, om det skal vera fleire nøklar, ulike brukarar, og mykje meir.
+
+
+
+
+
+
+                
+

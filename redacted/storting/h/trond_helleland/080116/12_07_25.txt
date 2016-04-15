@@ -1,0 +1,11 @@
+ «BankIDs
+integritet og spørsmålet om hvorvidt BankID bør godtas
+som nasjonalt identitetssystem, har vært debattert i Aftenposten etter
+en kronikk av ekspertene Hole og Gjøsteen, fra henholdsvis UiB og
+NTNU, den 17.11. Kronikken ble fulgt av et tilsvar fra finansnæringens
+Arne Hyttnes og Arne Skauge den 21.11 og Post- og teletilsynets direktør
+Willy Jensen den 26.11. Den 29.11 fastholder ekspertene sin kritikk.
+
+Hvordan vurderer statsråden disse alvorlige innvendingene knyttet
+til verifisering og digital signering med BankID?»
+

@@ -1,0 +1,87 @@
+ (ordfører for saken): Hensikten med denne forvaltningsrevisjonsrapporten er å sammenligne Stortingets uttalte mål om full overgang til elektronisk informasjonsutveksling i helsesektoren med de faktisk oppnådde resultater.
+
+
+Da Stortinget bestemte seg for å innføre Samhandlingsreformen, het det veldig klart i Innst. 212 S for 2009–2010 fra komiteen at selve suksessen i Samhandlingsreformen i stor grad ville bero på at man fikk en effektiv meldingsutveksling mellom de forskjellige enhetene, slik at de kunne samarbeide mest mulig på tvers av skillelinjene i helse- og omsorgssektoren.
+
+
+Vi er alle enige om at sektoren kan tilby tjenester av god kvalitet, sikkert, uten unødig tidstap og på høyt faglig nivå. Det er også full enighet om at det å kunne ta i bruk allerede utviklede IKT-systemer er helt avgjørende for å oppnå dette. Ønsket om overgang til elektronisk meldingsutveksling har vært gjentatt i alle nasjonale IKT-strategier siden 1997.
+
+
+I denne saken fremgår det at Stortinget er blitt presentert for målene som ble fastsatt i Samspill 2.0 – en nasjonal strategi som er den siste strategien for tidsspennet 2008–2013, det såkalte nasjonale meldingsløftet, som ble ledet av Helsedirektoratet i perioden 2008–2011, og programmet Meldingsutbredelse, som var under ledelse av Norsk Helsenett i perioden 2012–2014.
+
+
+Vi må konstatere at det fortsatt er et betydelig avvik fra målene, og at meldingsutveksling i helseforetak i stor utstrekning fortsatt skjer på papir. En del av meldingsomfanget som foregår elektronisk, skjer ikke på basis av nasjonalt godkjente standarder, med potensielt svekket pasientsikkerhet som følge. Likeledes er det ikke satt krav til innhold, struktur og format for elektroniske meldinger innen sektoren. Selv om noen enheter har kommet langt, begrenses den praktiske bruken av disse digitale løsningene av at samarbeidspartnerne ikke gjør det, og dermed tvinges også de aktørene som har fulgt opp lojalt, til å opprettholde kommunikasjonen på papir, og vi kommer i situasjonen med doble rutiner, altså både papirbaserte og digitale rutiner parallelt.
+
+
+Den daværende regjeringen meddelte i statsbudsjettet for 2011 i dette forum – Stortinget – at alle kommuner skulle ha kommet i gang med elektronisk samhandling med bl.a. spesialisthelsetjenesten i perioden 2008–2013, men det vi kan konstatere, er at den faktiske måloppnåelsen ved utgangen av perioden, altså oktober 2013, var på 34 pst. Komiteen finner det tvilsomt om det med en så lav dekningsgrad som må ha vært realiteten da statsbudsjettet for 2011 ble fremmet, på noen måte kan ha vært realistisk å nå målet som ble presentert i Stortinget.
+
+
+Vi må også konstatere at når man i stor grad opprettholder papirbasert meldingssystem, er man ikke i samsvar med noen av de viktigste forutsetningene som Stortinget har satt for en effektiv pasientbehandling, og dermed er heller ikke målene i den nasjonale strategien og Nasjonalt meldingsløft nådd.
+
+
+Som ledd i arbeidet med denne forvaltningsrevisjonen har komiteen 20. oktober i år arrangert en kontrollhøring der de vesentligste aktører og kunnskapsmiljøer møtte. Komiteen oppsummerer høringen dit hen at den i alle hovedtrekk bekreftet Riksrevisjonens undersøkelse, og det vil si, mer punktvis og konkret:
+
+
+Tekniske forutsetninger for å kunne avvikle sending av papir er ikke utviklet eller tatt i bruk av alle aktører.
+
+
+Det mangler gjennomgående standarder for alle former for meldingsutveksling.
+
+
+Tekniske løsninger som er utviklet, er enten ikke tatt i bruk av alle aktører eller benyttes ikke i tråd med nasjonal samhandlingsarkitektur.
+
+
+Løsningen for adressering av meldinger har inntil nylig ikke fungert.
+
+
+Den nasjonale test- og godkjenningsordningen som driftes av Helsedirektoratet, har ikke vært organisert på en måte som sikrer at meldinger kan sendes i leverandøruavhengig standardisert format.
+
+
+Man konstaterer at Helse- og omsorgsdepartementets forutgående utredning, planlegging, styring og oppfølging har vært utilfredsstillende.
+
+
+Helse- og omsorgsdepartementets styring og anvendelse av virkemidler har vært for svak, sett ut fra behovene for å nå målene og i lys av identifiserbare problemer underveis.
+
+
+Departementet har unnlatt å stille formelle krav om at aktørene skulle implementere standardiserte løsninger samtidig.
+
+
+Manglende formelle krav om å ta i bruk elektronisk meldingsutveksling og fragmentert ansvar har gitt aktørene det inntrykk at innføringstidspunktet har vært valgfritt, hvoretter suboptimalisering har funnet sted.
+
+
+Troen på atferdsendringer gjennom holdningspåvirkning har vært lite effektiv.
+
+
+Komiteen må konstatere at Helse- og omsorgsdepartementet ikke har fulgt opp komiteens uttalelse i Innst. S nr. 291 for 2007–2008, jf. Dokument nr. 3:7 for 2007–2008 Riksrevisjonens undersøkelse om IKT i sykehus og elektronisk samhandling i helsetjenesten, om at departementet må ta et aktivt ansvar for å anvende finansieringssystemet for å sikre fremdrift og standardiserte løsninger i arbeidet for å realisere elektronisk samhandling mellom sykehus, kommuner og allmennleger.
+
+
+Komiteen vil på dette punkt konstatere at offentlig sektor generelt ikke har utviklet gode nok incentiver for å belønne innovasjon, enten det gjelder å bruke kjent teknologi på nye bruksområder, eller ny teknologi i mer tradisjonelle verdikjeder, og at det utover dette som oftest ikke er mangel på moden teknologi, men ordinær ledelses- og organisasjonskompetanse som svikter. Komiteen konstaterer at særlig Helsedirektoratets interesse for å bruke de erfaringene som måtte være samlet hos Difi fra liknende prosjekter i forvaltningen, har vært liten.
+
+
+Komiteen konstaterer at det også på det felt som er undersøkt av Riksrevisjonen gjennom den aktuelle forvaltningsrevisjonsrapporten, er Helsedirektoratet som primært er gjennomføringsansvarlig, og som ikke har foretatt en investeringsbeslutning basert på krav til avkastning – gevinst – og som formodentlig som følge av dette heller ikke har utarbeidet en gevinstrealiseringsplan. Mangelfull fremdrift har tilsvarende bidratt til å fordyre innføringen av løsningene når de endelig kommer. Utsettelse innebærer at de kvalitative forbedringer av tjenestene som beror på innføring av nye IKT-løsninger, lar vente på seg, til skade for brukere og pasienter i helse- og omsorgssektoren.
+
+
+Komiteen er bekymret for at staten i utilstrekkelig grad er i stand til å realisere de samfunnsmessige gevinstene gjennom planmessig og koordinert innføring av IKT. Det er komiteens inntrykk at mange IKT-prosjekter i det offentlige er preget av tidkrevende interne prosesser, ordrike rapporter og velmente intensjoner på overordnet og prinsipielt nivå. Mangel på beslutninger, fravær av evne til å gjennomføre felles og obligatoriske løsninger, mangelfull forståelse for organisasjonsmessige forutsetninger ved innføring av IKT, er medvirkende årsaker til at mulighetene som er tilgjengelige gjennom teknologien, ikke utnyttes i organisasjonen.
+
+
+Komiteen er av den oppfatning at smale sektorinteresser og tradisjonell organisasjonstenkning ligger til grunn når store og viktige IKT-investeringer gjøres. Manglende styring og overordnet ledelse, utilstrekkelige muligheter for informasjonsutveksling på tvers og teknologiløsninger som ivaretar fagetatenes særinteresser, ikke brukernes behov, er en del av dette store problembildet.
+
+
+For den perioden rapporten dekker, 2008–2013, har komiteen fremhevet departementets ansvar for å følge opp de ytre etatene, i dette tilfellet Helsedirektoratet, de regionale helseforetakene, mv. Likeledes vil komiteen understreke statsrådens aktive informasjonsplikt. Med det mener komiteen at det skal rapporteres tilbake til Stortinget med ajourført informasjon når statsråden med det konstitusjonelle ansvaret for etaten ser at målene som tidligere er presentert for Stortinget, ikke kan realiseres etter planen.
+
+
+Komiteen mener det er nødvendig å gå fra koordinering gjennom råd, veiledning og anbefalte standarder, til sentral styring og ledelse på IKT-området. Dette må gjøres ut fra et sterkt mandat, felles arkitektur og forpliktende samarbeid.
+
+
+Komiteen viser til at det er en gjennomgående erfaring at det i store deler av statlig virksomhet er en oppfatning at egenutvikling av teknologiløsninger som skal være skreddersydd for virksomheten, best ivaretar en effektiv og brukervennlig tjenesteproduksjon. Komiteen vil imidlertid peke på at erfaringen går i den motsatte retning, og at det er behov for så langt som mulig å ta i bruk standard programvare. Det vil også bidra til rimeligere og kontinuerlig videreutvikling av de løsninger som velges, lavere vedlikeholdskostnader og mindre sårbarhet.
+
+
+Komiteen, som er enstemmig, vil på denne bakgrunn fremme følgende forslag:
+
+
+«Stortinget ber regjeringen på egnet måte redegjøre for hvordan regjeringen vil løse de ikt-utfordringene i helsevesenet som denne innstillingen viser, jf. Innst. 67 S (2014–2015).»
+
+
+Som jeg antydet, er det en enstemmig komité som har gått til det skritt å gi en operasjonell beskjed med videre på veien. Vi avviker fra den vanlige malen om å vedlegge forvaltningsrapporten protokollen. Vi har ikke gått utover det som er funnene i forvaltningsrapporten, for komiteen ønsker ikke selv å utøve verken IKT-faglige eller helsefaglige synspunkter, for vi skal ikke være noen overkomité. Men med de klare funn og tilrådingen som Riksrevisjonen har hjulpet oss med å bringe frem i dagen, føler vi oss trygge på at denne operasjonelle anvisningen kan komme godt med for å komme ut av dette uføret.
+
+

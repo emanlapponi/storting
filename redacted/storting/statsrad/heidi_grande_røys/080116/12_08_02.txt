@@ -1,0 +1,48 @@
+ Eg er veldig glad for spørsmålet. I arbeidet for å
+få fleire elektroniske løysingar i privat sektor og ikkje minst
+i offentleg sektor er vi heilt avhengige av at vi kan stole på e-ID
+som i nokre tilfelle er nødvendig i samband med elektroniske tenester.
+Det må vere målet for leverandørane, og det må
+òg vere styresmaktene sitt mål.
+
+BankID er ei felles løysing
+for elektronisk ID og elektronisk signatur for banknæringa i Noreg.
+Løysinga er bygd opp på ein slik måte at ho skal gje
+sikker elektronisk signatur, samtidig som utrulling og vedlikehald ikkje
+vert unødig dyrt og vanskeleg.
+
+Post- og teletilsynet har gjort
+ei vurdering av BankID-løysinga med sentral oppbevaring av hemmelege
+nøklar. Post- og teletilsynet meiner at løysinga oppfyller
+krava som vert stilte til elektroniske signaturar i e-signaturlova med forskrifter.
+Post- og teletilsynet si vurdering gir BankID er eit slags kvalitetsstempel
+som gjeld i heile EØS-området. Det er opp til dei å gjere
+ei ny vurdering dersom dei finn at det er nødvendig. Eg er kjend
+med at dei i samband med den mediekritikken som representanten viser til,
+gjennomfører tilleggsundersøkingar for å dobbeltsjekke
+grunnlaget for dei vurderingane dei har gjort tidlegare.
+
+Vi har òg
+vore i kontakt med Kredittilsynet, som seier at dei følgjer bankane
+tett opp for å forsikre seg om at det vert sett i verk tiltak for
+at mogleg svake sider ved påloggingsmekanismane til bankane vert fjerna.
+Etter det vi veit, skal det ha vore gjort ei effektiv retting pr. 11. januar
+i år. Kredittilsynet har opna ei tilsynssak når det gjeld dette
+i desember i fjor, og dei ventar no i januar ei formell stadfesting frå
+bankane om at feilen er retta opp. Kreditttilsynet held i tillegg fram at
+bankane er trygge å bruke som eit ledd i pålogginga til nettbanken.
+
+Det er viktig å poengtere at innbyggjarane ikkje berre i Noreg,
+men i heile Norden, ligg i forkant når det gjeld å ta i bruk
+nettløysingar. Nettopp difor er det så viktig at vi framleis
+har fokus på å velje sikre løysingar.
+
+Dei ulike
+faginstansane med tilsynsmyndigheit som rører ved BankID - Post-
+og teletilsynet, Kredittilsynet og Datatilsynet - følgjer opp kritikken
+på kvart sitt arbeidsområde, men dei har òg hatt koordinerande
+møte seg imellom. Det er ikkje minst viktig i forhold til leverandøren.
+Eg synest det er ei god oppfølging, og eg reknar med at dei feilane
+som eventuelt måtte ha vore, vert retta opp i tråd med det eg
+har sagt, men ein har sjølvsagt fokus vidare på tryggleik.
+
