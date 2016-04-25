@@ -1,6 +1,0 @@
- Det er for så vidt ikke de årlige budsjettprosessene jeg er opptatt av å bli informert om nå. Det som vi må få på plass, er en avtale om fortsatt drift som er så klar medio 2016 at de avtalene om testing som nå foreligger, vil bli realisert.
-
-
-Jeg vil også benytte anledningen til å følge opp med et annet spørsmål i tilknytning til denne problemstillingen, som dreier seg om tomt 3 ved testsenteret. Det vi har nå, er to tomter som tester i ganske stor skala to forskjellige typer teknologier. Det har vært diskutert hvorvidt den tredje tomten skal kunne brukes til å teste flere forskjellige teknologier, og kanskje også i en mindre skala enn de to store, tunge testanleggene som nå står, som er svært ensidig innrettet på teknologier. Dette vil også gjøre anlegget mer attraktivt for testing fra industrielle aktører. Vil dette inngå i departementets planer videre?
-
-

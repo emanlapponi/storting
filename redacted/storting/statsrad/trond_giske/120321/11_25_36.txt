@@ -1,6 +1,0 @@
- Det vi definitivt i hvert fall må fastslå, er at det er ikke slik at Entra investerer for statens penger. Entra er et helkommersielt selskap, som skal investere ut fra avkastningskrav, og som må gjøre sine investeringer ut fra kommersielle vurderinger. Slik sett er det likeverdig konkurranse mellom det Entra gjør, og andre aktørers virksomhet.
-
-
-Det er derimot ikke sikkert at de gjør det samme, fordi det er ulik type datakapasitet som trengs. Noen servere – så vidt jeg forstår – trenger å være nær kunden, ha rask responstid og kanskje også tilgjengelighet til den hardwaren som er lagret, mens andre ting kanskje har en langsiktig lagringshorisont når det er store datamengder som skal lagres. Det var f.eks. dette jeg snakket med Facebook og Google om da jeg var i USA i november i fjor, om stort behov for datalagring. Facebook valgte Finland, i nær konkurranse med distriktsalternativer i Norge. Så jeg har et godt håp om at vi kan være konkurransedyktige på en slik arena i framtiden.
-
-

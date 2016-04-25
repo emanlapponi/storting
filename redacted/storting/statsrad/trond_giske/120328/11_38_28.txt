@@ -1,6 +1,0 @@
- For det første er det viktig å ta med seg at i innledningen til Veritas-rapporten, så vidt jeg husker, sier Det Norske Veritas at rapporten «støtter oppfatningen om at Altinn II-løsningen er et sentralt bidrag til å nå den nasjonale IT ambisjonen», og at Altinn II-programmet har lyktes i å levere et stort og komplekst system. Så det overordnede bildet er faktisk ganske positivt i den rapporten som Veritas har lagt fram. Men så peker man på en rekke utfordringer, en del risiko for overbelastning, robusthet og særlig testregime, som man mener må forbedres, og også at den organisatoriske kompleksiteten er stor.
-
-
-Noe av det som vi gjorde før Altinn gikk ned nå i forrige uke, var bl.a. å sette en stopper for at nye ting skal legges inn i plattformen, nettopp for å få en fullgod løsning, fullgod sikkerhet og testsystemer osv. før vi belaster systemet med nye tjenester. Vi ba som sagt også Brønnøysundregistrene se på hvilke tiltak som raskt kunne iverksettes – og det gjorde Brønnøysundregistrene.
-
-

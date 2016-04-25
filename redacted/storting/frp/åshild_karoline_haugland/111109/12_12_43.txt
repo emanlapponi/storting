@@ -1,9 +1,0 @@
- Trafikkprognosene legges til grunn for å beregne lønnsomheten av veiprosjekter. Det brukes også for å beregne nedbetaling av veiprosjekter gjennom bompengefinansiering, som grunnlag for dimensjonering av veiene og for å beregne trafikksikkerhetsbehovet.
-
-
-Metoden som benyttes for å lage disse prognosene, ble revidert i 2001. Transportøkonomisk institutt har sammenlignet de årlige trafikkprognosene med faktisk trafikkutvikling i perioden etter at prognosene ble revidert, og konkluderer fortsatt med at trafikkprognosene er for lave.
-
-
-Er statsråden redd for at framtidig veiutbygging underdimensjoneres i forhold til trafikkvolumet?
-
-

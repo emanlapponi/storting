@@ -1,6 +1,0 @@
- «Nylig avdekket Synacktiv et alvorlig sikkerhetshull i en Sercomm-modul som brukes i helt vanlige routere som Cisco, Linksys, Netgear osv. som du får på Elkjøp. ID-tyveri og spionasje er noen av farene. Hullet kan ikke repareres «utenfra», men må gjøres av folk selv. De fleste som har disse routerne er ofte ikke klar over hullet eller/og har ikke teknisk innsikt til å oppdage eller å tette det. De fleste tror nok at de er trygge bak brannmuren.
-
-
-Hva gjør regjeringen for å sikre forbrukere mot dette sikkerhetshullet?»
-
-
