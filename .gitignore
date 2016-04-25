@@ -1,3 +1,4 @@
 data/stortinget.no/*
 *.Rproj
 .Rproj.user
+data/*
