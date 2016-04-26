@@ -46,13 +46,11 @@ rep_list <- list(`1997-2001` = storting_rep_df(allfiles[1]),
                  `2009-2013` = storting_rep_df(allfiles[4]),
                  `2013-2017` = storting_rep_df(allfiles[5]))
 
-rep_list <- storting_rep_df(allfiles[5])
-head(rep_list)
 
 rep_df <- do.call(rbind, rep_list)
 rep_df$session <- gsub("\\.[0-9]+$", "", rownames(rep_df))
 rownames(rep_df) <- 1:nrow(rep_df)
 rep_df <- rep_df[, c("last_name", "first_name", "id", "session", "party_name", "party_id", "gender", "birth", "death",
                      "fylke_name", "fylke_id", "version", "party_version", "fylke_version")]
-dir()
-write.csv(rep_df, "Data/reps.tsv", sep = "\t")
+
+write.table(rep_df, file="Data/reps.tsv", quote=FALSE, sep="\t", col.names = NA)
