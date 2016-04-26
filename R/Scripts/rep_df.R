@@ -53,4 +53,6 @@ rownames(rep_df) <- 1:nrow(rep_df)
 rep_df <- rep_df[, c("last_name", "first_name", "id", "session", "party_name", "party_id", "gender", "birth", "death",
                      "fylke_name", "fylke_id", "version", "party_version", "fylke_version")]
 
-write.table(rep_df, file="Data/reps.tsv", quote=FALSE, sep="\t", col.names = NA)
+write.csv(rep_df, file="Data/reps.csv", quote=FALSE, row.names = FALSE)
+
+mu <- read.csv("Data/reps.csv")
