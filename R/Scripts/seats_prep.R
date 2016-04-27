@@ -1,9 +1,14 @@
+elections <- c("1997-2001", "2001-2005", "2005-2009", "2009-2013", "2013-2017")
+
 #### Getting seat information from stortinget.no ####
-lapply(elections, function(x) 
-  system(paste0("wget -O Data/seats/", x, " https://www.stortinget.no/no/Representanter-og-komiteer/Partiene/Partioversikt/?pid=", x)))
 
+### Not run: The data is there, this is just the way for getting it in unix ###
+# lapply(elections, function(x)
+#  system(paste0("wget -O Data/seats/", x, ".html ", "https://www.stortinget.no/no/",
+#                "Representanter-og-komiteer/Partiene/Partioversikt/?pid=",
+#                x)))
 
-seats <- lapply(elections, function(yeah) read_html(paste0("Data/seats/", yeah)))
+seats <- lapply(paste0(elections, ".html"), function(yeah) read_html(paste0("./Data/seats/", yeah)))
 seats <- lapply(seats, function(mhm) data.frame((mhm %>% html_node("table") %>% html_table())))
 seats <- lapply(seats, function(ohh) data.frame(ohh, parl_size = ohh$Storting[nrow(ohh)]))
 seats <- lapply(seats, function(heyhey) heyhey[-(nrow(heyhey)), ])
@@ -22,3 +27,4 @@ seats <- do.call(rbind, seats)
 seats$session <- gsub("\\.[0-9]", "", rownames(seats))
 rownames(seats) <- 1:nrow(seats)
 colnames(seats) <- c("party_name", "seats", "seats_odelsting", "seats_lagting", "parl_size", "session")
+rm(elections)
