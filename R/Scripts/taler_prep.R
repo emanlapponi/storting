@@ -2,15 +2,104 @@
 # The following file is used with permission from its makers "HolderDeOrd" -- https://github.com/holderdeord
 # Data from:
 #  system("wget -O ../../taler/tale.2016-04-20.csv https://files.holderdeord.no/data/csv/tale.2016-04-20.csv")
-taler <- read.csv("../../taler/tale.2016-04-20.csv", sep = ",")
+taler <- read.csv("../../taler/tale.2016-04-20.csv", sep = ",", stringsAsFactors = FALSE)
 
 taler$date <- as.Date(taler$time)
 
 taler$rep_name <- taler$name
 taler$name <- NULL
-# Danger!!! ###########################
-# weird <- taler[which(taler$title == ""), ]
-####################################
+taler$party_id <- as.character(taler$party)
+taler$party <- NULL
 
+# taler[which(grepl("Leif Willy Eriksen", taler$rep_name)), ]
+# summary(factor(taler$rep_name[which(grepl("Reksnes", taler$rep_name))]))
+# summary(factor(all$rep_name[which(grepl("Reksnes", all$rep_name))]))
+# all[which(all$rep_id == "FJJ"), ]
 
-
+# Fixing ambigous names
+taler$rep_name <- as.character(taler$rep_name)
+taler$rep_name[which(grepl("André Dahl", taler$rep_name))] <- "André Oktay Dahl"
+taler$rep_name[which(grepl("André Nikolai Skjelstad", taler$rep_name))] <- "André N. Skjelstad"
+taler$rep_name[which(grepl("Anne Enger Lahnstein", taler$rep_name))] <- "Anne Enger"
+taler$rep_name[which(grepl("Arild Stokkan-Grande", taler$rep_name))] <- "Arild Grande"
+taler$rep_name[which(grepl("Åse M. Schmidt", taler$rep_name))] <- "Åse Michaelsen"
+taler$rep_name[which(grepl("Åshild Karoline Haugland", taler$rep_name))] <- "Åshild Bruun-Gundersen"
+taler$rep_name[which(grepl("Åslaug Marie Haga", taler$rep_name))] <- "Åslaug Haga"
+taler$rep_name[which(grepl("Åsmund Grøver Aukrust", taler$rep_name))] <- "Åsmund Aukrust"
+taler$rep_name[which(grepl("Aud Inger Aure", taler$rep_name))] <- "Aud-Inger Aure"
+taler$rep_name[which(grepl("Berit Brørby Larsen", taler$rep_name))] <- "Berit Brørby"
+taler$rep_name[which(grepl("Bjørg Mikalsen", taler$rep_name))] <- "Bjørg Jansen Mikalsen"
+taler$rep_name[which(grepl("Eirin Kristin Sund", taler$rep_name))] <- "Eirin Sund"
+taler$rep_name[which(grepl("Eli Sollied Øverås", taler$rep_name))] <- "Eli Sollied Øveraas"
+taler$rep_name[which(grepl("Espen Johnsen", taler$rep_name))] <- "Espen Granberg Johnsen"
+taler$rep_name[which(grepl("Finn Kristian Vallersnes", taler$rep_name))] <- "Finn Martin Vallersnes"
+taler$rep_name[which(grepl("Frank J. Jensen", taler$rep_name))] <- "Frank J. Jenssen"
+taler$rep_name[which(grepl("Frøydis Elisabeth Sund", taler$rep_name))] <- "Frøydis Sund"
+taler$rep_name[which(grepl("Geir S. Toskedal", taler$rep_name))] <- "Geir Sigbjørn Toskedal"
+taler$rep_name[which(grepl("Gunhild Woie Duesund", taler$rep_name))] <- "Åse Gunhild Woie Duesund"
+taler$rep_name[which(grepl("Gunnar Ballo", taler$rep_name))] <- "Olav Gunnar Ballo"
+taler$rep_name[which(grepl("Håkon Blankenborg", taler$rep_name))] <- "Haakon Blankenborg"
+taler$rep_name[which(grepl("Hallgeir Langeland", taler$rep_name))] <- "Hallgeir H. Langeland"
+taler$rep_name[which(grepl("Hanne Bjurstrøm", taler$rep_name))] <- "Hanne Inger Bjurstrøm"
+taler$rep_name[which(grepl("Hanne C. S. Iversen", taler$rep_name))] <- "Hanne Caroline S. Iversen"
+taler$rep_name[which(grepl("Hanne C.S. Iversen", taler$rep_name))] <- "Hanne Caroline S. Iversen"
+taler$rep_name[which(grepl("Hanne Dyveke Søttar Hagen", taler$rep_name))] <- "Hanne Dyveke Søttar"
+taler$rep_name[which(grepl("Hans R. Kjæstad", taler$rep_name))] <- "Hans Gjeisar Kjæstad"
+taler$rep_name[which(grepl("Harald Tom Nesvik", taler$rep_name))] <- "Harald T. Nesvik"
+taler$rep_name[which(grepl("Heidi M. Tomtum Runningen", taler$rep_name))] <- "Heidi M. T. Runningen"
+taler$rep_name[which(grepl("Heikki Holmås", taler$rep_name))] <- "Heikki Eidsvoll Holmås"
+taler$rep_name[which(grepl("Helge Solum Larsen", taler$rep_name))] <- "Helge Solum-Larsen"
+taler$rep_name[which(grepl("Ine Marie Eriksen", taler$rep_name))] <- "Ine M. Eriksen Søreide"
+taler$rep_name[which(grepl("Ingebjørg Godskesen", taler$rep_name))] <- "Ingebjørg Amanda Godskesen"
+taler$rep_name[which(grepl("Ingebrigt Sørfonn", taler$rep_name))] <- "Ingebrigt S. Sørfonn"
+taler$rep_name[which(grepl("Inge Myrvoll SV", taler$rep_name))] <- "Inge Myrvoll"
+taler$rep_name[which(grepl("Inger Enger", taler$rep_name))] <- "Inger S. Enger"
+taler$rep_name[which(grepl("Ingrid Kjerkol", taler$rep_name))] <- "Ingvild Kjerkol"
+taler$rep_name[which(grepl("Invild Kjerkol", taler$rep_name))] <- "Ingvild Kjerkol"
+taler$rep_name[which(grepl("Jan Ellingsen", taler$rep_name))] <- "Jan Arild Ellingsen"
+taler$rep_name[which(grepl("Jenny Ellaug Følling", taler$rep_name))] <- "Jenny Følling"
+taler$rep_name[which(grepl("John Alvheim", taler$rep_name))] <- "John I. Alvheim"
+taler$rep_name[which(grepl("Julie Christensen", taler$rep_name))] <- "Julie Christiansen"
+taler$rep_name[which(grepl("Kjell Håvard Jensen", taler$rep_name))] <- "Håvard Jensen"
+taler$rep_name[which(grepl("Kristi Kolle Grøndahl", taler$rep_name))] <- "Kirsti Kolle Grøndahl"
+taler$rep_name[which(grepl("Lars-Henrik Michelsen", taler$rep_name))] <- "Lars-Henrik P. Michelsen"
+taler$rep_name[which(grepl("Leif Willy Eriksen", taler$rep_name))] <- "Leif Eriksen"
+taler$rep_name[which(grepl("Linda Cathrine Hofstad", taler$rep_name))] <- "Linda C. Hofstad Helleland"
+taler$rep_name[which(grepl("Linda Hofstad Helleland", taler$rep_name))] <- "Linda C. Hofstad Helleland"
+taler$rep_name[which(grepl("Line Henriette Holten Hjemdal", taler$rep_name))] <- "Line Henriette Hjemdal"
+taler$rep_name[which(grepl("Line Vennesland", taler$rep_name))] <- "Line Kysnes Vennesland"
+taler$rep_name[which(grepl("Madussar Kapur", taler$rep_name))] <- "Mudassar Kapur"
+taler$rep_name[which(grepl("Mange Rommetveit", taler$rep_name))] <- "Magne Rommetveit"
+taler$rep_name[which(grepl("Maria Hoff", taler$rep_name))] <- "Maria Hoff Aanes"
+taler$rep_name[which(grepl("Marie Brekke", taler$rep_name))] <- "Marie Ljones Brekke"
+taler$rep_name[which(grepl("Mette Korsrud", taler$rep_name))] <- "Mette S. Korsrud"
+taler$rep_name[which(grepl("Nils A. Røhne", taler$rep_name))] <- "Nils Amund Røhne"
+taler$rep_name[which(grepl("Ole Gunnar Ballo", taler$rep_name))] <- "Olav Gunnar Ballo"
+taler$rep_name[which(grepl("Oskar Jarle Grimstad", taler$rep_name))] <- "Oskar J. Grimstad"
+taler$rep_name[which(grepl("Ove Bernt Trellevik", taler$rep_name))] <- "Ove Trellevik"
+taler$rep_name[which(grepl("Øystein Hansen", taler$rep_name))] <- "Øystein Langholm Hansen"
+taler$rep_name[which(grepl("Per Roald Bredvold", taler$rep_name))] <- "Per Roar Bredvold"
+taler$rep_name[which(grepl("Peter Gitmark", taler$rep_name))] <- "Peter Skovholt Gitmark"
+taler$rep_name[which(grepl("Ragnar Nordgreen", taler$rep_name))] <- "Ragnar Frimann Nordgreen"
+taler$rep_name[which(grepl("Regina Aleksandrova", taler$rep_name))] <- "Regina Alexandrova"
+taler$rep_name[which(grepl("Rune Kristiansen", taler$rep_name))] <- "Rune E. Kristiansen"
+taler$rep_name[which(grepl("Rune Skjælaaen", taler$rep_name))] <- "Rune J. Skjælaaen"
+taler$rep_name[which(grepl("Ruth Mari Grung", taler$rep_name))] <- "Ruth Grung"
+taler$rep_name[which(grepl("Sigurd Erlend Reksnes", taler$rep_name))] <- "Sigurd Reksnes"
+taler$rep_name[which(grepl("Silja Ekeland", taler$rep_name))] <- "Silja Ekeland Bjørkly"
+taler$rep_name[which(grepl("Silvia Kristoffersen Kosmo", taler$rep_name))] <- "Silvia K. Kosmo"
+taler$rep_name[which(grepl("Siri Meling", taler$rep_name))] <- "Siri A. Meling"
+taler$rep_name[which(grepl("Sivert Haugen Bjørnstad", taler$rep_name))] <- "Sivert Bjørnstad"
+taler$rep_name[which(grepl("Sonja Mandt-Bartholsen", taler$rep_name))] <- "Sonja Mandt"
+taler$rep_name[which(grepl("Sonja Sjøli", taler$rep_name))] <- "Sonja Irene Sjøli"
+taler$rep_name[which(grepl("Sona Irene Sjøli", taler$rep_name))] <- "Sonja Irene Sjøli"
+taler$rep_name[which(grepl("Sverre Hoddevik", taler$rep_name))] <- "Sverre J. Hoddevik"
+taler$rep_name[which(grepl("Sverre J. Hoddevik\\:", taler$rep_name))] <- "Sverre J. Hoddevik"
+taler$rep_name[which(grepl("Synnøve Brenden Klemetrud", taler$rep_name))] <- "Synnøve Brenden"
+taler$rep_name[which(grepl("Terje J. Stenseng", taler$rep_name))] <- "Terje Stenseng"
+taler$rep_name[which(grepl("Thore Aksel Nistad", taler$rep_name))] <- "Thore A. Nistad"
+taler$rep_name[which(grepl("Tom E.B. Holthe", taler$rep_name))] <- "Tom E. B. Holthe"
+taler$rep_name[which(grepl("Tove‑Lill Labahå Magga", taler$rep_name))] <- "Tove-Lill Labahå Magga"
+taler$rep_name[which(grepl("Unn Therese O. Sørensen", taler$rep_name))] <- "Unn Therese Omdal"
+taler$rep_name[which(grepl("Vidgis Giltun", taler$rep_name))] <- "Vigdis Giltun"
+taler$rep_name[which(grepl("Wenche Irene Sæthre Høye", taler$rep_name))] <- "Wenche I. S. Høye"

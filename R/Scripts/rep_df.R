@@ -1,5 +1,5 @@
 storting_rep_df <- function(file) {
-  require(XML)
+  require(XML, quietly = TRUE)
   base_file <- xmlInternalTreeParse(file)
   
   
@@ -23,8 +23,8 @@ storting_rep_df <- function(file) {
     fylke_name = rep_list[seq(10, length(rep_list), 13)],
     party_version = rep_list[seq(11, length(rep_list), 13)],
     party_id = rep_list[seq(12, length(rep_list), 13)],
-    party_name = rep_list[seq(13, length(rep_list), 13)]
-  )
+    party_name = rep_list[seq(13, length(rep_list), 13)],
+    stringsAsFactors = FALSE)
   return(reps)
 }
 
@@ -56,13 +56,6 @@ reps$cabinet_short <- ifelse(reps$session == "2005-2009", "Stoltenberg II", reps
 reps$cabinet_short <- ifelse(reps$session == "2009-2013", "Stoltenberg III", reps$cabinet_short)
 reps$cabinet_short <- ifelse(reps$session == "2013-2017", "Solberg I", reps$cabinet_short)
 
+
+
 rm(allfiles, rep_list, storting_rep_df, rep_df, reps_9701Bondevik, reps_9701BStoltenberg)
-
-
-
-
-
-
-
-
-

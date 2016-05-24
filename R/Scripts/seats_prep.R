@@ -9,8 +9,8 @@ elections <- c("1997-2001", "2001-2005", "2005-2009", "2009-2013", "2013-2017")
 #                x)))
 
 seats <- lapply(paste0(elections, ".html"), function(yeah) read_html(paste0("./Data/seats/", yeah)))
-seats <- lapply(seats, function(mhm) data.frame((mhm %>% html_node("table") %>% html_table())))
-seats <- lapply(seats, function(ohh) data.frame(ohh, parl_size = ohh$Storting[nrow(ohh)]))
+seats <- lapply(seats, function(mhm) data.frame((mhm %>% html_node("table") %>% html_table()), stringsAsFactors = FALSE))
+seats <- lapply(seats, function(ohh) data.frame(ohh, parl_size = ohh$Storting[nrow(ohh)], stringsAsFactors = FALSE))
 seats <- lapply(seats, function(heyhey) heyhey[-(nrow(heyhey)), ])
 
 names(seats) <- elections
