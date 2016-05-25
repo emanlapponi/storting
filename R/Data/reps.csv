@@ -1,0 +1,838 @@
+last_name,first_name,id,session,party_name,party_id,gender,birth,death,fylke_name,fylke_id,version,party_version,fylke_version
+Stråtveit,Anne Brit,ABS,1997-2001,Kristelig Folkeparti,KrF,kvinne,1947-04-22T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Dørum,Anneliese,AD,1997-2001,Arbeiderpartiet,A,kvinne,1939-10-03T00:00:00,2000-11-04T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Duesund,Åse Gunhild Woie,ADV,1997-2001,Kristelig Folkeparti,KrF,kvinne,1944-04-18T00:00:00,0001-01-01T00:00:00,Aust-Agder,AA,1.3,1.3,1.3
+Enger,Anne,AEL,1997-2001,Senterpartiet,Sp,kvinne,1949-12-09T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Gabrielsen,Ansgar,AG,1997-2001,Høyre,H,mann,1955-05-21T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Valle,Ågot,AGV,1997-2001,Sosialistisk Venstreparti,SV,kvinne,1945-05-26T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Lyngstad,Arne,AL,1997-2001,Kristelig Folkeparti,KrF,mann,1962-05-10T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Nistad,Astrid Marie,AMN,1997-2001,Arbeiderpartiet,A,kvinne,1938-12-09T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Høegh,Annelise,ANH,1997-2001,Høyre,H,kvinne,1948-07-26T00:00:00,2015-03-27T00:00:00,Oslo,Os,1.3,1.3,1.3
+Næss,Are,ARN,1997-2001,Kristelig Folkeparti,KrF,mann,1942-11-14T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Kristoffersen,Asmund,ASK,1997-2001,Arbeiderpartiet,A,mann,1944-11-05T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Tømmerås,Ane Sofie,AST,1997-2001,Arbeiderpartiet,A,kvinne,1966-02-18T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Blattmann,Aud,AUB,1997-2001,Arbeiderpartiet,A,kvinne,1937-09-26T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Gaundal,Aud,AUG,1997-2001,Arbeiderpartiet,A,kvinne,1949-11-10T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Wisløff Nilssen,Åse,AWN,1997-2001,Kristelig Folkeparti,KrF,kvinne,1945-07-20T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Brørby,Berit,BB,1997-2001,Arbeiderpartiet,A,kvinne,1950-12-05T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Hegna,Bent,BEH,1997-2001,Arbeiderpartiet,A,mann,1959-06-10T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Arnesen,Bendiks H.,BEHA,1997-2001,Arbeiderpartiet,A,mann,1951-06-09T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Hanssen,Bjarne Håkon,BHH,1997-2001,Arbeiderpartiet,A,mann,1962-11-01T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Hildeng,Britt,BHI,1997-2001,Arbeiderpartiet,A,kvinne,1943-04-14T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Hernæs,Bjørn,BJH,1997-2001,Høyre,H,mann,1936-11-23T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Brende,Børge,BJØB,1997-2001,Høyre,H,mann,1965-09-25T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Godal,Bjørn Tore,BTG,1997-2001,Arbeiderpartiet,A,mann,1945-01-20T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Rahm,Bror Yngve,BYR,1997-2001,Kristelig Folkeparti,KrF,mann,1955-01-04T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Hagen,Carl I.,CIH,1997-2001,Fremskrittspartiet,FrP,mann,1944-05-06T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Stensaker,Christopher,CS,1997-2001,Fremskrittspartiet,FrP,mann,1945-01-22T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Danielsen,Dag,DAD,1997-2001,Fremskrittspartiet,FrP,mann,1955-04-08T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Andersen,Dag Terje,DTA,1997-2001,Arbeiderpartiet,A,mann,1957-05-27T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Dalheim,Erik,ED,1997-2001,Arbeiderpartiet,A,mann,1940-10-04T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Solheim,Erik,EGS,1997-2001,Sosialistisk Venstreparti,SV,mann,1955-01-18T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Steensnæs,Einar,EIS,1997-2001,Kristelig Folkeparti,KrF,mann,1942-03-10T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Skarbøvik,Elsa,ELSK,1997-2001,Kristelig Folkeparti,KrF,kvinne,1948-11-03T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Skogholt,Einar Olav,EOS,1997-2001,Arbeiderpartiet,A,mann,1947-12-18T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Solberg,Erna,ES,1997-2001,Høyre,H,kvinne,1961-02-24T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Faldet,Eirin,ESF,1997-2001,Arbeiderpartiet,A,kvinne,1944-01-05T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Gundersen,Fridtjof Frank,FFG,1997-2001,Fremskrittspartiet,FrP,mann,1934-10-29T00:00:00,2011-11-11T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Marthinsen,Finn Kristian,FKM,1997-2001,Kristelig Folkeparti,KrF,mann,1946-01-17T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Breimo,Gunnar,GBR,1997-2001,Arbeiderpartiet,A,mann,1939-05-23T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Fossum,Grethe G.,GGF,1997-2001,Arbeiderpartiet,A,kvinne,1945-11-01T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Halvorsen,Gunnar,GHA,1997-2001,Arbeiderpartiet,A,mann,1945-07-24T00:00:00,2006-03-06T00:00:00,Aust-Agder,AA,1.3,1.3,1.3
+Knudsen,Grete,GK,1997-2001,Arbeiderpartiet,A,kvinne,1940-10-13T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Gjul,Gunn Karin,GKG,1997-2001,Arbeiderpartiet,A,kvinne,1967-07-26T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Kvassheim,Gunnar,GKV,1997-2001,Venstre,V,mann,1953-06-14T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Øyangen,Gunhild,GO,1997-2001,Arbeiderpartiet,A,kvinne,1947-10-31T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Restad,Gudmund,GR,1997-2001,Senterpartiet,Sp,mann,1937-12-19T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Fossli,Grethe,GRF,1997-2001,Arbeiderpartiet,A,kvinne,1954-12-21T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Skaug,Gunnar,GS,1997-2001,Arbeiderpartiet,A,mann,1940-05-25T00:00:00,2006-06-24T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Olsen,Gunn,GUO,1997-2001,Arbeiderpartiet,A,kvinne,1952-09-18T00:00:00,2013-12-27T00:00:00,Telemark,Te,1.3,1.3,1.3
+Blankenborg,Haakon,HBL,1997-2001,Arbeiderpartiet,A,mann,1955-04-08T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Johnson,Hilde Frafjord,HFJ,1997-2001,Kristelig Folkeparti,KrF,kvinne,1963-08-29T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Langeland,Hallgeir H.,HHL,1997-2001,Sosialistisk Venstreparti,SV,mann,1955-11-14T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Røsjorde,Hans J.,HJR,1997-2001,Fremskrittspartiet,FrP,mann,1941-11-11T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Solberg,Hill-Marta,HMS,1997-2001,Arbeiderpartiet,A,kvinne,1951-11-12T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Nesvik,Harald T.,HTN,1997-2001,Fremskrittspartiet,FrP,mann,1966-05-04T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Godal,Ingvald,IGO,1997-2001,Høyre,H,mann,1934-10-26T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Husøy,Inger Lise,ILH,1997-2001,Arbeiderpartiet,A,kvinne,1957-01-30T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Myrvoll,Inge,IM,1997-2001,Sosialistisk Venstreparti,SV,mann,1948-06-21T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Sørfonn,Ingebrigt S.,INGS,1997-2001,Kristelig Folkeparti,KrF,mann,1950-05-27T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Lønning,Inge,INL,1997-2001,Høyre,H,mann,1938-02-20T00:00:00,2013-03-24T00:00:00,Oslo,Os,1.3,1.3,1.3
+Stolt-Nielsen,Inger,INS,1997-2001,Høyre,H,kvinne,1943-03-05T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Kristiansen,Ivar,IVK,1997-2001,Høyre,H,mann,1956-02-18T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Østberg,Ivar,IVO,1997-2001,Kristelig Folkeparti,KrF,mann,1942-11-15T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Johnsen,Jan,JAJ,1997-2001,Høyre,H,mann,1941-07-23T00:00:00,2000-04-08T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Dale,John,JD,1997-2001,Senterpartiet,Sp,mann,1940-03-22T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Stoltenberg,Jens,JES,1997-2001,Arbeiderpartiet,A,mann,1959-03-16T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Alvheim,John I.,JIA,1997-2001,Fremskrittspartiet,FrP,mann,1930-05-21T00:00:00,2005-12-05T00:00:00,Telemark,Te,1.3,1.3,1.3
+Jakobsen,Johan J.,JJJ,1997-2001,Senterpartiet,Sp,mann,1937-04-15T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Kosmo,Jørgen,JK,1997-2001,Arbeiderpartiet,A,mann,1947-12-05T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Lilletun,Jon,JL,1997-2001,Kristelig Folkeparti,KrF,mann,1945-10-23T00:00:00,2006-08-21T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Stang,Jørn L.,JLS,1997-2001,Fremskrittspartiet,FrP,mann,1959-01-17T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Alstad,Jon Olav,JOA,1997-2001,Arbeiderpartiet,A,mann,1968-08-09T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Petersen,Jan,JP,1997-2001,Høyre,H,mann,1946-06-11T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Rasmussen,Jan Petter,JPR,1997-2001,Arbeiderpartiet,A,mann,1947-06-01T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Ringstad,Jorunn,JR,1997-2001,Senterpartiet,Sp,kvinne,1943-09-03T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Simonsen,Jan,JS,1997-2001,Fremskrittspartiet,FrP,mann,1953-03-03T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Sahl,Jan,JSA,1997-2001,Kristelig Folkeparti,KrF,mann,1950-04-20T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Sanner,Jan Tore,JTS,1997-2001,Høyre,H,mann,1965-05-06T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Økland,Kari,KAO,1997-2001,Kristelig Folkeparti,KrF,kvinne,1955-12-16T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Bekkemellem,Karita,KBO,1997-2001,Arbeiderpartiet,A,kvinne,1965-01-15T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Engebretsen,Kjell,KE,1997-2001,Arbeiderpartiet,A,mann,1941-04-29T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Svendsen,Kenneth,KES,1997-2001,Fremskrittspartiet,FrP,mann,1954-08-02T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Halvorsen,Kristin,KHA,1997-2001,Sosialistisk Venstreparti,SV,kvinne,1960-09-02T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Devold,Kristin Krohn,KKD,1997-2001,Høyre,H,kvinne,1961-08-12T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Grøndahl,Kirsti Kolle,KKG,1997-2001,Arbeiderpartiet,A,kvinne,1943-09-01T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Bondevik,Kjell Magne,KMB,1997-2001,Kristelig Folkeparti,KrF,mann,1947-09-03T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Nakkim,Kjellaug,KNA,1997-2001,Høyre,H,kvinne,1940-08-02T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Opseth,Kjell,KO,1997-2001,Arbeiderpartiet,A,mann,1936-01-02T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Schjøtt-Pedersen,Karl Eirik,KSP,1997-2001,Arbeiderpartiet,A,mann,1959-10-03T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Andersen,Karin,KAAN,1997-2001,Sosialistisk Venstreparti,SV,kvinne,1952-12-16T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Kongshaug,Leif Helge,LEK,1997-2001,Venstre,V,mann,1949-07-31T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Lie,Lars Gunnar,LGL,1997-2001,Kristelig Folkeparti,KrF,mann,1938-09-18T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Kaland,Laila,LK,1997-2001,Arbeiderpartiet,A,kvinne,1939-01-08T00:00:00,2007-12-30T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Lund,Leif,LLU,1997-2001,Arbeiderpartiet,A,mann,1942-09-24T00:00:00,2004-05-30T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Moland,Liv Marit,LMM,1997-2001,Arbeiderpartiet,A,kvinne,1948-01-15T00:00:00,2008-10-23T00:00:00,Aust-Agder,AA,1.3,1.3,1.3
+Solholm,Lodve,LOSO,1997-2001,Fremskrittspartiet,FrP,mann,1949-03-14T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Rise,Lars,LR,1997-2001,Kristelig Folkeparti,KrF,mann,1955-03-18T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Sponheim,Lars,LS,1997-2001,Venstre,V,mann,1957-05-23T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Vihovde,May Britt,MABV,1997-2001,Venstre,V,kvinne,1958-09-15T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Grimstad,May-Helen Molvær,MHG,1997-2001,Kristelig Folkeparti,KrF,kvinne,1968-01-31T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Bæivi,Mimmi,MIB,1997-2001,Arbeiderpartiet,A,kvinne,1950-06-10T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Lund,Morten,ML,1997-2001,Senterpartiet,Sp,mann,1945-01-06T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Kleppa,Magnhild Meltveit,MMK,1997-2001,Senterpartiet,Sp,kvinne,1948-11-12T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Nybakk,Marit,MN,1997-2001,Arbeiderpartiet,A,kvinne,1947-02-14T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Tingelstad,Marit,MTI,1997-2001,Senterpartiet,Sp,kvinne,1938-06-18T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Akselsen,Olav,OA,1997-2001,Arbeiderpartiet,A,mann,1965-08-28T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Starrfelt,Oddbjørg Ausdal,OAS,1997-2001,Arbeiderpartiet,A,kvinne,1948-07-22T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Dørum,Odd Einar,ODDØ,1997-2001,Venstre,V,mann,1943-10-12T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Gløtvold,Ola D.,ODG,1997-2001,Senterpartiet,Sp,mann,1949-06-01T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Eriksen,Odd,OE,1997-2001,Arbeiderpartiet,A,mann,1955-03-11T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Holten,Odd,OH,1997-2001,Kristelig Folkeparti,KrF,mann,1940-08-28T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Hedstrøm,Øystein,OHE,1997-2001,Fremskrittspartiet,FrP,mann,1946-08-07T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Brunæs,Ole Johs.,OJB,1997-2001,Høyre,H,mann,1936-02-04T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Djupedal,Øystein,OKD,1997-2001,Sosialistisk Venstreparti,SV,mann,1960-05-05T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Ballo,Olav Gunnar,OLGB,1997-2001,Sosialistisk Venstreparti,SV,mann,1956-10-22T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Nilsen,Oddvard,ON,1997-2001,Høyre,H,mann,1940-06-24T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Røtvei,Ola,OR,1997-2001,Arbeiderpartiet,A,mann,1953-11-04T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Enoksen,Odd Roger,ORE,1997-2001,Senterpartiet,Sp,mann,1954-09-25T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Lånke,Ola T.,OTL,1997-2001,Kristelig Folkeparti,KrF,mann,1948-03-18T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Vaksdal,Øyvind,OVA,1997-2001,Fremskrittspartiet,FrP,mann,1955-10-19T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Korsberg,Øyvind,OYK,1997-2001,Fremskrittspartiet,FrP,mann,1960-01-31T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Bredvold,Per Roar,PB,1997-2001,Fremskrittspartiet,FrP,mann,1957-03-05T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Monsen,Per Erik,PEM,1997-2001,Fremskrittspartiet,FrP,mann,1946-04-18T00:00:00,2008-02-16T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Width,Per Ove,PEOW,1997-2001,Fremskrittspartiet,FrP,mann,1939-03-27T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Sandberg,Per,PES,1997-2001,Fremskrittspartiet,FrP,mann,1960-02-06T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Løvik,Petter,PETL,1997-2001,Høyre,H,mann,1949-07-11T00:00:00,2007-12-03T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Foss,Per-Kristian,PKF,1997-2001,Høyre,H,mann,1950-07-19T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Gravdahl,Reidun,REIG,1997-2001,Arbeiderpartiet,A,kvinne,1948-01-12T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Kristiansen,Rune E.,REK,1997-2001,Arbeiderpartiet,A,mann,1948-10-30T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Frøiland,Ranveig,RF,1997-2001,Arbeiderpartiet,A,kvinne,1945-09-15T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Reikvam,Rolf,RHRE,1997-2001,Sosialistisk Venstreparti,SV,mann,1948-03-12T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Karlstrøm,Randi,RK,1997-2001,Kristelig Folkeparti,KrF,kvinne,1960-06-25T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Kofoed-Larsen,Rigmor,RKL,1997-2001,Kristelig Folkeparti,KrF,kvinne,1944-03-22T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Tveiten,Rita,RTV,1997-2001,Arbeiderpartiet,A,kvinne,1954-01-22T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Rui,Anne Helen,RUI,1997-2001,Arbeiderpartiet,A,kvinne,1950-10-14T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Bastesen,Steinar,SEBA,1997-2001,Tverrpolitisk Folkevalgte (Kystpartiet),TF,mann,1945-03-26T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Eng,Sigrun,SEN,1997-2001,Arbeiderpartiet,A,kvinne,1951-06-05T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Sterri,Siri Frost,SFS,1997-2001,Høyre,H,kvinne,1944-09-20T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Ludvigsen,Svein,SHL,1997-2001,Høyre,H,mann,1946-07-18T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Øye,Signe,SIO,1997-2001,Arbeiderpartiet,A,kvinne,1945-06-02T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Jensen,Siv,SIVJ,1997-2001,Fremskrittspartiet,FrP,kvinne,1969-06-01T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Brustad,Sylvia,SKB,1997-2001,Arbeiderpartiet,A,kvinne,1966-12-19T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Konglevoll,Synnøve,SKO,1997-2001,Arbeiderpartiet,A,kvinne,1972-06-16T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Myrli,Sverre,SMY,1997-2001,Arbeiderpartiet,A,mann,1971-08-26T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Hansen,Sigvald Oppebøen,SOH,1997-2001,Arbeiderpartiet,A,mann,1950-09-21T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Sjøli,Sonja Irene,SONS,1997-2001,Høyre,H,kvinne,1949-06-06T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Hoddevik,Sverre J.,SVH,1997-2001,Høyre,H,mann,1946-06-10T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Nistad,Thore A.,TAN,1997-2001,Fremskrittspartiet,FrP,mann,1949-05-23T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Johansen,Terje,TEJ,1997-2001,Venstre,V,mann,1941-08-31T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Giske,Trond,TG,1997-2001,Arbeiderpartiet,A,mann,1966-11-07T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Jagland,Thorbjørn,TJ,1997-2001,Arbeiderpartiet,A,mann,1950-11-05T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Knudsen,Terje,TK,1997-2001,Fremskrittspartiet,FrP,mann,1942-03-06T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Norvoll,Tomas,TN,1997-2001,Arbeiderpartiet,A,mann,1972-02-12T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Nymo,Tor,TNY,1997-2001,Senterpartiet,Sp,mann,1940-07-03T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Andersen,Torbjørn,TOA,1997-2001,Fremskrittspartiet,FrP,mann,1957-01-05T00:00:00,0001-01-01T00:00:00,Aust-Agder,AA,1.3,1.3,1.3
+Nordtun,Tore,TON,1997-2001,Arbeiderpartiet,A,mann,1949-09-30T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Pedersen,Torny,TP,1997-2001,Arbeiderpartiet,A,kvinne,1946-02-18T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Rudihagen,Torstein,TR,1997-2001,Arbeiderpartiet,A,mann,1951-08-14T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Helleland,Trond,TROH,1997-2001,Høyre,H,mann,1962-07-10T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Thoresen,Tom,TTH,1997-2001,Arbeiderpartiet,A,mann,1947-05-16T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Evje,Ursula,UE,1997-2001,Fremskrittspartiet,FrP,kvinne,1944-12-13T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Knudsen,Ulf Erik,UEK,1997-2001,Fremskrittspartiet,FrP,mann,1964-12-20T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Bjørnstad,Vidar,VB,1997-2001,Arbeiderpartiet,A,mann,1955-09-01T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Kleppe,Vidar,VK,1997-2001,Fremskrittspartiet,FrP,mann,1963-09-16T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Haugland,Valgerd Svarstad,VSH,1997-2001,Kristelig Folkeparti,KrF,kvinne,1956-08-23T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Sæle,Anita Apelthun,AAS,1997-2001,Kristelig Folkeparti,KrF,kvinne,1951-12-13T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Andersen,Anne Berit,ABA,2001-2005,Høyre,H,kvinne,1951-12-02T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Duesund,Åse Gunhild Woie,ADV,2001-2005,Kristelig Folkeparti,KrF,kvinne,1944-04-18T00:00:00,0001-01-01T00:00:00,Aust-Agder,AA,1.3,1.3,1.3
+Sortevik,Arne,AESO,2001-2005,Fremskrittspartiet,FrP,mann,1947-03-12T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Gabrielsen,Ansgar,AG,2001-2005,Høyre,H,mann,1955-05-21T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Valle,Ågot,AGV,2001-2005,Sosialistisk Venstreparti,SV,kvinne,1945-05-26T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Kvakkestad,André,AK,2001-2005,Fremskrittspartiet,FrP,mann,1971-10-28T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Lyngstad,Arne,AL,2001-2005,Kristelig Folkeparti,KrF,mann,1962-05-10T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Lysbakken,Audun,ALYS,2001-2005,Sosialistisk Venstreparti,SV,mann,1977-09-30T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Rafiq,Afshan,AR,2001-2005,Høyre,H,kvinne,1975-02-25T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Elvik,Åsa,ASAE,2001-2005,Sosialistisk Venstreparti,SV,kvinne,1979-01-12T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Kristoffersen,Asmund,ASK,2001-2005,Arbeiderpartiet,A,mann,1944-11-05T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Gaundal,Aud,AUG,2001-2005,Arbeiderpartiet,A,kvinne,1949-11-10T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Wisløff Nilssen,Åse,AWN,2001-2005,Kristelig Folkeparti,KrF,kvinne,1945-07-20T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Brørby,Berit,BB,2001-2005,Arbeiderpartiet,A,kvinne,1950-12-05T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Arnesen,Bendiks H.,BEHA,2001-2005,Arbeiderpartiet,A,mann,1951-06-09T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Hundhammer,Beate Heieren,BEHH,2001-2005,Høyre,H,kvinne,1968-09-24T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Høie,Bent,BENH,2001-2005,Høyre,H,mann,1971-05-04T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Hanssen,Bjarne Håkon,BHH,2001-2005,Arbeiderpartiet,A,mann,1962-11-01T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Hildeng,Britt,BHI,2001-2005,Arbeiderpartiet,A,kvinne,1943-04-14T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Jacobsen,Bjørn,BJ,2001-2005,Sosialistisk Venstreparti,SV,mann,1960-06-11T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Froyn,Bjørgulv,BJFR,2001-2005,Arbeiderpartiet,A,mann,1945-09-23T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Hernæs,Bjørn,BJH,2001-2005,Høyre,H,mann,1936-11-23T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Tørresdal,Bjørg,BJT,2001-2005,Kristelig Folkeparti,KrF,kvinne,1958-09-24T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Brende,Børge,BJØB,2001-2005,Høyre,H,mann,1965-09-25T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Rahm,Bror Yngve,BYR,2001-2005,Kristelig Folkeparti,KrF,mann,1955-01-04T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Hagen,Carl I.,CIH,2001-2005,Fremskrittspartiet,FrP,mann,1944-05-06T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Stensaker,Christopher,CS,2001-2005,Fremskrittspartiet,FrP,mann,1945-01-22T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Eriksen,Dagrun,DE,2001-2005,Kristelig Folkeparti,KrF,kvinne,1971-06-28T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Steensnæs,Einar,EIS,2001-2005,Kristelig Folkeparti,KrF,mann,1942-03-10T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Nørve,Elisabeth Røbekk,ELN,2001-2005,Høyre,H,kvinne,1951-03-29T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Skarbøvik,Elsa,ELSK,2001-2005,Kristelig Folkeparti,KrF,kvinne,1948-11-03T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Solberg,Erna,ES,2001-2005,Høyre,H,kvinne,1961-02-24T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Faldet,Eirin,ESF,2001-2005,Arbeiderpartiet,A,kvinne,1944-01-05T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Øveraas,Eli Sollied,ESO,2001-2005,Senterpartiet,Sp,kvinne,1949-08-15T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Nielsen,Eva M.,EVNI,2001-2005,Arbeiderpartiet,A,kvinne,1950-03-07T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Marthinsen,Finn Kristian,FKM,2001-2005,Kristelig Folkeparti,KrF,mann,1946-01-17T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Vallersnes,Finn Martin,FMV,2001-2005,Høyre,H,mann,1945-12-27T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Hansen,Geir-Ketil,GEHN,2001-2005,Sosialistisk Venstreparti,SV,mann,1956-03-13T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Halvorsen,Gunnar,GHA,2001-2005,Arbeiderpartiet,A,mann,1945-07-24T00:00:00,2006-03-06T00:00:00,Aust-Agder,AA,1.3,1.3,1.3
+Hagesæter,Gjermund,GJH,2001-2005,Fremskrittspartiet,FrP,mann,1960-12-12T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Gjul,Gunn Karin,GKG,2001-2005,Arbeiderpartiet,A,kvinne,1967-07-26T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Øyangen,Gunhild,GO,2001-2005,Arbeiderpartiet,A,kvinne,1947-10-31T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Fossli,Grethe,GRF,2001-2005,Arbeiderpartiet,A,kvinne,1954-12-21T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Olsen,Gunn,GUO,2001-2005,Arbeiderpartiet,A,kvinne,1952-09-18T00:00:00,2013-12-27T00:00:00,Telemark,Te,1.3,1.3,1.3
+Blankenborg,Haakon,HBL,2001-2005,Arbeiderpartiet,A,mann,1955-04-08T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Holmås,Heikki Eidsvoll,HEH,2001-2005,Sosialistisk Venstreparti,SV,mann,1972-06-28T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Sørensen,Heidi,HEIS,2001-2005,Sosialistisk Venstreparti,SV,kvinne,1970-02-14T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Røys,Heidi Grande,HGR,2001-2005,Sosialistisk Venstreparti,SV,kvinne,1967-05-06T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Langeland,Hallgeir H.,HHL,2001-2005,Sosialistisk Venstreparti,SV,mann,1955-11-14T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Hogsnes,Hans Kristian,HKH,2001-2005,Høyre,H,mann,1954-10-17T00:00:00,2010-12-30T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Larssen,Heidi,HLA,2001-2005,Høyre,H,kvinne,1951-11-08T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Solberg,Hill-Marta,HMS,2001-2005,Arbeiderpartiet,A,kvinne,1951-11-12T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Rød,Henrik,HR,2001-2005,Fremskrittspartiet,FrP,mann,1975-09-14T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Nesvik,Harald T.,HTN,2001-2005,Fremskrittspartiet,FrP,mann,1966-05-04T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Thorkildsen,Inga Marte,IMT,2001-2005,Sosialistisk Venstreparti,SV,kvinne,1976-07-02T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Ljones,Ingmar,INGL,2001-2005,Kristelig Folkeparti,KrF,mann,1943-12-03T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Ryan,Inge,INGR,2001-2005,Sosialistisk Venstreparti,SV,mann,1956-08-15T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Sørfonn,Ingebrigt S.,INGS,2001-2005,Kristelig Folkeparti,KrF,mann,1950-05-27T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Lønning,Inge,INL,2001-2005,Høyre,H,mann,1938-02-20T00:00:00,2013-03-24T00:00:00,Oslo,Os,1.3,1.3,1.3
+Malvik,Ingvild Vaggen,INVM,2001-2005,Sosialistisk Venstreparti,SV,kvinne,1971-04-03T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Schou,Ingjerd,ISC,2001-2005,Høyre,H,kvinne,1955-01-20T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Enger,Inger S.,ISE,2001-2005,Senterpartiet,Sp,kvinne,1948-07-06T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Kristiansen,Ivar,IVK,2001-2005,Høyre,H,mann,1956-02-18T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Østberg,Ivar,IVO,2001-2005,Kristelig Folkeparti,KrF,mann,1942-11-15T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Ellingsen,Jan Arild,JAE,2001-2005,Fremskrittspartiet,FrP,mann,1958-10-09T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Olsen,Jan Olav,JAOO,2001-2005,Høyre,H,mann,1950-09-29T00:00:00,0001-01-01T00:00:00,Aust-Agder,AA,1.3,1.3,1.3
+Stoltenberg,Jens,JES,2001-2005,Arbeiderpartiet,A,mann,1959-03-16T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Alvheim,John I.,JIA,2001-2005,Fremskrittspartiet,FrP,mann,1930-05-21T00:00:00,2005-12-05T00:00:00,Telemark,Te,1.3,1.3,1.3
+Kosmo,Jørgen,JK,2001-2005,Arbeiderpartiet,A,mann,1947-12-05T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Lilletun,Jon,JL,2001-2005,Kristelig Folkeparti,KrF,mann,1945-10-23T00:00:00,2006-08-21T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Petersen,Jan,JP,2001-2005,Høyre,H,mann,1946-06-11T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Ringstad,Jorunn,JR,2001-2005,Senterpartiet,Sp,kvinne,1943-09-03T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Simonsen,Jan,JS,2001-2005,Fremskrittspartiet,FrP,mann,1953-03-03T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Sahl,Jan,JSA,2001-2005,Kristelig Folkeparti,KrF,mann,1950-04-20T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Sanner,Jan Tore,JTS,2001-2005,Høyre,H,mann,1965-05-06T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Christiansen,Julie,JULC,2001-2005,Høyre,H,kvinne,1968-03-19T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Bekkemellem,Karita,KBO,2001-2005,Arbeiderpartiet,A,kvinne,1965-01-15T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Engebretsen,Kjell,KE,2001-2005,Arbeiderpartiet,A,mann,1941-04-29T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Svendsen,Kenneth,KES,2001-2005,Fremskrittspartiet,FrP,mann,1954-08-02T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Halvorsen,Kristin,KHA,2001-2005,Sosialistisk Venstreparti,SV,kvinne,1960-09-02T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Bjørklund,Kjetil,KJEB,2001-2005,Sosialistisk Venstreparti,SV,mann,1967-03-18T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Devold,Kristin Krohn,KKD,2001-2005,Høyre,H,kvinne,1961-08-12T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Holmberg,Kari Lise,KLH,2001-2005,Høyre,H,kvinne,1951-09-07T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Bondevik,Kjell Magne,KMB,2001-2005,Kristelig Folkeparti,KrF,mann,1947-09-03T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Storberget,Knut,KNUS,2001-2005,Arbeiderpartiet,A,mann,1964-10-06T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Schjøtt-Pedersen,Karl Eirik,KSP,2001-2005,Arbeiderpartiet,A,mann,1959-10-03T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Woldseth,Karin S.,KSW,2001-2005,Fremskrittspartiet,FrP,kvinne,1954-08-09T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Andersen,Karin,KAAN,2001-2005,Sosialistisk Venstreparti,SV,kvinne,1952-12-16T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Jensen,Lena,LEJ,2001-2005,Sosialistisk Venstreparti,SV,kvinne,1973-01-29T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Onarheim,Leif Frode,LFO,2001-2005,Høyre,H,mann,1934-08-23T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Lund,Leif,LLU,2001-2005,Arbeiderpartiet,A,mann,1942-09-24T00:00:00,2004-05-30T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Solholm,Lodve,LOSO,2001-2005,Fremskrittspartiet,FrP,mann,1949-03-14T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Rise,Lars,LR,2001-2005,Kristelig Folkeparti,KrF,mann,1955-03-18T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Sponheim,Lars,LS,2001-2005,Venstre,V,mann,1957-05-23T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Aarøen,Magne,MAGA,2001-2005,Kristelig Folkeparti,KrF,mann,1944-04-28T00:00:00,2003-06-27T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Engeset,Martin,MARE,2001-2005,Høyre,H,mann,1964-07-20T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Hansen,May,MEH,2001-2005,Sosialistisk Venstreparti,SV,kvinne,1953-05-08T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Grimstad,May-Helen Molvær,MHG,2001-2005,Kristelig Folkeparti,KrF,kvinne,1968-01-31T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Momyr,Michael,MICM,2001-2005,Høyre,H,mann,1956-08-08T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Lund,Morten,ML,2001-2005,Senterpartiet,Sp,mann,1945-01-06T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Bergo,Magnar Lund,MLB,2001-2005,Sosialistisk Venstreparti,SV,mann,1949-02-27T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Kleppa,Magnhild Meltveit,MMK,2001-2005,Senterpartiet,Sp,kvinne,1948-11-12T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Nybakk,Marit,MN,2001-2005,Arbeiderpartiet,A,kvinne,1947-02-14T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Høglund,Morten,MORH,2001-2005,Fremskrittspartiet,FrP,mann,1965-07-16T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Arnstad,Marit,MAA,2001-2005,Senterpartiet,Sp,kvinne,1962-05-04T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Akselsen,Olav,OA,2001-2005,Arbeiderpartiet,A,mann,1965-08-28T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Starrfelt,Oddbjørg Ausdal,OAS,2001-2005,Arbeiderpartiet,A,kvinne,1948-07-22T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Dørum,Odd Einar,ODDØ,2001-2005,Venstre,V,mann,1943-10-12T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Gløtvold,Ola D.,ODG,2001-2005,Senterpartiet,Sp,mann,1949-06-01T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Holten,Odd,OH,2001-2005,Kristelig Folkeparti,KrF,mann,1940-08-28T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Hedstrøm,Øystein,OHE,2001-2005,Fremskrittspartiet,FrP,mann,1946-08-07T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Djupedal,Øystein,OKD,2001-2005,Sosialistisk Venstreparti,SV,mann,1960-05-05T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Thommessen,Olemic,OLET,2001-2005,Høyre,H,mann,1956-04-18T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Ballo,Olav Gunnar,OLGB,2001-2005,Sosialistisk Venstreparti,SV,mann,1956-10-22T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Nilsen,Oddvard,ON,2001-2005,Høyre,H,mann,1940-06-24T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Enoksen,Odd Roger,ORE,2001-2005,Senterpartiet,Sp,mann,1954-09-25T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Lånke,Ola T.,OTL,2001-2005,Kristelig Folkeparti,KrF,mann,1948-03-18T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Vaksdal,Øyvind,OVA,2001-2005,Fremskrittspartiet,FrP,mann,1955-10-19T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Korsberg,Øyvind,OYK,2001-2005,Fremskrittspartiet,FrP,mann,1960-01-31T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Bredvold,Per Roar,PB,2001-2005,Fremskrittspartiet,FrP,mann,1957-03-05T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Monsen,Per Erik,PEM,2001-2005,Fremskrittspartiet,FrP,mann,1946-04-18T00:00:00,2008-02-16T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Width,Per Ove,PEOW,2001-2005,Fremskrittspartiet,FrP,mann,1939-03-27T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Sandberg,Per,PES,2001-2005,Fremskrittspartiet,FrP,mann,1960-02-06T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Løvik,Petter,PETL,2001-2005,Høyre,H,mann,1949-07-11T00:00:00,2007-12-03T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Foss,Per-Kristian,PKF,2001-2005,Høyre,H,mann,1950-07-19T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Frøiland,Ranveig,RF,2001-2005,Arbeiderpartiet,A,kvinne,1945-09-15T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Reikvam,Rolf,RHRE,2001-2005,Sosialistisk Venstreparti,SV,mann,1948-03-12T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Robertsen,Raymond,RRO,2001-2005,Høyre,H,mann,1974-09-12T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Sandal,Reidar,RS,2001-2005,Arbeiderpartiet,A,mann,1949-03-24T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Skjælaaen,Rune J.,RSK,2001-2005,Senterpartiet,Sp,mann,1954-01-23T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Klungland,Rolf Terje,RTK,2001-2005,Arbeiderpartiet,A,mann,1963-07-06T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Rui,Anne Helen,RUI,2001-2005,Arbeiderpartiet,A,kvinne,1950-10-14T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Flåtten,Svein,SAF,2001-2005,Høyre,H,mann,1944-10-14T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Arnøy,Siri Hall,SAR,2001-2005,Sosialistisk Venstreparti,SV,kvinne,1978-11-28T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Bastesen,Steinar,SEBA,2001-2005,Kystpartiet,Kp,mann,1945-03-26T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Eng,Sigrun,SEN,2001-2005,Arbeiderpartiet,A,kvinne,1951-06-05T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Voie,Søren Fredrik,SFV,2001-2005,Høyre,H,mann,1949-03-20T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Molvik,Sigbjørn,SIM,2001-2005,Sosialistisk Venstreparti,SV,mann,1950-09-04T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Øye,Signe,SIO,2001-2005,Arbeiderpartiet,A,kvinne,1945-06-02T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Jensen,Siv,SIVJ,2001-2005,Fremskrittspartiet,FrP,kvinne,1969-06-01T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Brustad,Sylvia,SKB,2001-2005,Arbeiderpartiet,A,kvinne,1966-12-19T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Konglevoll,Synnøve,SKO,2001-2005,Arbeiderpartiet,A,kvinne,1972-06-16T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Meling,Siri A.,SME,2001-2005,Høyre,H,kvinne,1963-02-08T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Hansen,Sigvald Oppebøen,SOH,2001-2005,Arbeiderpartiet,A,mann,1950-09-21T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Sjøli,Sonja Irene,SONS,2001-2005,Høyre,H,kvinne,1949-06-06T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Hansen,Svein Roald,SRH,2001-2005,Arbeiderpartiet,A,mann,1949-08-20T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Hoddevik,Sverre J.,SVH,2001-2005,Høyre,H,mann,1946-06-10T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Nistad,Thore A.,TAN,2001-2005,Fremskrittspartiet,FrP,mann,1949-05-23T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Strøm,Tor-Arne,TAS,2001-2005,Arbeiderpartiet,A,mann,1952-05-06T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Giske,Trond,TG,2001-2005,Arbeiderpartiet,A,mann,1966-11-07T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Hansen,Torbjørn,THA,2001-2005,Høyre,H,mann,1972-08-13T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Jagland,Thorbjørn,TJ,2001-2005,Arbeiderpartiet,A,mann,1950-11-05T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Andersen,Torbjørn,TOA,2001-2005,Fremskrittspartiet,FrP,mann,1957-01-05T00:00:00,0001-01-01T00:00:00,Aust-Agder,AA,1.3,1.3,1.3
+Nordtun,Tore,TON,2001-2005,Arbeiderpartiet,A,mann,1949-09-30T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Pedersen,Torny,TP,2001-2005,Arbeiderpartiet,A,kvinne,1946-02-18T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Rudihagen,Torstein,TR,2001-2005,Arbeiderpartiet,A,mann,1951-08-14T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Helleland,Trond,TROH,2001-2005,Høyre,H,mann,1962-07-10T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Evje,Ursula,UE,2001-2005,Fremskrittspartiet,FrP,kvinne,1944-12-13T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Knudsen,Ulf Erik,UEK,2001-2005,Fremskrittspartiet,FrP,mann,1964-12-20T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Bjørnstad,Vidar,VB,2001-2005,Arbeiderpartiet,A,mann,1955-09-01T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Haugland,Valgerd Svarstad,VSH,2001-2005,Kristelig Folkeparti,KrF,kvinne,1956-08-23T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Halleraker,Øyvind,ØYVH,2001-2005,Høyre,H,mann,1951-10-27T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Konradsen,Åge,ÅKO,2001-2005,Høyre,H,mann,1954-09-28T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Haga,Åslaug,AAMH,2001-2005,Senterpartiet,Sp,kvinne,1959-10-21T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Sæle,Anita Apelthun,AAS,2001-2005,Kristelig Folkeparti,KrF,kvinne,1951-12-13T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Dahl,André Oktay,ADA,2005-2009,Høyre,H,mann,1975-07-07T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Duesund,Åse Gunhild Woie,ADV,2005-2009,Kristelig Folkeparti,KrF,kvinne,1944-04-18T00:00:00,0001-01-01T00:00:00,Aust-Agder,AA,1.3,1.3,1.3
+Sortevik,Arne,AESO,2005-2009,Fremskrittspartiet,FrP,mann,1947-03-12T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Starheim,Åge,AGES,2005-2009,Fremskrittspartiet,FrP,mann,1946-05-23T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Valle,Ågot,AGV,2005-2009,Sosialistisk Venstreparti,SV,kvinne,1945-05-26T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Samuelsen,Alf Ivar,AIS,2005-2009,Senterpartiet,Sp,mann,1942-02-28T00:00:00,2014-09-16T00:00:00,Nordland,No,1.3,1.3,1.3
+Ljunggren,Anna,ALJ,2005-2009,Arbeiderpartiet,A,kvinne,1984-06-13T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Anundsen,Anders,ANA,2005-2009,Fremskrittspartiet,FrP,mann,1975-11-17T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Bjørnflaten,Anne Marit,ANMB,2005-2009,Arbeiderpartiet,A,kvinne,1969-06-18T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Larsen,Anne Margrethe,ANML,2005-2009,Venstre,V,kvinne,1950-05-28T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Huitfeldt,Anniken,ANNH,2005-2009,Arbeiderpartiet,A,kvinne,1969-11-29T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Skjelstad,André N.,ANNS,2005-2009,Venstre,V,mann,1965-08-27T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Strøm-Erichsen,Anne-Grete,ANS,2005-2009,Arbeiderpartiet,A,kvinne,1949-10-21T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Elvik,Åsa,ASAE,2005-2009,Sosialistisk Venstreparti,SV,kvinne,1979-01-12T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Michaelsen,Åse,ASC,2005-2009,Fremskrittspartiet,FrP,kvinne,1960-06-04T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Kristoffersen,Asmund,ASK,2005-2009,Arbeiderpartiet,A,mann,1944-11-05T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Trettebergstuen,Anette,ATR,2005-2009,Arbeiderpartiet,A,kvinne,1981-05-25T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Brørby,Berit,BB,2005-2009,Arbeiderpartiet,A,kvinne,1950-12-05T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Arnesen,Bendiks H.,BEHA,2005-2009,Arbeiderpartiet,A,mann,1951-06-09T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Høie,Bent,BENH,2005-2009,Høyre,H,mann,1971-05-04T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Hanssen,Bjarne Håkon,BHH,2005-2009,Arbeiderpartiet,A,mann,1962-11-01T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Hildeng,Britt,BHI,2005-2009,Arbeiderpartiet,A,kvinne,1943-04-14T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Jacobsen,Bjørn,BJ,2005-2009,Sosialistisk Venstreparti,SV,mann,1960-06-11T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Tørresdal,Bjørg,BJT,2005-2009,Kristelig Folkeparti,KrF,kvinne,1958-09-24T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Brende,Børge,BJØB,2005-2009,Høyre,H,mann,1965-09-25T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Tenden,Borghild,BT,2005-2009,Venstre,V,kvinne,1951-06-23T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Hoksrud,Bård,BÅH,2005-2009,Fremskrittspartiet,FrP,mann,1973-03-26T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Hagen,Carl I.,CIH,2005-2009,Fremskrittspartiet,FrP,mann,1944-05-06T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Tybring-Gjedde,Christian,CT,2005-2009,Fremskrittspartiet,FrP,mann,1963-08-08T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Høybråten,Dagfinn,DH,2005-2009,Kristelig Folkeparti,KrF,mann,1957-12-02T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Andersen,Dag Terje,DTA,2005-2009,Arbeiderpartiet,A,mann,1957-05-27T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Aspaker,Elisabeth,EAS,2005-2009,Høyre,H,kvinne,1962-10-16T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Johnsen,Espen Granberg,EJ,2005-2009,Arbeiderpartiet,A,mann,1976-10-17T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Sund,Eirin,EKS,2005-2009,Arbeiderpartiet,A,kvinne,1967-04-06T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Solberg,Erna,ES,2005-2009,Høyre,H,kvinne,1961-02-24T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Faldet,Eirin,ESF,2005-2009,Arbeiderpartiet,A,kvinne,1944-01-05T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Øveraas,Eli Sollied,ESO,2005-2009,Senterpartiet,Sp,kvinne,1949-08-15T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Hansen,Eva Kristin,EVH,2005-2009,Arbeiderpartiet,A,kvinne,1973-03-05T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Nielsen,Eva M.,EVNI,2005-2009,Arbeiderpartiet,A,kvinne,1950-03-07T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Vallersnes,Finn Martin,FMV,2005-2009,Høyre,H,mann,1945-12-27T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+de Ruiter,Freddy,FR,2005-2009,Arbeiderpartiet,A,mann,1969-04-04T00:00:00,0001-01-01T00:00:00,Aust-Agder,AA,1.3,1.3,1.3
+Gundersen,Gunnar,GAG,2005-2009,Høyre,H,mann,1956-05-21T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Hagesæter,Gjermund,GJH,2005-2009,Fremskrittspartiet,FrP,mann,1960-12-12T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Kristoffersen,Gerd Janne,GJK,2005-2009,Arbeiderpartiet,A,kvinne,1952-11-18T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Gjul,Gunn Karin,GKG,2005-2009,Arbeiderpartiet,A,kvinne,1967-07-26T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Kvassheim,Gunnar,GKV,2005-2009,Venstre,V,mann,1953-06-14T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Eldegard,Gunvor,GUE,2005-2009,Arbeiderpartiet,A,kvinne,1963-04-14T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Ludvigsen,Gunvald,GUNL,2005-2009,Venstre,V,mann,1949-02-15T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Olsen,Gunn,GUO,2005-2009,Arbeiderpartiet,A,kvinne,1952-09-18T00:00:00,2013-12-27T00:00:00,Telemark,Te,1.3,1.3,1.3
+Asmyhr,Hans Frode Kielland,HAFA,2005-2009,Fremskrittspartiet,FrP,mann,1970-02-26T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Holmås,Heikki Eidsvoll,HEH,2005-2009,Sosialistisk Venstreparti,SV,mann,1972-06-28T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Langeland,Hallgeir H.,HHL,2005-2009,Sosialistisk Venstreparti,SV,mann,1955-11-14T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Magnusson,Hilde,HML,2005-2009,Arbeiderpartiet,A,kvinne,1970-06-11T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Solberg,Hill-Marta,HMS,2005-2009,Arbeiderpartiet,A,kvinne,1951-11-12T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Syversen,Hans Olav,HOSY,2005-2009,Kristelig Folkeparti,KrF,mann,1966-11-25T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Skumsvoll,Henning,HSK,2005-2009,Fremskrittspartiet,FrP,mann,1947-03-15T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Nesvik,Harald T.,HTN,2005-2009,Fremskrittspartiet,FrP,mann,1966-05-04T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Thomsen,Ib,IBTH,2005-2009,Fremskrittspartiet,FrP,mann,1961-10-06T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Heggø,Ingrid,IHE,2005-2009,Arbeiderpartiet,A,kvinne,1961-08-12T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Løite,Inger,IHL,2005-2009,Arbeiderpartiet,A,kvinne,1958-09-27T00:00:00,0001-01-01T00:00:00,Aust-Agder,AA,1.3,1.3,1.3
+Johansen,Irene,IJ,2005-2009,Arbeiderpartiet,A,kvinne,1961-01-07T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Søreide,Ine M. Eriksen,IME,2005-2009,Høyre,H,kvinne,1976-05-02T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Thorkildsen,Inga Marte,IMT,2005-2009,Sosialistisk Venstreparti,SV,kvinne,1976-07-02T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Ryan,Inge,INGR,2005-2009,Sosialistisk Venstreparti,SV,mann,1956-08-15T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Sørfonn,Ingebrigt S.,INGS,2005-2009,Kristelig Folkeparti,KrF,mann,1950-05-27T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Lønning,Inge,INL,2005-2009,Høyre,H,mann,1938-02-20T00:00:00,2013-03-24T00:00:00,Oslo,Os,1.3,1.3,1.3
+Enger,Inger S.,ISE,2005-2009,Senterpartiet,Sp,kvinne,1948-07-06T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Kristiansen,Ivar,IVK,2005-2009,Høyre,H,mann,1956-02-18T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Ellingsen,Jan Arild,JAE,2005-2009,Fremskrittspartiet,FrP,mann,1958-10-09T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Asphjell,Jorodd,JASP,2005-2009,Arbeiderpartiet,A,mann,1960-07-17T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Bøhler,Jan,JBO,2005-2009,Arbeiderpartiet,A,mann,1952-03-01T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Stoltenberg,Jens,JES,2005-2009,Arbeiderpartiet,A,mann,1959-03-16T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Fredriksen,Jan-Henrik,JF,2005-2009,Fremskrittspartiet,FrP,mann,1956-10-02T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Rytman,Jørund,JHR,2005-2009,Fremskrittspartiet,FrP,mann,1977-05-04T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Lilletun,Jon,JL,2005-2009,Kristelig Folkeparti,KrF,mann,1945-10-23T00:00:00,2006-08-21T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Gåsvatn,Jon Jæger,JONG,2005-2009,Fremskrittspartiet,FrP,mann,1954-06-19T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Petersen,Jan,JP,2005-2009,Høyre,H,mann,1946-06-11T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Sahl,Jan,JSA,2005-2009,Kristelig Folkeparti,KrF,mann,1950-04-20T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Sanner,Jan Tore,JTS,2005-2009,Høyre,H,mann,1965-05-06T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Bekkemellem,Karita,KBO,2005-2009,Arbeiderpartiet,A,kvinne,1965-01-15T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Svendsen,Kenneth,KES,2005-2009,Fremskrittspartiet,FrP,mann,1954-08-02T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Solvik-Olsen,Ketil,KETS,2005-2009,Fremskrittspartiet,FrP,mann,1972-02-14T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Fostervold,Kåre,KFOS,2005-2009,Fremskrittspartiet,FrP,mann,1969-10-10T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Halvorsen,Kristin,KHA,2005-2009,Sosialistisk Venstreparti,SV,kvinne,1960-09-02T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Kjos,Kari Kjønaas,KKK,2005-2009,Fremskrittspartiet,FrP,kvinne,1962-01-25T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Holmberg,Kari Lise,KLH,2005-2009,Høyre,H,kvinne,1951-09-07T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Storberget,Knut,KNUS,2005-2009,Arbeiderpartiet,A,mann,1964-10-06T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Schjøtt-Pedersen,Karl Eirik,KSP,2005-2009,Arbeiderpartiet,A,mann,1959-10-03T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Woldseth,Karin S.,KSW,2005-2009,Fremskrittspartiet,FrP,kvinne,1954-08-09T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Andersen,Karin,KAAN,2005-2009,Sosialistisk Venstreparti,SV,kvinne,1952-12-16T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Brekk,Lars Peder,LAPB,2005-2009,Senterpartiet,Sp,mann,1955-10-08T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Dåvøy,Laila,LD,2005-2009,Kristelig Folkeparti,KrF,kvinne,1948-08-11T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Jensen,Lena,LEJ,2005-2009,Sosialistisk Venstreparti,SV,kvinne,1973-01-29T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Kongshaug,Leif Helge,LEK,2005-2009,Venstre,V,mann,1949-07-31T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Hjemdal,Line Henriette,LHH,2005-2009,Kristelig Folkeparti,KrF,kvinne,1971-10-18T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Christoffersen,Lise,LIC,2005-2009,Arbeiderpartiet,A,kvinne,1955-08-05T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Solholm,Lodve,LOSO,2005-2009,Fremskrittspartiet,FrP,mann,1949-03-14T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Sponheim,Lars,LS,2005-2009,Venstre,V,mann,1957-05-23T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Navarsete,Liv Signe,LSN,2005-2009,Senterpartiet,Sp,kvinne,1958-10-23T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Marthinsen,Marianne,MAM,2005-2009,Arbeiderpartiet,A,kvinne,1980-08-25T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Engeset,Martin,MARE,2005-2009,Høyre,H,mann,1964-07-20T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Hansen,May,MEH,2005-2009,Sosialistisk Venstreparti,SV,kvinne,1953-05-08T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Grimstad,May-Helen Molvær,MHG,2005-2009,Kristelig Folkeparti,KrF,kvinne,1968-01-31T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Bergo,Magnar Lund,MLB,2005-2009,Sosialistisk Venstreparti,SV,mann,1949-02-27T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Kleppa,Magnhild Meltveit,MMK,2005-2009,Senterpartiet,Sp,kvinne,1948-11-12T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Nybakk,Marit,MN,2005-2009,Arbeiderpartiet,A,kvinne,1947-02-14T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Høglund,Morten,MORH,2005-2009,Fremskrittspartiet,FrP,mann,1965-07-16T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Aasen,Marianne,MAAA,2005-2009,Arbeiderpartiet,A,kvinne,1967-02-21T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Akselsen,Olav,OA,2005-2009,Arbeiderpartiet,A,mann,1965-08-28T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Moe,Ola Borten,OBM,2005-2009,Senterpartiet,Sp,mann,1976-06-06T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Dørum,Odd Einar,ODDØ,2005-2009,Venstre,V,mann,1943-10-12T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Djupedal,Øystein,OKD,2005-2009,Sosialistisk Venstreparti,SV,mann,1960-05-05T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Thommessen,Olemic,OLET,2005-2009,Høyre,H,mann,1956-04-18T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Ballo,Olav Gunnar,OLGB,2005-2009,Sosialistisk Venstreparti,SV,mann,1956-10-22T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Lånke,Ola T.,OTL,2005-2009,Kristelig Folkeparti,KrF,mann,1948-03-18T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Vaksdal,Øyvind,OVA,2005-2009,Fremskrittspartiet,FrP,mann,1955-10-19T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Korsberg,Øyvind,OYK,2005-2009,Fremskrittspartiet,FrP,mann,1960-01-31T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Bredvold,Per Roar,PB,2005-2009,Fremskrittspartiet,FrP,mann,1957-03-05T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Gitmark,Peter Skovholt,PEG,2005-2009,Høyre,H,mann,1977-04-15T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Width,Per Ove,PEOW,2005-2009,Fremskrittspartiet,FrP,mann,1939-03-27T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Sandberg,Per,PES,2005-2009,Fremskrittspartiet,FrP,mann,1960-02-06T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Løvik,Petter,PETL,2005-2009,Høyre,H,mann,1949-07-11T00:00:00,2007-12-03T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Foss,Per-Kristian,PKF,2005-2009,Høyre,H,mann,1950-07-19T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Lundteigen,Per Olaf,POL,2005-2009,Senterpartiet,Sp,mann,1953-04-18T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Henriksen,Per Rune,PRH,2005-2009,Arbeiderpartiet,A,mann,1960-03-14T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Amundsen,Per-Willy,PTA,2005-2009,Fremskrittspartiet,FrP,mann,1971-01-21T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Eriksson,Robert,RE,2005-2009,Fremskrittspartiet,FrP,mann,1974-04-23T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Reikvam,Rolf,RHRE,2005-2009,Sosialistisk Venstreparti,SV,mann,1948-03-12T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Sandal,Reidar,RS,2005-2009,Arbeiderpartiet,A,mann,1949-03-24T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Skjælaaen,Rune J.,RSK,2005-2009,Senterpartiet,Sp,mann,1954-01-23T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Klungland,Rolf Terje,RTK,2005-2009,Arbeiderpartiet,A,mann,1963-07-06T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Flåtten,Svein,SAF,2005-2009,Høyre,H,mann,1944-10-14T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Eng,Sigrun,SEN,2005-2009,Arbeiderpartiet,A,kvinne,1951-06-05T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Horne,Solveig,SHK,2005-2009,Fremskrittspartiet,FrP,kvinne,1969-01-12T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Øye,Signe,SIO,2005-2009,Arbeiderpartiet,A,kvinne,1945-06-02T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Jensen,Siv,SIVJ,2005-2009,Fremskrittspartiet,FrP,kvinne,1969-06-01T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Brustad,Sylvia,SKB,2005-2009,Arbeiderpartiet,A,kvinne,1966-12-19T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Myrli,Sverre,SMY,2005-2009,Arbeiderpartiet,A,mann,1971-08-26T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Hansen,Sigvald Oppebøen,SOH,2005-2009,Arbeiderpartiet,A,mann,1950-09-21T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Mandt,Sonja,SOM,2005-2009,Arbeiderpartiet,A,kvinne,1960-03-29T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Sjøli,Sonja Irene,SONS,2005-2009,Høyre,H,kvinne,1949-06-06T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Hansen,Svein Roald,SRH,2005-2009,Arbeiderpartiet,A,mann,1949-08-20T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Gullvåg,Steinar,STEG,2005-2009,Arbeiderpartiet,A,mann,1946-10-27T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Khan,Saera,STK,2005-2009,Arbeiderpartiet,A,kvinne,1979-04-23T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Lien,Tord,TALI,2005-2009,Fremskrittspartiet,FrP,mann,1975-09-10T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Nistad,Thore A.,TAN,2005-2009,Fremskrittspartiet,FrP,mann,1949-05-23T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Strøm,Tor-Arne,TAS,2005-2009,Arbeiderpartiet,A,mann,1952-05-06T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Aasland,Terje,TELA,2005-2009,Arbeiderpartiet,A,mann,1965-02-15T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Giske,Trond,TG,2005-2009,Arbeiderpartiet,A,mann,1966-11-07T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Hansen,Torbjørn,THA,2005-2009,Høyre,H,mann,1972-08-13T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Jagland,Thorbjørn,TJ,2005-2009,Arbeiderpartiet,A,mann,1950-11-05T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Knutsen,Tove Karoline,TKK,2005-2009,Arbeiderpartiet,A,kvinne,1951-01-14T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Micaelsen,Torgeir,TMI,2005-2009,Arbeiderpartiet,A,mann,1979-05-20T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Vedum,Trygve Slagsvold,TMV,2005-2009,Senterpartiet,Sp,mann,1978-12-01T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Opheim,Torfinn,TO,2005-2009,Arbeiderpartiet,A,mann,1961-04-12T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Andersen,Torbjørn,TOA,2005-2009,Fremskrittspartiet,FrP,mann,1957-01-05T00:00:00,0001-01-01T00:00:00,Aust-Agder,AA,1.3,1.3,1.3
+Hagebakken,Tore,TOHA,2005-2009,Arbeiderpartiet,A,mann,1961-01-08T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Nordtun,Tore,TON,2005-2009,Arbeiderpartiet,A,mann,1949-09-30T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Pedersen,Torny,TP,2005-2009,Arbeiderpartiet,A,kvinne,1946-02-18T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Rudihagen,Torstein,TR,2005-2009,Arbeiderpartiet,A,mann,1951-08-14T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Helleland,Trond,TROH,2005-2009,Høyre,H,mann,1962-07-10T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Grande,Trine Skei,TSG,2005-2009,Venstre,V,kvinne,1969-10-02T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Knudsen,Ulf Erik,UEK,2005-2009,Fremskrittspartiet,FrP,mann,1964-12-20T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Leirstein,Ulf,UIL,2005-2009,Fremskrittspartiet,FrP,mann,1973-06-30T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Bjørnstad,Vidar,VB,2005-2009,Arbeiderpartiet,A,mann,1955-09-01T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Giltun,Vigdis,VKG,2005-2009,Fremskrittspartiet,FrP,kvinne,1952-03-11T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Lysklætt,Vera,VL,2005-2009,Venstre,V,kvinne,1954-01-29T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Halleraker,Øyvind,ØYVH,2005-2009,Høyre,H,mann,1951-10-27T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Haga,Åslaug,AAMH,2005-2009,Senterpartiet,Sp,kvinne,1959-10-21T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Dahl,André Oktay,ADA,2009-2013,Høyre,H,mann,1975-07-07T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Sortevik,Arne,AESO,2009-2013,Fremskrittspartiet,FrP,mann,1947-03-12T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Starheim,Åge,AGES,2009-2013,Fremskrittspartiet,FrP,mann,1946-05-23T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Hagen,Aksel,AKSH,2009-2013,Sosialistisk Venstreparti,SV,mann,1953-10-04T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Holmelid,Alf Egil,ALEH,2009-2013,Sosialistisk Venstreparti,SV,mann,1947-12-13T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Ljunggren,Anna,ALJ,2009-2013,Arbeiderpartiet,A,kvinne,1984-06-13T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Lysbakken,Audun,ALYS,2009-2013,Sosialistisk Venstreparti,SV,mann,1977-09-30T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Anundsen,Anders,ANA,2009-2013,Fremskrittspartiet,FrP,mann,1975-11-17T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Bjørnflaten,Anne Marit,ANMB,2009-2013,Arbeiderpartiet,A,kvinne,1969-06-18T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Huitfeldt,Anniken,ANNH,2009-2013,Arbeiderpartiet,A,kvinne,1969-11-29T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Strøm-Erichsen,Anne-Grete,ANS,2009-2013,Arbeiderpartiet,A,kvinne,1949-10-21T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Kambe,Arve,ARK,2009-2013,Høyre,H,mann,1974-11-25T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Michaelsen,Åse,ASC,2009-2013,Fremskrittspartiet,FrP,kvinne,1960-06-04T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Trettebergstuen,Anette,ATR,2009-2013,Arbeiderpartiet,A,kvinne,1981-05-25T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Wøien,Anne Tingelstad,ATW,2009-2013,Senterpartiet,Sp,kvinne,1965-06-18T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Werp,Anders B.,AWE,2009-2013,Høyre,H,mann,1961-12-16T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Arnesen,Bendiks H.,BEHA,2009-2013,Arbeiderpartiet,A,mann,1951-06-09T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Høie,Bent,BENH,2009-2013,Høyre,H,mann,1971-05-04T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Lødemel,Bjørn,BLO,2009-2013,Høyre,H,mann,1958-08-19T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Tenden,Borghild,BT,2009-2013,Venstre,V,kvinne,1951-06-23T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Thorsen,Bente,BTH,2009-2013,Fremskrittspartiet,FrP,kvinne,1958-10-31T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Solhjell,Bård Vegar,BVS,2009-2013,Sosialistisk Venstreparti,SV,mann,1971-12-22T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Hoksrud,Bård,BÅH,2009-2013,Fremskrittspartiet,FrP,mann,1973-03-26T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Tybring-Gjedde,Christian,CT,2009-2013,Fremskrittspartiet,FrP,mann,1963-08-08T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Eriksen,Dagrun,DE,2009-2013,Kristelig Folkeparti,KrF,kvinne,1971-06-28T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Høybråten,Dagfinn,DH,2009-2013,Kristelig Folkeparti,KrF,mann,1957-12-02T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Teigen,Dag Ole,DOT,2009-2013,Arbeiderpartiet,A,mann,1982-08-10T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Andersen,Dag Terje,DTA,2009-2013,Arbeiderpartiet,A,mann,1957-05-27T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Aspaker,Elisabeth,EAS,2009-2013,Høyre,H,kvinne,1962-10-16T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Botten,Else-May,EBO,2009-2013,Arbeiderpartiet,A,kvinne,1973-08-16T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Sivertsen,Eirik,EIRS,2009-2013,Arbeiderpartiet,A,mann,1971-03-17T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Sund,Eirin,EKS,2009-2013,Arbeiderpartiet,A,kvinne,1967-04-06T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Nørve,Elisabeth Røbekk,ELN,2009-2013,Høyre,H,kvinne,1951-03-29T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Solberg,Erna,ES,2009-2013,Høyre,H,kvinne,1961-02-24T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Hansen,Eva Kristin,EVH,2009-2013,Arbeiderpartiet,A,kvinne,1973-03-05T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Bakke-Jensen,Frank,FBJ,2009-2013,Høyre,H,mann,1965-03-08T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+de Ruiter,Freddy,FR,2009-2013,Arbeiderpartiet,A,mann,1969-04-04T00:00:00,0001-01-01T00:00:00,Aust-Agder,AA,1.3,1.3,1.3
+Gundersen,Gunnar,GAG,2009-2013,Høyre,H,mann,1956-05-21T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Hansen,Geir-Ketil,GEHN,2009-2013,Sosialistisk Venstreparti,SV,mann,1956-03-13T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Bekkevold,Geir Jørgen,GJB,2009-2013,Kristelig Folkeparti,KrF,mann,1963-11-19T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Hagesæter,Gjermund,GJH,2009-2013,Fremskrittspartiet,FrP,mann,1960-12-12T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Kristoffersen,Gerd Janne,GJK,2009-2013,Arbeiderpartiet,A,kvinne,1952-11-18T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Gjul,Gunn Karin,GKG,2009-2013,Arbeiderpartiet,A,kvinne,1967-07-26T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Kjernli,Gorm,GOK,2009-2013,Arbeiderpartiet,A,mann,1981-12-31T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Eldegard,Gunvor,GUE,2009-2013,Arbeiderpartiet,A,kvinne,1963-04-14T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Olsen,Gunn,GUO,2009-2013,Arbeiderpartiet,A,kvinne,1952-09-18T00:00:00,2013-12-27T00:00:00,Telemark,Te,1.3,1.3,1.3
+Asmyhr,Hans Frode Kielland,HAFA,2009-2013,Fremskrittspartiet,FrP,mann,1970-02-26T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Holmås,Heikki Eidsvoll,HEH,2009-2013,Sosialistisk Venstreparti,SV,mann,1972-06-28T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Warloe,Henning,HEW,2009-2013,Høyre,H,mann,1961-03-24T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Langeland,Hallgeir H.,HHL,2009-2013,Sosialistisk Venstreparti,SV,mann,1955-11-14T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Magnusson,Hilde,HML,2009-2013,Arbeiderpartiet,A,kvinne,1970-06-11T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Syversen,Hans Olav,HOSY,2009-2013,Kristelig Folkeparti,KrF,mann,1966-11-25T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Pedersen,Helga,HPED,2009-2013,Arbeiderpartiet,A,kvinne,1973-01-13T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Skumsvoll,Henning,HSK,2009-2013,Fremskrittspartiet,FrP,mann,1947-03-15T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Tajik,Hadia,HTA,2009-2013,Arbeiderpartiet,A,kvinne,1983-07-18T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Nesvik,Harald T.,HTN,2009-2013,Fremskrittspartiet,FrP,mann,1966-05-04T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Godskesen,Ingebjørg Amanda,IAG,2009-2013,Fremskrittspartiet,FrP,kvinne,1957-05-26T00:00:00,0001-01-01T00:00:00,Aust-Agder,AA,1.3,1.3,1.3
+Thomsen,Ib,IBTH,2009-2013,Fremskrittspartiet,FrP,mann,1961-10-06T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Heggø,Ingrid,IHE,2009-2013,Arbeiderpartiet,A,kvinne,1961-08-12T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Johansen,Irene,IJ,2009-2013,Arbeiderpartiet,A,kvinne,1961-01-07T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Søreide,Ine M. Eriksen,IME,2009-2013,Høyre,H,kvinne,1976-05-02T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Thorkildsen,Inga Marte,IMT,2009-2013,Sosialistisk Venstreparti,SV,kvinne,1976-07-02T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Olsen,Ingalill,IOL,2009-2013,Arbeiderpartiet,A,kvinne,1955-12-15T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Nordahl,Irene Lange,IRLN,2009-2013,Senterpartiet,Sp,kvinne,1968-02-11T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Schou,Ingjerd,ISC,2009-2013,Høyre,H,kvinne,1955-01-20T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Kristiansen,Ivar,IVK,2009-2013,Høyre,H,mann,1956-02-18T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Ellingsen,Jan Arild,JAE,2009-2013,Fremskrittspartiet,FrP,mann,1958-10-09T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Asphjell,Jorodd,JASP,2009-2013,Arbeiderpartiet,A,mann,1960-07-17T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Bøhler,Jan,JBO,2009-2013,Arbeiderpartiet,A,mann,1952-03-01T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Stoltenberg,Jens,JES,2009-2013,Arbeiderpartiet,A,mann,1959-03-16T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Fredriksen,Jan-Henrik,JF,2009-2013,Fremskrittspartiet,FrP,mann,1956-10-02T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Støre,Jonas Gahr,JGS,2009-2013,Arbeiderpartiet,A,mann,1960-08-25T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Rytman,Jørund,JHR,2009-2013,Fremskrittspartiet,FrP,mann,1977-05-04T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Klinge,Jenny,JKL,2009-2013,Senterpartiet,Sp,kvinne,1975-11-28T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Gåsvatn,Jon Jæger,JONG,2009-2013,Fremskrittspartiet,FrP,mann,1954-06-19T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Nordås,Janne Sjelmo,JSN,2009-2013,Senterpartiet,Sp,kvinne,1964-05-11T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Sanner,Jan Tore,JTS,2009-2013,Høyre,H,mann,1965-05-06T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Henriksen,Kari,KARH,2009-2013,Arbeiderpartiet,A,kvinne,1955-08-10T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Svendsen,Kenneth,KES,2009-2013,Fremskrittspartiet,FrP,mann,1954-08-02T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Solvik-Olsen,Ketil,KETS,2009-2013,Fremskrittspartiet,FrP,mann,1972-02-14T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Halvorsen,Kristin,KHA,2009-2013,Sosialistisk Venstreparti,SV,kvinne,1960-09-02T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Ropstad,Kjell Ingolf,KJR,2009-2013,Kristelig Folkeparti,KrF,mann,1985-06-01T00:00:00,0001-01-01T00:00:00,Aust-Agder,AA,1.3,1.3,1.3
+Toppe,Kjersti,KJT,2009-2013,Senterpartiet,Sp,kvinne,1967-10-20T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Kjos,Kari Kjønaas,KKK,2009-2013,Fremskrittspartiet,FrP,kvinne,1962-01-25T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Hareide,Knut Arild,KNAH,2009-2013,Kristelig Folkeparti,KrF,mann,1972-11-23T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Storberget,Knut,KNUS,2009-2013,Arbeiderpartiet,A,mann,1964-10-06T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Simensen,Kåre,KSIM,2009-2013,Arbeiderpartiet,A,mann,1955-08-30T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Woldseth,Karin S.,KSW,2009-2013,Fremskrittspartiet,FrP,kvinne,1954-08-09T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Andersen,Karin,KAAN,2009-2013,Sosialistisk Venstreparti,SV,kvinne,1952-12-16T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Gustavsen,Laila,LAG,2009-2013,Arbeiderpartiet,A,kvinne,1973-10-24T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Brekk,Lars Peder,LAPB,2009-2013,Senterpartiet,Sp,mann,1955-10-08T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Helleland,Linda C. Hofstad,LCH,2009-2013,Høyre,H,kvinne,1977-08-26T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Dåvøy,Laila,LD,2009-2013,Kristelig Folkeparti,KrF,kvinne,1948-08-11T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Hjemdal,Line Henriette,LHH,2009-2013,Kristelig Folkeparti,KrF,kvinne,1971-10-18T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Christoffersen,Lise,LIC,2009-2013,Arbeiderpartiet,A,kvinne,1955-08-05T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Hansen,Lillian,LILH,2009-2013,Arbeiderpartiet,A,kvinne,1957-05-17T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Myraune,Lars,LMY,2009-2013,Høyre,H,mann,1944-08-05T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Reiertsen,Laila Marie,LRE,2009-2013,Fremskrittspartiet,FrP,kvinne,1960-10-19T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Navarsete,Liv Signe,LSN,2009-2013,Senterpartiet,Sp,kvinne,1958-10-23T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Rommetveit,Magne,MAGR,2009-2013,Arbeiderpartiet,A,mann,1956-04-27T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Kolberg,Martin,MAKO,2009-2013,Arbeiderpartiet,A,mann,1949-02-24T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Marthinsen,Marianne,MAM,2009-2013,Arbeiderpartiet,A,kvinne,1980-08-25T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Hanekamhaug,Mette,METH,2009-2013,Fremskrittspartiet,FrP,kvinne,1987-06-04T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Tetzschner,Michael,MIT,2009-2013,Høyre,H,mann,1954-02-09T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Kleppa,Magnhild Meltveit,MMK,2009-2013,Senterpartiet,Sp,kvinne,1948-11-12T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Nybakk,Marit,MN,2009-2013,Arbeiderpartiet,A,kvinne,1947-02-14T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Johansen,Morten Ørsal,MOJ,2009-2013,Fremskrittspartiet,FrP,mann,1964-09-11T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Høglund,Morten,MORH,2009-2013,Fremskrittspartiet,FrP,mann,1965-07-16T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Aasen,Marianne,MAAA,2009-2013,Arbeiderpartiet,A,kvinne,1967-02-21T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Astrup,Nikolai,NA,2009-2013,Høyre,H,mann,1978-06-12T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Moe,Ola Borten,OBM,2009-2013,Senterpartiet,Sp,mann,1976-06-06T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Grimstad,Oskar J.,OG,2009-2013,Fremskrittspartiet,FrP,mann,1954-11-08T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Thommessen,Olemic,OLET,2009-2013,Høyre,H,mann,1956-04-18T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Vaksdal,Øyvind,OVA,2009-2013,Fremskrittspartiet,FrP,mann,1955-10-19T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Korsberg,Øyvind,OYK,2009-2013,Fremskrittspartiet,FrP,mann,1960-01-31T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Bredvold,Per Roar,PB,2009-2013,Fremskrittspartiet,FrP,mann,1957-03-05T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Gitmark,Peter Skovholt,PEG,2009-2013,Høyre,H,mann,1977-04-15T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Myhre,Peter N.,PEMY,2009-2013,Fremskrittspartiet,FrP,mann,1954-11-29T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Sandberg,Per,PES,2009-2013,Fremskrittspartiet,FrP,mann,1960-02-06T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Foss,Per-Kristian,PKF,2009-2013,Høyre,H,mann,1950-07-19T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Olsen,Per Arne,PO,2009-2013,Fremskrittspartiet,FrP,mann,1961-02-21T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Lundteigen,Per Olaf,POL,2009-2013,Senterpartiet,Sp,mann,1953-04-18T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Henriksen,Per Rune,PRH,2009-2013,Arbeiderpartiet,A,mann,1960-03-14T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Amundsen,Per-Willy,PTA,2009-2013,Fremskrittspartiet,FrP,mann,1971-01-21T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Eide,Rigmor Andersen,RAE,2009-2013,Kristelig Folkeparti,KrF,kvinne,1954-06-26T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Eriksson,Robert,RE,2009-2013,Fremskrittspartiet,FrP,mann,1974-04-23T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Aasrud,Rigmor,RIAJ,2009-2013,Arbeiderpartiet,A,kvinne,1960-06-26T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Flåtten,Svein,SAF,2009-2013,Høyre,H,mann,1944-10-14T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Gjelseth,Svein,SAG,2009-2013,Arbeiderpartiet,A,mann,1950-02-02T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Harberg,Svein,SHAR,2009-2013,Høyre,H,mann,1958-07-30T00:00:00,0001-01-01T00:00:00,Aust-Agder,AA,1.3,1.3,1.3
+Horne,Solveig,SHK,2009-2013,Fremskrittspartiet,FrP,kvinne,1969-01-12T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Jensen,Siv,SIVJ,2009-2013,Fremskrittspartiet,FrP,kvinne,1969-06-01T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Meling,Siri A.,SME,2009-2013,Høyre,H,kvinne,1963-02-08T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Myrli,Sverre,SMY,2009-2013,Arbeiderpartiet,A,mann,1971-08-26T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Valen,Snorre Serigstad,SNV,2009-2013,Sosialistisk Venstreparti,SV,mann,1984-09-16T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Hansen,Sigvald Oppebøen,SOH,2009-2013,Arbeiderpartiet,A,mann,1950-09-21T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Mandt,Sonja,SOM,2009-2013,Arbeiderpartiet,A,kvinne,1960-03-29T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Sjøli,Sonja Irene,SONS,2009-2013,Høyre,H,kvinne,1949-06-06T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Hansen,Svein Roald,SRH,2009-2013,Arbeiderpartiet,A,mann,1949-08-20T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Gullvåg,Steinar,STEG,2009-2013,Arbeiderpartiet,A,mann,1946-10-27T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Bratli,Susanne,SUB,2009-2013,Arbeiderpartiet,A,kvinne,1966-06-10T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Graham,Sylvi,SYG,2009-2013,Høyre,H,kvinne,1951-12-17T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Lien,Tord,TALI,2009-2013,Fremskrittspartiet,FrP,mann,1975-09-10T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Strøm,Tor-Arne,TAS,2009-2013,Arbeiderpartiet,A,mann,1952-05-06T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Bremer,Tor,TBRE,2009-2013,Arbeiderpartiet,A,mann,1955-02-09T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Forsberg,Thor Erik,TEF,2009-2013,Arbeiderpartiet,A,mann,1980-04-02T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Aasland,Terje,TELA,2009-2013,Arbeiderpartiet,A,mann,1965-02-15T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Giske,Trond,TG,2009-2013,Arbeiderpartiet,A,mann,1966-11-07T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Breen,Thomas,THB,2009-2013,Arbeiderpartiet,A,mann,1972-09-13T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Knutsen,Tove Karoline,TKK,2009-2013,Arbeiderpartiet,A,kvinne,1951-01-14T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Micaelsen,Torgeir,TMI,2009-2013,Arbeiderpartiet,A,mann,1979-05-20T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Sønsterud,Tone Merete,TMS,2009-2013,Arbeiderpartiet,A,kvinne,1959-05-17T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Vedum,Trygve Slagsvold,TMV,2009-2013,Senterpartiet,Sp,mann,1978-12-01T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Opheim,Torfinn,TO,2009-2013,Arbeiderpartiet,A,mann,1961-04-12T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Hagebakken,Tore,TOHA,2009-2013,Arbeiderpartiet,A,mann,1961-01-08T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Nordtun,Tore,TON,2009-2013,Arbeiderpartiet,A,mann,1949-09-30T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Trældal,Torgeir,TOT,2009-2013,Fremskrittspartiet,FrP,mann,1965-01-02T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Torve,Tove-Lise,TOVT,2009-2013,Arbeiderpartiet,A,kvinne,1964-06-08T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Rudihagen,Torstein,TR,2009-2013,Arbeiderpartiet,A,mann,1951-08-14T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Isaksen,Torbjørn Røe,TRI,2009-2013,Høyre,H,mann,1978-07-28T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Helleland,Trond,TROH,2009-2013,Høyre,H,mann,1962-07-10T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Grande,Trine Skei,TSG,2009-2013,Venstre,V,kvinne,1969-10-02T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Knudsen,Ulf Erik,UEK,2009-2013,Fremskrittspartiet,FrP,mann,1964-12-20T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Leirstein,Ulf,UIL,2009-2013,Fremskrittspartiet,FrP,mann,1973-06-30T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Giltun,Vigdis,VKG,2009-2013,Fremskrittspartiet,FrP,kvinne,1952-03-11T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Olsen,Wenche,WO,2009-2013,Arbeiderpartiet,A,kvinne,1965-11-30T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Håbrekke,Øyvind,ØH,2009-2013,Kristelig Folkeparti,KrF,mann,1969-12-20T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Halleraker,Øyvind,ØYVH,2009-2013,Høyre,H,mann,1951-10-27T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Grande,Arild,AAST,2009-2013,Arbeiderpartiet,A,mann,1978-04-05T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Raja,Abid Q.,ABIR,2013-2017,Venstre,V,mann,1975-11-05T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Ljunggren,Anna,ALJ,2013-2017,Arbeiderpartiet,A,kvinne,1984-06-13T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Lysbakken,Audun,ALYS,2013-2017,Sosialistisk Venstreparti,SV,mann,1977-09-30T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Anundsen,Anders,ANA,2013-2017,Fremskrittspartiet,FrP,mann,1975-11-17T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Huitfeldt,Anniken,ANNH,2013-2017,Arbeiderpartiet,A,kvinne,1969-11-29T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Skjelstad,André N.,ANNS,2013-2017,Venstre,V,mann,1965-08-27T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Kambe,Arve,ARK,2013-2017,Høyre,H,mann,1974-11-25T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Michaelsen,Åse,ASC,2013-2017,Fremskrittspartiet,FrP,kvinne,1960-06-04T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Trettebergstuen,Anette,ATR,2013-2017,Arbeiderpartiet,A,kvinne,1981-05-25T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Wøien,Anne Tingelstad,ATW,2013-2017,Senterpartiet,Sp,kvinne,1965-06-18T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Tyvand,Anders,ATY,2013-2017,Kristelig Folkeparti,KrF,mann,1980-05-19T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Werp,Anders B.,AWE,2013-2017,Høyre,H,mann,1961-12-16T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Mathisen,Bente Stein,BEM,2013-2017,Høyre,H,kvinne,1956-02-01T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Høie,Bent,BENH,2013-2017,Høyre,H,mann,1971-05-04T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Lødemel,Bjørn,BLO,2013-2017,Høyre,H,mann,1958-08-19T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Wenstøb,Bengt Morten,BMW,2013-2017,Høyre,H,mann,1963-02-26T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Thorsen,Bente,BTH,2013-2017,Fremskrittspartiet,FrP,kvinne,1958-10-31T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Solhjell,Bård Vegar,BVS,2013-2017,Sosialistisk Venstreparti,SV,mann,1971-12-22T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Hoksrud,Bård,BÅH,2013-2017,Fremskrittspartiet,FrP,mann,1973-03-26T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Tybring-Gjedde,Christian,CT,2013-2017,Fremskrittspartiet,FrP,mann,1963-08-08T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Bjørnø,Christian Tynning,CTB,2013-2017,Arbeiderpartiet,A,mann,1985-11-27T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Andersen,Dag Terje,DTA,2013-2017,Arbeiderpartiet,A,mann,1957-05-27T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Agdestein,Elin Rodum,EAG,2013-2017,Høyre,H,kvinne,1957-08-10T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Aspaker,Elisabeth,EAS,2013-2017,Høyre,H,kvinne,1962-10-16T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Botten,Else-May,EBO,2013-2017,Arbeiderpartiet,A,kvinne,1973-08-16T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Sivertsen,Eirik,EIRS,2013-2017,Arbeiderpartiet,A,mann,1971-03-17T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Sund,Eirin,EKS,2013-2017,Arbeiderpartiet,A,kvinne,1967-04-06T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Nørve,Elisabeth Røbekk,ELN,2013-2017,Høyre,H,kvinne,1951-03-29T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Milde,Eirik,EMI,2013-2017,Høyre,H,mann,1958-05-20T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Solberg,Erna,ES,2013-2017,Høyre,H,kvinne,1961-02-24T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Hansen,Eva Kristin,EVH,2013-2017,Arbeiderpartiet,A,kvinne,1973-03-05T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Wiborg,Erlend,EW,2013-2017,Fremskrittspartiet,FrP,mann,1984-01-20T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Bakke-Jensen,Frank,FBJ,2013-2017,Høyre,H,mann,1965-03-08T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Bjørdal,Fredric Holen,FHB,2013-2017,Arbeiderpartiet,A,mann,1990-03-09T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Jenssen,Frank J.,FJJ,2013-2017,Høyre,H,mann,1969-08-11T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Stordalen,Morten,FMS,2013-2017,Fremskrittspartiet,FrP,mann,1968-10-05T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+de Ruiter,Freddy,FR,2013-2017,Arbeiderpartiet,A,mann,1969-04-04T00:00:00,0001-01-01T00:00:00,Aust-Agder,AA,1.3,1.3,1.3
+Gundersen,Gunnar,GAG,2013-2017,Høyre,H,mann,1956-05-21T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Toskedal,Geir Sigbjørn,GEST,2013-2017,Kristelig Folkeparti,KrF,mann,1954-04-27T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Bekkevold,Geir Jørgen,GJB,2013-2017,Kristelig Folkeparti,KrF,mann,1963-11-19T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Hagesæter,Gjermund,GJH,2013-2017,Fremskrittspartiet,FrP,mann,1960-12-12T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Pollestad,Geir,GP,2013-2017,Senterpartiet,Sp,mann,1978-08-13T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Eldegard,Gunvor,GUE,2013-2017,Arbeiderpartiet,A,kvinne,1963-04-14T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Asheim,Henrik,HEA,2013-2017,Høyre,H,mann,1983-08-21T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Holmås,Heikki Eidsvoll,HEH,2013-2017,Sosialistisk Venstreparti,SV,mann,1972-06-28T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Greni,Heidi,HEIG,2013-2017,Senterpartiet,Sp,kvinne,1962-07-03T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Orten,Helge,HELO,2013-2017,Høyre,H,mann,1966-10-25T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Grøvan,Hans Fredrik,HFG,2013-2017,Kristelig Folkeparti,KrF,mann,1953-11-01T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Liadal,Hege Haukeland,HHLI,2013-2017,Arbeiderpartiet,A,kvinne,1972-11-29T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Limi,Hans Andreas,HLI,2013-2017,Fremskrittspartiet,FrP,mann,1960-09-26T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Njåstad,Helge André,HNJ,2013-2017,Fremskrittspartiet,FrP,mann,1980-06-05T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Syversen,Hans Olav,HOSY,2013-2017,Kristelig Folkeparti,KrF,mann,1966-11-25T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Pedersen,Helga,HPED,2013-2017,Arbeiderpartiet,A,kvinne,1973-01-13T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Tajik,Hadia,HTA,2013-2017,Arbeiderpartiet,A,kvinne,1983-07-18T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Nesvik,Harald T.,HTN,2013-2017,Fremskrittspartiet,FrP,mann,1966-05-04T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Foss,Ingunn,IAF,2013-2017,Høyre,H,kvinne,1960-02-07T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Godskesen,Ingebjørg Amanda,IAG,2013-2017,Fremskrittspartiet,FrP,kvinne,1957-05-26T00:00:00,0001-01-01T00:00:00,Aust-Agder,AA,1.3,1.3,1.3
+Thomsen,Ib,IBTH,2013-2017,Fremskrittspartiet,FrP,mann,1961-10-06T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Heggø,Ingrid,IHE,2013-2017,Arbeiderpartiet,A,kvinne,1961-08-12T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Johansen,Irene,IJ,2013-2017,Arbeiderpartiet,A,kvinne,1961-01-07T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Søreide,Ine M. Eriksen,IME,2013-2017,Høyre,H,kvinne,1976-05-02T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Nybø,Iselin,IN,2013-2017,Venstre,V,kvinne,1981-05-14T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Kjerkol,Ingvild,INK,2013-2017,Arbeiderpartiet,A,kvinne,1975-05-18T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Schou,Ingjerd,ISC,2013-2017,Høyre,H,kvinne,1955-01-20T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Ellingsen,Jan Arild,JAE,2013-2017,Fremskrittspartiet,FrP,mann,1958-10-09T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Asphjell,Jorodd,JASP,2013-2017,Arbeiderpartiet,A,mann,1960-07-17T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Bøhler,Jan,JBO,2013-2017,Arbeiderpartiet,A,mann,1952-03-01T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Stoltenberg,Jens,JES,2013-2017,Arbeiderpartiet,A,mann,1959-03-16T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Fredriksen,Jan-Henrik,JF,2013-2017,Fremskrittspartiet,FrP,mann,1956-10-02T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Christensen,Jette F.,JFC,2013-2017,Arbeiderpartiet,A,kvinne,1983-06-01T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Støre,Jonas Gahr,JGS,2013-2017,Arbeiderpartiet,A,mann,1960-08-25T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Rytman,Jørund,JHR,2013-2017,Fremskrittspartiet,FrP,mann,1977-05-04T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Klinge,Jenny,JKL,2013-2017,Senterpartiet,Sp,kvinne,1975-11-28T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Nordås,Janne Sjelmo,JSN,2013-2017,Senterpartiet,Sp,kvinne,1964-05-11T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Sanner,Jan Tore,JTS,2013-2017,Høyre,H,mann,1965-05-06T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Løvaas,Kårstein Eidem,KAEL,2013-2017,Høyre,H,mann,1967-11-10T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Henriksen,Kari,KARH,2013-2017,Arbeiderpartiet,A,kvinne,1955-08-10T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Tung,Karianne O.,KAT,2013-2017,Arbeiderpartiet,A,kvinne,1984-01-21T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Gudmundsen,Kent,KEG,2013-2017,Høyre,H,mann,1978-03-05T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Svendsen,Kenneth,KES,2013-2017,Fremskrittspartiet,FrP,mann,1954-08-02T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Kjenseth,Ketil,KETK,2013-2017,Venstre,V,mann,1968-08-13T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Bergstø,Kirsti,KIB,2013-2017,Sosialistisk Venstreparti,SV,kvinne,1981-07-01T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Ropstad,Kjell Ingolf,KJR,2013-2017,Kristelig Folkeparti,KrF,mann,1985-06-01T00:00:00,0001-01-01T00:00:00,Aust-Agder,AA,1.3,1.3,1.3
+Toppe,Kjersti,KJT,2013-2017,Senterpartiet,Sp,kvinne,1967-10-20T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Juvik,Kjell-Idar,KJU,2013-2017,Arbeiderpartiet,A,mann,1966-05-21T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Kjos,Kari Kjønaas,KKK,2013-2017,Fremskrittspartiet,FrP,kvinne,1962-01-25T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Hareide,Knut Arild,KNAH,2013-2017,Kristelig Folkeparti,KrF,mann,1972-11-23T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Storberget,Knut,KNUS,2013-2017,Arbeiderpartiet,A,mann,1964-10-06T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Johnsen,Kristin Ørmen,KOJ,2013-2017,Høyre,H,kvinne,1953-03-08T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Vinje,Kristin,KRV,2013-2017,Høyre,H,kvinne,1963-06-10T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Simensen,Kåre,KSIM,2013-2017,Arbeiderpartiet,A,mann,1955-08-30T00:00:00,0001-01-01T00:00:00,Finnmark,Fi,1.3,1.3,1.3
+Andersen,Karin,KAAN,2013-2017,Sosialistisk Venstreparti,SV,kvinne,1952-12-16T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Helleland,Linda C. Hofstad,LCH,2013-2017,Høyre,H,kvinne,1977-08-26T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Hjemdal,Line Henriette,LHH,2013-2017,Kristelig Folkeparti,KrF,kvinne,1971-10-18T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Berg-Hansen,Lisbeth,LIB,2013-2017,Arbeiderpartiet,A,kvinne,1963-03-14T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Christoffersen,Lise,LIC,2013-2017,Arbeiderpartiet,A,kvinne,1955-08-05T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Navarsete,Liv Signe,LSN,2013-2017,Senterpartiet,Sp,kvinne,1958-10-23T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Vågslid,Lene,LVA,2013-2017,Arbeiderpartiet,A,kvinne,1986-03-17T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Rommetveit,Magne,MAGR,2013-2017,Arbeiderpartiet,A,mann,1956-04-27T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Kolberg,Martin,MAKO,2013-2017,Arbeiderpartiet,A,mann,1949-02-24T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Marthinsen,Marianne,MAM,2013-2017,Arbeiderpartiet,A,kvinne,1980-08-25T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Ebbesen,Margunn,MEBB,2013-2017,Høyre,H,kvinne,1962-09-04T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Tønder,Mette,MET,2013-2017,Høyre,H,kvinne,1969-11-03T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Henriksen,Martin,MHE,2013-2017,Arbeiderpartiet,A,mann,1979-01-05T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Tetzschner,Michael,MIT,2013-2017,Høyre,H,mann,1954-02-09T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Nybakk,Marit,MN,2013-2017,Arbeiderpartiet,A,kvinne,1947-02-14T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Johansen,Morten Ørsal,MOJ,2013-2017,Fremskrittspartiet,FrP,mann,1964-09-11T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Wold,Morten,MOW,2013-2017,Fremskrittspartiet,FrP,mann,1967-06-22T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Kapur,Mudassar,MUK,2013-2017,Høyre,H,mann,1976-12-14T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Arnstad,Marit,MAA,2013-2017,Senterpartiet,Sp,kvinne,1962-05-04T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Aasen,Marianne,MAAA,2013-2017,Arbeiderpartiet,A,kvinne,1967-02-21T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Astrup,Nikolai,NA,2013-2017,Høyre,H,mann,1978-06-12T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Jegstad,Nils Aage,NAJ,2013-2017,Høyre,H,mann,1950-12-12T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Benestad,Norunn Tveiten,NTB,2013-2017,Høyre,H,kvinne,1956-11-08T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Trellevik,Ove,OBT,2013-2017,Høyre,H,mann,1965-08-15T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Henriksen,Odd,ODDH,2013-2017,Høyre,H,mann,1965-03-01T00:00:00,0001-01-01T00:00:00,Nordland,No,1.3,1.3,1.3
+Omland,Odd,ODO,2013-2017,Arbeiderpartiet,A,mann,1956-01-29T00:00:00,0001-01-01T00:00:00,Vest-Agder,VA,1.3,1.3,1.3
+Grimstad,Oskar J.,OG,2013-2017,Fremskrittspartiet,FrP,mann,1954-11-08T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Elvestuen,Ola,OLE,2013-2017,Venstre,V,mann,1967-10-09T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Thommessen,Olemic,OLET,2013-2017,Høyre,H,mann,1956-04-18T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Bollestad,Olaug V.,OVB,2013-2017,Kristelig Folkeparti,KrF,kvinne,1961-11-04T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Korsberg,Øyvind,OYK,2013-2017,Fremskrittspartiet,FrP,mann,1960-01-31T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Farstad,Pål,PAF,2013-2017,Venstre,V,mann,1959-04-01T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Frølich,Peter Christian,PCF,2013-2017,Høyre,H,mann,1987-09-17T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Sandberg,Per,PES,2013-2017,Fremskrittspartiet,FrP,mann,1960-02-06T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Lundteigen,Per Olaf,POL,2013-2017,Senterpartiet,Sp,mann,1953-04-18T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Henriksen,Per Rune,PRH,2013-2017,Arbeiderpartiet,A,mann,1960-03-14T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Eide,Rigmor Andersen,RAE,2013-2017,Kristelig Folkeparti,KrF,kvinne,1954-06-26T00:00:00,0001-01-01T00:00:00,Møre og Romsdal,MR,1.3,1.3,1.3
+Hansson,Rasmus,RAJH,2013-2017,Miljøpartiet De Grønne,MDG,mann,1954-09-04T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Aasrud,Rigmor,RIAJ,2013-2017,Arbeiderpartiet,A,kvinne,1960-06-26T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Steffensen,Roy,ROYS,2013-2017,Fremskrittspartiet,FrP,mann,1980-09-10T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Grung,Ruth,RUG,2013-2017,Arbeiderpartiet,A,kvinne,1959-03-10T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Flåtten,Svein,SAF,2013-2017,Høyre,H,mann,1944-10-14T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Lauvås,Stein Erik,SEL,2013-2017,Arbeiderpartiet,A,mann,1965-05-03T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Harberg,Svein,SHAR,2013-2017,Høyre,H,mann,1958-07-30T00:00:00,0001-01-01T00:00:00,Aust-Agder,AA,1.3,1.3,1.3
+Bjørnstad,Sivert,SHB,2013-2017,Fremskrittspartiet,FrP,mann,1990-10-03T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Hille,Sigurd,SHIL,2013-2017,Høyre,H,mann,1950-05-06T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Horne,Solveig,SHK,2013-2017,Fremskrittspartiet,FrP,kvinne,1969-01-12T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Jensen,Siv,SIVJ,2013-2017,Fremskrittspartiet,FrP,kvinne,1969-06-01T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Meling,Siri A.,SME,2013-2017,Høyre,H,kvinne,1963-02-08T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Myrli,Sverre,SMY,2013-2017,Arbeiderpartiet,A,mann,1971-08-26T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Valen,Snorre Serigstad,SNV,2013-2017,Sosialistisk Venstreparti,SV,mann,1984-09-16T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Mandt,Sonja,SOM,2013-2017,Arbeiderpartiet,A,kvinne,1960-03-29T00:00:00,0001-01-01T00:00:00,Vestfold,Ve,1.3,1.3,1.3
+Hansen,Svein Roald,SRH,2013-2017,Arbeiderpartiet,A,mann,1949-08-20T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Heggelund,Stefan,STMH,2013-2017,Høyre,H,mann,1984-10-08T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Håheim,Stine Renate,STRH,2013-2017,Arbeiderpartiet,A,kvinne,1984-05-13T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Rotevatn,Sveinung,SVR,2013-2017,Venstre,V,mann,1987-05-15T00:00:00,0001-01-01T00:00:00,Sogn og Fjordane,SF,1.3,1.3,1.3
+Graham,Sylvi,SYG,2013-2017,Høyre,H,kvinne,1951-12-17T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Johnsen,Tor André,TAJ,2013-2017,Fremskrittspartiet,FrP,mann,1968-11-25T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Breivik,Terje,TEB,2013-2017,Venstre,V,mann,1965-03-24T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Aasland,Terje,TELA,2013-2017,Arbeiderpartiet,A,mann,1965-02-15T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Giske,Trond,TG,2013-2017,Arbeiderpartiet,A,mann,1966-11-07T00:00:00,0001-01-01T00:00:00,Sør-Trøndelag,ST,1.3,1.3,1.3
+Bru,Tina,TIB,2013-2017,Høyre,H,kvinne,1986-04-18T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Fylkesnes,Torgeir Knag,TKF,2013-2017,Sosialistisk Venstreparti,SV,mann,1975-06-04T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Knutsen,Tove Karoline,TKK,2013-2017,Arbeiderpartiet,A,kvinne,1951-01-14T00:00:00,0001-01-01T00:00:00,Troms,Tr,1.3,1.3,1.3
+Micaelsen,Torgeir,TMI,2013-2017,Arbeiderpartiet,A,mann,1979-05-20T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Sønsterud,Tone Merete,TMS,2013-2017,Arbeiderpartiet,A,kvinne,1959-05-17T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Vedum,Trygve Slagsvold,TMV,2013-2017,Senterpartiet,Sp,mann,1978-12-01T00:00:00,0001-01-01T00:00:00,Hedmark,He,1.3,1.3,1.3
+Eidsheim,Torill,TOE,2013-2017,Høyre,H,kvinne,1970-04-08T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Hagebakken,Tore,TOHA,2013-2017,Arbeiderpartiet,A,mann,1961-01-08T00:00:00,0001-01-01T00:00:00,Oppland,Op,1.3,1.3,1.3
+Isaksen,Torbjørn Røe,TRI,2013-2017,Høyre,H,mann,1978-07-28T00:00:00,0001-01-01T00:00:00,Telemark,Te,1.3,1.3,1.3
+Helleland,Trond,TROH,2013-2017,Høyre,H,mann,1962-07-10T00:00:00,0001-01-01T00:00:00,Buskerud,Bu,1.3,1.3,1.3
+Grande,Trine Skei,TSG,2013-2017,Venstre,V,kvinne,1969-10-02T00:00:00,0001-01-01T00:00:00,Oslo,Os,1.3,1.3,1.3
+Solberg,Torstein Tvedt,TTS,2013-2017,Arbeiderpartiet,A,mann,1985-03-02T00:00:00,0001-01-01T00:00:00,Rogaland,Ro,1.3,1.3,1.3
+Trøen,Tone Wilhelmsen,TWT,2013-2017,Høyre,H,kvinne,1966-02-23T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3
+Leirstein,Ulf,UIL,2013-2017,Fremskrittspartiet,FrP,mann,1973-06-30T00:00:00,0001-01-01T00:00:00,Østfold,Øs,1.3,1.3,1.3
+Halleraker,Øyvind,ØYVH,2013-2017,Høyre,H,mann,1951-10-27T00:00:00,0001-01-01T00:00:00,Hordaland,Ho,1.3,1.3,1.3
+Grande,Arild,AAST,2013-2017,Arbeiderpartiet,A,mann,1978-04-05T00:00:00,0001-01-01T00:00:00,Nord-Trøndelag,NT,1.3,1.3,1.3
+Aukrust,Åsmund,AAUK,2013-2017,Arbeiderpartiet,A,mann,1985-02-28T00:00:00,0001-01-01T00:00:00,Akershus,Ak,1.3,1.3,1.3

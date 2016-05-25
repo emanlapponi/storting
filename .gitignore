@@ -1,5 +1,6 @@
 *.Rproj
+*.Rhistory
 .Rproj.user
 *.pyc
 data/*
-
+README.html
