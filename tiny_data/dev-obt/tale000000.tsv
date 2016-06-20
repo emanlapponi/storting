@@ -1,0 +1,11 @@
+#	token	morphology	morphology	morphology
+#	surface	lemma	pos	features
+#	obt_tokenizer	obt_stat	obt_stat	obt_stat
+
+1	Det	det	pron	nøyt|ent|pers|3
+2	foreligger	foreligge	verb	pres|i2
+3	ikke	ikke	adv	_
+4	noe	noen	det	nøyt|ent|kvant
+5	referat	referat	subst	appell|nøyt|ub|ent
+6	.	$.	clb	<<<|<punkt>|<<<
+
