@@ -119,6 +119,8 @@ taler_meta <- taler_meta[, c("rep_id", "rep_first_name", "rep_last_name", "rep_n
 taler_meta <- arrange(taler_meta, rep_name, date)
 
 #########
-# write.csv(taler_meta, "../../taler/taler_meta.csv")
+write.csv(taler_meta, "../../taler/taler_meta.csv", row.names = FALSE)
 #########
 
+taler_notext <- taler_meta[,setdiff(names(taler_meta), "text")]
+write.csv(taler_notext, "../../taler/taler_notext.csv", row.names = FALSE)
