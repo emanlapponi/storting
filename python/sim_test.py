@@ -2,6 +2,7 @@ import sys
 import csv
 import codecs
 import os
+from tqdm import tqdm
 from design.example import Example
 from pprint import pprint
 from sklearn.feature_extraction import DictVectorizer, FeatureHasher
@@ -32,34 +33,33 @@ def main():
 
     print 'Reading speeches and extracting features...'
     for speech in csv_reader:
-        sys.stdout.write(speech['id'])
-        sys.stdout.write("\b" * len(speech['id']))
-        metadata = {}
-        for name in csv_reader.fieldnames:
-            if name != 'text':
-                metadata[name] = speech[name]
+        if speech['party_id']:
+            sys.stdout.write(speech['id'])
+            sys.stdout.write("\b" * len(speech['id']))
+            metadata = {}
+            for name in csv_reader.fieldnames:
+                if name != 'text':
+                    metadata[name] = speech[name]
 
-        label = metadata['party_id']
-        example = Example(label, metadata=metadata)
+            label = metadata['party_id']
+            example = Example(label, metadata=metadata)
 
-        annotations = codecs.open(os.path.join(annotations_path,
-                                                '%s.tsv' % (speech['id'])),
-                                                            'r',
-                                                            'utf8').read()
+            annotations = codecs.open(os.path.join(annotations_path,
+                                                    '%s.tsv' % (speech['id'])),
+                                                                'r',
+                                                                'utf8').read()
 
-        example.add_feature('#gender:%s' % (metadata['rep_gender']))
+            sentlengths = []
+            for sentence in parse_conll(annotations):
+                sentlengths.append(float(len(sentence)))
+                for token in sentence:
+                    if token[1] not in stopwords:
+                        #example.add_feature('#token:' + token[1])
+                        example.add_feature('#lemma-pos:%s-%s' % (token[2], token[3]))
 
-        sentlengths = []
-        for sentence in parse_conll(annotations):
-            sentlengths.append(float(len(sentence)))
-            for token in sentence:
-                if token[1] not in stopwords:
-                    #example.add_feature('#token:' + token[1])
-                    example.add_feature('#lemma-pos:%s-%s' % (token[2], token[3]))
-
-        average_sent_length = sum(sentlengths) / len(sentlengths)
-        example.add_feature('#avg-s-length:%s' % (average_sent_length))
-        examples.append(example)
+            average_sent_length = sum(sentlengths) / len(sentlengths)
+            example.add_feature('#avg-s-length:%s' % (average_sent_length))
+            examples.append(example)
 
     print
     print 'Done!'
@@ -87,14 +87,11 @@ def main():
 
     results = {}
 
-    print 'Computing similarities:'
-    for p in parties:
+    for p in tqdm(parties, desc='Computing similarities:'):
         results[p] = {}
-        for year in parties[p]:
-            sys.stdout.write(p + ' ' + year)
-            sys.stdout.write("\b" * len(p + ' ' + year))
+        for year in tqdm(parties[p], desc=p):
             results[p][year] = []
-            for i, x in enumerate(parties[p][year]):
+            for i, x in enumerate(tqdm(parties[p][year], desc=str(year))):
                 for j, y in enumerate(parties[p][year]):
                     if j != i:
                         score = cosine_similarity(x, y)[0][0]
