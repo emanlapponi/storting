@@ -76,8 +76,8 @@ def main():
     for e, x in zip(examples, X):
         if e.label not in parties:
             parties[e.label] = {}
-        if e.metadata['date'] not in parties[e.label]:
-            year = int(e.metadata['date'].split('-')[0])
+        year = int(e.metadata['date'].split('-')[0])
+        if year not in parties[e.label]:
             parties[e.label][year] = []
         parties[e.label][year].append(x)
     print 'Done!'
