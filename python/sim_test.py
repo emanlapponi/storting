@@ -91,6 +91,8 @@ def main():
     for p in parties:
         results[p] = {}
         for year in parties[p]:
+            sys.stdout.write(p + ' ' + year)
+            sys.stdout.write("\b" * len(p + ' ' + year))
             results[p][year] = []
             for i, x in enumerate(parties[p][year]):
                 for j, y in enumerate(parties[p][year]):
