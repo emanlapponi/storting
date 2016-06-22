@@ -65,10 +65,12 @@ def main():
     print 'Done!'
     print 'Vectorizing...'
     X = v.fit_transform([e.features for e in examples])
+    print X
     print 'Done!'
     print 'Tfidf weighting...'
     t = TfidfTransformer()
     X = t.fit_transform(X)
+    print X
     print 'Done!'
 
     print 'Binning vectors...'
@@ -90,14 +92,13 @@ def main():
     print 'Computing similarities:'
     for p in parties:
         results[p] = {}
-        for y in parties[p]:
-            results[p][y] = []
-            for i, x in enumerate(parties[p][y]):
-                for j, y in enumerate(parties[p][y]):
+        for year in parties[p]:
+            results[p][year] = []
+            for i, x in enumerate(parties[p][year]):
+                for j, y in enumerate(parties[p][year]):
                     if j != i:
                         score = cosine_similarity(x, y)[0][0]
-                        print score
-                        results[p][y].append(score)
+                        results[p][year].append(score)
     print 'Done!'
 
     print 'Saving results...'
