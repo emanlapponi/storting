@@ -65,12 +65,10 @@ def main():
     print 'Done!'
     print 'Vectorizing...'
     X = v.fit_transform([e.features for e in examples])
-    print X
     print 'Done!'
     print 'Tfidf weighting...'
     t = TfidfTransformer()
     X = t.fit_transform(X)
-    print X
     print 'Done!'
 
     print 'Binning vectors...'
