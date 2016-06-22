@@ -4,11 +4,10 @@ import codecs
 import os
 from design.example import Example
 from pprint import pprint
-from sklearn.feature_extraction import DictVectorizer
+from sklearn.feature_extraction import DictVectorizer, FeatureHasher
 from sklearn.feature_extraction.text import TfidfTransformer
 
 from sklearn.metrics.pairwise import cosine_similarity
-
 
 def parse_conll(text):
     return [[line.split('\t') for line in sent.split('\n')]
@@ -28,11 +27,13 @@ def main():
 
     examples = []
 
-    v = DictVectorizer(sparse=False)
-
+    #v = DictVectorizer(sparse=False)
+    v = FeatureHasher()
 
     print 'Reading speeches and extracting features...'
     for speech in csv_reader:
+        sys.stdout.write(speech['id'])
+        sys.stdout.write("\b" * len(speech['id']))
         metadata = {}
         for name in csv_reader.fieldnames:
             if name != 'text':
@@ -60,6 +61,7 @@ def main():
         example.add_feature('#avg-s-length:%s' % (average_sent_length))
         examples.append(example)
 
+    print
     print 'Done!'
     print 'Vectorizing...'
     X = v.fit_transform([e.features for e in examples])
