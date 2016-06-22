@@ -1,11 +1,6 @@
-id,,rep_id,rep_first_name,rep_last_name,rep_name,rep_from,rep_to,type,county,l
-ist_number,party_id,party_name,party_role,party_seats,cabinet_short,cabinet_st
-art,cabinet_end,cabinet_composition,rep_gender,rep_birth,rep_death,parl_sessio
-n,parl_size,party_seats_lagting,party_seats_odelsting,transcript,order,session
-,time,date,title,text
-
 # Notes on the variables
 
+|---------------------------|-----------------------------------------------------|
 | id                        | unique id for a speech |
 | rep_id                    | unique id for representatives (NA for presidents) |
 | rep_first_name            | first name |
