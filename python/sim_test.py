@@ -18,6 +18,12 @@ def main():
     storting_csv = sys.argv[1]
     annotations_path = sys.argv[2]
 
+    loc = os.path.dirname(os.path.abspath(__file__))
+    stopwords = [w for w
+                 in codecs.open(os.path.join(loc, 'stop.txt'),
+                                'r', 'utf8').read().split()
+                 if not w.startswith('|')]
+
     csv_reader = csv.DictReader(open(storting_csv))
 
     examples = []
@@ -46,8 +52,9 @@ def main():
         for sentence in parse_conll(annotations):
             sentlengths.append(float(len(sentence)))
             for token in sentence:
-                #example.add_feature('#token:' + token[1])
-                example.add_feature('#lemma-pos:%s-%s' % (token[2], token[3]))
+                if token[1] not in stopwords:
+                    #example.add_feature('#token:' + token[1])
+                    example.add_feature('#lemma-pos:%s-%s' % (token[2], token[3]))
 
         average_sent_length = sum(sentlengths) / len(sentlengths)
         example.add_feature('#avg-s-length:%s' % (average_sent_length))
@@ -84,11 +91,8 @@ def main():
         for y in parties[p]:
             results[p][y] = []
             for i, x in enumerate(parties[p][y]):
-                print 'foo'
                 for j, y in enumerate(parties[p][y]):
-                    print 'bar'
                     if j != i:
-                        'baz'
                         score = cosine_similarity(x, y)[0][0]
                         print score
                         results[p][y].append(score)
