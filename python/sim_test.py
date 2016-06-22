@@ -33,7 +33,7 @@ def main():
 
     print 'Reading speeches and extracting features...'
     for speech in csv_reader:
-        if speech['party_id']:
+        if speech['title'] == 'Representant':
             sys.stdout.write(speech['id'])
             sys.stdout.write("\b" * len(speech['id']))
             metadata = {}
