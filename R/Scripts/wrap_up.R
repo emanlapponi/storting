@@ -63,7 +63,6 @@ cab_name_date <- wrapup %>%
   summarise(cabinet_start = cabinet_start[1],
             cabinet_end = cabinet_end[1])
 
-
 taler$cabinet_short <- NA
 cab_name_by_date <- function(cabinet_name){
   new <- ifelse(taler$date >= cab_name_date$cabinet_start[which(cab_name_date$cabinet_short == cabinet_name)] & 
