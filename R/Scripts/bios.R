@@ -208,9 +208,9 @@ rest <- unlist(mclapply(rest, function(x) ifelse(x == "NA", NA, x), mc.cores = n
 bios$county <- sapply(strsplit(rest, ","), "[[", 1)
 
 # Finding session elected in 
-bios$parl_session <- sapply(strapply(rest, "[0-9]{4,4}"), function(x) paste0(x, collapse = "-"))
-bios$parl_session <- ifelse(bios$parl_session == "", NA, bios$parl_session)
-bios$parl_session <- ifelse(nchar(bios$parl_session) > 9, NA, bios$parl_session)
+bios$parl_period <- sapply(strapply(rest, "[0-9]{4,4}"), function(x) paste0(x, collapse = "-"))
+bios$parl_period <- ifelse(bios$parl_period == "", NA, bios$parl_period)
+bios$parl_period <- ifelse(nchar(bios$parl_period) > 9, NA, bios$parl_period)
 
 # Specifying the party id
 rep_party <- strsplit(rest, ",")
@@ -220,8 +220,6 @@ bios$rep_party <- gsub("\\(([^\\)]+)\\)", "", rep_party)
 bios$rep_party <- str_trim(bios$rep_party)
 rm(rest, rep_party)
 
-# all$sper_raw <- all$Stortingsperioder
-# bios <- merge(x = bios, y = all[, c("rep_id", "sper_raw")], all.x = TRUE)
 
 session_date <- strapply(bios$Stortingsperioder, "\\(([^\\)]+)\\)")
 session_date <- mclapply(session_date, function(x) ifelse(is.null(x), NA, x), mc.cores = ncores)
@@ -238,19 +236,13 @@ bios$rep_to[dropper] <- sapply(strsplit(bios$rep_date[dropper], " - "), "[[", 2)
 bios$rep_to <- as.Date(bios$rep_to, "%d/%m/%Y")
 rm(session_date, dropper)
 
-bios <- merge(x = bios, y = sessions_df[, c("from", "to", "parl_session")], by = "parl_session", all.x = TRUE)
-bios <- arrange(bios, rep_id, parl_session)
+bios <- merge(x = bios, y = sessions_df[, c("from", "to", "parl_period")], by = "parl_period", all.x = TRUE)
+bios <- arrange(bios, rep_id, parl_period)
 
 bios$rep_from[which(is.na(bios$from) == FALSE)] <- bios$from[which(is.na(bios$from) == FALSE)]
 bios$rep_to[which(is.na(bios$to) == FALSE)] <- bios$to[which(is.na(bios$to) == FALSE)]
 
 bios$rep_date <- NULL;bios$from <- NULL;bios$to <- NULL
-
-bios$parl_session <- NA
-for(i in 1:nrow(sessions_df)){
-  bios$parl_session <- ifelse(sessions_df$from[i] <= bios$rep_from & sessions_df$to[i] >= bios$rep_to,
-                            sessions_df$parl_session[i], bios$parl_session)  
-}
 
 bios$party_id <- gsub("Uav", "Uavhengig", bios$rep_party)
 

@@ -37,24 +37,26 @@ rep_list <- list(`1997-2001` = storting_rep_df(allfiles[1]),
                  `2009-2013` = storting_rep_df(allfiles[4]),
                  `2013-2017` = storting_rep_df(allfiles[5]))
 
+sum(unlist(lapply(rep_list, nrow)))
 
 rep_df <- do.call(rbind, rep_list)
-rep_df$session <- gsub("\\.[0-9]+$", "", rownames(rep_df))
+rep_df$parl_period <- gsub("\\.[0-9]+$", "", rownames(rep_df))
 rownames(rep_df) <- 1:nrow(rep_df)
-reps <- rep_df[, c("last_name", "first_name", "id", "session", "party_name", "party_id", "gender", "birth", "death",
+reps <- rep_df[, c("last_name", "first_name", "id", "parl_period", "party_name", "party_id", "gender", "birth", "death",
                    "fylke_name", "fylke_id", "version", "party_version", "fylke_version")]
+
 reps$cabinet_short <- NA
-reps_9701Bondevik <- reps[which(reps$session == "1997-2001"), ]
+reps_9701Bondevik <- reps[which(reps$parl_period == "1997-2001"), ]
 reps_9701Bondevik$cabinet_short <- "Bondevik I"
-reps_9701BStoltenberg <- reps[which(reps$session == "1997-2001"), ]
+reps_9701BStoltenberg <- reps[which(reps$parl_period == "1997-2001"), ]
 reps_9701BStoltenberg$cabinet_short <- "Stoltenberg I"
 
-reps <- rbind(reps_9701Bondevik, reps_9701BStoltenberg, reps[which(reps$session != "1997-2001"), ])
+reps <- rbind(reps_9701Bondevik, reps_9701BStoltenberg, reps[which(reps$parl_period != "1997-2001"), ])
 
-reps$cabinet_short <- ifelse(reps$session == "2001-2005", "Bondevik II", reps$cabinet_short)
-reps$cabinet_short <- ifelse(reps$session == "2005-2009", "Stoltenberg II", reps$cabinet_short)
-reps$cabinet_short <- ifelse(reps$session == "2009-2013", "Stoltenberg III", reps$cabinet_short)
-reps$cabinet_short <- ifelse(reps$session == "2013-2017", "Solberg I", reps$cabinet_short)
+reps$cabinet_short <- ifelse(reps$parl_period == "2001-2005", "Bondevik II", reps$cabinet_short)
+reps$cabinet_short <- ifelse(reps$parl_period == "2005-2009", "Stoltenberg II", reps$cabinet_short)
+reps$cabinet_short <- ifelse(reps$parl_period == "2009-2013", "Stoltenberg III", reps$cabinet_short)
+reps$cabinet_short <- ifelse(reps$parl_period == "2013-2017", "Solberg I", reps$cabinet_short)
 
 
 

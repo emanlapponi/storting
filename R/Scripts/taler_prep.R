@@ -11,10 +11,6 @@ taler$name <- NULL
 taler$party_id <- as.character(taler$party)
 taler$party <- NULL
 
-# taler[which(grepl("Leif Willy Eriksen", taler$rep_name)), ]
-# summary(factor(taler$rep_name[which(grepl("Reksnes", taler$rep_name))]))
-# summary(factor(all$rep_name[which(grepl("Reksnes", all$rep_name))]))
-# all[which(all$rep_id == "FJJ"), ]
 
 # Fixing ambigous names
 taler$rep_name <- as.character(taler$rep_name)

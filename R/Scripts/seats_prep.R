@@ -1,3 +1,4 @@
+### Add elections if more are neccessary ###
 elections <- c("1997-2001", "2001-2005", "2005-2009", "2009-2013", "2013-2017")
 
 #### Getting seat information from stortinget.no ####
@@ -24,7 +25,7 @@ seats$`2013-2017`$Lagting <- NA
 
 seats <- do.call(rbind, seats)
 
-seats$session <- gsub("\\.[0-9]", "", rownames(seats))
+seats$parl_period <- gsub("\\.[0-9]", "", rownames(seats))
 rownames(seats) <- 1:nrow(seats)
-colnames(seats) <- c("party_name", "seats", "seats_odelsting", "seats_lagting", "parl_size", "session")
+colnames(seats) <- c("party_name", "seats", "seats_odelsting", "seats_lagting", "parl_size", "parl_period")
 rm(elections)

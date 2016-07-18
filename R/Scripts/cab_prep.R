@@ -17,7 +17,7 @@ rm(parties)
 # Removing redundant variables
 norCabinet <- norCabinet[, c("cabinet_short", "CabinetPartiesNor", "From", "To", "composition")]
 norCabinet$To[which(norCabinet$cabinet_short == "Solberg I")] <- "2017-10-01"
-norCabinet$session <- c("1997-2001", "1997-2001", "2001-2005", "2005-2009", "2009-2013", "2013-2017")
+norCabinet$parl_period <- c("1997-2001", "1997-2001", "2001-2005", "2005-2009", "2009-2013", "2013-2017")
 norCabinet$CabinetPartiesNor <- gsub("Ap", "A", norCabinet$CabinetPartiesNor)
 norCabinet$CabinetPartiesNor <- gsub("Frp", "FrP", norCabinet$CabinetPartiesNor)
 

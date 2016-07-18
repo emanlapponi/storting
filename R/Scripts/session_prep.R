@@ -13,7 +13,7 @@ sessions_df <- data.frame(version = sessions[seq(1, length(sessions), 4)],
 sessions_df$session <- ifelse(nchar(sessions_df$session) == 7,
                               paste0(substr(sessions_df$session, 1, 5), "19", 
                                      substr(sessions_df$session, 6, 7)), sessions_df$session)
-sessions_df$parl_session <- sessions_df$session
+sessions_df$parl_period <- sessions_df$session
 sessions_df$session <- NULL
 sessions_df$from <- as.Date(sessions_df$from)
 sessions_df$to <- as.Date(sessions_df$to)
