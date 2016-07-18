@@ -102,23 +102,24 @@ wrapup_party$party_id <- as.character(wrapup_party$party_id)
 # Cleaning the biography data
 all <- all[, c("rep_id", "rep_first_name", "rep_last_name", "rep_name", "rep_birth", "rep_death")]
 
-# Merging bi
+# Complete the bios data by merging the different sources and arranging columns + rows
 bios <- merge(x = bios, y = all, by = "rep_id", all.x = TRUE)
 bios <- merge(x = bios, y = unique(wrapup_rep[, c("rep_id", "rep_gender")]), by = c("rep_id"), all.x = TRUE)
-
 bios <- bios[, c("rep_id", "rep_first_name", "rep_last_name", "rep_name", "party_id", "rep_gender", 
                  "parl_period", "rep_from", "rep_to", "type", "county", "list_number", 
                  "rep_birth", "rep_death")]
-
 bios <- arrange(bios, rep_id, rep_from)
 rm(all, sessions_df)
 
+# Merging party variables with speech-level data
 taler_meta <- merge(x = taler, y = wrapup_party, by = c("cabinet_short", "party_id"), all.x = TRUE)
 
+# Merging representative variables with speech-level data
 taler_meta <- merge(x = taler_meta, y = bios, 
                     by = c("rep_name", "party_id", "parl_period"),
                     all.x = TRUE)
 
+# Arranging the columns
 taler_meta <- taler_meta[, c("rep_id", "rep_first_name", "rep_last_name", "rep_name", "rep_from", "rep_to",
                              "type", "county", "list_number",
                              "party_id", "party_name", "party_role", "party_seats",
@@ -127,6 +128,7 @@ taler_meta <- taler_meta[, c("rep_id", "rep_first_name", "rep_last_name", "rep_n
                              "parl_period", "parl_size", "party_seats_lagting", "party_seats_odelsting",
                              "transcript", "order", "session", "time", "date", "title", "text"), ]
 
+# Arranging the rows
 taler_meta <- arrange(taler_meta, rep_name, date)
 
 #########
@@ -135,3 +137,7 @@ write.csv(taler_meta, "../../taler/taler_meta.csv", row.names = FALSE)
 
 taler_notext <- taler_meta[,setdiff(names(taler_meta), "text")]
 write.csv(taler_notext, "../../taler/taler_notext.csv", row.names = FALSE)
+
+system("../python/add_ids.py ../../taler/taler_meta.csv ../../taler/id_taler_meta.csv")
+system("../python/add_ids.py ../../taler/taler_notext.csv ../../taler/id_taler_notext.csv")
+
