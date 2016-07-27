@@ -15,7 +15,7 @@ bios_all <- mclapply(bios_block, function(x) html_text(x, trim = TRUE), mc.cores
 
 # Extracting what is to be variables from html node
 vars <- mclapply(bios_block, function(x) html_text(html_nodes(x, "h3")), mc.cores = ncores)
-vars <- mclapply(vars, function(x) str_trim(x))
+vars <- mclapply(vars, function(x) str_trim(x), mc.cores = ncores)
 
 # Producing a splitter for getting the values from each html-file for each variable
 vars_pattern <- mclapply(vars, function(x) paste0(x, collapse = "|"), mc.cores = ncores)

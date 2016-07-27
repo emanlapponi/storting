@@ -66,7 +66,6 @@ cab_name_date <- wrapup %>%
   group_by(cabinet_short) %>%
   summarise(cabinet_start = cabinet_start[1],
             cabinet_end = cabinet_end[1])
-class(cab_name_date$cabinet_end)
 
 taler$cabinet_short <- NA
 cab_name_by_date <- function(cabinet_name){
@@ -111,8 +110,15 @@ bios <- bios[, c("rep_id", "rep_first_name", "rep_last_name", "rep_name", "party
 bios <- arrange(bios, rep_id, rep_from)
 rm(all, sessions_df)
 
+# Fixing a period bug before merge
+period_fix <- data.frame(session = c("1997-1998", levels(factor(taler$session)), "2016-2017"),
+                         parl_period = unlist(lapply(levels(factor(wrapup$parl_period)), function(x) rep(x, 4))))
+
+
 # Merging party variables with speech-level data
 taler_meta <- merge(x = taler, y = wrapup_party, by = c("cabinet_short", "party_id"), all.x = TRUE)
+taler_meta$parl_period <- NULL
+taler_meta <- merge(x = taler_meta, y = period_fix, by = "session")
 
 # Merging representative variables with speech-level data
 taler_meta <- merge(x = taler_meta, y = bios, 
@@ -131,13 +137,15 @@ taler_meta <- taler_meta[, c("rep_id", "rep_first_name", "rep_last_name", "rep_n
 # Arranging the rows
 taler_meta <- arrange(taler_meta, rep_name, date)
 
-#########
+######### Writing the data frame
 write.csv(taler_meta, "../../taler/taler_meta.csv", row.names = FALSE)
 #########
 
+# Also writing a data frame without the text
 taler_notext <- taler_meta[,setdiff(names(taler_meta), "text")]
 write.csv(taler_notext, "../../taler/taler_notext.csv", row.names = FALSE)
 
-system("../python/add_ids.py ../../taler/taler_meta.csv ../../taler/id_taler_meta.csv")
-system("../python/add_ids.py ../../taler/taler_notext.csv ../../taler/id_taler_notext.csv")
+# This will not work in R, but will work in the terminal
+# system("../python/add_ids.py ../../taler/taler_meta.csv ../../taler/id_taler_meta.csv")
+# system("../python/add_ids.py ../../taler/taler_notext.csv ../../taler/id_taler_notext.csv")
 

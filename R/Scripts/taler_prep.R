@@ -99,3 +99,4 @@ taler$rep_name[which(grepl("Tove‑Lill Labahå Magga", taler$rep_name))] <- "To
 taler$rep_name[which(grepl("Unn Therese O. Sørensen", taler$rep_name))] <- "Unn Therese Omdal"
 taler$rep_name[which(grepl("Vidgis Giltun", taler$rep_name))] <- "Vigdis Giltun"
 taler$rep_name[which(grepl("Wenche Irene Sæthre Høye", taler$rep_name))] <- "Wenche I. S. Høye"
+

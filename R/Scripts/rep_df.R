@@ -40,6 +40,7 @@ rep_list <- list(`1997-2001` = storting_rep_df(allfiles[1]),
 sum(unlist(lapply(rep_list, nrow)))
 
 rep_df <- do.call(rbind, rep_list)
+
 rep_df$parl_period <- gsub("\\.[0-9]+$", "", rownames(rep_df))
 rownames(rep_df) <- 1:nrow(rep_df)
 reps <- rep_df[, c("last_name", "first_name", "id", "parl_period", "party_name", "party_id", "gender", "birth", "death",

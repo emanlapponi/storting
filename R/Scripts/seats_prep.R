@@ -22,7 +22,6 @@ seats$`2013-2017`$Odelsting <- NA
 seats$`2009-2013`$Lagting <- NA
 seats$`2013-2017`$Lagting <- NA
 
-
 seats <- do.call(rbind, seats)
 
 seats$parl_period <- gsub("\\.[0-9]", "", rownames(seats))
