@@ -4,3 +4,4 @@
 *.pyc
 data/*
 README.html
+R/Data/tmp_image.rda

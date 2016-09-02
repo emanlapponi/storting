@@ -22,26 +22,26 @@ vars_pattern <- mclapply(vars, function(x) paste0(x, collapse = "|"), mc.cores =
 vars_pattern <- mclapply(vars_pattern, function(x) gsub("^\\||\\|$", "", x), mc.cores = ncores)
 
 # Some manual fixing, ofc
-bios_all <- mclapply(bios_all, function(x) gsub("Litteraturanmelder", "litteraturanmelder", x))
-bios_all <- mclapply(bios_all, function(x) gsub("Verv Hammerfest", "verv Hammerfest", x))
-bios_all <- mclapply(bios_all, function(x) gsub("Verv Amnesty", "verv Amnesty", x))
-bios_all <- mclapply(bios_all, function(x) gsub("Sprog og Litteratur", "Sprog og litteratur", x))
-bios_all <- mclapply(bios_all, function(x) gsub("Verv Osloregionens", "verv Osloregionens", x))
-bios_all <- mclapply(bios_all, function(x) gsub("Litteraturkritiker", "litteraturkritiker", x))
-bios_all <- mclapply(bios_all, function(x) gsub("Litteraturmedarbeider", "litteraturmedarbeider", x))
-bios_all <- mclapply(bios_all, function(x) gsub("Verv AUF", "verv AUF", x))
-bios_all <- mclapply(bios_all, function(x) gsub("Verv kirkelig", "verv kirkelig", x))
-bios_all <- mclapply(bios_all, function(x) gsub("Vervet i UNIFIL", "vervet i UNIFIL", x))
-bios_all <- mclapply(bios_all, function(x) gsub("Verveleder", "verveleder", x))
-bios_all <- mclapply(bios_all, function(x) gsub("Verv NFF", "verv NFF", x))
-bios_all <- mclapply(bios_all, function(x) gsub("Verv Romerike", "verv Romerike", x))
+bios_all <- mclapply(bios_all, function(x) gsub("Litteraturanmelder", "litteraturanmelder", x), mc.cores = ncores)
+bios_all <- mclapply(bios_all, function(x) gsub("Verv Hammerfest", "verv Hammerfest", x), mc.cores = ncores)
+bios_all <- mclapply(bios_all, function(x) gsub("Verv Amnesty", "verv Amnesty", x), mc.cores = ncores)
+bios_all <- mclapply(bios_all, function(x) gsub("Sprog og Litteratur", "Sprog og litteratur", x), mc.cores = ncores)
+bios_all <- mclapply(bios_all, function(x) gsub("Verv Osloregionens", "verv Osloregionens", x), mc.cores = ncores)
+bios_all <- mclapply(bios_all, function(x) gsub("Litteraturkritiker", "litteraturkritiker", x), mc.cores = ncores)
+bios_all <- mclapply(bios_all, function(x) gsub("Litteraturmedarbeider", "litteraturmedarbeider", x), mc.cores = ncores)
+bios_all <- mclapply(bios_all, function(x) gsub("Verv AUF", "verv AUF", x), mc.cores = ncores)
+bios_all <- mclapply(bios_all, function(x) gsub("Verv kirkelig", "verv kirkelig", x), mc.cores = ncores)
+bios_all <- mclapply(bios_all, function(x) gsub("Vervet i UNIFIL", "vervet i UNIFIL", x), mc.cores = ncores)
+bios_all <- mclapply(bios_all, function(x) gsub("Verveleder", "verveleder", x), mc.cores = ncores)
+bios_all <- mclapply(bios_all, function(x) gsub("Verv NFF", "verv NFF", x), mc.cores = ncores)
+bios_all <- mclapply(bios_all, function(x) gsub("Verv Romerike", "verv Romerike", x), mc.cores = ncores)
 
 # Splitting to get the values, and cleaning up the noise
 bios_split <- mclapply(1:length(bios_all), function(x) strsplit(bios_all[[x]], vars_pattern[[x]]), mc.cores = ncores)
 bios_split <- unlist(bios_split, recursive = FALSE)
-bios_split <- mclapply(bios_split, function(x) gsub("[\r\n]", "", x))
-bios_split <- mclapply(bios_split, function(x) gsub("[\t]", "", x))
-bios_split <- mclapply(bios_split, function(x) str_trim(x))
+bios_split <- mclapply(bios_split, function(x) gsub("[\r\n]", "", x), mc.cores = ncores)
+bios_split <- mclapply(bios_split, function(x) gsub("[\t]", "", x), mc.cores = ncores)
+bios_split <- mclapply(bios_split, function(x) str_trim(x), mc.cores = ncores)
 
 # Cleaning variable names
 vars <- mclapply(vars, function(x) str_trim(x), mc.cores = ncores)
@@ -159,7 +159,7 @@ rm(bios, bios_split, bios_all, bios_block, bios_raw, first_name,
 ##### Section to make session rows ####
 
 # trying to get session rows from bios
-bios <- all[, c("rep_id", "Stortingsperioder")]
+bios <- all[, c("rep_id", "Stortingsperioder", "Medlemskap i stortingskomiteer")]
 
 source("./Scripts/manual_bios_fix.R")
 

@@ -25,6 +25,9 @@
 | parl_size             | total amount of seats in parliament                                                                          |
 | party_seats_lagting   | party seats in the upper chamber (when applicable)                                                           |
 | party_seats_odelsting | party seats in the lower chamber (when applicable)                                                           |
+| com_member            | the committees the representative was a member of the relevant parliamentary period                          |
+| com_date              | the corresponding dates that the representative was member of the committees of `com_member`                 |
+| com_role              | the role the representative had in the corresponding committee to `com_member`                               |
 | transcript            | a mysterious date-related hdo variable                                                                       |
 | order                 | speech order in a given day                                                                                  |
 | session               | parliament session                                                                                           |

@@ -1,17 +1,19 @@
 rm(list = ls());cat("\014");gc()
 # install.packages("./Data/uacd/uacd_0.14.tar.gz", repos = NULL)
 library(stringr);library(uacd);library(dplyr);library(rvest);library(parallel);library(zoo);library(gsubfn)
-library(XML)
+library(XML);library(reshape2)
 
 ncores <- detectCores()-1
 
-source("./Scripts/session_prep.R") # Dates of all parliament periods (election cycle)
-source("./Scripts/cab_prep.R") # Cabinet attributes (name, coal.partner, date from/to, etc)
-source("./Scripts/rep_df.R") # Each parliamentary period's representatives
-source("./Scripts/seats_prep.R") # Seat distribution between parties over parliamentary periods
-source("./Scripts/taler_prep.R") # The actual debates
-source("./Scripts/bios.R") # Large script for structuring the biographies
-
+# source("./Scripts/session_prep.R") # Dates of all parliament periods (election cycle)
+# source("./Scripts/cab_prep.R") # Cabinet attributes (name, coal.partner, date from/to, etc)
+# source("./Scripts/rep_df.R") # Each parliamentary period's representatives
+# source("./Scripts/seats_prep.R") # Seat distribution between parties over parliamentary periods
+# source("./Scripts/taler_prep.R") # The actual debates
+# source("./Scripts/bios.R") # Large script for structuring the biographies
+# source("./Scripts/committee.R") # Script for extracting committee membership
+# save.image("./Data/tmp_image.rda")
+load("./Data/tmp_image.rda")
 
 # Making all possible combinations of cabinet name and party name
 wrapup <- expand.grid(cabinet_short = norCabinet$cabinet_short, party_id = levels(factor(reps$party_id)))
@@ -98,6 +100,7 @@ wrapup_party <- unique(wrapup[, party_vars])
 # Ensure that party id is a character variable class
 wrapup_party$party_id <- as.character(wrapup_party$party_id)
 
+
 # Cleaning the biography data
 all <- all[, c("rep_id", "rep_first_name", "rep_last_name", "rep_name", "rep_birth", "rep_death")]
 
@@ -107,8 +110,11 @@ bios <- merge(x = bios, y = unique(wrapup_rep[, c("rep_id", "rep_gender")]), by 
 bios <- bios[, c("rep_id", "rep_first_name", "rep_last_name", "rep_name", "party_id", "rep_gender", 
                  "parl_period", "rep_from", "rep_to", "type", "county", "list_number", 
                  "rep_birth", "rep_death")]
+
+bios <- merge(x = bios, y = committee, by = c("rep_id", "parl_period"), all.x = TRUE)
+
 bios <- arrange(bios, rep_id, rep_from)
-rm(all, sessions_df)
+rm(all, sessions_df, committee)
 
 # Fixing a period bug before merge
 period_fix <- data.frame(session = c("1997-1998", levels(factor(taler$session)), "2016-2017"),
@@ -125,6 +131,16 @@ taler_meta <- merge(x = taler_meta, y = bios,
                     by = c("rep_name", "party_id", "parl_period"),
                     all.x = TRUE)
 
+# Spilitting up the commitee variable
+taler_meta$committee <- as.character(taler_meta$committee)
+
+# Running committee clean up script
+source("./Scripts/committee_fix.R")
+
+# Merging in the new variables
+taler_meta <- merge(x = taler_meta, y = committee, by = c("rep_id", "parl_period"), all.x = TRUE)
+
+
 # Arranging the columns
 taler_meta <- taler_meta[, c("rep_id", "rep_first_name", "rep_last_name", "rep_name", "rep_from", "rep_to",
                              "type", "county", "list_number",
@@ -132,6 +148,7 @@ taler_meta <- taler_meta[, c("rep_id", "rep_first_name", "rep_last_name", "rep_n
                              "cabinet_short", "cabinet_start", "cabinet_end", "cabinet_composition", 
                              "rep_gender", "rep_birth", "rep_death", # "rep_fylke_id", "rep_fylke_name",
                              "parl_period", "parl_size", "party_seats_lagting", "party_seats_odelsting",
+                             "com_member", "com_date", "com_role",
                              "transcript", "order", "session", "time", "date", "title", "text"), ]
 
 # Arranging the rows
@@ -145,7 +162,9 @@ write.csv(taler_meta, "../../taler/taler_meta.csv", row.names = FALSE)
 taler_notext <- taler_meta[,setdiff(names(taler_meta), "text")]
 write.csv(taler_notext, "../../taler/taler_notext.csv", row.names = FALSE)
 
-# This will not work in R, but will work in the terminal
-# system("../python/add_ids.py ../../taler/taler_meta.csv ../../taler/id_taler_meta.csv")
-# system("../python/add_ids.py ../../taler/taler_notext.csv ../../taler/id_taler_notext.csv")
+# Add id tags
+system("python ../python/add_ids.py ../../taler/taler_meta.csv ../../taler/id_taler_meta.csv")
+system("python ../python/add_ids.py ../../taler/taler_notext.csv ../../taler/id_taler_notext.csv")
 
+taler_meta <- read.csv("../../taler/id_taler_meta.csv")
+taler_notext <- read.csv("../../taler/id_taler_notext.csv")
