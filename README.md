@@ -2,6 +2,7 @@
 A repository for an ongoing collaberation project between the Department of Informatics and Department of Political Science, at the University of Oslo. The project aims at analyzing parliamentary debates from the Norwegian Storting in various ways. Our data builds on the brilliant work done by [Holder de ord](https://github.com/holderdeord).
 
 ## Status
+[2016-09-06] Have started to download and structure data for meeting and issue metadata, such as name of the committee that treated the bill under question.
 
 [2016-08] Have fixed a couple of bugs in the dataset where the parliamentary session was misspecified, giving some unexpected missing data. Follow the link below to get the new dataset.
 
