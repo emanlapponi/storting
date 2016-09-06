@@ -165,6 +165,3 @@ write.csv(taler_notext, "../../taler/taler_notext.csv", row.names = FALSE)
 # Add id tags
 system("python ../python/add_ids.py ../../taler/taler_meta.csv ../../taler/id_taler_meta.csv")
 system("python ../python/add_ids.py ../../taler/taler_notext.csv ../../taler/id_taler_notext.csv")
-
-taler_meta <- read.csv("../../taler/id_taler_meta.csv")
-taler_notext <- read.csv("../../taler/id_taler_notext.csv")
