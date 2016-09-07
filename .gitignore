@@ -5,3 +5,6 @@
 data/*
 README.html
 R/Data/tmp_image.rda
+R/Data/saker/dagsorden*
+R/Data/reps/*.xml
+R/Data/moter/moter*
