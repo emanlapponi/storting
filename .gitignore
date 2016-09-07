@@ -8,3 +8,4 @@ R/Data/tmp_image.rda
 R/Data/saker/dagsorden*
 R/Data/reps/*.xml
 R/Data/moter/moter*
+R/Data/seats/*.html
