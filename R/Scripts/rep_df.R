@@ -1,49 +1,47 @@
-storting_rep_df <- function(file) {
-  require(XML, quietly = TRUE)
-  base_file <- xmlInternalTreeParse(file)
+getReps <- function(file){
+  reps <- xmlToList(file)
+  versjon <- doedsdato <- etternavn <- foedselsdato <- character()
+  fornavn <- id <- kjoenn <- fylke_versjon <- fylke_id <- fylke_navn <- character()
+  parti_versjon <- parti_id <- parti_navn <-mote_ting <- referat_id <- tilleggsdagsorden <- character()
+  
+  for(i in 1:length(reps[["representanter_liste"]])){
+    versjon <- c(versjon, reps[["representanter_liste"]][[i]]$versjon)
+    doedsdato <- c(doedsdato, reps[["representanter_liste"]][[i]]$doedsdato)
+    etternavn <- c(etternavn, reps[["representanter_liste"]][[i]]$etternavn)
+    foedselsdato <- c(foedselsdato, reps[["representanter_liste"]][[i]]$foedselsdato)
+    fornavn <- c(fornavn, reps[["representanter_liste"]][[i]]$fornavn)
+    id <- c(id, reps[["representanter_liste"]][[i]]$id)
+    kjoenn <- c(kjoenn, reps[["representanter_liste"]][[i]]$kjoenn)
+    fylke_versjon <- c(fylke_versjon, reps[["representanter_liste"]][[i]]$fylke$versjon)
+    fylke_id <- c(fylke_id, reps[["representanter_liste"]][[i]]$fylke$id)
+    fylke_navn <- c(fylke_navn, reps[["representanter_liste"]][[i]]$fylke$navn)
+    parti_versjon <- c(parti_versjon, reps[["representanter_liste"]][[i]]$parti$versjon)
+    parti_id <- c(parti_id, reps[["representanter_liste"]][[i]]$parti$id)
+    parti_navn <- c(parti_navn, reps[["representanter_liste"]][[i]]$parti$navn)
+    
+  }
   
   
-  rep_list <- xmlToList(base_file, xmlChildren(xmlRoot(base_file))[["representanter_liste"]])
-  rep_list <- unlist(rep_list$representanter_liste)
+  tmp <- data.frame(versjon, doedsdato, etternavn, foedselsdato, fornavn, id, kjoenn, fylke_versjon, fylke_id, fylke_navn,
+                    parti_versjon, parti_id, parti_navn, stringsAsFactors = FALSE)
+  tmp$parl_period <- unlist(stringr::str_extract_all(file, "[0-9]{4}\\-[0-9]{4}"))
   
-  
-  # vars <- unique(names(rep_list))
-  rep_list <- as.character(rep_list)
-  
-  reps <- data.frame(
-    version = rep_list[seq(1, length(rep_list), 13)],
-    death = rep_list[seq(2, length(rep_list), 13)],
-    last_name = rep_list[seq(3, length(rep_list), 13)],
-    birth = rep_list[seq(4, length(rep_list), 13)],
-    first_name = rep_list[seq(5, length(rep_list), 13)],
-    id = rep_list[seq(6, length(rep_list), 13)],
-    gender = rep_list[seq(7, length(rep_list), 13)],
-    fylke_version = rep_list[seq(8, length(rep_list), 13)],
-    fylke_id = rep_list[seq(9, length(rep_list), 13)],
-    fylke_name = rep_list[seq(10, length(rep_list), 13)],
-    party_version = rep_list[seq(11, length(rep_list), 13)],
-    party_id = rep_list[seq(12, length(rep_list), 13)],
-    party_name = rep_list[seq(13, length(rep_list), 13)],
-    stringsAsFactors = FALSE)
-  return(reps)
+  return(tmp)
 }
-
 
 allfiles <- list.files("./Data/reps", pattern = ".xml", full.names = TRUE)
 
-rep_list <- list(`1997-2001` = storting_rep_df(allfiles[1]),
-                 `2001-2005` = storting_rep_df(allfiles[2]),
-                 `2005-2009` = storting_rep_df(allfiles[3]),
-                 `2009-2013` = storting_rep_df(allfiles[4]),
-                 `2013-2017` = storting_rep_df(allfiles[5]))
+reps <- lapply(allfiles, getReps)
 
-sum(unlist(lapply(rep_list, nrow)))
+reps <- do.call("rbind", reps)
 
-rep_df <- do.call(rbind, rep_list)
 
-rep_df$parl_period <- gsub("\\.[0-9]+$", "", rownames(rep_df))
-rownames(rep_df) <- 1:nrow(rep_df)
-reps <- rep_df[, c("last_name", "first_name", "id", "parl_period", "party_name", "party_id", "gender", "birth", "death",
+
+rownames(reps) <- 1:nrow(reps)
+colnames(reps) <- c("version", "death", "last_name", "birth", "first_name", "id", "gender", "fylke_version", "fylke_id",
+                    "fylke_name", "party_version", "party_id", "party_name", "parl_period")
+
+reps <- reps[, c("last_name", "first_name", "id", "parl_period", "party_name", "party_id", "gender", "birth", "death",
                    "fylke_name", "fylke_id", "version", "party_version", "fylke_version")]
 
 reps$cabinet_short <- NA
@@ -61,4 +59,4 @@ reps$cabinet_short <- ifelse(reps$parl_period == "2013-2017", "Solberg I", reps$
 
 
 
-rm(allfiles, rep_list, storting_rep_df, rep_df, reps_9701Bondevik, reps_9701BStoltenberg)
+rm(allfiles, reps_9701Bondevik, reps_9701BStoltenberg, getReps)
