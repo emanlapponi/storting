@@ -1,11 +1,11 @@
 # Removing duplicates of same person in same parliamentary period
 committee <- taler_meta %>%
-  group_by(rep_id, parl_period) %>%
+  group_by(url_rep_id, parl_period) %>%
   summarize(committee = unique(committee))
 
 # Extracting the dates of membership and assigning with id
 com_dates <- str_extract_all(committee$committee, "([0-9]+\\.[0-9]+\\.[0-9]+\\s*\\-\\s*[0-9]+\\.[0-9]+\\.[0-9]+)")
-names(com_dates) <- paste(committee$rep_id, "-",committee$parl_period)
+names(com_dates) <- paste(committee$url_rep_id, "-",committee$parl_period)
 
 # Extracting role and committee, removing empty strings, and giving NA to character(0) occurances
 com_tmp <- str_split(committee$committee, "([0-9]+\\.[0-9]+\\.[0-9]+\\s*\\-\\s*[0-9]+\\.[0-9]+\\.[0-9]+)")
@@ -17,7 +17,7 @@ for(i in 1:length(com_tmp)){
 }
 
 # Assigning ids to the committees as well
-names(com_tmp) <- paste(committee$rep_id, "-",committee$parl_period) 
+names(com_tmp) <- paste(committee$url_rep_id, "-",committee$parl_period) 
 
 # Melting dates and committees to symmetric data frames, then insert the dates to the tmp data frame, and removing the date object
 com_dates <- melt(com_dates, na.rm = FALSE)
@@ -25,14 +25,14 @@ com_tmp <- melt(com_tmp, na.rm = FALSE)
 com_tmp$dates <- com_dates$value
 rm(com_dates)
 
-# Splitting the id up into rep_id and parliamentary period
-com_tmp$rep_id <- sapply(strsplit(com_tmp$L1, " \\- "), "[[", 1)
+# Splitting the id up into url_rep_id and parliamentary period
+com_tmp$url_rep_id <- sapply(strsplit(com_tmp$L1, " \\- "), "[[", 1)
 com_tmp$parl_period <- sapply(strsplit(com_tmp$L1, " \\- "), "[[", 2)
-com_tmp$rep_id[which(com_tmp$rep_id == "NA")] <- NA
+com_tmp$url_rep_id[which(com_tmp$url_rep_id == "NA")] <- NA
 com_tmp$L1 <- NULL
 
 # Assigning better names to the variables
-names(com_tmp) <- c("committee", "com_date", "rep_id", "parl_period")
+names(com_tmp) <- c("committee", "com_date", "url_rep_id", "parl_period")
 
 # Trimming, removing commas in the end of string, and extracting the committee role
 com_tmp$committee <- str_trim(com_tmp$committee)
@@ -52,7 +52,7 @@ rm(com_tmp)
 
 # Aggregating to representative, parliamentary period
 committee <- committee %>%
-  group_by(rep_id, parl_period) %>%
-  summarize(com_member = paste(committee, collapse = " // "),
-            com_date = paste(com_date, collapse = " // "),
-            com_role = paste(com_role, collapse = " // "))
+  group_by(url_rep_id, parl_period) %>%
+  summarize(com_member = paste(committee, collapse = " ; "),
+            com_date = paste(com_date, collapse = " ; "),
+            com_role = paste(com_role, collapse = " ; "))
