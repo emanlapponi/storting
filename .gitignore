@@ -4,6 +4,8 @@
 *.pyc
 *.csv
 *.rda
+*.html
+*.xls
 data/*
 README.html
 R/Data/uacd/*
