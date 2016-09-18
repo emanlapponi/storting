@@ -1,7 +1,8 @@
 rm(list = ls());cat("\014");gc()
 # install.packages("./Data/uacd/uacd_0.14.tar.gz", repos = NULL)
-library(stringr);library(uacd);library(dplyr);library(rvest);library(parallel);library(zoo);library(gsubfn)
-library(XML);library(reshape2)
+library(stringr);library(uacd);library(dplyr);library(rvest)
+library(parallel);library(zoo);library(gsubfn);library(XML)
+library(reshape2); library(pbmcapply)
 
 ncores <- detectCores()-1
 
@@ -12,7 +13,8 @@ ncores <- detectCores()-1
 # source("./Scripts/taler_prep.R") # The actual debates
 # source("./Scripts/bios.R") # Large script for structuring the biographies
 # source("./Scripts/committee.R") # Script for extracting committee membership
-# save.image("./Data/tmp_image.rda")
+# source("./Scripts/wrapup_saker.R") # Getting a crapton of data on the case level
+# save.image("./Data/tmp_image.rda") # These two lines are just a cheat to reduce wait when running multiple tests on script
 load("./Data/tmp_image.rda")
 
 # Making all possible combinations of cabinet name and party name
@@ -106,14 +108,16 @@ all <- all[, c("rep_id", "rep_first_name", "rep_last_name", "rep_name", "rep_bir
 
 # Complete the bios data by merging the different sources and arranging columns + rows
 bios <- merge(x = bios, y = all, by = "rep_id", all.x = TRUE)
-bios <- merge(x = bios, y = unique(wrapup_rep[, c("rep_id", "rep_gender")]), by = c("rep_id"), all.x = TRUE)
-bios <- bios[, c("rep_id", "rep_first_name", "rep_last_name", "rep_name", "party_id", "rep_gender", 
+bios$url_rep_id <- bios$rep_id
+bios$rep_id <- NULL
+
+bios <- merge(x = bios, y = unique(wrapup_rep[, c("rep_name", "rep_id", "rep_gender")]), by = c("rep_name"), all.x = TRUE)
+bios <- bios[, c("url_rep_id", "rep_id", "rep_first_name", "rep_last_name", "rep_name", "party_id", "rep_gender", 
                  "parl_period", "rep_from", "rep_to", "type", "county", "list_number", 
                  "rep_birth", "rep_death")]
+bios <- merge(x = bios, y = committee, by.x = c("url_rep_id", "parl_period"), by.y = c("rep_id", "parl_period"), all.x = TRUE)
 
-bios <- merge(x = bios, y = committee, by = c("rep_id", "parl_period"), all.x = TRUE)
-
-bios <- arrange(bios, rep_id, rep_from)
+bios <- arrange(bios, url_rep_id, rep_from)
 rm(all, sessions_df, committee)
 
 # Fixing a period bug before merge
@@ -138,12 +142,24 @@ taler_meta$committee <- as.character(taler_meta$committee)
 source("./Scripts/committee_fix.R")
 
 # Merging in the new variables
-taler_meta <- merge(x = taler_meta, y = committee, by = c("rep_id", "parl_period"), all.x = TRUE)
+taler_meta <- merge(x = taler_meta, y = committee, by = c("url_rep_id", "parl_period"), all.x = TRUE)
+taler_meta$com_date[which(taler_meta$com_date == "NA")] <- NA
+taler_meta$com_member[which(taler_meta$com_member == "NA")] <- NA
+taler_meta$com_role[which(taler_meta$com_role == "NA")] <- NA
 
+# Filling in gender by using the "gender" package
+  # This might be slightly experimental
+gen <- gender::gender(unique(sapply(strsplit(taler_meta$rep_first_name, " "), "[[", 1)))
+gen$gender <- ifelse(gen$gender == "male", "mann", 
+                     ifelse(gen$gender == "female", "kvinne", NA))
+taler_meta <- merge(x = taler_meta, y = gen[,c("name", "gender")], by.x = "rep_first_name", by.y = "name", all.x = TRUE)
 
 # Arranging the columns
-taler_meta <- taler_meta[, c("rep_id", "rep_first_name", "rep_last_name", "rep_name", "rep_from", "rep_to",
-                             "type", "county", "list_number",
+taler_meta$rep_type <- taler_meta$type
+taler_meta$type <- NULL
+
+taler_meta <- taler_meta[, c("url_rep_id", "rep_id", "rep_first_name", "rep_last_name", "rep_name", "rep_from", "rep_to",
+                             "rep_type", "county", "list_number",
                              "party_id", "party_name", "party_role", "party_seats",
                              "cabinet_short", "cabinet_start", "cabinet_end", "cabinet_composition", 
                              "rep_gender", "rep_birth", "rep_death", # "rep_fylke_id", "rep_fylke_name",
@@ -151,17 +167,45 @@ taler_meta <- taler_meta[, c("rep_id", "rep_first_name", "rep_last_name", "rep_n
                              "com_member", "com_date", "com_role",
                              "transcript", "order", "session", "time", "date", "title", "text"), ]
 
+# Fixing transcript variable from HDO, so that it sorts properly
+taler_meta$transcript <- gsub("\\.sgm$", "", taler_meta$transcript)
+taler_meta$transcript <- ifelse(grepl("k$", taler_meta$transcript), 
+                                gsub("k", "b", taler_meta$transcript), 
+                                paste0(taler_meta$transcript, "a")) 
 # Arranging the rows
 taler_meta <- arrange(taler_meta, rep_name, date)
 
-######### Writing the data frame
+# Removing objects
+rm(bios, committee, period_fix, taler, wrapup, wrapup_party, wrapup_rep, i, j,
+   party_vars, rep_vars, cab_name_by_date, gen)
+
+######### Writing the data frame first time
 write.csv(taler_meta, "../../taler/taler_meta.csv", row.names = FALSE)
 #########
 
-# Also writing a data frame without the text
-taler_notext <- taler_meta[,setdiff(names(taler_meta), "text")]
-write.csv(taler_notext, "../../taler/taler_notext.csv", row.names = FALSE)
-
 # Add id tags
 system("python ../python/add_ids.py ../../taler/taler_meta.csv ../../taler/id_taler_meta.csv")
-system("python ../python/add_ids.py ../../taler/taler_notext.csv ../../taler/id_taler_notext.csv")
+
+# Reading in the data again
+taler_meta <- read.csv("../../taler/id_taler_meta.csv", stringsAsFactors = FALSE)
+
+# Merging case data
+taler_meta <- merge(x = taler_meta, y = case_data, by = "id", all.x = TRUE)
+taler_meta <- taler_meta[, c("url_rep_id", "rep_id", "rep_first_name", "rep_last_name", "rep_name", "rep_from", "rep_to",
+                             "type", "county", "list_number",
+                             "party_id", "party_name", "party_role", "party_seats",
+                             "cabinet_short", "cabinet_start", "cabinet_end", "cabinet_composition", 
+                             "rep_gender", "rep_birth", "rep_death", # "rep_fylke_id", "rep_fylke_name",
+                             "parl_period", "parl_size", "party_seats_lagting", "party_seats_odelsting",
+                             "com_member", "com_date", "com_role",
+                             "transcript", "order", "session", "time", "date", "title", "text"), ]
+# Arranging the data again
+taler_meta <- arrange(taler_meta, date, transcript, order)
+
+
+write.csv(taler_meta, "../../taler/id_taler_meta.csv", row.names = FALSE)
+
+# Also writing a data frame without the text
+taler_notext <- taler_meta[,setdiff(names(taler_meta), "text")]
+write.csv(taler_notext, "../../taler/id_taler_notext.csv", row.names = FALSE)
+
