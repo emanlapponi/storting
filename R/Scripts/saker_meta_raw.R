@@ -3,14 +3,15 @@ library(rvest);library(dplyr);library(zoo);library(parallel)
 
 
 taler_notext <- read.csv("../../taler/id_taler_notext.csv")
-allFiles <- paste0("./Data/sak_filerefs/sakfiles", seq(1998, 2015, 1),
-                   "-", seq(1999, 2016, 1), ".rda")
+allFiles <- paste0("./Data/sak_filerefs/sakfiles", seq(1998, 2015, 1), "-", seq(1999, 2016, 1), ".rda")
+
 tmp <- list()
 for(i in 1:length(allFiles)){
   load(allFiles[i])
   tmp[[i]] <- soFar
   tmp[[i]]$taler.title <- NULL
   if(is.null(tmp[[i]]$sak_file)==TRUE){
+
     tmp[[i]]$sak_file <- tmp[[i]]$bios_file
     tmp[[i]]$bios_file <- NULL
     tmp[[i]] <- tmp[[i]][, c("id", "sak_file", "session", "date")]
@@ -33,9 +34,6 @@ soFar <- lapply(soFar, function(x){
            sak_file = na.locf(sak_file, na.rm = FALSE, fromLast = TRUE)) # ...
   
 })
-
-fails <- lapply(soFar, function(x) x[which(is.na(x$sak_file)), ])
-lapply(fails, nrow)
 
 subs <- unlist(lapply(soFar, function(x) unique(x$sak_file[which(is.na(x$sak_file)==FALSE)])))
 

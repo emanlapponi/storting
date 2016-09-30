@@ -2,7 +2,10 @@
 dagsorden <- read.csv2("./Data/dagsorden.csv", stringsAsFactors = FALSE)
 saker_meta <- read.csv("./Data/saker_meta_raw.csv", stringsAsFactors = FALSE)
 saker_detailed <- read.csv("./Data/saker_detailed.csv", stringsAsFactors = FALSE)
-# dagsorden <- read.csv2("./Data/dagsorden.csv", stringsAsFactors = FALSE)
+questions_detailed <- read.csv("./Data/questions_detailed.csv", stringsAsFactors = FALSE)
+interpellations_detailed <- read.csv("./Data/interpellations_detailed.csv", stringsAsFactors = FALSE)
+allquestions <- rbind(questions_detailed, interpellations_detailed)
+rm(questions_detailed, interpellations_detailed)
 # moter <- read.csv2("./Data/moter.csv", stringsAsFactors = FALSE)
 # taler <- read.csv("../../taler/tale.2016-04-20.csv")
 ##################
@@ -22,6 +25,10 @@ saker_meta$DC.Description <- ifelse(saker_meta$DC.Type == "muntligsporretime", "
                                     ifelse(saker_meta$DC.Type == "ordinarsporretime", "Ordinær spørretime", saker_meta$DC.Description))
 saker_meta$saker_meta_id <- paste0("saker_", id(saker_meta[, c("date", "DC.Description")]))
 
+# Merging questions to dagsorden
+allquestions <- allquestions[which(duplicated(allquestions$sporsmal_id) == FALSE), ]
+dagsorden <- merge(x = dagsorden, y = allquestions, by = "sporsmal_id", all.x = TRUE)
+
 dagsorden <- dagsorden[which(dagsorden$mote_ting == "storting"), ]
 dagsorden$date <- as.Date(dagsorden$mote_dato_tid)
 dagsorden$dagsordensak_tekst <- ifelse(dagsorden$dagsordensak_type == "SpTim", "Ordinær spørretime",
@@ -29,7 +36,6 @@ dagsorden$dagsordensak_tekst <- ifelse(dagsorden$dagsordensak_type == "SpTim", "
                                               dagsorden$dagsordensak_tekst))
 dagsorden <- arrange(dagsorden, date, dagsordensak_nummer)
 dagsorden$dagsorden_id <- paste0("dagsorden_", 1:nrow(dagsorden))
-
 
 
 innstillinger <- dagsorden[which(grepl("Innst.|INT|FORO|DOK8", dagsorden$dagsordensak_type)), ]
@@ -46,7 +52,12 @@ unique_saker_meta <- saker_meta %>%
 
 matcher <- pbmclapply(1:nrow(innstillinger), function(i) { #### 
   rows <- which(as.character(innstillinger$date[i]) == as.character(unique_saker_meta$date))
-  match <- agrepl(innstillinger$dagsordensak_tekst[i], unique_saker_meta$DC.Description[rows], 5)
+  if(innstillinger$dagsordensak_type[i] == "INT"){
+    match <- agrepl(innstillinger$dagsordensak_tekst[i], sapply(strsplit(unique_saker_meta$DC.Description[rows], ":"), "[[", 1), 5)
+  } else {
+    match <- agrepl(innstillinger$dagsordensak_tekst[i], unique_saker_meta$DC.Description[rows], 5)
+  }
+  
   saker_meta_id <- unique_saker_meta$saker_meta_id[rows]
   saker_meta_id <- saker_meta_id[match]
   
@@ -75,12 +86,17 @@ tale_sak <- arrange(tale_sak, date, transcript, order)
 # hm <- tale_sak[which(is.na(tale_sak$mote_id) & grepl("saksref", tale_sak$DC.Type)), ]
 
 tale_sak <- tale_sak[, c("id", "TITLE", "DC.Type", "DC.Identifier", "KEYWORDS", "DC.Subject", "dagsordensak_henvisning",
-                 "dagsordensak_nummer", "dagsordensak_tekst", "dagsordensak_type", "innstilling_id", "komite_id", "sak_id", "sporsmal_id",
-                 "dagsorden_nummer", "mote_id")]
+                         "dagsordensak_nummer", "dagsordensak_tekst", "dagsordensak_type", "innstilling_id", "komite_id", "sak_id",
+                         "sporsmal_id", "sporsmal_nummer", "sporsmal_type", "sporsmal_title", 
+                         "sporsmal_fra_id" , "besvart_av_id", "sporsmal_til_id",
+                         "besvart_av_minister_id", "besvart_av_minister_tittel", "besvart_pa_vegne_av_id", "emne_navn",
+                         "dagsorden_nummer", "mote_id")]
+
 
 tale_sak$DC.Identifier <- gsub("https://www.stortinget.no/no/", "", tale_sak$DC.Identifier)
 
 saker_detailed$komite_id <- NULL
+dagsorden$emne_id <- dagsorden$emne_er_hovedemne <- dagsorden$emne_navn <- NULL
 
 saker <- merge(x = dagsorden, y = saker_detailed, by.x = "sak_id", by.y = "id", all.x = TRUE)
 saker <- saker[which(is.na(saker$dagsordensak_nummer) == FALSE), 
@@ -116,6 +132,6 @@ saker$ref_url <- gsub("//www.stortinget.no/no/", "", saker$ref_url)
 case_data <- merge(x = tale_sak[, setdiff(names(tale_sak), names(saker))], by.x = "DC.Identifier", 
                    y = saker[which(is.na(saker$ref_url) == FALSE), ], by.y = "ref_url", all.x = TRUE)
 
-rm(dagsorden, innstillinger, matcher, saker, saker_meta, unique_saker_meta, saker_detailed, tale_sak, ref_url)
+rm(dagsorden, innstillinger, matcher, saker, saker_meta, unique_saker_meta, saker_detailed, tale_sak, ref_url, allquestions)
 # write.csv(moredata, file = "./Data/wrapup_saker.csv")
 

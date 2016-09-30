@@ -148,7 +148,7 @@ taler_meta$com_member[which(taler_meta$com_member == "NA")] <- NA
 taler_meta$com_role[which(taler_meta$com_role == "NA")] <- NA
 
 # Filling in gender by using the "gender" package
-  # This might be slightly experimental
+# This might be slightly experimental
 gen <- gender::gender(unique(sapply(strsplit(taler_meta$rep_first_name, " "), "[[", 1)))
 gen$gender <- ifelse(gen$gender == "male", "mann", 
                      ifelse(gen$gender == "female", "kvinne", NA))
@@ -191,17 +191,86 @@ taler_meta <- read.csv("../../taler/id_taler_meta.csv", stringsAsFactors = FALSE
 
 # Merging case data
 taler_meta <- merge(x = taler_meta, y = case_data, by = "id", all.x = TRUE)
-taler_meta <- taler_meta[, c("url_rep_id", "rep_id", "rep_first_name", "rep_last_name", "rep_name", "rep_from", "rep_to",
-                             "type", "county", "list_number",
+rm(case_data)
+taler_meta <- taler_meta[, c("id", "url_rep_id", "rep_id", "rep_first_name", "rep_last_name", "rep_name", "rep_from", "rep_to",
+                             "rep_type", "county", "list_number",
                              "party_id", "party_name", "party_role", "party_seats",
                              "cabinet_short", "cabinet_start", "cabinet_end", "cabinet_composition", 
                              "rep_gender", "rep_birth", "rep_death", # "rep_fylke_id", "rep_fylke_name",
                              "parl_period", "parl_size", "party_seats_lagting", "party_seats_odelsting",
                              "com_member", "com_date", "com_role",
+                             "sak_id", "DC.Identifier", "TITLE", "tittel", "DC.Type", "innstilling_id", "innstillingstekst",
+                             "dokumentgruppe", "henvisning", "korttitel", "kortvedtak", "parentestekst",
+                             "sak_opphav_rep_id", "saksordfoerer_liste_rep_id", "type", "vedtakstekst",
+                             "sporsmal_nummer", "sporsmal_type", "sporsmal_title", "sporsmal_fra_id", "sporsmal_til_id",
+                             "besvart_av_id", "besvart_av_minister_id", "besvart_av_minister_tittel",
+                             "emne_id", "emne_navn", "emne_er_hovedemne", "hovedemne_id",
+                             "komite_id", "komite_navn", 
+                             "dagsordensak_nummer", "dagsordensak_henvisning", "dagsordensak_tekst", "dagsordensak_type",
+                             "dagsorden_nummer", "mote_id", 
+                             "ssl_id", "ssl_navn", "ssl_steg_nummer", 
+                             "prl_eksport_id", "prl_lenke_tekst", "prl_lenke_url", "prl_type", "prl_undertype",
+                             "srl_relatert_sak_id", "srl_relasjon_type", "srl_relatert_sak_korttittel",
+                             "KEYWORDS", "stikkord",
                              "transcript", "order", "session", "time", "date", "title", "text"), ]
+
+# Prettying up the data
+taler_meta$DC.Type <- ifelse(is.na(taler_meta$sporsmal_type) == FALSE & taler_meta$sporsmal_type == "interpellasjon",
+                        taler_meta$sporsmal_type, taler_meta$DC.Type)
+taler_meta$tittel <- ifelse(is.na(taler_meta$sporsmal_title) == FALSE, taler_meta$sporsmal_title, taler_meta$tittel)
+taler_meta$sporsmal_type <- taler_meta$sporsmal_title <- NULL
+
+names(taler_meta)[which(names(taler_meta)=="sak_id")] <- "case_id"
+names(taler_meta)[which(names(taler_meta)=="DC.Identifier")] <- "debate_reference"
+names(taler_meta)[which(names(taler_meta)=="TITLE")] <- "debate_title"
+names(taler_meta)[which(names(taler_meta)=="tittel")] <- "debate_subject"
+names(taler_meta)[which(names(taler_meta)=="DC.Type")] <- "debate_type"
+names(taler_meta)[which(names(taler_meta)=="innstilling_id")] <- "proposition_id"
+names(taler_meta)[which(names(taler_meta)=="innstillingstekst")] <- "proposition_text"
+names(taler_meta)[which(names(taler_meta)=="dokumentgruppe")] <- "document_group"
+names(taler_meta)[which(names(taler_meta)=="henvisning")] <- "document_references"
+names(taler_meta)[which(names(taler_meta)=="korttitel")] <- "document_subject_short"
+names(taler_meta)[which(names(taler_meta)=="kortvedtak")] <- "decision_short"
+names(taler_meta)[which(names(taler_meta)=="parentestekst")] <- "document_note"
+names(taler_meta)[which(names(taler_meta)=="sak_opphav_rep_id")] <- "case_source_id"
+names(taler_meta)[which(names(taler_meta)=="saksordfoerer_liste_rep_id")] <- "case_chair_id"
+names(taler_meta)[which(names(taler_meta)=="type")] <- "case_type"
+names(taler_meta)[which(names(taler_meta)=="vedtakstekst")] <- "decision_text"
+names(taler_meta)[which(names(taler_meta)=="sporsmal_nummer")] <- "question_number"
+names(taler_meta)[which(names(taler_meta)=="sporsmal_fra_id")] <- "question_from_id"
+names(taler_meta)[which(names(taler_meta)=="sporsmal_til_id")] <- "question_to_id"
+names(taler_meta)[which(names(taler_meta)=="besvart_av_id")] <- "question_answered_by_id"
+names(taler_meta)[which(names(taler_meta)=="besvart_av_minister_id")] <- "question_answered_by_ministry_id"
+names(taler_meta)[which(names(taler_meta)=="besvart_av_minister_tittel")] <- "question_answered_by_minister_title"
+names(taler_meta)[which(names(taler_meta)=="emne_id")] <- "subject_ids"
+names(taler_meta)[which(names(taler_meta)=="emne_navn")] <- "subject_names"
+names(taler_meta)[which(names(taler_meta)=="emne_er_hovedemne")] <- "is_main_subject"
+names(taler_meta)[which(names(taler_meta)=="hovedemne_id")] <- "main_subject_id"
+names(taler_meta)[which(names(taler_meta)=="komite_id")] <- "subject_committee_id"
+names(taler_meta)[which(names(taler_meta)=="komite_navn")] <- "subject_committee_name"
+names(taler_meta)[which(names(taler_meta)=="dagsordensak_nummer")] <- "agenda_case_number"
+names(taler_meta)[which(names(taler_meta)=="dagsordensak_henvisning")] <- "agenda_case_reference"
+names(taler_meta)[which(names(taler_meta)=="dagsordensak_tekst")] <- "agenda_case_text"
+names(taler_meta)[which(names(taler_meta)=="dagsordensak_type")] <- "agenda_case_type"
+names(taler_meta)[which(names(taler_meta)=="dagsorden_nummer")] <- "agenda_number"
+names(taler_meta)[which(names(taler_meta)=="mote_id")] <- "meeting_id"
+names(taler_meta)[which(names(taler_meta)=="ssl_id")] <- "procedure_id"
+names(taler_meta)[which(names(taler_meta)=="ssl_navn")] <- "procedure_name"
+names(taler_meta)[which(names(taler_meta)=="ssl_steg_nummer")] <- "procedure_stepnumber"
+names(taler_meta)[which(names(taler_meta)=="prl_eksport_id")] <- "publication_export_id"
+names(taler_meta)[which(names(taler_meta)=="prl_lenke_tekst")] <- "publication_link_text"
+names(taler_meta)[which(names(taler_meta)=="prl_lenke_url")] <- "publication_link_url"
+names(taler_meta)[which(names(taler_meta)=="prl_type")] <- "publication_type"
+names(taler_meta)[which(names(taler_meta)=="prl_undertype")] <- "publication_undertype"
+names(taler_meta)[which(names(taler_meta)=="srl_relatert_sak_id")] <- "related_case_id"
+names(taler_meta)[which(names(taler_meta)=="srl_relasjon_type")] <- "related_case_type"
+names(taler_meta)[which(names(taler_meta)=="srl_relatert_sak_korttittel")] <- "related_case_title_short"
+names(taler_meta)[which(names(taler_meta)=="KEYWORDS")] <- "keyword" # These two here
+names(taler_meta)[which(names(taler_meta)=="stikkord")] <- "keywords"   # Are not from the same source -- hence the difference.
+names(taler_meta)[which(names(taler_meta)=="title")] <- "speaker_role"
+
 # Arranging the data again
 taler_meta <- arrange(taler_meta, date, transcript, order)
-
 
 write.csv(taler_meta, "../../taler/id_taler_meta.csv", row.names = FALSE)
 
