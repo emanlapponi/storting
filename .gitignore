@@ -8,6 +8,7 @@
 *.xls
 data/*
 README.html
+R/Scripts/secret_shortcut/*
 R/Data/uacd/*
 R/Data/saker/dagsorden*
 R/Data/reps/*.xml
