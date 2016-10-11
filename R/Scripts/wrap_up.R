@@ -173,7 +173,7 @@ taler_meta$transcript <- ifelse(grepl("k$", taler_meta$transcript),
                                 gsub("k", "b", taler_meta$transcript), 
                                 paste0(taler_meta$transcript, "a")) 
 # Arranging the rows
-taler_meta <- arrange(taler_meta, rep_name, date)
+taler_meta <- arrange(taler_meta, date, transcript, order)
 
 # Removing objects
 rm(bios, committee, period_fix, taler, wrapup, wrapup_party, wrapup_rep, i, j,
