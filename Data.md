@@ -1,85 +1,85 @@
 # Notes on the variables
-| Variable name                       | Variable description                                                                                         |
-|:------------------------------------|:-------------------------------------------------------------------------------------------------------------|
-| id                                  | unique id for a speech                                                                                       |
-| url_rep_id                          | unique id for representatives in online urls (NA for presidents)                                             |
-| rep_id                              | unique id for representatives from API (NA for presidents)                                                   |
-| rep_first_name                      | first name                                                                                                   |
-| rep_last_name                       | last name                                                                                                    |
-| rep_name                            | full name                                                                                                    |
-| rep_from                            | start of the mandate (NA for presidents)                                                                     |
-| rep_to                              | end of mandate (NA for presidents)                                                                           |
-| rep_type                            | type of representative (representant, vararepresentant), NA for all non representatives or elected ministers |
-| county                              | county of provenance                                                                                         |
-| list_number                         | position on the party list at the last election                                                              |
-| party_id                            | unique id for a party                                                                                        |
-| party_name                          | full name of the party                                                                                       |
-| party_role                          | parliament role of the party (cabinet, opposition, support), NA for presidents                               |
-| party_seats                         | number of seats in parliament for the speaker's party                                                        |
-| cabinet_short                       | pet name for the current cabinet (also usable as an id)                                                      |
-| cabinet_start                       | start date of the cabinet                                                                                    |
-| cabinet_end                         | end date of the cabinet                                                                                      |
-| cabinet_composition                 | composition of the cabinet (Coalition, Single-party)                                                         |
-| rep_gender                          | gender                                                                                                       |
-| rep_birth                           | date of birth                                                                                                |
-| rep_death                           | date of death                                                                                                |
-| parl_period                         | election cycle                                                                                               |
-| parl_size                           | total amount of seats in parliament                                                                          |
-| party_seats_lagting                 | party seats in the upper chamber (when applicable)                                                           |
-| party_seats_odelsting               | party seats in the lower chamber (when applicable)                                                           |
-| com_member                          | the committees the representative was a member of this parliamentary period                                  |
-| com_date                            | the dates that the representative was member of the committees of `com_member`                               |
-| com_role                            | the role the representative had in the corresponding committee to `com_member`                               |
-| case_id                             | the id of the case                                                                                           |
-| debate_reference                    | where to find the debate                                                                                     |
-| debate_title                        | title of the debate                                                                                          |
-| debate_subject                      | subject of the debate                                                                                        |
-| debate_type                         | type of debate (question/interpellation etc)                                                                 |
-| proposition_id                      | id of proposition                                                                                            |
-| proposition_text                    | proposition text                                                                                             |
-| document_group                      | underlying debate document group (proposisjon/melding etc)                                                   |
-| document_subject_short              | short subject description of document                                                                        |
-| decision_short                      | short description of decision made on the case under debate                                                  |
-| document_note                       | any notes attached to the underlying document of debate                                                      |
-| case_source_id                      | source id for the case                                                                                       |
-| case_chair_id                       | representative id for the chair of the case                                                                  |
-| case_type                           | type of case                                                                                                 |
-| decision_text                       | description of decision on the case                                                                          |
-| question_number                     | for questions, the question number                                                                           |
-| question_from_id                    | for questions, who asked the question (rep_id)                                                               |
-| question_to_id                      | for questions, who the question was asked to (rep_id)                                                        |
-| question_answered_by_id             | for questions, who answered the question (rep_id)                                                            |
-| question_answered_by_ministry_id    | for questions, the ministry the answering minister is under (id)                                             |
-| question_answered_by_minister_title | for questions, the ministry the answering minister is under (title)                                          |
-| subject_ids                         | id of the subjects under debate                                                                              |
-| subject_names                       | names of the subjects under debate                                                                           |
-| is_main_subject                     | is this the main subject?                                                                                    |
-| main_subject_id                     | id of the main subject                                                                                       |
-| subject_committee_id                | committee for this subject (id)                                                                              |
-| subject_committee_name              | committee for this subject (name)                                                                            |
-| agenda_case_number                  | the debates number on this day's agenda                                                                      |
-| agenda_case_reference               | reference to the case (from agenda data)                                                                     |
-| agenda_case_text                    | text for the case (from agenda data)                                                                         |
-| agenda_case_type                    | type of case (from agenda data)                                                                              |
-| agenda_number                       | the agenda number of this meeting                                                                            |
-| meeting_id                          | meeting id (to match meeting data from API)                                                                  |
-| procedure_id                        | all procedures the debate has gone through (id)                                                              |
-| procedure_name                      | all procedures the debate has gone through (name)                                                            |
-| procedure_stepnumber                | all procedures the debate has gone through (step number)                                                     |
-| publication_export_id               | publication export id for underlying case                                                                    |
-| publication_link_text               | publication text for underlying case                                                                         |
-| publication_link_url                | publication url for underlying case                                                                          |
-| publication_type                    | publication type for underlying case                                                                         |
-| publication_undertype               | publication under type for underlying case                                                                   |
-| related_case_id                     | id of related cases                                                                                          |
-| related_case_type                   | type of related cases                                                                                        |
-| related_case_title_short            | short titles of related cases                                                                                |
-| keyword                             | One word keyword for debate                                                                                  |
-| keywords                            | All keywords for debate                                                                                      |
-| transcript                          | a date variable that distiguish day and night meetings                                                       |
-| order                               | speech order in a given day                                                                                  |
-| session                             | parliament session                                                                                           |
-| time                                | timestamp of the speech                                                                                      |
-| date                                | date of the speech                                                                                           |
-| title                               | title (representative, president, minister etc)                                                              |
-| text                                | the speech                                                                                                   |
+| Variable name                       | Variable description                                                                                         | Source |
+|:------------------------------------|:-------------------------------------------------------------------------------------------------------------|:-------|
+| id                                  | unique id for a speech                                                                                       | ./python/add_ids.py |
+| url_rep_id                          | unique id for representatives in online urls (NA for presidents)                                             | https://www.stortinget.no/no/Representanter-og-komiteer/Representantene/Representantfordeling/Representant/* (.html)|
+| rep_id                              | unique id for representatives from API (NA for presidents)                                                   | https://data.stortinget.no/eksport/representanter?stortingsperiodeid=[parl period] |
+| rep_first_name                      | first name                                                                                                   | https://data.stortinget.no/eksport/representanter?stortingsperiodeid=[parl period] |
+| rep_last_name                       | last name                                                                                                    | https://data.stortinget.no/eksport/representanter?stortingsperiodeid=[parl period] |
+| rep_name                            | full name                                                                                                    | https://data.stortinget.no/eksport/representanter?stortingsperiodeid=[parl period] |
+| rep_from                            | start of the mandate (NA for presidents)                                                                     | https://www.stortinget.no/no/Representanter-og-komiteer/Representantene/ |
+| rep_to                              | end of mandate (NA for presidents)                                                                           | https://www.stortinget.no/no/Representanter-og-komiteer/Representantene/ |
+| rep_type                            | type of representative (representant, vararepresentant), NA for all non representatives or elected ministers | https://www.stortinget.no/no/Representanter-og-komiteer/Representantene/ |
+| county                              | county of provenance                                                                                         | https://data.stortinget.no/eksport/representanter?stortingsperiodeid=[parl period] |
+| list_number                         | position on the party list at the last election                                                              | https://www.stortinget.no/no/Representanter-og-komiteer/Representantene/ |
+| party_id                            | unique id for a party                                                                                        | https://data.stortinget.no/eksport/representanter?stortingsperiodeid=[parl period] |
+| party_name                          | full name of the party                                                                                       | https://data.stortinget.no/eksport/representanter?stortingsperiodeid=[parl period] |
+| party_role                          | parliament role of the party (cabinet, opposition, support), NA for presidents                               | Rasch (2004) |
+| party_seats                         | number of seats in parliament for the speaker's party                                                        | Rasch (2004) |
+| cabinet_short                       | pet name for the current cabinet (also usable as an id)                                                      | Rasch (2004) |
+| cabinet_start                       | start date of the cabinet                                                                                    | Rasch (2004) |
+| cabinet_composition                 | composition of the cabinet (Coalition, Single-party)                                                         | Rasch (2004) |
+| cabinet_end                         | end date of the cabinet                                                                                      | Rasch (2004) |
+| rep_gender                          | gender                                                                                                       | https://data.stortinget.no/eksport/representanter?stortingsperiodeid=[parl period] |
+| rep_birth                           | date of birth                                                                                                | https://data.stortinget.no/eksport/representanter?stortingsperiodeid=[parl period]|
+| rep_death                           | date of death                                                                                                | https://data.stortinget.no/eksport/representanter?stortingsperiodeid=[parl period] |
+| parl_period                         | election cycle                                                                                               | http://data.stortinget.no/sesjoner |
+| parl_size                           | total amount of seats in parliament                                                                          | https://www.stortinget.no/no/Representanter-og-komiteer/Partiene/Partioversikt/?pid=[parl period] |
+| party_seats_lagting                 | party seats in the upper chamber (when applicable)                                                           | https://www.stortinget.no/no/Representanter-og-komiteer/Partiene/Partioversikt/?pid=[parl period] |
+| party_seats_odelsting               | party seats in the lower chamber (when applicable)                                                           | https://www.stortinget.no/no/Representanter-og-komiteer/Partiene/Partioversikt/?pid=[parl period] |
+| com_member                          | the committees the representative was a member of this parliamentary period                                  | https://www.stortinget.no/no/Representanter-og-komiteer/Representantene/ |
+| com_date                            | the dates that the representative was member of the committees of `com_member`                               | https://www.stortinget.no/no/Representanter-og-komiteer/Representantene/ |
+| com_role                            | the role the representative had in the corresponding committee to `com_member`                               | https://www.stortinget.no/no/Representanter-og-komiteer/Representantene/ |
+| debate_reference                    | where to find the debate                                                                                     | http://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| case_id                             | the id of the case                                                                                           | http://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| debate_title                        | title of the debate                                                                                          | http://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| debate_subject                      | subject of the debate                                                                                        | http://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| debate_type                         | type of debate (question/interpellation etc)                                                                 | http://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| proposition_id                      | id of proposition                                                                                            | http://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| proposition_text                    | proposition text                                                                                             | http://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| document_group                      | underlying debate document group (proposisjon/melding etc)                                                   | http://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| document_subject_short              | short subject description of document                                                                        | http://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| decision_short                      | short description of decision made on the case under debate                                                  | http://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| document_note                       | any notes attached to the underlying document of debate                                                      | http://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| case_source_id                      | source id for the case                                                                                       | http://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| case_chair_id                       | representative id for the chair of the case                                                                  | http://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| case_type                           | type of case                                                                                                 | http://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| decision_text                       | description of decision on the case                                                                          | http://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| question_number                     | for questions, the question number                                                                           | http://data.stortinget.no/eksport/[question type]?sesjonid=[session] |
+| question_from_id                    | for questions, who asked the question (rep_id)                                                               | http://data.stortinget.no/eksport/[question type]?sesjonid=[session] |
+| question_to_id                      | for questions, who the question was asked to (rep_id)                                                        | http://data.stortinget.no/eksport/[question type]?sesjonid=[session] |
+| question_answered_by_id             | for questions, who answered the question (rep_id)                                                            | http://data.stortinget.no/eksport/[question type]?sesjonid=[session] |
+| question_answered_by_ministry_id    | for questions, the ministry the answering minister is under (id)                                             | http://data.stortinget.no/eksport/[question type]?sesjonid=[session] |
+| question_answered_by_minister_title | for questions, the ministry the answering minister is under (title)                                          | http://data.stortinget.no/eksport/[question type]?sesjonid=[session] |
+| subject_ids                         | id of the subjects under debate                                                                              | http://data.stortinget.no/eksport/[question type]?sesjonid=[session] |
+| subject_names                       | names of the subjects under debate                                                                           | http://data.stortinget.no/eksport/[question type]?sesjonid=[session] |
+| is_main_subject                     | is this the main subject?                                                                                    | http://data.stortinget.no/eksport/[question type]?sesjonid=[session] |
+| main_subject_id                     | id of the main subject                                                                                       | http://data.stortinget.no/eksport/[question type]?sesjonid=[session] |
+| subject_committee_id                | committee for this subject (id)                                                                              | http://data.stortinget.no/eksport/[question type]?sesjonid=[session] |
+| subject_committee_name              | committee for this subject (name)                                                                            | http://data.stortinget.no/eksport/[question type]?sesjonid=[session] |
+| agenda_case_number                  | the debates number on this day's agenda                                                                      | https://data.stortinget.no/eksport/dagsorden?moteid=[mote id] |
+| agenda_case_reference               | reference to the case (from agenda data)                                                                     | https://data.stortinget.no/eksport/dagsorden?moteid=[mote id] |
+| agenda_case_text                    | text for the case (from agenda data)                                                                         | https://data.stortinget.no/eksport/dagsorden?moteid=[mote id] |
+| agenda_case_type                    | type of case (from agenda data)                                                                              | https://data.stortinget.no/eksport/dagsorden?moteid=[mote id] |
+| agenda_number                       | the agenda number of this meeting                                                                            | https://data.stortinget.no/eksport/dagsorden?moteid=[mote id] |
+| meeting_id                          | meeting id (to match meeting data from API)                                                                  | https://data.stortinget.no/eksport/dagsorden?moteid=[mote id] |
+| procedure_id                        | all procedures the debate has gone through (id)                                                              | https://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| procedure_name                      | all procedures the debate has gone through (name)                                                            | https://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| procedure_stepnumber                | all procedures the debate has gone through (step number)                                                     | https://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| publication_export_id               | publication export id for underlying case                                                                    | https://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| publication_link_text               | publication text for underlying case                                                                         |https://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| publication_link_url                | publication url for underlying case                                                                          | https://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| publication_type                    | publication type for underlying case                                                                         | https://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| publication_undertype               | publication under type for underlying case                                                                   | https://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| related_case_id                     | id of related cases                                                                                          | https://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| related_case_type                   | type of related cases                                                                                        | https://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| related_case_title_short            | short titles of related cases                                                                                | https://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| keyword                             | One word keyword for debate                                                                                  | https://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/ |
+| keywords                            | All keywords for debate                                                                                      | https://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| transcript                          | a date variable that distiguish day and night meetings                                                       | holderdeord |
+| order                               | speech order in a given day                                                                                  | holderdeord |
+| time                                | timestamp of the speech                                                                                      | holderdeord |
+| session                             | parliament session                                                                                           | holderdeord |
+| date                                | date of the speech                                                                                           | holderdeord |
+| title                               | title (representative, president, minister etc)                                                              | holderdeord |
+| text                                | the speech                                                                                                   | holderdeord |
