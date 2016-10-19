@@ -1,6 +1,6 @@
 rm(list = ls());cat("\014");gc()
 # install.packages("./Data/uacd/uacd_0.14.tar.gz", repos = NULL)
-library(stringr);library(uacd);library(dplyr);library(rvest)
+library(stringr);library(dplyr);library(rvest)
 library(parallel);library(zoo);library(gsubfn);library(XML)
 library(reshape2); library(pbmcapply)
 
@@ -268,6 +268,10 @@ names(taler_meta)[which(names(taler_meta)=="srl_relatert_sak_korttittel")] <- "r
 names(taler_meta)[which(names(taler_meta)=="KEYWORDS")] <- "keyword" # These two here
 names(taler_meta)[which(names(taler_meta)=="stikkord")] <- "keywords"   # Are not from the same source -- hence the difference.
 names(taler_meta)[which(names(taler_meta)=="title")] <- "speaker_role"
+
+# Removing line breaks
+taler_meta <- apply(taler_meta, 2, function(x) gsub("[\r\n]", " ", x))
+taler_meta <- data.frame(taler_meta)
 
 # Arranging the data again
 taler_meta <- arrange(taler_meta, date, transcript, order)
