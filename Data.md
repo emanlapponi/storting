@@ -75,7 +75,8 @@
 | related_case_type                   | type of related cases                                                                                        | https://data.stortinget.no/eksport/sak?sakid=[sak id] |
 | related_case_title_short            | short titles of related cases                                                                                | https://data.stortinget.no/eksport/sak?sakid=[sak id] |
 | keyword                             | One word keyword for debate                                                                                  | https://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/ |
-| keywords                            | All keywords for debate                                                                                      | https://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| keywords                            | all keywords for debate                                                                                      | https://data.stortinget.no/eksport/sak?sakid=[sak id] |
+| nob_nno                             | language identifier (bokmål/nynorsk)                                                                         |  |
 | transcript                          | a date variable that distiguish day and night meetings                                                       | holderdeord |
 | order                               | speech order in a given day                                                                                  | holderdeord |
 | time                                | timestamp of the speech                                                                                      | holderdeord |
