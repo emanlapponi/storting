@@ -129,7 +129,7 @@ case_structure <- function(file){
   
 }
 
-files <- list.files("/media/martin/Data/saker_raw", full.names = TRUE, pattern = ".xml")
+files <- list.files("/media/martigso/Data/saker_raw", full.names = TRUE, pattern = ".xml")
 saker_detailed <- pbmclapply(rev(files), function(x) case_structure(x), mc.cores = 6)
 saker_detailed <- do.call(rbind, saker_detailed)
 write.csv(saker_detailed, file = "./Data/saker_detailed.csv")

@@ -147,13 +147,6 @@ taler_meta$com_date[which(taler_meta$com_date == "NA")] <- NA
 taler_meta$com_member[which(taler_meta$com_member == "NA")] <- NA
 taler_meta$com_role[which(taler_meta$com_role == "NA")] <- NA
 
-# Filling in gender by using the "gender" package
-# This might be slightly experimental
-gen <- gender::gender(unique(sapply(strsplit(taler_meta$rep_first_name, " "), "[[", 1)))
-gen$gender <- ifelse(gen$gender == "male", "mann", 
-                     ifelse(gen$gender == "female", "kvinne", NA))
-taler_meta <- merge(x = taler_meta, y = gen[,c("name", "gender")], by.x = "rep_first_name", by.y = "name", all.x = TRUE)
-
 # Arranging the columns
 taler_meta$rep_type <- taler_meta$type
 taler_meta$type <- NULL
@@ -167,6 +160,9 @@ taler_meta <- taler_meta[, c("url_rep_id", "rep_id", "rep_first_name", "rep_last
                              "com_member", "com_date", "com_role",
                              "transcript", "order", "session", "time", "date", "title", "text"), ]
 
+# Fixing rep name bug from HDO
+taler_meta$rep_name <- ifelse(taler_meta$rep_name == "", NA, taler_meta$rep_name)
+
 # Fixing transcript variable from HDO, so that it sorts properly
 taler_meta$transcript <- gsub("\\.sgm$", "", taler_meta$transcript)
 taler_meta$transcript <- ifelse(grepl("k$", taler_meta$transcript), 
@@ -176,8 +172,8 @@ taler_meta$transcript <- ifelse(grepl("k$", taler_meta$transcript),
 taler_meta <- arrange(taler_meta, date, transcript, order)
 
 # Removing objects
-rm(bios, committee, period_fix, taler, wrapup, wrapup_party, wrapup_rep, i, j,
-   party_vars, rep_vars, cab_name_by_date, gen)
+rm(bios, committee, period_fix, taler, wrapup, wrapup_party, wrapup_rep, i, j, #gen,
+   party_vars, rep_vars, cab_name_by_date)
 
 ######### Writing the data frame first time
 write.csv(taler_meta, "../../taler/taler_meta.csv", row.names = FALSE)
@@ -192,6 +188,21 @@ taler_meta <- read.csv("../../taler/id_taler_meta.csv", stringsAsFactors = FALSE
 # Merging case data
 taler_meta <- merge(x = taler_meta, y = case_data, by = "id", all.x = TRUE)
 rm(case_data)
+
+# Adding data on language (nynorsk vs. bokmål)
+lang <- read.csv("./Data/language.csv", header = FALSE)
+names(lang) <- c("id", "nob_nno")
+
+taler_meta <- merge(x = taler_meta, y = lang, by = "id", all.x = TRUE)
+
+# Filling in manually coded gender based on first name only
+taler_meta$gender_name <- sapply(strsplit(taler_meta$rep_name, " "), "[[", 1)
+gen <- read.csv("./Data/gender.csv", stringsAsFactors = FALSE)
+
+taler_meta <- merge(x = taler_meta, y = gen, by.x = "gender_name", by.y = "just_first_name", all.x = TRUE)
+taler_meta$rep_gender <- taler_meta$gender_handcoded
+
+# Removing redundant variables
 taler_meta <- taler_meta[, c("id", "url_rep_id", "rep_id", "rep_first_name", "rep_last_name", "rep_name", "rep_from", "rep_to",
                              "rep_type", "county", "list_number",
                              "party_id", "party_name", "party_role", "party_seats",
@@ -211,7 +222,7 @@ taler_meta <- taler_meta[, c("id", "url_rep_id", "rep_id", "rep_first_name", "re
                              "ssl_id", "ssl_navn", "ssl_steg_nummer", 
                              "prl_eksport_id", "prl_lenke_tekst", "prl_lenke_url", "prl_type", "prl_undertype",
                              "srl_relatert_sak_id", "srl_relasjon_type", "srl_relatert_sak_korttittel",
-                             "KEYWORDS", "stikkord",
+                             "KEYWORDS", "stikkord", "nob_nno",
                              "transcript", "order", "session", "time", "date", "title", "text"), ]
 
 # Prettying up the data
@@ -271,10 +282,11 @@ names(taler_meta)[which(names(taler_meta)=="title")] <- "speaker_role"
 
 # Removing line breaks
 taler_meta <- apply(taler_meta, 2, function(x) gsub("[\r\n]", " ", x))
-taler_meta <- data.frame(taler_meta)
+taler_meta <- data.frame(taler_meta, stringsAsFactors = FALSE)
+
 
 # Arranging the data again
-taler_meta <- arrange(taler_meta, date, transcript, order)
+taler_meta <- arrange(taler_meta, id)
 
 write.csv(taler_meta, "../../taler/id_taler_meta.csv", row.names = FALSE)
 
