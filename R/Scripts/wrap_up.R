@@ -150,6 +150,14 @@ taler_meta$com_role[which(taler_meta$com_role == "NA")] <- NA
 # Arranging the columns
 taler_meta$rep_type <- taler_meta$type
 taler_meta$type <- NULL
+taler_meta$rep_type <- ifelse(taler_meta$rep_type == "Representant" & taler_meta$title == "Statsråd", NA,
+                              ifelse(taler_meta$rep_type == "Representant" & taler_meta$title == "Utenriksminister", NA,
+                                     ifelse(taler_meta$rep_type == "Representant" & taler_meta$title == "Statsminister", NA,
+                                            ifelse(taler_meta$rep_type == "Representant" & taler_meta$title == "President", NA,
+                                                   ifelse(taler_meta$rep_type == "Representant" & taler_meta$title == "Visepresident", NA,
+                                                          ifelse(taler_meta$rep_type == "Vararepresentant" & taler_meta$title == "Statsråd", NA, 
+                                                                 taler_meta$rep_type))))))
+
 
 taler_meta <- taler_meta[, c("url_rep_id", "rep_id", "rep_first_name", "rep_last_name", "rep_name", "rep_from", "rep_to",
                              "rep_type", "county", "list_number",
@@ -191,7 +199,7 @@ rm(case_data)
 
 # Adding data on language (nynorsk vs. bokmål)
 lang <- read.csv("./Data/language.csv", header = FALSE)
-names(lang) <- c("id", "nob_nno")
+names(lang) <- c("id", "language")
 
 taler_meta <- merge(x = taler_meta, y = lang, by = "id", all.x = TRUE)
 
@@ -222,12 +230,12 @@ taler_meta <- taler_meta[, c("id", "url_rep_id", "rep_id", "rep_first_name", "re
                              "ssl_id", "ssl_navn", "ssl_steg_nummer", 
                              "prl_eksport_id", "prl_lenke_tekst", "prl_lenke_url", "prl_type", "prl_undertype",
                              "srl_relatert_sak_id", "srl_relasjon_type", "srl_relatert_sak_korttittel",
-                             "KEYWORDS", "stikkord", "nob_nno",
+                             "KEYWORDS", "stikkord", "language",
                              "transcript", "order", "session", "time", "date", "title", "text"), ]
 
 # Prettying up the data
 taler_meta$DC.Type <- ifelse(is.na(taler_meta$sporsmal_type) == FALSE & taler_meta$sporsmal_type == "interpellasjon",
-                        taler_meta$sporsmal_type, taler_meta$DC.Type)
+                             taler_meta$sporsmal_type, taler_meta$DC.Type)
 taler_meta$tittel <- ifelse(is.na(taler_meta$sporsmal_title) == FALSE, taler_meta$sporsmal_title, taler_meta$tittel)
 taler_meta$sporsmal_type <- taler_meta$sporsmal_title <- NULL
 
