@@ -1,7 +1,8 @@
 # Storting
-A repository for an ongoing collaberation project between the Department of Informatics and Department of Political Science, at the University of Oslo. The project aims at analyzing parliamentary debates from the Norwegian Storting in various ways. Our data builds on the brilliant work done by [Holder de ord](https://github.com/holderdeord).
+A repository for the code behind the [Talk of Norway data](https://github.com/emanlapponi/talk-of-norway) -- an ongoing collaberation project between the Department of Informatics and Department of Political Science, at the University of Oslo. The project aims at analyzing parliamentary debates from the Norwegian Storting in various ways. Our data builds on the brilliant work done by [Holder de ord](https://github.com/holderdeord).
 
 ## Status
+[2016-11-03] The data are now released on the new [Talk of Norway data](https://github.com/emanlapponi/talk-of-norway) repository. This repository will mainly be used for maintaining and updating the data.
 
 [2016-09-06] Have started to download and structure data for meeting and issue metadata, such as name of the committee that treated the bill under question.
 
