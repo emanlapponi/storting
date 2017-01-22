@@ -48,7 +48,7 @@ getMeta <- function(pathToData = "../../taler/taler_meta.csv", biosfolderPath, s
 }
 
 soFar <- getMeta(pathToData = "../../taler/taler_meta.csv",
-                 biosfolderPath = "/media/martin/Data/saker_raw/stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/",
+                 biosfolderPath = "../../../../../../referat_raw/stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/",
                  session = "1998-1999")
 
 save(soFar, file = paste0("biosfiles", session,".rda"))

@@ -1,5 +1,5 @@
 rm(list=ls());gc();cat("\014")
-library(rvest);library(dplyr);library(zoo);library(parallel)
+library(rvest);library(dplyr);library(zoo);library(parallel);library(pbmcapply)
 
 
 taler_notext <- read.csv("../../taler/id_taler_notext.csv")
@@ -39,8 +39,8 @@ subs <- unlist(lapply(soFar, function(x) unique(x$sak_file[which(is.na(x$sak_fil
 
 content_list <- list()
 
-saker_meta_raw <- lapply(1:length(subs), function(i){
-  cat(paste0("Starting ", i, " ...\n"))
+saker_meta_raw <- pbmclapply(1:length(subs), function(i){
+  # cat(paste0("Starting ", i, " ...\n"))
   start <- read_html(subs[i])
   
   cat("Starting processing html ...")
@@ -53,7 +53,7 @@ saker_meta_raw <- lapply(1:length(subs), function(i){
     colnames(content_list) <- name
     cat(paste0("Done with ", i, " ...\n"))
     return(content_list)
-})
+}, mc.cores = 6)
 
 saker_meta_raw <- suppressMessages(reshape2::melt(saker_meta_raw))
 saker_meta_raw$file <- subs

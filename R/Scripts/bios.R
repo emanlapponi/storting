@@ -1,5 +1,5 @@
 # Getting file names
-html_path <- "/media/martin/Data/getbio/www.stortinget.no/no/Representanter-og-komiteer/Representantene/Representantfordeling/Representant/"
+html_path <- "/media/martigso/Data/getbio/www.stortinget.no/no/Representanter-og-komiteer/Representantene/Representantfordeling/Representant/"
 html_files <- list.files(html_path)
 html_files <- html_files[-which(grepl("Biography|ProcAndPubl", html_files))]
 bios_raw <- lapply(paste0(html_path, html_files), function(x) read_html(x))
