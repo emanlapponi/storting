@@ -7,6 +7,7 @@ getMeta <- function(pathToData = "../../taler/id_taler_meta.csv", sakfolderPath,
   taler <- read.csv(pathToData, stringsAsFactors = FALSE)
   taler <- arrange(taler, date, order)
   taler <- taler[which(taler$session == session), ]
+  # backup <- taler
   
   # Extracting string to be matched in .html-files later
   taler$text <- substring(taler$text, 1, 100)
@@ -21,7 +22,7 @@ getMeta <- function(pathToData = "../../taler/id_taler_meta.csv", sakfolderPath,
   pb <- txtProgressBar(min = 0, max = nrow(taler), initial = 0, style = 3)
   
   # Uncomment this to test function on small subset of the data
-  # taler <- taler[100:110, ]
+  # taler <- taler[2000:2010, ]
   
   # Looping over each row of the data to conserve memory
   for(i in 1:nrow(taler)){
@@ -75,7 +76,7 @@ getMeta <- function(pathToData = "../../taler/id_taler_meta.csv", sakfolderPath,
   close(pb)
 
   # Aligning the html-filename with id and session in a data frame
-  trueFile <- data.frame(id = taler$id, sak_file = trueFile, session = session, date = taler$date, taler$title,
+  trueFile <- data.frame(id = taler$id, sak_file = trueFile, session = session, date = taler$date, taler.title = taler$debate_title,
                          stringsAsFactors = FALSE)
   
   # Returning the data frame

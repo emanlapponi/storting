@@ -15,6 +15,7 @@ ncores <- detectCores()-1
 # source("./Scripts/committee.R") # Script for extracting committee membership
 # source("./Scripts/wrapup_saker.R") # Getting a crapton of data on the case level
 # save.image("./Data/tmp_image.rda") # These two lines are just a cheat to reduce wait when running multiple tests on script
+
 load("./Data/tmp_image.rda")
 
 # Making all possible combinations of cabinet name and party name
@@ -193,9 +194,12 @@ system("python ../python/add_ids.py ../../taler/taler_meta.csv ../../taler/id_ta
 # Reading in the data again
 taler_meta <- read.csv("../../taler/id_taler_meta.csv", stringsAsFactors = FALSE)
 
+# backup <- taler_meta
+# taler_meta <- backup
 # Merging case data
+case_data$transcript <- case_data$order <- case_data$session <- case_data$date <- NULL
 taler_meta <- merge(x = taler_meta, y = case_data, by = "id", all.x = TRUE)
-rm(case_data)
+# rm(case_data)
 
 # Adding data on language (nynorsk vs. bokmål)
 lang <- read.csv("./Data/language.csv", header = FALSE)
@@ -221,12 +225,17 @@ taler_meta <- taler_meta[, c("id", "url_rep_id", "rep_id", "rep_first_name", "re
                              "sak_id", "DC.Identifier", "TITLE", "tittel", "DC.Type", "innstilling_id", "innstillingstekst",
                              "dokumentgruppe", "henvisning", "korttitel", "kortvedtak", "parentestekst",
                              "sak_opphav_rep_id", "saksordfoerer_liste_rep_id", "type", "vedtakstekst",
-                             "sporsmal_nummer", "sporsmal_type", "sporsmal_title", "sporsmal_fra_id", "sporsmal_til_id",
-                             "besvart_av_id", "besvart_av_minister_id", "besvart_av_minister_tittel",
+                             "sporsmal_nummer", "sporsmal_type", "sporsmal_title", "sporretime_type", "sporsmal_id",
+                             "sporsmal_fra_id", "fremsatt_av_annen_id", "status",
+                             "sporsmal_til_id", "sporsmal_til_minister_id", "sporsmal_til_minister_tittel",
+                             "sendt_dato", "besvart_dato", "besvart_av_id", "besvart_av_minister_id", "besvart_av_minister_tittel",
+                             "besvart_pa_vegne_av_id", "besvart_pa_vegne_av_minister_id", 
+                             "besvart_pa_vegne_av_minister_tittel",
+                             "rette_vedkommende_id", "rette_vedkommende_minister_id", "rette_vedkommende_minister_tittel",
                              "emne_id", "emne_navn", "emne_er_hovedemne", "hovedemne_id",
                              "komite_id", "komite_navn", 
                              "dagsordensak_nummer", "dagsordensak_henvisning", "dagsordensak_tekst", "dagsordensak_type",
-                             "dagsorden_nummer", "mote_id", 
+                             "dagsorden_nummer", "mote_id",  "sak_nummer", 
                              "ssl_id", "ssl_navn", "ssl_steg_nummer", 
                              "prl_eksport_id", "prl_lenke_tekst", "prl_lenke_url", "prl_type", "prl_undertype",
                              "srl_relatert_sak_id", "srl_relasjon_type", "srl_relatert_sak_korttittel",
@@ -287,6 +296,23 @@ names(taler_meta)[which(names(taler_meta)=="srl_relatert_sak_korttittel")] <- "r
 names(taler_meta)[which(names(taler_meta)=="KEYWORDS")] <- "keyword" # These two here
 names(taler_meta)[which(names(taler_meta)=="stikkord")] <- "keywords"   # Are not from the same source -- hence the difference.
 names(taler_meta)[which(names(taler_meta)=="title")] <- "speaker_role"
+names(taler_meta)[which(names(taler_meta)=="besvart_dato")] <- "question_answered_date"
+names(taler_meta)[which(names(taler_meta)=="besvart_pa_vegne_av_id")] <- "question_answered_on_behalf_of_id"
+names(taler_meta)[which(names(taler_meta)=="besvart_pa_vegne_av_minister_id")] <- "question_answered_on_behalf_of_ministry_id"
+names(taler_meta)[which(names(taler_meta)=="besvart_pa_vegne_av_minister_tittel")] <- "question_answered_on_behalf_of_ministry_title"
+names(taler_meta)[which(names(taler_meta)=="fremsatt_av_annen_id")] <- "question_presented_by_other"
+names(taler_meta)[which(names(taler_meta)=="rette_vedkommende_id")] <- "question_correct_person"
+names(taler_meta)[which(names(taler_meta)=="rette_vedkommende_minister_id")] <- "question_correct_person_ministry_id"
+names(taler_meta)[which(names(taler_meta)=="rette_vedkommende_minister_tittel")] <- "question_correct_person_ministry_title"
+names(taler_meta)[which(names(taler_meta)=="sak_nummer")] <- "case_number"
+names(taler_meta)[which(names(taler_meta)=="sendt_dato")] <- "question_date_sent"
+names(taler_meta)[which(names(taler_meta)=="sporretime_type")] <- "question_hour_type"
+names(taler_meta)[which(names(taler_meta)=="sporsmal_til_minister_id")] <- "question_to_minister_id" # These two here
+names(taler_meta)[which(names(taler_meta)=="sporsmal_til_minister_tittel")] <- "question_to_minister_title"   # Are not from the same source -- hence the difference.
+names(taler_meta)[which(names(taler_meta)=="sporsmal_id")] <- "question_id"
+names(taler_meta)[which(names(taler_meta)=="status")] <- "question_status"
+
+
 
 # Removing line breaks
 taler_meta <- apply(taler_meta, 2, function(x) gsub("[\r\n]", " ", x))

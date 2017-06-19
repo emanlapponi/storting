@@ -1,6 +1,6 @@
 source("./Scripts/sak_file_var/getMeta.R")
 
-soFar <- getMeta(pathToData = "../../taler/id_taler_meta.csv",
+soFar <- getMeta(pathToData = "../../talk-of-norway/data/ton.csv",
                  sakfolderPath = "/media/martigso/Data/referat_raw/stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/",
                  session = "2000-2001")
 

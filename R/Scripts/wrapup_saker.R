@@ -42,7 +42,7 @@ innstillinger <- dagsorden[which(grepl("Innst.|INT|FORO|DOK8", dagsorden$dagsord
 innstillinger$dagsordensak_tekst <- gsub("\\s{2,}", " ", gsub("<.*?>", " ", innstillinger$dagsordensak_tekst))
 
 unique_saker_meta <- saker_meta %>%
-  group_by(date, DC.Description) %>%
+  group_by(date, DC.Description, TITLE) %>%
   summarise(paste(unique(DC.Type), collapse = "|"),
             saker_meta_id = unique(saker_meta_id)) %>%
   filter(DC.Description != "")
@@ -54,6 +54,9 @@ matcher <- pbmclapply(1:nrow(innstillinger), function(i) { ####
   rows <- which(as.character(innstillinger$date[i]) == as.character(unique_saker_meta$date))
   if(innstillinger$dagsordensak_type[i] == "INT"){
     match <- agrepl(innstillinger$dagsordensak_tekst[i], sapply(strsplit(unique_saker_meta$DC.Description[rows], ":"), "[[", 1), 5)
+    if(length(which(match == TRUE)) > 1){
+      match <- innstillinger$dagsordensak_nummer[i] == gsub("[^0-9]", "", unique_saker_meta$TITLE[rows])
+    }
   } else {
     match <- agrepl(innstillinger$dagsordensak_tekst[i], unique_saker_meta$DC.Description[rows], 5)
   }
@@ -88,8 +91,11 @@ tale_sak <- arrange(tale_sak, date, transcript, order)
 tale_sak <- tale_sak[, c("id", "TITLE", "DC.Type", "DC.Identifier", "KEYWORDS", "DC.Subject", "dagsordensak_henvisning",
                          "dagsordensak_nummer", "dagsordensak_tekst", "dagsordensak_type", "innstilling_id", "komite_id", "sak_id",
                          "sporsmal_id", "sporsmal_nummer", "sporsmal_type", "sporsmal_title", 
-                         "sporsmal_fra_id" , "besvart_av_id", "sporsmal_til_id",
-                         "besvart_av_minister_id", "besvart_av_minister_tittel", "besvart_pa_vegne_av_id", "emne_navn",
+                         "sporsmal_fra_id" , "besvart_av_id", 
+                         "sporsmal_til_id", "sporsmal_til_minister_id", "sporsmal_til_minister_tittel",
+                         "besvart_av_minister_id", "besvart_av_minister_tittel", "besvart_pa_vegne_av_id",
+                         "rette_vedkommende_id", "rette_vedkommende_minister_id", "rette_vedkommende_minister_tittel",
+                         "emne_navn",
                          "dagsorden_nummer", "mote_id")]
 
 
@@ -129,9 +135,79 @@ saker$ref_url <- gsub("//www.stortinget.no/no/", "", saker$ref_url)
 #####
 
 
+# Ordinary question hour
+ord_sptime <- saker_meta[which(saker_meta$DC.Type == "ordinarsporretime"), ]
+
+allquestions$sporsmal_type <- ifelse(allquestions$sporsmal_type == "sporretime_sporsmal", "ordinarsporretime",
+                            ifelse(allquestions$sporsmal_type == "muntlig_sporsmal", "muntligsporretime", allquestions$sporsmal_type))
+
+ord_sptime$sporsmal_nummer <- gsub("[^0-9]", "", ord_sptime$TITLE)
+ord_sptime <- ord_sptime[which(ord_sptime$sporsmal_nummer != ""), ]
+
+allquestions$date <- as.character(as.Date(allquestions$besvart_dato))
+
+ord_sptime <- merge(x = ord_sptime, by.x = c("sporsmal_nummer", "DC.Type", "date"),
+                    y = allquestions, by.y = c("sporsmal_nummer", "sporsmal_type", "date"),
+                    all.x = TRUE)
+
+
+
 case_data <- merge(x = tale_sak[, setdiff(names(tale_sak), names(saker))], by.x = "DC.Identifier", 
                    y = saker[which(is.na(saker$ref_url) == FALSE), ], by.y = "ref_url", all.x = TRUE)
 
-rm(dagsorden, innstillinger, matcher, saker, saker_meta, unique_saker_meta, saker_detailed, tale_sak, ref_url, allquestions)
+# Prepping for copy
+ord_sptime$ordsptime_sporsmal_title <- ord_sptime$sporsmal_title
+ord_sptime$ordsptime_sporsmal_nummer <- ord_sptime$sporsmal_nummer
+ord_sptime$ordsptime_sporsmal_fra_id <- ord_sptime$sporsmal_fra_id
+ord_sptime$ordsptime_sporsmal_til_id <- ord_sptime$sporsmal_til_id
+ord_sptime$ordsptime_sporsmal_til_minister_id <- ord_sptime$sporsmal_til_minister_id
+ord_sptime$ordsptime_sporsmal_til_minister_tittel <- ord_sptime$sporsmal_til_minister_tittel
+ord_sptime$ordsptime_besvart_av_id <- ord_sptime$besvart_av_id
+ord_sptime$ordsptime_besvart_av_minister_id <- ord_sptime$besvart_av_minister_id
+ord_sptime$ordsptime_besvart_av_minister_tittel <- ord_sptime$besvart_av_minister_tittel
+ord_sptime$ordsptime_besvart_pa_vegne_av_id <- ord_sptime$besvart_pa_vegne_av_id
+ord_sptime$ordsptime_rette_vedkommende_id <- ord_sptime$rette_vedkommende_id
+ord_sptime$ordsptime_rette_vedkommende_minister_id <- ord_sptime$rette_vedkommende_minister_id
+ord_sptime$ordsptime_rette_vedkommende_minister_tittel <- ord_sptime$rette_vedkommende_minister_tittel
+ord_sptime$ordsptime_sak_sesjon <- ord_sptime$sesjon_id
+ord_sptime$ordsptime_sporretime_type <- ord_sptime$DC.Type
+ord_sptime$ordsptime_sporsmal_id <- ord_sptime$sporsmal_id
+ord_sptime$ordsptime_mote_id <- ord_sptime$MA.Meeting.id
+ord_sptime$ordsptime_emne_id <- ord_sptime$emne_id
+ord_sptime$ordsptime_emne_navn <- ord_sptime$emne_navn
+ord_sptime$ordsptime_emne_er_hovedemne <- ord_sptime$emne_er_hovedemne
+ord_sptime$ordsptime_hovedemne_id <- ord_sptime$emne_hovedemne_id
+ord_sptime$ordsptime_status <- ord_sptime$sporsmal_status
+
+# Deleting som variables
+ord_sptime$KEYWORDS <- ord_sptime$DC.Subject <- ord_sptime$DC.Identifier <- ord_sptime$TITLE <- NULL
+ord_sptime$ord_sptime$sporsmal_nummer <- ord_sptime$sporsmal_type <- ord_sptime$sporsmal_title <- ord_sptime$sporsmal_fra_id <- NULL
+ord_sptime$sporsmal_til_id <- ord_sptime$sporsmal_til_minister_id <- ord_sptime$sporsmal_til_minister_tittel <- NULL
+ord_sptime$besvart_av_minister_id <- ord_sptime$besvart_av_minister_tittel <- ord_sptime$besvart_pa_vegne_av_id <- NULL
+ord_sptime$rette_vedkommende_id <- ord_sptime$rette_vedkommende_minister_id <- ord_sptime$rette_vedkommende_minister_tittel <- NULL
+ord_sptime$sesjon_id <- ord_sptime$DC.Type <- ord_sptime$emne_id <- ord_sptime$emne_navn <- NULL
+ord_sptime$emne_er_hovedemne <- ord_sptime$emne_hovedemne_id <- ord_sptime$emne_id <- ord_sptime$sporsmal_status <- NULL
+ord_sptime$MA.Meeting.id <- ord_sptime$DC.Description <- ord_sptime$date <- NULL
+ord_sptime$DC.Format <- ord_sptime$versjon <- ord_sptime$besvart_av_id <- NULL
+
+
+
+# names(ord_sptime)[which(names(ord_sptime) %in% names(case_data))]
+
+
+case_data <- merge(case_data, ord_sptime[, c("id", setdiff(names(ord_sptime), names(case_data)))], by = "id", all.x = TRUE)
+
+vars <- names(case_data)[which(grepl("ordsptime", names(case_data)))]
+
+
+for(x in vars){
+  org_name <- as.character(gsub("ordsptime\\_", "", x))
+  
+  case_data[, org_name] <- ifelse(is.na(case_data[, org_name]) == TRUE, case_data[, x], case_data[, org_name])
+  case_data[, x] <- NULL
+}
+
+rm(dagsorden, innstillinger, matcher, saker, saker_meta, unique_saker_meta, saker_detailed, tale_sak, ref_url, allquestions, ord_sptime, vars, org_name, x)
+
 # write.csv(moredata, file = "./Data/wrapup_saker.csv")
 
