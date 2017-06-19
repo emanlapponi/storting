@@ -19,4 +19,5 @@ R/Data/interpellations
 R/Data/questions
 R/Data/sak_filerefs/
 R/Data/moter.csv
+R/run_all_shell.R
 tmp*
